@@ -10,7 +10,7 @@ const Footer = () => {
               NOORY
             </a>
             <p className="text-sm text-muted-foreground mt-1">
-              Vos finances, vos valeurs, vos objectifs.
+              Moins subir. Plus choisir.
             </p>
           </div>
 

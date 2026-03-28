@@ -1,7 +1,12 @@
 import Navbar from "@/components/Navbar";
 import HeroSection from "@/components/HeroSection";
-import FeaturesSection from "@/components/FeaturesSection";
-import CommunitySection from "@/components/CommunitySection";
+import WhyNoorySection from "@/components/WhyNoorySection";
+import TransformationSection from "@/components/TransformationSection";
+import HowItWorksSection from "@/components/HowItWorksSection";
+import ForWhoSection from "@/components/ForWhoSection";
+import DifferenceSection from "@/components/DifferenceSection";
+import TrustSection from "@/components/TrustSection";
+import FinalCtaSection from "@/components/FinalCtaSection";
 import Footer from "@/components/Footer";
 
 const Index = () => {
@@ -9,8 +14,13 @@ const Index = () => {
     <div className="min-h-screen bg-background">
       <Navbar />
       <HeroSection />
-      <FeaturesSection />
-      <CommunitySection />
+      <WhyNoorySection />
+      <TransformationSection />
+      <HowItWorksSection />
+      <ForWhoSection />
+      <DifferenceSection />
+      <TrustSection />
+      <FinalCtaSection />
       <Footer />
     </div>
   );

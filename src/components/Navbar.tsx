@@ -4,9 +4,9 @@ import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const navLinks = [
-  { label: "Fonctionnalités", href: "#features" },
-  { label: "À propos", href: "#about" },
-  { label: "Communauté", href: "#community" },
+  { label: "Pourquoi Noory", href: "#pourquoi" },
+  { label: "Comment ça marche", href: "#methode" },
+  { label: "Pour qui", href: "#pour-qui" },
 ];
 
 const Navbar = () => {
@@ -24,7 +24,6 @@ const Navbar = () => {
           NOORY
         </a>
 
-        {/* Desktop */}
         <div className="hidden md:flex items-center gap-8">
           {navLinks.map((link) => (
             <a
@@ -36,17 +35,15 @@ const Navbar = () => {
             </a>
           ))}
           <Button size="sm" className="bg-primary hover:bg-primary/90 text-primary-foreground glow-primary">
-            <a href="https://noory-finance-control.lovable.app/register">Commencer</a>
+            <a href="https://noory-finance-control.lovable.app/register">Essayer Noory</a>
           </Button>
         </div>
 
-        {/* Mobile toggle */}
         <button className="md:hidden text-foreground" onClick={() => setOpen(!open)}>
           {open ? <X size={22} /> : <Menu size={22} />}
         </button>
       </div>
 
-      {/* Mobile menu */}
       {open && (
         <motion.div
           initial={{ opacity: 0, height: 0 }}
@@ -65,7 +62,7 @@ const Navbar = () => {
               </a>
             ))}
             <Button size="sm" className="bg-primary hover:bg-primary/90 text-primary-foreground w-full">
-              <a href="https://noory-finance-control.lovable.app/register">Commencer</a>
+              <a href="https://noory-finance-control.lovable.app/register">Essayer Noory</a>
             </Button>
           </div>
         </motion.div>
