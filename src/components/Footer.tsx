@@ -1,5 +1,7 @@
 import { Instagram } from "lucide-react";
 
+const APP_STORE = "https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972";
+
 const Footer = () => {
   return (
     <footer className="border-t border-border py-12">
@@ -15,6 +17,14 @@ const Footer = () => {
           </div>
 
           <div className="flex items-center gap-4">
+            <a
+              href={APP_STORE}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm text-muted-foreground hover:text-primary transition-colors"
+            >
+              App Store
+            </a>
             <a
               href="https://www.instagram.com/noory_app"
               target="_blank"

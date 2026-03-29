@@ -1,26 +1,30 @@
 import { motion } from "framer-motion";
 import heroPhone from "@/assets/hero-phone.png";
+import { ArrowRight } from "lucide-react";
+import { Button } from "@/components/ui/button";
+
+const APP_STORE = "https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972";
 
 const steps = [
   {
     number: "01",
-    title: "Choisis ton focus",
-    description: "Épargne, projet, investissement ou habitude. Tu définis ce qui compte pour toi maintenant.",
+    title: "Tu choisis ton cap",
+    description: "Épargne, projet, investissement, habitude. Tu définis ce qui compte pour toi maintenant — pas un objectif abstrait.",
   },
   {
     number: "02",
-    title: "Reçois une micro-action utile",
-    description: "Chaque jour, une action concrète adaptée à ta situation. Pas de théorie. Du concret.",
+    title: "Noory te propose une action ou un déclic utile",
+    description: "Chaque jour, une micro-action concrète ou une motivation adaptée à ton focus. Pas de théorie. Du concret.",
   },
   {
     number: "03",
-    title: "Réfléchis, note, agis",
-    description: "Le rituel Noory t'aide à poser tes pensées, clarifier tes envies, et agir avec intention.",
+    title: "Tu écris, tu agis ou tu reportes intelligemment",
+    description: "Le rituel Noory t'aide à poser tes pensées, clarifier tes décisions, et agir avec intention — ou reporter sans culpabilité.",
   },
   {
     number: "04",
-    title: "Construis des habitudes calmes",
-    description: "Jour après jour, tu développes une discipline douce. Pas de violence, pas de culpabilité. Du progrès réel.",
+    title: "Tu construis une discipline plus calme",
+    description: "Jour après jour, tu développes des habitudes financières qui tiennent. Pas de violence. Du progrès réel.",
   },
 ];
 
@@ -34,15 +38,17 @@ const HowItWorksSection = () => {
           viewport={{ once: true }}
           className="text-center max-w-2xl mx-auto mb-16"
         >
-          <p className="text-sm uppercase tracking-widest text-primary mb-4">La méthode</p>
+          <p className="text-sm uppercase tracking-widest text-primary mb-4">Comment ça marche</p>
           <h2 className="text-3xl md:text-4xl font-extrabold tracking-tight">
-            Simple. Quotidien.{" "}
+            Un rituel quotidien.{" "}
             <span className="text-gradient">Pensé pour tenir.</span>
           </h2>
+          <p className="mt-4 text-muted-foreground leading-relaxed max-w-lg mx-auto">
+            Pas un tableau de bord que tu ouvres une fois et que tu oublies. Un compagnon que tu retrouves chaque jour.
+          </p>
         </motion.div>
 
         <div className="grid lg:grid-cols-2 gap-16 items-center max-w-5xl mx-auto">
-          {/* Steps */}
           <div className="space-y-8">
             {steps.map((step, i) => (
               <motion.div
@@ -62,9 +68,15 @@ const HowItWorksSection = () => {
                 </div>
               </motion.div>
             ))}
+
+            <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground glow-primary group mt-4" asChild>
+              <a href={APP_STORE} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
+                Essayer gratuitement
+                <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
+              </a>
+            </Button>
           </div>
 
-          {/* Phone mockup */}
           <motion.div
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}

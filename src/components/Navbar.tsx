@@ -3,9 +3,12 @@ import { motion } from "framer-motion";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
+const APP_STORE = "https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972";
+
 const navLinks = [
-  { label: "Pourquoi Noory", href: "#pourquoi" },
-  { label: "Comment ça marche", href: "#methode" },
+  { label: "Pourquoi", href: "#pourquoi" },
+  { label: "Méthode", href: "#methode" },
+  { label: "L'app", href: "#app" },
   { label: "Pour qui", href: "#pour-qui" },
 ];
 
@@ -34,8 +37,10 @@ const Navbar = () => {
               {link.label}
             </a>
           ))}
-          <Button size="sm" className="bg-primary hover:bg-primary/90 text-primary-foreground glow-primary">
-            <a href="https://noory-finance-control.lovable.app/register">Essayer Noory</a>
+          <Button size="sm" className="bg-primary hover:bg-primary/90 text-primary-foreground glow-primary" asChild>
+            <a href={APP_STORE} target="_blank" rel="noopener noreferrer">
+              Télécharger
+            </a>
           </Button>
         </div>
 
@@ -61,8 +66,10 @@ const Navbar = () => {
                 {link.label}
               </a>
             ))}
-            <Button size="sm" className="bg-primary hover:bg-primary/90 text-primary-foreground w-full">
-              <a href="https://noory-finance-control.lovable.app/register">Essayer Noory</a>
+            <Button size="sm" className="bg-primary hover:bg-primary/90 text-primary-foreground w-full" asChild>
+              <a href={APP_STORE} target="_blank" rel="noopener noreferrer">
+                Télécharger l'app
+              </a>
             </Button>
           </div>
         </motion.div>

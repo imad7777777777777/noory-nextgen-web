@@ -3,6 +3,8 @@ import { ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import heroPhone from "@/assets/hero-phone.png";
 
+const APP_STORE = "https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972";
+
 const HeroSection = () => {
   return (
     <section className="relative min-h-screen flex items-center bg-hero-gradient overflow-hidden pt-20 pb-16">
@@ -17,32 +19,32 @@ const HeroSection = () => {
           className="space-y-8 max-w-xl"
         >
           <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-primary/20 bg-primary/5 text-sm text-primary/90">
-            Coach comportemental · Micro-actions · Clarté
+            Disponible sur iPhone
           </div>
 
           <h1 className="text-4xl sm:text-5xl lg:text-[3.5rem] font-extrabold leading-[1.1] tracking-tight">
-            Une relation plus calme{" "}
-            <span className="text-gradient">avec ton argent.</span>
+            Fais moins d'erreurs{" "}
+            <span className="text-gradient">émotionnelles avec ton argent.</span>
           </h1>
 
           <p className="text-lg text-muted-foreground leading-relaxed">
-            Noory t'aide à faire moins d'erreurs émotionnelles avec l'argent. Des micro-actions quotidiennes pour épargner, avancer sur tes projets, et reprendre le contrôle — sans pression, sans jugement.
+            Noory est ton coach comportemental au quotidien. Des micro-actions, de la clarté, un rituel simple — pour dépenser, épargner et avancer plus calmement.
           </p>
 
           <div className="flex flex-wrap gap-4">
-            <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground glow-primary group">
-              <a href="https://noory-finance-control.lovable.app/register" className="flex items-center gap-2">
-                Commencer gratuitement
+            <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground glow-primary group" asChild>
+              <a href={APP_STORE} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
+                Télécharger Noory
                 <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
               </a>
             </Button>
-            <Button size="lg" variant="outline" className="border-border text-foreground hover:bg-secondary">
-              <a href="https://noory-finance-control.lovable.app/login">J'ai déjà un compte</a>
+            <Button size="lg" variant="outline" className="border-border text-foreground hover:bg-secondary" asChild>
+              <a href="#methode">Voir comment ça marche</a>
             </Button>
           </div>
 
           <p className="text-sm text-muted-foreground/70 pt-2">
-            Gratuit · Sans carte bancaire · Pensé pour la vraie vie
+            Gratuit · Sans engagement · Conçu pour durer
           </p>
         </motion.div>
 
