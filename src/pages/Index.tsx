@@ -1,11 +1,12 @@
 import Navbar from "@/components/Navbar";
 import HeroSection from "@/components/HeroSection";
-import WhyNoorySection from "@/components/WhyNoorySection";
+import ProblemSection from "@/components/ProblemSection";
 import TransformationSection from "@/components/TransformationSection";
 import HowItWorksSection from "@/components/HowItWorksSection";
 import ForWhoSection from "@/components/ForWhoSection";
 import DifferenceSection from "@/components/DifferenceSection";
-import TrustSection from "@/components/TrustSection";
+import ProductDepthSection from "@/components/ProductDepthSection";
+import PhilosophySection from "@/components/PhilosophySection";
 import FinalCtaSection from "@/components/FinalCtaSection";
 import Footer from "@/components/Footer";
 
@@ -14,12 +15,13 @@ const Index = () => {
     <div className="min-h-screen bg-background">
       <Navbar />
       <HeroSection />
-      <WhyNoorySection />
+      <ProblemSection />
       <TransformationSection />
       <HowItWorksSection />
       <ForWhoSection />
       <DifferenceSection />
-      <TrustSection />
+      <ProductDepthSection />
+      <PhilosophySection />
       <FinalCtaSection />
       <Footer />
     </div>

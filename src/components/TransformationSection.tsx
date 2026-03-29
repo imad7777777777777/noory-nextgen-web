@@ -1,26 +1,26 @@
 import { motion } from "framer-motion";
-import { Brain, Eye, Sprout, Wind } from "lucide-react";
+import { ShieldCheck, Eye, Sprout, Wind } from "lucide-react";
 
 const outcomes = [
   {
-    icon: Brain,
-    title: "Moins de décisions impulsives",
-    description: "Tu apprends à reconnaître le moment où l'émotion prend le dessus. Tu gagnes un temps de pause avant chaque dépense inutile.",
+    icon: ShieldCheck,
+    title: "Tu dépenses moins sous l'impulsion",
+    description: "Tu apprends à reconnaître le déclencheur avant qu'il ne te coûte. Le SOS achat de Noory t'aide à faire une pause au bon moment.",
   },
   {
     icon: Eye,
-    title: "Plus de clarté avant de dépenser",
-    description: "Tu sais pourquoi tu dépenses. Tu vois ce qui fuit. Tu comprends tes schémas. L'argent devient lisible.",
+    title: "Tu vois plus clair avant chaque décision",
+    description: "Tu comprends pourquoi tu dépenses, ce qui fuit, et ce qui compte vraiment. L'argent devient lisible.",
   },
   {
     icon: Sprout,
-    title: "Une épargne qui a du sens",
-    description: "Pas un sacrifice. Un choix. Tu épargnes pour quelque chose de concret — un projet, un coussin, une liberté.",
+    title: "Ton épargne commence à vouloir dire quelque chose",
+    description: "Plus un sacrifice vague. Un choix concret. Tu épargnes pour un projet réel, un coussin, une liberté tangible.",
   },
   {
     icon: Wind,
-    title: "Moins de bruit mental",
-    description: "L'argent occupe moins d'espace dans ta tête. Tu te sens plus léger·e, plus en contrôle, plus calme face aux imprévus.",
+    title: "Tes projets avancent, avec moins de dispersion",
+    description: "Moins de bruit mental. Plus de marge. Tu avances jour après jour vers ce qui compte — sans t'épuiser.",
   },
 ];
 
@@ -47,11 +47,14 @@ const TransformationSection = () => {
           viewport={{ once: true }}
           className="text-center max-w-2xl mx-auto mb-16"
         >
-          <p className="text-sm uppercase tracking-widest text-accent mb-4">Ce qui change</p>
+          <p className="text-sm uppercase tracking-widest text-accent mb-4">Ce qui change concrètement</p>
           <h2 className="text-3xl md:text-4xl font-extrabold tracking-tight">
-            Ce que tu ressens{" "}
-            <span className="text-gradient">après quelques semaines.</span>
+            Après quelques jours,{" "}
+            <span className="text-gradient">tu le sens.</span>
           </h2>
+          <p className="mt-4 text-muted-foreground leading-relaxed max-w-lg mx-auto">
+            Pas de transformation miracle. Des micro-progrès réels qui changent ta façon de vivre ton argent.
+          </p>
         </motion.div>
 
         <motion.div

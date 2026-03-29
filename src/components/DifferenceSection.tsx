@@ -4,7 +4,7 @@ import { X, Check } from "lucide-react";
 const comparisons = [
   {
     old: "Un tableur de budget que tu abandonnes en 10 jours",
-    noory: "Un coach quotidien qui s'adapte à ta vraie vie",
+    noory: "Un rituel quotidien que tu retrouves avec envie",
   },
   {
     old: "Des conseils culpabilisants sur les réseaux",
@@ -12,11 +12,15 @@ const comparisons = [
   },
   {
     old: "De la complexité financière incompréhensible",
-    noory: "Des micro-actions simples que tu peux faire aujourd'hui",
+    noory: "Des micro-actions simples que tu peux faire maintenant",
   },
   {
     old: "Des promesses de richesse rapide et irréaliste",
     noory: "Un progrès calme, concret, et durable",
+  },
+  {
+    old: "Un tracker de dépenses sans aucun impact sur tes habitudes",
+    noory: "Un coach comportemental qui t'aide à changer ce qui coince",
   },
 ];
 
@@ -30,11 +34,14 @@ const DifferenceSection = () => {
           viewport={{ once: true }}
           className="text-center mb-14"
         >
-          <p className="text-sm uppercase tracking-widest text-primary mb-4">La différence</p>
+          <p className="text-sm uppercase tracking-widest text-primary mb-4">Ce qui nous rend différents</p>
           <h2 className="text-3xl md:text-4xl font-extrabold tracking-tight">
-            Noory n'est pas{" "}
-            <span className="text-gradient">une app de budget de plus.</span>
+            Pas une app de budget.{" "}
+            <span className="text-gradient">Pas un outil de plus.</span>
           </h2>
+          <p className="mt-4 text-muted-foreground leading-relaxed max-w-lg mx-auto">
+            Noory ne te demande pas de tout noter. Il t'aide à mieux décider.
+          </p>
         </motion.div>
 
         <div className="space-y-5">
