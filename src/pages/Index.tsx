@@ -7,6 +7,7 @@ import ForWhoSection from "@/components/ForWhoSection";
 import DifferenceSection from "@/components/DifferenceSection";
 import ProductDepthSection from "@/components/ProductDepthSection";
 import PhilosophySection from "@/components/PhilosophySection";
+import TestimonialsSection from "@/components/TestimonialsSection";
 import FinalCtaSection from "@/components/FinalCtaSection";
 import Footer from "@/components/Footer";
 
@@ -22,6 +23,7 @@ const Index = () => {
       <DifferenceSection />
       <ProductDepthSection />
       <PhilosophySection />
+      <TestimonialsSection />
       <FinalCtaSection />
       <Footer />
     </div>

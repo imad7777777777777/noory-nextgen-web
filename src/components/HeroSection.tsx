@@ -1,10 +1,8 @@
 import { motion } from "framer-motion";
-import { ArrowRight } from "lucide-react";
-import { Button } from "@/components/ui/button";
 import IPhoneFrame from "@/components/IPhoneFrame";
+import AppStoreBadge from "@/components/AppStoreBadge";
 import screenHome from "@/assets/screen-home.webp";
-
-const APP_STORE = "https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972";
+import { Button } from "@/components/ui/button";
 
 const HeroSection = () => {
   return (
@@ -32,13 +30,8 @@ const HeroSection = () => {
             Noory est ton coach comportemental au quotidien. Des micro-actions, de la clarté, un rituel simple — pour dépenser, épargner et avancer plus calmement.
           </p>
 
-          <div className="flex flex-wrap gap-4">
-            <Button size="lg" className="rounded-full group" asChild>
-              <a href={APP_STORE} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
-                Télécharger Noory
-                <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
-              </a>
-            </Button>
+          <div className="flex flex-wrap items-center gap-4">
+            <AppStoreBadge />
             <Button size="lg" variant="outline" className="rounded-full border-border text-foreground hover:bg-secondary" asChild>
               <a href="#methode">Voir comment ça marche</a>
             </Button>
@@ -46,6 +39,10 @@ const HeroSection = () => {
 
           <p className="text-sm text-muted-foreground pt-2">
             Gratuit · Sans engagement · Conçu pour durer
+          </p>
+
+          <p className="text-xs text-muted-foreground/60">
+            Déjà adopté par 45+ utilisateurs en France
           </p>
         </motion.div>
 

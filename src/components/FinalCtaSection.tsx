@@ -1,8 +1,6 @@
 import { motion } from "framer-motion";
-import { ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
-
-const APP_STORE = "https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972";
+import AppStoreBadge from "@/components/AppStoreBadge";
 
 const FinalCtaSection = () => {
   return (
@@ -25,13 +23,8 @@ const FinalCtaSection = () => {
             Noory t'accompagne chaque jour. Avec calme. Avec clarté. Avec des actions à ta portée. Sans jugement.
           </p>
 
-          <div className="flex flex-col sm:flex-row justify-center gap-4 pt-4">
-            <Button size="lg" className="rounded-full group" asChild>
-              <a href={APP_STORE} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
-                Télécharger Noory gratuitement
-                <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
-              </a>
-            </Button>
+          <div className="flex flex-col sm:flex-row justify-center items-center gap-4 pt-4">
+            <AppStoreBadge />
             <Button size="lg" variant="outline" className="rounded-full border-border text-foreground hover:bg-secondary" asChild>
               <a href="https://noory-finance-control.lovable.app/login">Se connecter</a>
             </Button>
