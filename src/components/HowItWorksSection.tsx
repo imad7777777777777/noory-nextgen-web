@@ -1,10 +1,7 @@
 import { motion } from "framer-motion";
-import { ArrowRight } from "lucide-react";
-import { Button } from "@/components/ui/button";
 import IPhoneFrame from "@/components/IPhoneFrame";
+import AppStoreBadge from "@/components/AppStoreBadge";
 import screenRitual from "@/assets/screen-ritual.webp";
-
-const APP_STORE = "https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972";
 
 const steps = [
   { number: "01", title: "Tu choisis ton cap", description: "Épargne, projet, investissement, habitude. Tu définis ce qui compte pour toi maintenant — pas un objectif abstrait." },
@@ -54,12 +51,7 @@ const HowItWorksSection = () => {
               </motion.div>
             ))}
 
-            <Button size="lg" className="rounded-full group mt-4" asChild>
-              <a href={APP_STORE} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
-                Essayer gratuitement
-                <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
-              </a>
-            </Button>
+            <AppStoreBadge className="mt-4" />
           </div>
 
           <motion.div
