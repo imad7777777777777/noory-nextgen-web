@@ -6,31 +6,15 @@ import { Button } from "@/components/ui/button";
 const APP_STORE = "https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972";
 
 const steps = [
-  {
-    number: "01",
-    title: "Tu choisis ton cap",
-    description: "Épargne, projet, investissement, habitude. Tu définis ce qui compte pour toi maintenant — pas un objectif abstrait.",
-  },
-  {
-    number: "02",
-    title: "Noory te propose une action ou un déclic utile",
-    description: "Chaque jour, une micro-action concrète ou une motivation adaptée à ton focus. Pas de théorie. Du concret.",
-  },
-  {
-    number: "03",
-    title: "Tu écris, tu agis ou tu reportes intelligemment",
-    description: "Le rituel Noory t'aide à poser tes pensées, clarifier tes décisions, et agir avec intention — ou reporter sans culpabilité.",
-  },
-  {
-    number: "04",
-    title: "Tu construis une discipline plus calme",
-    description: "Jour après jour, tu développes des habitudes financières qui tiennent. Pas de violence. Du progrès réel.",
-  },
+  { number: "01", title: "Tu choisis ton cap", description: "Épargne, projet, investissement, habitude. Tu définis ce qui compte pour toi maintenant — pas un objectif abstrait." },
+  { number: "02", title: "Noory te propose une action ou un déclic utile", description: "Chaque jour, une micro-action concrète ou une motivation adaptée à ton focus. Pas de théorie. Du concret." },
+  { number: "03", title: "Tu écris, tu agis ou tu reportes intelligemment", description: "Le rituel Noory t'aide à poser tes pensées, clarifier tes décisions, et agir avec intention — ou reporter sans culpabilité." },
+  { number: "04", title: "Tu construis une discipline plus calme", description: "Jour après jour, tu développes des habitudes financières qui tiennent. Pas de violence. Du progrès réel." },
 ];
 
 const HowItWorksSection = () => {
   return (
-    <section id="methode" className="py-24 md:py-32">
+    <section id="methode" className="py-24 md:py-32 bg-secondary/50">
       <div className="container mx-auto px-4 md:px-8">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
@@ -38,8 +22,8 @@ const HowItWorksSection = () => {
           viewport={{ once: true }}
           className="text-center max-w-2xl mx-auto mb-16"
         >
-          <p className="text-sm uppercase tracking-widest text-primary mb-4">Comment ça marche</p>
-          <h2 className="text-3xl md:text-4xl font-extrabold tracking-tight">
+          <p className="text-sm uppercase tracking-widest text-primary mb-4 font-medium">Comment ça marche</p>
+          <h2 className="text-3xl md:text-4xl font-display font-bold tracking-tight text-foreground">
             Un rituel quotidien.{" "}
             <span className="text-gradient">Pensé pour tenir.</span>
           </h2>
@@ -59,17 +43,17 @@ const HowItWorksSection = () => {
                 transition={{ delay: i * 0.1 }}
                 className="flex gap-5"
               >
-                <div className="flex-shrink-0 w-10 h-10 rounded-xl bg-primary/10 flex items-center justify-center">
-                  <span className="text-sm font-bold text-primary">{step.number}</span>
+                <div className="flex-shrink-0 w-10 h-10 rounded-xl bg-emerald-pastel flex items-center justify-center">
+                  <span className="text-sm font-bold text-foreground/70">{step.number}</span>
                 </div>
                 <div>
-                  <h3 className="text-lg font-bold mb-1.5">{step.title}</h3>
+                  <h3 className="text-lg font-bold mb-1.5 text-foreground">{step.title}</h3>
                   <p className="text-sm text-muted-foreground leading-relaxed">{step.description}</p>
                 </div>
               </motion.div>
             ))}
 
-            <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground glow-primary group mt-4" asChild>
+            <Button size="lg" className="rounded-full group mt-4" asChild>
               <a href={APP_STORE} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
                 Essayer gratuitement
                 <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
@@ -84,11 +68,11 @@ const HowItWorksSection = () => {
             className="flex justify-center"
           >
             <div className="relative">
-              <div className="absolute inset-0 bg-primary/10 rounded-full blur-[80px] scale-90" />
+              <div className="absolute inset-0 bg-amber-pastel rounded-full blur-[80px] scale-90 opacity-50" />
               <img
                 src={heroPhone}
                 alt="Noory — micro-actions quotidiennes"
-                className="relative z-10 w-56 md:w-64 lg:w-72 drop-shadow-2xl"
+                className="relative z-10 w-56 md:w-64 lg:w-72 drop-shadow-xl"
               />
             </div>
           </motion.div>

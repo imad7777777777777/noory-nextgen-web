@@ -1,41 +1,16 @@
 import { motion } from "framer-motion";
 
 const pains = [
-  {
-    emoji: "😶",
-    text: "Tu gagnes ta vie, mais à la fin du mois, tu ne sais jamais vraiment où c'est passé.",
-  },
-  {
-    emoji: "💸",
-    text: "Tu achètes quand tu es fatigué·e, stressé·e, quand tu t'ennuies ou quand tu te compares.",
-  },
-  {
-    emoji: "😔",
-    text: "Après chaque dépense impulsive, tu culpabilises — mais le schéma se répète.",
-  },
-  {
-    emoji: "🤯",
-    text: "Tu as trop de bruit mental autour de l'argent. Ça te prend de l'énergie sans que rien n'avance.",
-  },
-  {
-    emoji: "🔄",
-    text: "Tu as essayé des apps de budget. Elles ne tiennent pas, parce qu'elles ne changent pas le comportement.",
-  },
-  {
-    emoji: "🫥",
-    text: "Tu voudrais mettre de côté, avancer sur un projet, investir — mais tu ne sais pas par quoi commencer.",
-  },
+  { emoji: "😶", text: "Tu gagnes ta vie, mais à la fin du mois, tu ne sais jamais vraiment où c'est passé." },
+  { emoji: "💸", text: "Tu achètes quand tu es fatigué·e, stressé·e, quand tu t'ennuies ou quand tu te compares." },
+  { emoji: "😔", text: "Après chaque dépense impulsive, tu culpabilises — mais le schéma se répète." },
+  { emoji: "🤯", text: "Tu as trop de bruit mental autour de l'argent. Ça te prend de l'énergie sans que rien n'avance." },
+  { emoji: "🔄", text: "Tu as essayé des apps de budget. Elles ne tiennent pas, parce qu'elles ne changent pas le comportement." },
+  { emoji: "🫥", text: "Tu voudrais mettre de côté, avancer sur un projet, investir — mais tu ne sais pas par quoi commencer." },
 ];
 
-const container = {
-  hidden: {},
-  show: { transition: { staggerChildren: 0.08 } },
-};
-
-const item = {
-  hidden: { opacity: 0, y: 20 },
-  show: { opacity: 1, y: 0, transition: { duration: 0.4 } },
-};
+const container = { hidden: {}, show: { transition: { staggerChildren: 0.08 } } };
+const item = { hidden: { opacity: 0, y: 20 }, show: { opacity: 1, y: 0, transition: { duration: 0.4 } } };
 
 const ProblemSection = () => {
   return (
@@ -47,8 +22,8 @@ const ProblemSection = () => {
           viewport={{ once: true }}
           className="mb-14"
         >
-          <p className="text-sm uppercase tracking-widest text-primary mb-4">Pourquoi l'argent fait mal</p>
-          <h2 className="text-3xl md:text-4xl font-extrabold tracking-tight leading-tight mb-6">
+          <p className="text-sm uppercase tracking-widest text-primary mb-4 font-medium">Pourquoi l'argent fait mal</p>
+          <h2 className="text-3xl md:text-4xl font-display font-bold tracking-tight leading-tight mb-6 text-foreground">
             Ce n'est pas un problème de revenu.{" "}
             <span className="text-gradient">C'est un problème de clarté.</span>
           </h2>
@@ -57,21 +32,15 @@ const ProblemSection = () => {
           </p>
         </motion.div>
 
-        <motion.div
-          variants={container}
-          initial="hidden"
-          whileInView="show"
-          viewport={{ once: true }}
-          className="space-y-4"
-        >
+        <motion.div variants={container} initial="hidden" whileInView="show" viewport={{ once: true }} className="space-y-4">
           {pains.map((p, i) => (
             <motion.div
               key={i}
               variants={item}
-              className="flex items-start gap-4 p-5 rounded-xl border border-border bg-card/40 hover:border-primary/20 transition-colors"
+              className="flex items-start gap-4 p-5 rounded-2xl border border-border bg-card hover:border-primary/30 transition-colors"
             >
               <span className="text-2xl flex-shrink-0 mt-0.5">{p.emoji}</span>
-              <p className="text-foreground/90 leading-relaxed">{p.text}</p>
+              <p className="text-foreground/80 leading-relaxed">{p.text}</p>
             </motion.div>
           ))}
         </motion.div>
