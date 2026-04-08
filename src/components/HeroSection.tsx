@@ -1,7 +1,8 @@
 import { motion } from "framer-motion";
 import { ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import heroPhone from "@/assets/hero-phone.png";
+import IPhoneFrame from "@/components/IPhoneFrame";
+import screenHome from "@/assets/screen-home.webp";
 
 const APP_STORE = "https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972";
 
@@ -56,11 +57,13 @@ const HeroSection = () => {
         >
           <div className="relative">
             <div className="absolute inset-0 bg-emerald-pastel rounded-full blur-[80px] scale-75 opacity-60" />
-            <img
-              src={heroPhone}
-              alt="Noory — ton coach argent au quotidien"
-              className="relative z-10 w-64 md:w-72 lg:w-80 animate-float drop-shadow-xl"
-            />
+            <IPhoneFrame className="relative z-10 w-64 md:w-72 lg:w-80 animate-float">
+              <img
+                src={screenHome}
+                alt="Noory — ton coach argent au quotidien"
+                className="w-full"
+              />
+            </IPhoneFrame>
           </div>
         </motion.div>
       </div>
