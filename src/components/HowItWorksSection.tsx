@@ -1,7 +1,8 @@
 import { motion } from "framer-motion";
-import heroPhone from "@/assets/hero-phone.png";
 import { ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import IPhoneFrame from "@/components/IPhoneFrame";
+import screenRitual from "@/assets/screen-ritual.webp";
 
 const APP_STORE = "https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972";
 
@@ -69,11 +70,13 @@ const HowItWorksSection = () => {
           >
             <div className="relative">
               <div className="absolute inset-0 bg-amber-pastel rounded-full blur-[80px] scale-90 opacity-50" />
-              <img
-                src={heroPhone}
-                alt="Noory — micro-actions quotidiennes"
-                className="relative z-10 w-56 md:w-64 lg:w-72 drop-shadow-xl"
-              />
+              <IPhoneFrame className="relative z-10 w-56 md:w-64 lg:w-72">
+                <img
+                  src={screenRitual}
+                  alt="Noory — rituel quotidien"
+                  className="w-full"
+                />
+              </IPhoneFrame>
             </div>
           </motion.div>
         </div>
