@@ -14,8 +14,8 @@ export default {
     },
     extend: {
       fontFamily: {
-        sans: ["Plus Jakarta Sans", "system-ui", "sans-serif"],
-        display: ["Plus Jakarta Sans", "system-ui", "sans-serif"],
+        sans: ["DM Sans", "system-ui", "sans-serif"],
+        display: ["DM Serif Display", "Georgia", "serif"],
       },
       colors: {
         border: "hsl(var(--border))",
@@ -51,15 +51,19 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        "amber-pastel": "hsl(var(--color-amber-pastel))",
+        "emerald-pastel": "hsl(var(--color-emerald-pastel))",
+        "rose-pastel": "hsl(var(--color-rose-pastel))",
+        "sky-pastel": "hsl(var(--color-sky-pastel))",
         sidebar: {
-          DEFAULT: "hsl(var(--sidebar-background))",
-          foreground: "hsl(var(--sidebar-foreground))",
-          primary: "hsl(var(--sidebar-primary))",
-          "primary-foreground": "hsl(var(--sidebar-primary-foreground))",
-          accent: "hsl(var(--sidebar-accent))",
-          "accent-foreground": "hsl(var(--sidebar-accent-foreground))",
-          border: "hsl(var(--sidebar-border))",
-          ring: "hsl(var(--sidebar-ring))",
+          DEFAULT: "hsl(var(--sidebar-background, var(--background)))",
+          foreground: "hsl(var(--sidebar-foreground, var(--foreground)))",
+          primary: "hsl(var(--sidebar-primary, var(--primary)))",
+          "primary-foreground": "hsl(var(--sidebar-primary-foreground, var(--primary-foreground)))",
+          accent: "hsl(var(--sidebar-accent, var(--accent)))",
+          "accent-foreground": "hsl(var(--sidebar-accent-foreground, var(--accent-foreground)))",
+          border: "hsl(var(--sidebar-border, var(--border)))",
+          ring: "hsl(var(--sidebar-ring, var(--ring)))",
         },
       },
       borderRadius: {
@@ -78,18 +82,13 @@ export default {
         },
         "float": {
           "0%, 100%": { transform: "translateY(0px)" },
-          "50%": { transform: "translateY(-12px)" },
-        },
-        "pulse-glow": {
-          "0%, 100%": { opacity: "0.4" },
-          "50%": { opacity: "0.8" },
+          "50%": { transform: "translateY(-10px)" },
         },
       },
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
         "float": "float 6s ease-in-out infinite",
-        "pulse-glow": "pulse-glow 3s ease-in-out infinite",
       },
     },
   },
