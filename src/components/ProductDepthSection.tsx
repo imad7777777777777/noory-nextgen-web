@@ -1,4 +1,3 @@
-import { motion } from "framer-motion";
 import { Zap, Heart, ShieldAlert, CalendarCheck, Repeat, TrendingUp } from "lucide-react";
 
 const pastelBgs = ["bg-amber-pastel", "bg-rose-pastel", "bg-emerald-pastel", "bg-sky-pastel", "bg-amber-pastel", "bg-emerald-pastel"];
@@ -12,19 +11,11 @@ const features = [
   { icon: TrendingUp, title: "Progression douce", description: "Pas de score agressif. Une progression visible qui reflète ta régularité et tes efforts réels, jour après jour." },
 ];
 
-const container = { hidden: {}, show: { transition: { staggerChildren: 0.1 } } };
-const item = { hidden: { opacity: 0, y: 25 }, show: { opacity: 1, y: 0, transition: { duration: 0.45 } } };
-
 const ProductDepthSection = () => {
   return (
     <section id="app" className="py-24 md:py-32 relative overflow-hidden">
       <div className="container mx-auto px-4 md:px-8 relative z-10">
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
-          className="text-center max-w-2xl mx-auto mb-16"
-        >
+        <div className="text-center max-w-2xl mx-auto mb-16">
           <p className="text-sm uppercase tracking-widest text-primary mb-4 font-medium">Ce que tu trouves dans l'app</p>
           <h2 className="text-3xl md:text-4xl font-display font-bold tracking-tight text-foreground">
             Un compagnon quotidien.{" "}
@@ -33,19 +24,12 @@ const ProductDepthSection = () => {
           <p className="mt-4 text-muted-foreground leading-relaxed max-w-lg mx-auto">
             Noory ne te montre pas des graphiques. Il t'accompagne dans tes décisions, tes doutes et tes progrès.
           </p>
-        </motion.div>
+        </div>
 
-        <motion.div
-          variants={container}
-          initial="hidden"
-          whileInView="show"
-          viewport={{ once: true }}
-          className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5 max-w-5xl mx-auto"
-        >
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5 max-w-5xl mx-auto">
           {features.map((f, i) => (
-            <motion.div
+            <div
               key={f.title}
-              variants={item}
               className="bg-card border border-border rounded-2xl p-6 hover:border-primary/30 transition-colors"
             >
               <div className={`w-10 h-10 rounded-xl ${pastelBgs[i]} flex items-center justify-center mb-4`}>
@@ -53,9 +37,9 @@ const ProductDepthSection = () => {
               </div>
               <h3 className="text-base font-bold mb-2 text-foreground">{f.title}</h3>
               <p className="text-sm text-muted-foreground leading-relaxed">{f.description}</p>
-            </motion.div>
+            </div>
           ))}
-        </motion.div>
+        </div>
       </div>
     </section>
   );

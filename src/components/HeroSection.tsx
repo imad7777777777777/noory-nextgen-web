@@ -57,7 +57,7 @@ const HeroSection = () => {
             <IPhoneFrame className="relative z-10 w-64 md:w-72 lg:w-80 animate-float">
               <img
                 src={screenHome}
-                alt="Noory — ton coach argent au quotidien"
+                alt="Noory — application de coaching financier comportemental sur iPhone"
                 className="w-full"
               />
             </IPhoneFrame>

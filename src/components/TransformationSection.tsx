@@ -1,4 +1,3 @@
-import { motion } from "framer-motion";
 import { ShieldCheck, Eye, Sprout, Wind } from "lucide-react";
 
 const outcomes = [
@@ -28,19 +27,11 @@ const outcomes = [
   },
 ];
 
-const container = { hidden: {}, show: { transition: { staggerChildren: 0.12 } } };
-const item = { hidden: { opacity: 0, y: 30 }, show: { opacity: 1, y: 0, transition: { duration: 0.5 } } };
-
 const TransformationSection = () => {
   return (
     <section className="py-24 md:py-32 relative overflow-hidden">
       <div className="container mx-auto px-4 md:px-8 relative z-10">
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
-          className="text-center max-w-2xl mx-auto mb-16"
-        >
+        <div className="text-center max-w-2xl mx-auto mb-16">
           <p className="text-sm uppercase tracking-widest text-primary mb-4 font-medium">Ce qui change concrètement</p>
           <h2 className="text-3xl md:text-4xl font-display font-bold tracking-tight text-foreground">
             Après quelques jours,{" "}
@@ -49,19 +40,12 @@ const TransformationSection = () => {
           <p className="mt-4 text-muted-foreground leading-relaxed max-w-lg mx-auto">
             Pas de transformation miracle. Des micro-progrès réels qui changent ta façon de vivre ton argent.
           </p>
-        </motion.div>
+        </div>
 
-        <motion.div
-          variants={container}
-          initial="hidden"
-          whileInView="show"
-          viewport={{ once: true }}
-          className="grid sm:grid-cols-2 gap-6 max-w-4xl mx-auto"
-        >
+        <div className="grid sm:grid-cols-2 gap-6 max-w-4xl mx-auto">
           {outcomes.map((o) => (
-            <motion.div
+            <div
               key={o.title}
-              variants={item}
               className="group bg-card border border-border rounded-2xl p-7 hover:border-primary/30 transition-all"
             >
               <div className={`w-11 h-11 rounded-xl ${o.bg} flex items-center justify-center mb-5`}>
@@ -69,9 +53,9 @@ const TransformationSection = () => {
               </div>
               <h3 className="text-lg font-bold mb-3 text-foreground">{o.title}</h3>
               <p className="text-sm text-muted-foreground leading-relaxed">{o.description}</p>
-            </motion.div>
+            </div>
           ))}
-        </motion.div>
+        </div>
       </div>
     </section>
   );

@@ -1,8 +1,8 @@
 import { useParams, Link } from "react-router-dom";
-import { useEffect } from "react";
-import { motion } from "framer-motion";
+import { useEffect, useMemo } from "react";
 import { ArrowLeft } from "lucide-react";
 import { profiles } from "@/data/profiles";
+import { useSEO } from "@/hooks/useSEO";
 import AppStoreBadge from "@/components/AppStoreBadge";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
@@ -11,14 +11,30 @@ const ProfilePage = () => {
   const { slug } = useParams<{ slug: string }>();
   const profile = profiles.find((p) => p.slug === slug);
 
+  const jsonLd = useMemo(() => profile ? {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    name: profile.metaTitle,
+    description: profile.metaDescription,
+    url: `https://nooryapp.lovable.app/profil/${profile.slug}`,
+    inLanguage: "fr",
+    isPartOf: {
+      "@type": "WebSite",
+      name: "Noory",
+      url: "https://nooryapp.lovable.app",
+    },
+  } : undefined, [profile]);
+
+  useSEO({
+    title: profile?.metaTitle || "Profil financier — Noory",
+    description: profile?.metaDescription || "",
+    url: `/profil/${slug}`,
+    jsonLd,
+  });
+
   useEffect(() => {
-    if (profile) {
-      document.title = profile.metaTitle;
-      const metaDesc = document.querySelector('meta[name="description"]');
-      if (metaDesc) metaDesc.setAttribute("content", profile.metaDescription);
-    }
     window.scrollTo(0, 0);
-  }, [profile]);
+  }, [slug]);
 
   if (!profile) {
     return (
@@ -26,7 +42,7 @@ const ProfilePage = () => {
         <Navbar />
         <div className="pt-32 text-center">
           <h1 className="text-2xl font-display font-bold text-foreground">Profil introuvable</h1>
-          <Link to="/" className="text-primary mt-4 inline-block">← Retour à l'accueil</Link>
+          <Link to="/" className="text-primary mt-4 inline-block">Retour à l'accueil</Link>
         </div>
         <Footer />
       </div>
@@ -49,11 +65,7 @@ const ProfilePage = () => {
           </Link>
 
           {/* Hero */}
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="text-center mb-14"
-          >
+          <div className="text-center mb-14">
             <span className="text-6xl mb-4 block">{profile.emoji}</span>
             <h1 className="text-3xl md:text-4xl font-display font-bold tracking-tight text-foreground mb-3">
               {profile.name}
@@ -61,25 +73,15 @@ const ProfilePage = () => {
             <p className="text-lg text-muted-foreground italic max-w-lg mx-auto">
               {profile.tagline}
             </p>
-          </motion.div>
+          </div>
 
           {/* Description */}
-          <motion.div
-            initial={{ opacity: 0, y: 15 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.1 }}
-            className="mb-12"
-          >
+          <div className="mb-12">
             <p className="text-base text-foreground/80 leading-relaxed">{profile.description}</p>
-          </motion.div>
+          </div>
 
           {/* Tu te reconnais si... */}
-          <motion.div
-            initial={{ opacity: 0, y: 15 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.15 }}
-            className="mb-12 p-8 bg-card border border-border rounded-2xl"
-          >
+          <div className="mb-12 p-8 bg-card border border-border rounded-2xl">
             <h2 className="text-xl font-display font-bold text-foreground mb-5">Tu te reconnais si...</h2>
             <ul className="space-y-3">
               {profile.recognizeSigns.map((sign, i) => (
@@ -89,26 +91,16 @@ const ProfilePage = () => {
                 </li>
               ))}
             </ul>
-          </motion.div>
+          </div>
 
           {/* Ce que Noory te propose */}
-          <motion.div
-            initial={{ opacity: 0, y: 15 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.2 }}
-            className="mb-12"
-          >
+          <div className="mb-12">
             <h2 className="text-xl font-display font-bold text-foreground mb-4">Ce que Noory te propose</h2>
             <p className="text-foreground/80 leading-relaxed">{profile.nooryOffer}</p>
-          </motion.div>
+          </div>
 
           {/* Semaine par semaine */}
-          <motion.div
-            initial={{ opacity: 0, y: 15 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.25 }}
-            className="mb-14"
-          >
+          <div className="mb-14">
             <h2 className="text-xl font-display font-bold text-foreground mb-6">Ton parcours semaine par semaine</h2>
             <div className="space-y-4">
               {profile.weeks.map((week, i) => (
@@ -118,7 +110,67 @@ const ProfilePage = () => {
                 </div>
               ))}
             </div>
-          </motion.div>
+          </div>
+
+          {/* Blog articles related to this profile */}
+          <div className="mb-14 p-6 bg-secondary/50 rounded-2xl">
+            <h3 className="text-lg font-display font-bold text-foreground mb-4">Articles pour toi</h3>
+            <div className="space-y-3">
+              <Link to="/blog/profil-financier-psychologie-argent" className="block text-sm text-primary hover:underline">
+                Quel est ton profil financier ? Ce que ta psychologie dit de ton rapport à l'argent
+              </Link>
+              {profile.slug === "depensier-emotionnel" && (
+                <>
+                  <Link to="/blog/depenses-impulsives-comment-arreter" className="block text-sm text-primary hover:underline">
+                    Dépenses impulsives : comment arrêter le cycle sans se priver
+                  </Link>
+                  <Link to="/blog/culpabilite-argent-depenser" className="block text-sm text-primary hover:underline">
+                    Pourquoi tu culpabilises quand tu dépenses (et comment en sortir)
+                  </Link>
+                </>
+              )}
+              {profile.slug === "navigateur-a-vue" && (
+                <>
+                  <Link to="/blog/gerer-son-argent-sans-stress" className="block text-sm text-primary hover:underline">
+                    Gérer son argent sans stress : 5 habitudes douces qui changent tout
+                  </Link>
+                  <Link to="/blog/epargner-petit-salaire" className="block text-sm text-primary hover:underline">
+                    Comment épargner avec un petit salaire (même 50€/mois)
+                  </Link>
+                </>
+              )}
+              {profile.slug === "queteur-de-serenite" && (
+                <>
+                  <Link to="/blog/gerer-son-argent-sans-stress" className="block text-sm text-primary hover:underline">
+                    Gérer son argent sans stress : 5 habitudes douces qui changent tout
+                  </Link>
+                  <Link to="/blog/culpabilite-argent-depenser" className="block text-sm text-primary hover:underline">
+                    Pourquoi tu culpabilises quand tu dépenses (et comment en sortir)
+                  </Link>
+                </>
+              )}
+              {profile.slug === "batisseur-bloque" && (
+                <>
+                  <Link to="/blog/epargner-petit-salaire" className="block text-sm text-primary hover:underline">
+                    Comment épargner avec un petit salaire (même 50€/mois)
+                  </Link>
+                  <Link to="/blog/gerer-son-argent-sans-stress" className="block text-sm text-primary hover:underline">
+                    Gérer son argent sans stress : 5 habitudes douces qui changent tout
+                  </Link>
+                </>
+              )}
+              {profile.slug === "investisseur-paralyse" && (
+                <>
+                  <Link to="/blog/investir-debutant-peur" className="block text-sm text-primary hover:underline">
+                    Investir quand on a peur : le guide pour débutants paralysés
+                  </Link>
+                  <Link to="/blog/epargner-petit-salaire" className="block text-sm text-primary hover:underline">
+                    Comment épargner avec un petit salaire (même 50€/mois)
+                  </Link>
+                </>
+              )}
+            </div>
+          </div>
 
           {/* CTA */}
           <div className="p-8 bg-emerald-pastel/60 border border-border rounded-2xl text-center mb-14">

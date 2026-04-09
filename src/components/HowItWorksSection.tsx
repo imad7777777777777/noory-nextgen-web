@@ -1,4 +1,3 @@
-import { motion } from "framer-motion";
 import IPhoneFrame from "@/components/IPhoneFrame";
 import AppStoreBadge from "@/components/AppStoreBadge";
 import screenRitual from "@/assets/screen-ritual.webp";
@@ -14,12 +13,7 @@ const HowItWorksSection = () => {
   return (
     <section id="methode" className="py-24 md:py-32 bg-secondary/50">
       <div className="container mx-auto px-4 md:px-8">
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
-          className="text-center max-w-2xl mx-auto mb-16"
-        >
+        <div className="text-center max-w-2xl mx-auto mb-16">
           <p className="text-sm uppercase tracking-widest text-primary mb-4 font-medium">Comment ça marche</p>
           <h2 className="text-3xl md:text-4xl font-display font-bold tracking-tight text-foreground">
             Un rituel quotidien.{" "}
@@ -28,19 +22,12 @@ const HowItWorksSection = () => {
           <p className="mt-4 text-muted-foreground leading-relaxed max-w-lg mx-auto">
             Pas un tableau de bord que tu ouvres une fois et que tu oublies. Un compagnon que tu retrouves chaque jour.
           </p>
-        </motion.div>
+        </div>
 
         <div className="grid lg:grid-cols-2 gap-16 items-center max-w-5xl mx-auto">
           <div className="space-y-8">
-            {steps.map((step, i) => (
-              <motion.div
-                key={step.number}
-                initial={{ opacity: 0, x: -20 }}
-                whileInView={{ opacity: 1, x: 0 }}
-                viewport={{ once: true }}
-                transition={{ delay: i * 0.1 }}
-                className="flex gap-5"
-              >
+            {steps.map((step) => (
+              <div key={step.number} className="flex gap-5">
                 <div className="flex-shrink-0 w-10 h-10 rounded-xl bg-emerald-pastel flex items-center justify-center">
                   <span className="text-sm font-bold text-foreground/70">{step.number}</span>
                 </div>
@@ -48,29 +35,24 @@ const HowItWorksSection = () => {
                   <h3 className="text-lg font-bold mb-1.5 text-foreground">{step.title}</h3>
                   <p className="text-sm text-muted-foreground leading-relaxed">{step.description}</p>
                 </div>
-              </motion.div>
+              </div>
             ))}
 
             <AppStoreBadge className="mt-4" />
           </div>
 
-          <motion.div
-            initial={{ opacity: 0, y: 30 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            className="flex justify-center"
-          >
+          <div className="flex justify-center">
             <div className="relative">
               <div className="absolute inset-0 bg-amber-pastel rounded-full blur-[80px] scale-90 opacity-50" />
               <IPhoneFrame className="relative z-10 w-56 md:w-64 lg:w-72">
                 <img
                   src={screenRitual}
-                  alt="Noory — rituel quotidien"
+                  alt="Noory — rituel quotidien de coaching financier comportemental"
                   className="w-full"
                 />
               </IPhoneFrame>
             </div>
-          </motion.div>
+          </div>
         </div>
       </div>
     </section>

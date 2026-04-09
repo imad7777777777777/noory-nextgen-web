@@ -1,5 +1,3 @@
-import { motion } from "framer-motion";
-
 const values = [
   { emoji: "🌱", title: "Pensé pour la vraie vie", text: "Pas pour un monde idéal. Pour quelqu'un qui bosse, qui doute, qui a pas toujours la motivation. Noory s'adapte à ça." },
   { emoji: "🧩", title: "Des micro-progrès, pas des miracles", text: "On ne te promet pas de richesse rapide. On t'aide à faire un petit pas utile par jour. C'est comme ça que ça tient." },
@@ -11,27 +9,18 @@ const PhilosophySection = () => {
   return (
     <section className="py-24 md:py-32 bg-secondary/50 relative overflow-hidden">
       <div className="container mx-auto px-4 md:px-8 max-w-3xl relative z-10">
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
-          className="text-center mb-14"
-        >
+        <div className="text-center mb-14">
           <p className="text-sm uppercase tracking-widest text-primary mb-4 font-medium">Notre philosophie</p>
           <h2 className="text-3xl md:text-4xl font-display font-bold tracking-tight text-foreground">
             Pas pour devenir riche vite.{" "}
             <span className="text-gradient">Pour devenir plus solide.</span>
           </h2>
-        </motion.div>
+        </div>
 
         <div className="space-y-5">
           {values.map((v, i) => (
-            <motion.div
+            <div
               key={i}
-              initial={{ opacity: 0, y: 15 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
-              transition={{ delay: i * 0.1 }}
               className="flex items-start gap-4 p-6 rounded-2xl bg-card border border-border"
             >
               <span className="text-2xl flex-shrink-0">{v.emoji}</span>
@@ -39,7 +28,7 @@ const PhilosophySection = () => {
                 <h3 className="font-bold mb-1 text-foreground">{v.title}</h3>
                 <p className="text-sm text-muted-foreground leading-relaxed">{v.text}</p>
               </div>
-            </motion.div>
+            </div>
           ))}
         </div>
       </div>

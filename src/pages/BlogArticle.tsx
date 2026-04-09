@@ -1,8 +1,8 @@
 import { useParams, Link } from "react-router-dom";
-import { useEffect } from "react";
-import { motion } from "framer-motion";
+import { useEffect, useMemo } from "react";
 import { ArrowLeft } from "lucide-react";
 import { blogArticles } from "@/data/blogArticles";
+import { useSEO } from "@/hooks/useSEO";
 import AppStoreBadge from "@/components/AppStoreBadge";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
@@ -11,14 +11,29 @@ const BlogArticlePage = () => {
   const { slug } = useParams<{ slug: string }>();
   const article = blogArticles.find((a) => a.slug === slug);
 
+  const jsonLd = useMemo(() => article ? {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: article.title,
+    description: article.metaDescription,
+    datePublished: article.date,
+    author: { "@type": "Organization", name: "Noory" },
+    publisher: { "@type": "Organization", name: "Noory" },
+    mainEntityOfPage: `https://nooryapp.lovable.app/blog/${article.slug}`,
+    inLanguage: "fr",
+  } : undefined, [article]);
+
+  useSEO({
+    title: article?.metaTitle || "Article — Noory",
+    description: article?.metaDescription || "",
+    url: `/blog/${slug}`,
+    type: "article",
+    jsonLd,
+  });
+
   useEffect(() => {
-    if (article) {
-      document.title = article.metaTitle;
-      const metaDesc = document.querySelector('meta[name="description"]');
-      if (metaDesc) metaDesc.setAttribute("content", article.metaDescription);
-    }
     window.scrollTo(0, 0);
-  }, [article]);
+  }, [slug]);
 
   if (!article) {
     return (
@@ -26,7 +41,7 @@ const BlogArticlePage = () => {
         <Navbar />
         <div className="pt-32 text-center">
           <h1 className="text-2xl font-display font-bold text-foreground">Article introuvable</h1>
-          <Link to="/blog" className="text-primary mt-4 inline-block">← Retour au blog</Link>
+          <Link to="/blog" className="text-primary mt-4 inline-block">Retour au blog</Link>
         </div>
         <Footer />
       </div>
@@ -39,23 +54,6 @@ const BlogArticlePage = () => {
     <div className="min-h-screen bg-background">
       <Navbar />
 
-      {/* JSON-LD Article Schema */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "Article",
-            headline: article.title,
-            description: article.metaDescription,
-            datePublished: article.date,
-            author: { "@type": "Organization", name: "Noory" },
-            publisher: { "@type": "Organization", name: "Noory" },
-            mainEntityOfPage: `https://nooryapp.lovable.app/blog/${article.slug}`,
-          }),
-        }}
-      />
-
       <main className="pt-24 pb-16">
         <div className="container mx-auto px-4 md:px-8 max-w-3xl">
           <Link
@@ -66,10 +64,7 @@ const BlogArticlePage = () => {
             Retour au blog
           </Link>
 
-          <motion.article
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-          >
+          <article>
             <div className="flex items-center gap-3 text-xs text-muted-foreground mb-4">
               <span>{new Date(article.date).toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" })}</span>
               <span>·</span>
@@ -136,11 +131,11 @@ const BlogArticlePage = () => {
                 Prêt·e à changer ton rapport à l'argent ?
               </h3>
               <p className="text-muted-foreground mb-6 max-w-md mx-auto">
-                28 jours de coaching personnalisé. Zéro jugement. Gratuit 7 jours.
+                Découvre ton profil financier et suis 28 jours de coaching personnalisé. Zéro jugement. Gratuit 7 jours.
               </p>
               <AppStoreBadge className="mx-auto" />
             </div>
-          </motion.article>
+          </article>
 
           {/* Related articles */}
           {otherArticles.length > 0 && (
@@ -175,7 +170,11 @@ function renderInlineMarkdown(text: string) {
     }
     const linkMatch = part.match(/\[([^\]]+)\]\(([^)]+)\)/);
     if (linkMatch) {
-      return <Link key={i} to={linkMatch[2]} className="text-primary underline hover:text-primary/80">{linkMatch[1]}</Link>;
+      const href = linkMatch[2];
+      if (href.startsWith("http")) {
+        return <a key={i} href={href} target="_blank" rel="noopener noreferrer" className="text-primary underline hover:text-primary/80">{linkMatch[1]}</a>;
+      }
+      return <Link key={i} to={href} className="text-primary underline hover:text-primary/80">{linkMatch[1]}</Link>;
     }
     return <span key={i}>{part}</span>;
   });

@@ -15,7 +15,7 @@ const Footer = () => {
   return (
     <footer className="border-t border-border py-12">
       <div className="container mx-auto px-4 md:px-8">
-        <div className="grid md:grid-cols-3 gap-8 mb-8">
+        <div className="grid sm:grid-cols-2 md:grid-cols-4 gap-8 mb-8">
           {/* Brand */}
           <div>
             <Link to="/" className="text-xl font-display font-bold tracking-tight text-foreground">
@@ -53,6 +53,17 @@ const Footer = () => {
               ))}
             </div>
           </div>
+
+          {/* Blog articles */}
+          <div>
+            <h4 className="text-sm font-bold text-foreground mb-3">Articles populaires</h4>
+            <div className="flex flex-col gap-2">
+              <Link to="/blog/depenses-impulsives-comment-arreter" className="text-sm text-muted-foreground hover:text-primary transition-colors">Dépenses impulsives</Link>
+              <Link to="/blog/gerer-son-argent-sans-stress" className="text-sm text-muted-foreground hover:text-primary transition-colors">Gérer sans stress</Link>
+              <Link to="/blog/profil-financier-psychologie-argent" className="text-sm text-muted-foreground hover:text-primary transition-colors">Profils financiers</Link>
+              <Link to="/blog/investir-debutant-peur" className="text-sm text-muted-foreground hover:text-primary transition-colors">Investir sans peur</Link>
+            </div>
+          </div>
         </div>
 
         {/* Social + copyright */}
@@ -61,7 +72,7 @@ const Footer = () => {
             © {new Date().getFullYear()} Noory. Tous droits réservés.
           </p>
           <div className="flex items-center gap-3">
-            <a href="https://www.instagram.com/noory_app" target="_blank" rel="noopener noreferrer" className="w-9 h-9 rounded-xl bg-secondary flex items-center justify-center text-muted-foreground hover:text-primary transition-colors" aria-label="Instagram">
+            <a href="https://www.instagram.com/noory_app" target="_blank" rel="noopener noreferrer" className="w-9 h-9 rounded-xl bg-secondary flex items-center justify-center text-muted-foreground hover:text-primary transition-colors" aria-label="Instagram @noory_app">
               <Instagram size={18} />
             </a>
             <a href="https://www.tiktok.com/@imad.argent.ethique" target="_blank" rel="noopener noreferrer" className="w-9 h-9 rounded-xl bg-secondary flex items-center justify-center text-muted-foreground hover:text-primary transition-colors text-xs font-bold" aria-label="TikTok">

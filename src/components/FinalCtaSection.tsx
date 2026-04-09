@@ -1,4 +1,3 @@
-import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
 import AppStoreBadge from "@/components/AppStoreBadge";
 
@@ -8,12 +7,7 @@ const FinalCtaSection = () => {
       <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[500px] h-[500px] bg-emerald-pastel rounded-full blur-[160px] opacity-40" />
 
       <div className="container mx-auto px-4 md:px-8 relative z-10">
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
-          className="text-center max-w-2xl mx-auto space-y-8"
-        >
+        <div className="text-center max-w-2xl mx-auto space-y-8">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-display font-bold tracking-tight leading-tight text-foreground">
             Tu n'as pas besoin de plus de pression.{" "}
             <span className="text-gradient">Tu as besoin d'une meilleure relation avec ton argent.</span>
@@ -33,7 +27,7 @@ const FinalCtaSection = () => {
           <p className="text-sm text-muted-foreground/60">
             Gratuit · Sans engagement · Disponible sur iPhone
           </p>
-        </motion.div>
+        </div>
       </div>
     </section>
   );

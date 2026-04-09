@@ -1,4 +1,3 @@
-import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 
 const pastelBgs = ["bg-amber-pastel", "bg-emerald-pastel", "bg-rose-pastel", "bg-sky-pastel", "bg-amber-pastel", "bg-emerald-pastel"];
@@ -12,46 +11,31 @@ const audiences = [
   { emoji: "💪", title: "Je veux me sentir plus solide, sans devenir obsessionnel", description: "Tu ne veux pas devenir un expert en finance. Tu veux juste te sentir en contrôle, calme, et capable de faire des choix clairs.", slug: "queteur-de-serenite" },
 ];
 
-const container = { hidden: {}, show: { transition: { staggerChildren: 0.1 } } };
-const item = { hidden: { opacity: 0, y: 25 }, show: { opacity: 1, y: 0, transition: { duration: 0.45 } } };
-
 const ForWhoSection = () => {
   return (
     <section id="pour-qui" className="py-24 md:py-32 relative overflow-hidden">
       <div className="container mx-auto px-4 md:px-8 relative z-10">
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true }}
-          className="text-center max-w-2xl mx-auto mb-16"
-        >
+        <div className="text-center max-w-2xl mx-auto mb-16">
           <p className="text-sm uppercase tracking-widest text-primary mb-4 font-medium">À qui ça parle</p>
           <h2 className="text-3xl md:text-4xl font-display font-bold tracking-tight text-foreground">
             Si tu te reconnais ici,{" "}
             <span className="text-gradient">Noory est fait pour toi.</span>
           </h2>
-        </motion.div>
+        </div>
 
-        <motion.div
-          variants={container}
-          initial="hidden"
-          whileInView="show"
-          viewport={{ once: true }}
-          className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5 max-w-5xl mx-auto"
-        >
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5 max-w-5xl mx-auto">
           {audiences.map((a, i) => (
-            <motion.div key={a.title} variants={item}>
-              <Link
-                to={`/profil/${a.slug}`}
-                className={`${pastelBgs[i]} border border-border/50 rounded-2xl p-6 hover:scale-[1.02] transition-transform block h-full`}
-              >
-                <span className="text-3xl mb-4 block">{a.emoji}</span>
-                <h3 className="text-base font-bold mb-2 text-foreground">{a.title}</h3>
-                <p className="text-sm text-foreground/60 leading-relaxed">{a.description}</p>
-              </Link>
-            </motion.div>
+            <Link
+              key={a.title}
+              to={`/profil/${a.slug}`}
+              className={`${pastelBgs[i]} border border-border/50 rounded-2xl p-6 hover:scale-[1.02] transition-transform block h-full`}
+            >
+              <span className="text-3xl mb-4 block">{a.emoji}</span>
+              <h3 className="text-base font-bold mb-2 text-foreground">{a.title}</h3>
+              <p className="text-sm text-foreground/60 leading-relaxed">{a.description}</p>
+            </Link>
           ))}
-        </motion.div>
+        </div>
       </div>
     </section>
   );

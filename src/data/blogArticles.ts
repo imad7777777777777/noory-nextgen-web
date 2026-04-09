@@ -16,7 +16,7 @@ export const blogArticles: BlogArticle[] = [
     title: "Dépenses impulsives : comment arrêter le cycle sans se priver",
     metaTitle: "Dépenses impulsives : comment arrêter le cycle sans se priver | Noory",
     metaDescription: "Découvre pourquoi tu achètes sous émotion et comment briser le cycle des achats compulsifs avec la méthode Noory. Sans privation, sans culpabilité.",
-    date: "2025-03-15",
+    date: "2026-03-15",
     readTime: "6 min",
     intro: "Tu connais cette sensation : tu achètes quelque chose dont tu n'avais pas besoin, et 10 minutes après, tu regrettes. Voici comment en sortir.",
     keywords: ["dépenses impulsives", "achats compulsifs", "arrêter de dépenser"],
@@ -80,14 +80,14 @@ Et à partir de là, Noory t'accompagne — un jour à la fois, un choix à la f
 
 ---
 
-*Noory est une app de coaching financier comportemental. 28 jours pour transformer ton rapport à l'argent, sans culpabilité. [Disponible gratuitement sur iPhone.](/quiz)*`
+*Noory est une app de coaching financier comportemental. 28 jours pour transformer ton rapport à l'argent, sans culpabilité. [Disponible gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
   },
   {
     slug: "gerer-son-argent-sans-stress",
     title: "Gérer son argent sans stress : 5 habitudes douces qui changent tout",
     metaTitle: "Gérer son argent sans stress : 5 habitudes douces | Noory",
     metaDescription: "Découvre 5 habitudes simples pour gérer ton argent sans pression. Pas de budget strict, pas de privation — juste des gestes qui tiennent dans la durée.",
-    date: "2025-03-08",
+    date: "2026-03-08",
     readTime: "7 min",
     intro: "Les budgets classiques ne marchent pas. Voici 5 habitudes douces, réalistes et durables pour enfin te sentir calme avec ton argent.",
     keywords: ["gérer son argent", "gestion budget simple", "finances personnelles"],
@@ -157,14 +157,14 @@ Noory est conçu exactement pour ça : t'accompagner un geste à la fois, un jou
 
 ---
 
-*Essaie Noory gratuitement pendant 7 jours. Coaching financier personnalisé, zéro jugement. [Télécharge sur iPhone.](/quiz)*`
+*Essaie Noory gratuitement pendant 7 jours. Coaching financier personnalisé, zéro jugement. [Télécharge sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
   },
   {
     slug: "profil-financier-psychologie-argent",
     title: "Quel est ton profil financier ? Ce que ta psychologie dit de ton rapport à l'argent",
     metaTitle: "Profil financier : que dit ta psychologie de ton rapport à l'argent ? | Noory",
     metaDescription: "Découvre les 5 profils financiers comportementaux et comprends enfin pourquoi tu gères ton argent comme tu le fais. Quiz gratuit dans l'app Noory.",
-    date: "2025-02-28",
+    date: "2026-02-28",
     readTime: "8 min",
     intro: "On n'a pas tous le même rapport à l'argent. Découvre les 5 profils financiers comportementaux et ce qu'ils révèlent de ta psychologie.",
     keywords: ["profil financier", "psychologie argent", "relation à l'argent", "finance comportementale"],
@@ -255,14 +255,14 @@ Pas de conseils génériques. Pas de "fais un budget". Un accompagnement qui par
 
 ---
 
-*Fais le quiz et découvre ton profil financier. C'est gratuit, ça prend 2 minutes. [Commence ici.](/quiz)*`
+*Fais le quiz et découvre ton profil financier. C'est gratuit, ça prend 2 minutes. [Commence ici.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
   },
   {
     slug: "epargner-petit-salaire",
     title: "Comment épargner avec un petit salaire (même 50€/mois)",
     metaTitle: "Épargner avec un petit salaire : méthode concrète même avec 50€/mois | Noory",
     metaDescription: "Tu penses qu'il faut gagner beaucoup pour épargner ? Faux. Voici une méthode concrète pour mettre de côté même avec un petit salaire.",
-    date: "2025-02-20",
+    date: "2026-02-20",
     readTime: "6 min",
     intro: "\"Je ne gagne pas assez pour épargner.\" C'est la phrase la plus répandue — et la plus fausse. Voici comment commencer, même avec 50€ par mois.",
     keywords: ["épargner petit salaire", "mettre de côté", "économiser peu de revenus"],
@@ -322,14 +322,14 @@ En 28 jours, tu auras une habitude installée. Et tu seras surpris·e de ce que 
 
 ---
 
-*Noory t'aide à épargner à ton rythme, sans pression. Commence gratuitement pendant 7 jours. [Télécharge sur iPhone.](/quiz)*`
+*Noory t'aide à épargner à ton rythme, sans pression. Commence gratuitement pendant 7 jours. [Télécharge sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
   },
   {
     slug: "culpabilite-argent-depenser",
     title: "Pourquoi tu culpabilises quand tu dépenses (et comment en sortir)",
     metaTitle: "Culpabilité et argent : pourquoi tu te sens coupable de dépenser | Noory",
     metaDescription: "Tu te sens coupable à chaque achat ? Découvre d'où vient cette culpabilité financière et comment retrouver un rapport sain à l'argent.",
-    date: "2025-02-12",
+    date: "2026-02-12",
     readTime: "7 min",
     intro: "Chaque achat te laisse un goût amer ? Cette culpabilité n'est pas un signe de faiblesse — c'est un mécanisme qu'on peut comprendre et transformer.",
     keywords: ["culpabilité argent", "honte dépenser", "rapport malsain argent"],
@@ -390,14 +390,14 @@ Noory t'accompagne dans ce travail — pas avec des leçons de morale, mais avec
 
 ---
 
-*Libère-toi de la culpabilité financière. Essaie Noory gratuitement pendant 7 jours. [Télécharge sur iPhone.](/quiz)*`
+*Libère-toi de la culpabilité financière. Essaie Noory gratuitement pendant 7 jours. [Télécharge sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
   },
   {
     slug: "investir-debutant-peur",
     title: "Investir quand on a peur : le guide pour débutants paralysés",
     metaTitle: "Investir quand on a peur : guide pour débutants qui n'osent pas | Noory",
     metaDescription: "Tu veux investir mais la peur te bloque ? Ce guide t'explique pourquoi c'est normal et comment faire ton premier pas, même avec 10€.",
-    date: "2025-02-05",
+    date: "2026-02-05",
     readTime: "7 min",
     intro: "Tu sais que tu devrais investir. Tu te renseignes. Mais tu ne passes jamais à l'acte. Ce guide est pour toi.",
     keywords: ["investir débutant", "peur d'investir", "commencer à investir"],
@@ -480,6 +480,6 @@ L'investissement n'est pas réservé aux experts. C'est un outil accessible — 
 
 ---
 
-*Prêt·e à faire ton premier pas ? Noory t'accompagne. Coaching financier personnalisé, 7 jours gratuits. [Télécharge sur iPhone.](/quiz)*`
+*Prêt·e à faire ton premier pas ? Noory t'accompagne. Coaching financier personnalisé, 7 jours gratuits. [Télécharge sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
   }
 ];

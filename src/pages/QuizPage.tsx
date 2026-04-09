@@ -2,6 +2,7 @@ import { useState, useCallback } from "react";
 import { Link } from "react-router-dom";
 import { motion, AnimatePresence } from "framer-motion";
 import { quizQuestions, profileResults, QuizProfile } from "@/data/quizData";
+import { useSEO } from "@/hooks/useSEO";
 import { Progress } from "@/components/ui/progress";
 import AppStoreBadge from "@/components/AppStoreBadge";
 import Navbar from "@/components/Navbar";
@@ -12,6 +13,20 @@ const QuizPage = () => {
   const [answers, setAnswers] = useState<QuizProfile[]>([]);
   const [result, setResult] = useState<QuizProfile | null>(null);
 
+  useSEO({
+    title: "Quiz — Découvre ton profil financier en 2 minutes | Noory",
+    description: "Fais le quiz Noory et découvre ton profil financier comportemental. 5 questions pour comprendre ton rapport à l'argent et recevoir un coaching adapté.",
+    url: "/quiz",
+    jsonLd: {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      name: "Quiz Profil Financier Noory",
+      description: "Découvre ton profil financier comportemental en 2 minutes.",
+      url: "https://nooryapp.lovable.app/quiz",
+      inLanguage: "fr",
+    },
+  });
+
   const handleAnswer = useCallback(
     (profile: QuizProfile) => {
       const newAnswers = [...answers, profile];
@@ -20,7 +35,6 @@ const QuizPage = () => {
       if (current < quizQuestions.length - 1) {
         setCurrent(current + 1);
       } else {
-        // Calculate result
         const counts: Record<string, number> = {};
         newAnswers.forEach((p) => {
           counts[p] = (counts[p] || 0) + 1;
@@ -61,7 +75,6 @@ const QuizPage = () => {
               <QuestionScreen
                 key={current}
                 question={quizQuestions[current]}
-                questionIndex={current}
                 onAnswer={handleAnswer}
               />
             )}
@@ -75,11 +88,9 @@ const QuizPage = () => {
 
 function QuestionScreen({
   question,
-  questionIndex,
   onAnswer,
 }: {
   question: (typeof quizQuestions)[0];
-  questionIndex: number;
   onAnswer: (profile: QuizProfile) => void;
 }) {
   return (
@@ -151,7 +162,7 @@ function ResultScreen({
           to={`/profil/${result.slug}`}
           className="text-sm text-primary hover:underline"
         >
-          Voir le détail du profil {result.name} →
+          Voir le détail du profil {result.name}
         </Link>
         <button
           onClick={onRestart}
