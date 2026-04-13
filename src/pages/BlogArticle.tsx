@@ -19,7 +19,7 @@ const BlogArticlePage = () => {
     datePublished: article.date,
     author: { "@type": "Organization", name: "Noory" },
     publisher: { "@type": "Organization", name: "Noory" },
-    mainEntityOfPage: `https://nooryapp.lovable.app/blog/${article.slug}`,
+    mainEntityOfPage: `https://noory.io/blog/${article.slug}`,
     inLanguage: "fr",
   } : undefined, [article]);
 

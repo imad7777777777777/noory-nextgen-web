@@ -16,12 +16,12 @@ const ProfilePage = () => {
     "@type": "WebPage",
     name: profile.metaTitle,
     description: profile.metaDescription,
-    url: `https://nooryapp.lovable.app/profil/${profile.slug}`,
+    url: `https://noory.io/profil/${profile.slug}`,
     inLanguage: "fr",
     isPartOf: {
       "@type": "WebSite",
       name: "Noory",
-      url: "https://nooryapp.lovable.app",
+      url: "https://noory.io",
     },
   } : undefined, [profile]);
 

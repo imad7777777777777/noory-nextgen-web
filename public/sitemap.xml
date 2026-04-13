@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Landing page -->
   <url>
-    <loc>https://nooryapp.lovable.app/</loc>
+    <loc>https://noory.io/</loc>
     <lastmod>2026-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -10,7 +10,7 @@
 
   <!-- Blog index -->
   <url>
-    <loc>https://nooryapp.lovable.app/blog</loc>
+    <loc>https://noory.io/blog</loc>
     <lastmod>2026-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -18,61 +18,61 @@
 
   <!-- Blog articles — Wave 2 (newest) -->
   <url>
-    <loc>https://nooryapp.lovable.app/blog/premier-salaire-quoi-faire</loc>
+    <loc>https://noory.io/blog/premier-salaire-quoi-faire</loc>
     <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/blog/methode-enveloppes-budget</loc>
+    <loc>https://noory.io/blog/methode-enveloppes-budget</loc>
     <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/blog/anxiete-financiere-calmer</loc>
+    <loc>https://noory.io/blog/anxiete-financiere-calmer</loc>
     <lastmod>2026-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/blog/acheter-en-ligne-moins-depenser</loc>
+    <loc>https://noory.io/blog/acheter-en-ligne-moins-depenser</loc>
     <lastmod>2026-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/blog/epargne-de-precaution-combien</loc>
+    <loc>https://noory.io/blog/epargne-de-precaution-combien</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/blog/parler-argent-tabou-france</loc>
+    <loc>https://noory.io/blog/parler-argent-tabou-france</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/blog/regle-50-30-20-explication</loc>
+    <loc>https://noory.io/blog/regle-50-30-20-explication</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/blog/money-date-couple</loc>
+    <loc>https://noory.io/blog/money-date-couple</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/blog/arreter-comparer-finances-reseaux</loc>
+    <loc>https://noory.io/blog/arreter-comparer-finances-reseaux</loc>
     <lastmod>2026-04-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/blog/habitudes-financieres-21-jours</loc>
+    <loc>https://noory.io/blog/habitudes-financieres-21-jours</loc>
     <lastmod>2026-04-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -80,37 +80,37 @@
 
   <!-- Blog articles — Original 6 (enriched) -->
   <url>
-    <loc>https://nooryapp.lovable.app/blog/depenses-impulsives-comment-arreter</loc>
+    <loc>https://noory.io/blog/depenses-impulsives-comment-arreter</loc>
     <lastmod>2026-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/blog/gerer-son-argent-sans-stress</loc>
+    <loc>https://noory.io/blog/gerer-son-argent-sans-stress</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/blog/profil-financier-psychologie-argent</loc>
+    <loc>https://noory.io/blog/profil-financier-psychologie-argent</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/blog/epargner-petit-salaire</loc>
+    <loc>https://noory.io/blog/epargner-petit-salaire</loc>
     <lastmod>2026-04-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/blog/culpabilite-argent-depenser</loc>
+    <loc>https://noory.io/blog/culpabilite-argent-depenser</loc>
     <lastmod>2026-04-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/blog/investir-debutant-peur</loc>
+    <loc>https://noory.io/blog/investir-debutant-peur</loc>
     <lastmod>2026-04-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -118,61 +118,61 @@
 
   <!-- Blog articles — Wave 1 -->
   <url>
-    <loc>https://nooryapp.lovable.app/blog/j-achete-quand-je-suis-triste</loc>
+    <loc>https://noory.io/blog/j-achete-quand-je-suis-triste</loc>
     <lastmod>2026-04-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/blog/charge-mentale-financiere</loc>
+    <loc>https://noory.io/blog/charge-mentale-financiere</loc>
     <lastmod>2026-04-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/blog/ou-passe-mon-argent-chaque-mois</loc>
+    <loc>https://noory.io/blog/ou-passe-mon-argent-chaque-mois</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/blog/no-buy-challenge-comment-faire</loc>
+    <loc>https://noory.io/blog/no-buy-challenge-comment-faire</loc>
     <lastmod>2026-04-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/blog/budget-pour-les-nuls</loc>
+    <loc>https://noory.io/blog/budget-pour-les-nuls</loc>
     <lastmod>2026-04-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/blog/pourquoi-je-depense-tout-mon-salaire</loc>
+    <loc>https://noory.io/blog/pourquoi-je-depense-tout-mon-salaire</loc>
     <lastmod>2026-04-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/blog/epargner-quand-on-a-pas-la-motivation</loc>
+    <loc>https://noory.io/blog/epargner-quand-on-a-pas-la-motivation</loc>
     <lastmod>2026-04-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/blog/argent-et-emotions-comprendre-le-lien</loc>
+    <loc>https://noory.io/blog/argent-et-emotions-comprendre-le-lien</loc>
     <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/blog/couple-et-argent-eviter-les-disputes</loc>
+    <loc>https://noory.io/blog/couple-et-argent-eviter-les-disputes</loc>
     <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/blog/depense-plaisir-sans-culpabiliser</loc>
+    <loc>https://noory.io/blog/depense-plaisir-sans-culpabiliser</loc>
     <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -180,7 +180,7 @@
 
   <!-- FAQ -->
   <url>
-    <loc>https://nooryapp.lovable.app/faq</loc>
+    <loc>https://noory.io/faq</loc>
     <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -188,31 +188,31 @@
 
   <!-- Profile pages -->
   <url>
-    <loc>https://nooryapp.lovable.app/profil/depensier-emotionnel</loc>
+    <loc>https://noory.io/profil/depensier-emotionnel</loc>
     <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/profil/navigateur-a-vue</loc>
+    <loc>https://noory.io/profil/navigateur-a-vue</loc>
     <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/profil/queteur-de-serenite</loc>
+    <loc>https://noory.io/profil/queteur-de-serenite</loc>
     <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/profil/batisseur-bloque</loc>
+    <loc>https://noory.io/profil/batisseur-bloque</loc>
     <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://nooryapp.lovable.app/profil/investisseur-paralyse</loc>
+    <loc>https://noory.io/profil/investisseur-paralyse</loc>
     <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -220,7 +220,7 @@
 
   <!-- Quiz -->
   <url>
-    <loc>https://nooryapp.lovable.app/quiz</loc>
+    <loc>https://noory.io/quiz</loc>
     <lastmod>2026-04-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

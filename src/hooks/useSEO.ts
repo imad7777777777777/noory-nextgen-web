@@ -8,7 +8,7 @@ interface SEOProps {
   jsonLd?: Record<string, unknown>;
 }
 
-const BASE_URL = "https://nooryapp.lovable.app";
+const BASE_URL = "https://noory.io";
 
 export function useSEO({ title, description, url, type = "website", jsonLd }: SEOProps) {
   useEffect(() => {

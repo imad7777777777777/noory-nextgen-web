@@ -22,7 +22,7 @@ const QuizPage = () => {
       "@type": "WebPage",
       name: "Quiz Profil Financier Noory",
       description: "Découvre ton profil financier comportemental en 2 minutes.",
-      url: "https://nooryapp.lovable.app/quiz",
+      url: "https://noory.io/quiz",
       inLanguage: "fr",
     },
   });
