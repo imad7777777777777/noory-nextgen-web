@@ -9,6 +9,9 @@ import BlogIndex from "./pages/BlogIndex.tsx";
 import BlogArticle from "./pages/BlogArticle.tsx";
 import ProfilePage from "./pages/ProfilePage.tsx";
 import QuizPage from "./pages/QuizPage.tsx";
+import FaqPage from "./pages/FaqPage.tsx";
+import ConfidentialitePage from "./pages/ConfidentialitePage.tsx";
+import CguPage from "./pages/CguPage.tsx";
 
 const queryClient = new QueryClient();
 
@@ -24,6 +27,9 @@ const App = () => (
           <Route path="/blog/:slug" element={<BlogArticle />} />
           <Route path="/profil/:slug" element={<ProfilePage />} />
           <Route path="/quiz" element={<QuizPage />} />
+          <Route path="/faq" element={<FaqPage />} />
+          <Route path="/confidentialite" element={<ConfidentialitePage />} />
+          <Route path="/cgu" element={<CguPage />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>

@@ -124,28 +124,46 @@ const ProfilePage = () => {
                   <Link to="/blog/depenses-impulsives-comment-arreter" className="block text-sm text-primary hover:underline">
                     Dépenses impulsives : comment arrêter le cycle sans se priver
                   </Link>
-                  <Link to="/blog/culpabilite-argent-depenser" className="block text-sm text-primary hover:underline">
-                    Pourquoi tu culpabilises quand tu dépenses (et comment en sortir)
+                  <Link to="/blog/j-achete-quand-je-suis-triste" className="block text-sm text-primary hover:underline">
+                    J'achète quand je suis triste : comprendre et casser le cycle
+                  </Link>
+                  <Link to="/blog/acheter-en-ligne-moins-depenser" className="block text-sm text-primary hover:underline">
+                    Acheter en ligne sans exploser ton budget : 8 astuces concrètes
+                  </Link>
+                  <Link to="/blog/arreter-comparer-finances-reseaux" className="block text-sm text-primary hover:underline">
+                    Arrêter de comparer tes finances sur les réseaux sociaux
                   </Link>
                 </>
               )}
               {profile.slug === "navigateur-a-vue" && (
                 <>
-                  <Link to="/blog/gerer-son-argent-sans-stress" className="block text-sm text-primary hover:underline">
-                    Gérer son argent sans stress : 5 habitudes douces qui changent tout
+                  <Link to="/blog/ou-passe-mon-argent-chaque-mois" className="block text-sm text-primary hover:underline">
+                    Où passe mon argent chaque mois ?
                   </Link>
-                  <Link to="/blog/epargner-petit-salaire" className="block text-sm text-primary hover:underline">
-                    Comment épargner avec un petit salaire (même 50€/mois)
+                  <Link to="/blog/budget-pour-les-nuls" className="block text-sm text-primary hover:underline">
+                    Budget pour les nuls : par où commencer
+                  </Link>
+                  <Link to="/blog/methode-enveloppes-budget" className="block text-sm text-primary hover:underline">
+                    La méthode des enveloppes : le budget simple qui marche vraiment
+                  </Link>
+                  <Link to="/blog/regle-50-30-20-explication" className="block text-sm text-primary hover:underline">
+                    La règle 50/30/20 : le budget le plus simple du monde
                   </Link>
                 </>
               )}
               {profile.slug === "queteur-de-serenite" && (
                 <>
+                  <Link to="/blog/anxiete-financiere-calmer" className="block text-sm text-primary hover:underline">
+                    Anxiété financière : 7 techniques pour calmer ton stress d'argent
+                  </Link>
+                  <Link to="/blog/epargne-de-precaution-combien" className="block text-sm text-primary hover:underline">
+                    Épargne de précaution : combien mettre de côté (et pourquoi)
+                  </Link>
                   <Link to="/blog/gerer-son-argent-sans-stress" className="block text-sm text-primary hover:underline">
-                    Gérer son argent sans stress : 5 habitudes douces qui changent tout
+                    Gérer son argent sans stress : 5 habitudes douces
                   </Link>
                   <Link to="/blog/culpabilite-argent-depenser" className="block text-sm text-primary hover:underline">
-                    Pourquoi tu culpabilises quand tu dépenses (et comment en sortir)
+                    Pourquoi tu culpabilises quand tu dépenses
                   </Link>
                 </>
               )}
@@ -154,8 +172,14 @@ const ProfilePage = () => {
                   <Link to="/blog/epargner-petit-salaire" className="block text-sm text-primary hover:underline">
                     Comment épargner avec un petit salaire (même 50€/mois)
                   </Link>
-                  <Link to="/blog/gerer-son-argent-sans-stress" className="block text-sm text-primary hover:underline">
-                    Gérer son argent sans stress : 5 habitudes douces qui changent tout
+                  <Link to="/blog/habitudes-financieres-21-jours" className="block text-sm text-primary hover:underline">
+                    21 jours pour changer tes habitudes financières
+                  </Link>
+                  <Link to="/blog/premier-salaire-quoi-faire" className="block text-sm text-primary hover:underline">
+                    Premier salaire : quoi faire sans tout claquer
+                  </Link>
+                  <Link to="/blog/parler-argent-tabou-france" className="block text-sm text-primary hover:underline">
+                    Parler d'argent en France : briser le tabou
                   </Link>
                 </>
               )}
@@ -164,8 +188,14 @@ const ProfilePage = () => {
                   <Link to="/blog/investir-debutant-peur" className="block text-sm text-primary hover:underline">
                     Investir quand on a peur : le guide pour débutants paralysés
                   </Link>
+                  <Link to="/blog/epargne-de-precaution-combien" className="block text-sm text-primary hover:underline">
+                    Épargne de précaution : combien mettre de côté
+                  </Link>
+                  <Link to="/blog/charge-mentale-financiere" className="block text-sm text-primary hover:underline">
+                    Charge mentale financière : comment l'alléger
+                  </Link>
                   <Link to="/blog/epargner-petit-salaire" className="block text-sm text-primary hover:underline">
-                    Comment épargner avec un petit salaire (même 50€/mois)
+                    Comment épargner avec un petit salaire
                   </Link>
                 </>
               )}

@@ -32,6 +32,7 @@ const Footer = () => {
             <div className="flex flex-col gap-2">
               <Link to="/blog" className="text-sm text-muted-foreground hover:text-primary transition-colors">Blog</Link>
               <Link to="/quiz" className="text-sm text-muted-foreground hover:text-primary transition-colors">Quiz — Ton profil</Link>
+              <Link to="/faq" className="text-sm text-muted-foreground hover:text-primary transition-colors">FAQ</Link>
               <a href={APP_STORE} target="_blank" rel="noopener noreferrer" className="text-sm text-muted-foreground hover:text-primary transition-colors">
                 App Store
               </a>
@@ -68,9 +69,13 @@ const Footer = () => {
 
         {/* Social + copyright */}
         <div className="pt-8 border-t border-border flex flex-col md:flex-row items-center justify-between gap-4">
-          <p className="text-xs text-muted-foreground">
-            © {new Date().getFullYear()} Noory. Tous droits réservés.
-          </p>
+          <div className="flex items-center gap-3 text-xs text-muted-foreground">
+            <span>© {new Date().getFullYear()} Noory. Tous droits réservés.</span>
+            <span>·</span>
+            <Link to="/confidentialite" className="hover:text-primary transition-colors">Confidentialité</Link>
+            <span>·</span>
+            <Link to="/cgu" className="hover:text-primary transition-colors">CGU</Link>
+          </div>
           <div className="flex items-center gap-3">
             <a href="https://www.instagram.com/noory_app" target="_blank" rel="noopener noreferrer" className="w-9 h-9 rounded-xl bg-secondary flex items-center justify-center text-muted-foreground hover:text-primary transition-colors" aria-label="Instagram @noory_app">
               <Instagram size={18} />
