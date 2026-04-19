@@ -6,6 +6,7 @@ import { useSEO } from "@/hooks/useSEO";
 import AppStoreBadge from "@/components/AppStoreBadge";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import Breadcrumb from "@/components/Breadcrumb";
 
 const BlogArticlePage = () => {
   const { slug } = useParams<{ slug: string }>();
@@ -54,11 +55,19 @@ const BlogArticlePage = () => {
     <div className="min-h-screen bg-background">
       <Navbar />
 
-      <main className="pt-24 pb-16">
+      <Breadcrumb
+        items={[
+          { label: "Accueil", href: "/" },
+          { label: "Blog", href: "/blog" },
+          { label: article.title },
+        ]}
+      />
+
+      <main className="pb-16">
         <div className="container mx-auto px-4 md:px-8 max-w-3xl">
           <Link
             to="/blog"
-            className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors mb-8"
+            className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors mb-8 mt-6"
           >
             <ArrowLeft size={16} />
             Retour au blog
