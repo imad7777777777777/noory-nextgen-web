@@ -12,6 +12,1189 @@ export interface BlogArticle {
 
 export const blogArticles: BlogArticle[] = [
   {
+    slug: "epargne-automatique-comment-mettre-en-place",
+    title: "Épargne automatique : la méthode pour épargner sans y penser",
+    metaTitle: "Épargne automatique : la méthode complète pour épargner sans effort | Noory",
+    metaDescription: "Mets en place un virement automatique et épargne sans effort. La méthode pas à pas pour ne plus jamais oublier de mettre de côté.",
+    date: "2026-04-19",
+    readTime: "6 min",
+    intro: "Tu te dis chaque mois \"je mettrai quelque chose de côté à la fin\". Et à la fin, il ne reste rien. Voici la méthode qui fonctionne — sans discipline, sans effort, sans y penser.",
+    keywords: ["épargne automatique", "virement automatique épargne", "comment épargner sans y penser"],
+    content: `## Pourquoi la discipline ne marche pas pour épargner
+
+Tu connais ce schéma : début du mois tu te dis "ce mois-ci, je mets 200€ de côté". Le 10, tu dépenses sans y penser. Le 20, tu piochces dans tes "économies" pour une sortie. Le 30, il ne reste plus rien. Et tu culpabilises.
+
+Ce n'est pas un manque de volonté. C'est de la biologie. La volonté est une ressource limitée, et elle diminue chaque fois que tu résistes à une envie. En fin de journée — ou en fin de mois — ton cerveau n'a plus les réserves pour dire non. Et c'est là que les dépenses non prévues surgissent.
+
+Les études en finance comportementale sont formelles : les personnes qui épargnent le plus régulièrement ne sont pas les plus disciplinées. Ce sont celles qui ont retiré l'épargne de leur champ de décision. Elles n'ont pas besoin de choisir, parce que le choix est déjà fait — à l'avance, une seule fois.
+
+## Le principe : virement auto le 1er du mois AVANT de dépenser
+
+La méthode tient en une phrase : le jour où tu reçois ton salaire, un virement automatique part immédiatement vers un compte d'épargne séparé.
+
+Pas à la fin du mois avec "ce qui reste" (il ne reste jamais rien). Pas quand tu "y penseras" (tu n'y penseras pas). **Le jour même**, automatiquement, avant même que tu aies pu voir cet argent sur ton compte courant.
+
+Ce principe est connu sous le nom de **"paye-toi en premier"**. Et c'est la technique la plus puissante en finances personnelles. Parce qu'elle inverse la logique habituelle : au lieu d'épargner ce qui reste après les dépenses, tu dépenses ce qui reste après l'épargne.
+
+L'argent que tu ne vois pas, tu ne le dépenses pas. C'est aussi simple que ça.
+
+## Combien au départ ? Commence par 5% même si c'est 50€
+
+La plus grosse erreur, c'est de viser trop haut et d'abandonner au bout de 2 mois. Tu te dis "je vais mettre 20% de côté" — et au premier imprévu, tu annules tout le système.
+
+La bonne approche est l'inverse : commence avec un montant tellement petit que tu ne le sens pas. **5% de ton salaire**. Sur 1 800€ net, c'est 90€. Sur 1 500€, c'est 75€. Sur 1 000€, c'est 50€.
+
+Ce montant ne va pas transformer ta vie en un mois. Mais il va créer trois choses qui valent bien plus que les euros accumulés :
+
+- Un **automatisme** (le système tourne tout seul)
+- Une **identité** (tu deviens quelqu'un qui épargne)
+- Une **confiance** (tu vois que tu peux tenir le plan)
+
+Ces trois éléments sont les vraies fondations. Le montant, lui, augmentera naturellement avec le temps.
+
+## Où placer cet argent ?
+
+Pour commencer, ne complique pas. Un **Livret A** fait parfaitement le job. Il est :
+
+- Accessible immédiatement en cas de besoin réel
+- Garanti par l'État (pas de risque de perte)
+- Facile à ouvrir (10 minutes dans ton appli bancaire)
+- Séparé de ton compte courant (donc moins tentant)
+
+Le Livret A est idéal pour ton fonds d'urgence — ces 2 à 3 mois de dépenses qui te protègent des imprévus. Si tu veux creuser le sujet, nous en parlons en détail dans [Épargne de précaution : combien mettre de côté](/blog/epargne-de-precaution-combien).
+
+Une fois ton fonds d'urgence constitué, tu pourras diversifier : LDDS pour compléter, assurance-vie pour les projets à 5 ans et plus, PEA pour investir. Mais tu n'as pas besoin d'y penser maintenant. Chaque chose en son temps.
+
+## L'astuce qui change tout : +1% tous les 3 mois
+
+Voici la vraie magie du système : ne reste pas à 5% pour toujours.
+
+Tous les 3 mois, augmente ton virement automatique de 1%. Tu passes de 5% à 6%, puis 7%, puis 8%. Sur un an, tu atteins 9% sans effort. Sur deux ans, tu es à 13%.
+
+Pourquoi ça marche ? Parce que 1% de plus, c'est quasi imperceptible dans ton budget quotidien. Sur 1 800€, passer de 90€ à 108€ d'épargne représente 18€ de moins par mois. Ça ne change pas ta vie. Mais l'effet cumulé, lui, change tout.
+
+Au bout de 5 ans à ce rythme, tu épargnes 20 à 25% de ton salaire sans avoir jamais eu la sensation de te priver. C'est le pouvoir des micro-ajustements invisibles, répétés dans le temps.
+
+Programme un rappel dans ton téléphone : "Augmenter virement épargne" tous les 3 mois. C'est littéralement tout ce que tu as à faire.
+
+## Et si un mois tu ne peux pas ?
+
+Ça arrivera. Un imprévu, une grosse dépense, une fin de mois tendue. Et la tentation sera forte d'arrêter le virement automatique.
+
+**Ne l'arrête pas.** Baisse-le temporairement si besoin, mais ne le supprime pas. Parce qu'un système qui tourne à 2% est infiniment plus efficace qu'un système parfait qu'on rétablira "bientôt". Le "bientôt" n'arrive jamais.
+
+La régularité bat le montant. Toujours. Mieux vaut 20€ chaque mois pendant 2 ans que 200€ un mois puis plus rien pendant 6 mois.
+
+## Noory t'installe ce système dès la semaine 1
+
+Le parcours 28 jours de Noory intègre cette méthode dès la première semaine. On ne te demande pas de lire un livre de 300 pages — on t'accompagne, geste par geste, pour mettre ton virement en place, choisir le bon montant, et construire le rituel qui tient.
+
+Si tu navigues à vue avec ton argent et que tu sens que tu n'as aucune boussole, le profil du [Navigateur à Vue](/profil/navigateur-a-vue) est sûrement le tien. Et Noory est construit exactement pour t'aider à sortir de ce flou — une action à la fois, sans jugement.
+
+## Le premier pas, c'est aujourd'hui
+
+Tu n'as pas besoin d'attendre le prochain salaire pour commencer. Ouvre ton appli bancaire maintenant. Crée le virement automatique. Choisis un montant que tu ne sentiras pas. Date : le 1er du mois (ou le jour où tu es payé·e). Destination : ton Livret A.
+
+C'est fait en 4 minutes. Et ces 4 minutes vont transformer ta relation à l'argent pour les années à venir.
+
+---
+
+*Noory t'aide à installer l'épargne automatique comme un rituel qui tient. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
+  },
+  {
+    slug: "habitudes-financieres-qui-changent-tout",
+    title: "7 micro-habitudes financières qui changent tout (en moins de 3 min/jour)",
+    metaTitle: "7 micro-habitudes financières qui changent tout | Noory",
+    metaDescription: "Pas besoin de 2h par semaine pour gérer ton argent. 7 micro-habitudes de 3 minutes qui transforment ta relation à l'argent.",
+    date: "2026-04-19",
+    readTime: "8 min",
+    intro: "Pas besoin de 2h par semaine ni de tableurs compliqués. 7 micro-habitudes, 3 minutes par jour max, et ta relation à l'argent change profondément.",
+    keywords: ["micro-habitudes financières", "habitudes argent", "routine finances quotidienne"],
+    content: `## Pourquoi les petites habitudes battent les grands plans
+
+On te vend souvent l'idée qu'il faut "se prendre en main" : bloquer 2h le dimanche, monter un tableur, épucher ses comptes, se faire un plan sur 12 mois. Ça marche... 3 semaines. Puis la vie reprend, et le tableur prend la poussière.
+
+Les micro-habitudes fonctionnent à l'inverse. Elles sont si petites que tu ne peux pas t'en dispenser : 30 secondes, 2 minutes, 3 minutes. Aucune friction, aucune excuse. Et parce qu'elles sont régulières, elles s'ancrent profondément dans ton quotidien. C'est exactement la logique du parcours 28 jours de Noory.
+
+Voici les 7 que tu peux tester dès demain. Choisis-en une seule pour commencer. Oui, une seule.
+
+## Habitude 1 — Le check-in matinal (30 secondes)
+
+Chaque matin, ouvre ton appli bancaire. Regarde ton solde. Referme.
+
+C'est tout. Pas de calcul, pas de décision, pas d'angoisse. Juste un coup d'œil. L'objectif n'est pas de t'inquiéter — c'est de te reconnecter à ton argent, calmement, chaque jour.
+
+Les gens qui évitent de regarder leur compte vivent une charge mentale énorme, parce que leur cerveau imagine le pire. Un simple coup d'œil quotidien remplace l'angoisse floue par une réalité concrète. Souvent, c'est moins grave que ce que tu pensais. Et quand c'est grave, tu le sais tôt, ce qui t'aide à réagir vite.
+
+## Habitude 2 — La pause 10 min avant tout achat non prévu
+
+Tu vois quelque chose que tu veux acheter — sur Amazon, en boutique, peu importe. Règle simple : tu attends **10 minutes**.
+
+Pas "je renonce". Juste "pas maintenant". Tu continues ce que tu faisais. Tu fais autre chose. Et dans 10 minutes, tu te reposes la question : "Est-ce que j'ai toujours envie de ça ?"
+
+Dans 70% des cas, l'envie est passée. C'était une réaction émotionnelle, pas un vrai besoin. Les 30% restants, tu achètes en conscience — et tu ne regrettes pas. Cette mini-pause transforme l'achat impulsif en choix délibéré.
+
+## Habitude 3 — Nommer chaque euro épargné
+
+Au lieu d'avoir "un livret A" ou "mon épargne", nomme tes comptes d'épargne comme tes projets.
+
+- Au lieu de "livret A" → "Voyage Japon mars 2027"
+- Au lieu de "compte épargne" → "Changer de voiture en 2028"
+- Au lieu de "PEL" → "Apport appart"
+
+Pourquoi ? Parce que "épargner" est abstrait. "Mettre 50€ de plus vers le voyage au Japon" est concret et motivant. La psychologie montre que l'épargne nommée progresse 30% plus vite que l'épargne générique. Tu sais pourquoi tu mets de côté — donc tu le fais plus facilement.
+
+## Habitude 4 — Le dimanche budget (15 min, un café, tes comptes)
+
+Chaque dimanche, 15 minutes. Un café. Tu regardes la semaine passée et tu prépares la suivante.
+
+- Où est parti l'argent cette semaine ?
+- Qu'est-ce qui vient la semaine prochaine (prélèvements, sorties, imprévus) ?
+- Ai-je besoin d'ajuster quelque chose ?
+
+C'est court. C'est apaisé. C'est une routine, pas une corvée. Et ça te donne une vision claire sur 7 jours — ce qui suffit largement à piloter tes finances. On détaille cette pratique dans [La routine financière du dimanche](/blog/routine-financiere-dimanche).
+
+## Habitude 5 — Arrondir chaque dépense à l'euro supérieur en épargne
+
+Tu achètes un café 3,40€ ? 0,60€ partent automatiquement sur ton livret. Ton plein d'essence coûte 47,20€ ? 0,80€ épargnés. Ton resto à 23,50€ ? 0,50€ mis de côté.
+
+Plusieurs banques proposent cette fonctionnalité (l'"arrondi à l'euro"). Active-la. Tu ne sentiras jamais partir ces petites sommes, mais au bout d'un an, tu auras 200 à 400€ de plus sur ton livret. Pour zéro effort conscient.
+
+## Habitude 6 — Désinstaller les apps shopping 1 semaine par mois
+
+Amazon, Shein, Zalando, Vinted — ces apps sont conçues pour te faire acheter en 2 clics. Elles exploitent tes moments de faiblesse : le soir, l'ennui, le stress.
+
+Une fois par mois, désinstalle-les pour 7 jours. Tu pourras toujours les réinstaller ensuite. Mais cette semaine-là, quand l'envie monte, tu dois faire l'effort de retrouver l'app — et cet effort, infime en apparence, casse le circuit automatique de l'achat impulsif.
+
+Tu seras surpris·e : la plupart de tes achats en ligne n'auront pas lieu. Parce qu'ils n'étaient pas vraiment désirés.
+
+## Habitude 7 — Écrire une intention financière chaque matin (1 phrase)
+
+Chaque matin, écris **une seule phrase** sur ton rapport à l'argent aujourd'hui.
+
+- "Aujourd'hui je ne cède pas à l'achat émotionnel."
+- "Aujourd'hui je me fais plaisir sans culpabilité avec 10€."
+- "Aujourd'hui je vérifie mon budget de la semaine."
+- "Aujourd'hui j'arrête de comparer mes finances à celles des autres."
+
+Pas 10 phrases. Une. L'effet est psychologique : tu démarres ta journée avec une direction consciente, au lieu de subir les sollicitations. C'est une micro-pratique issue du coaching comportemental, et elle marche étonnamment bien.
+
+## Noory = ces 7 habitudes structurées en rituel quotidien
+
+Ce que Noory fait, c'est transformer ces 7 micro-habitudes en un rituel de 3 minutes par jour, intégré à un parcours de 28 jours. Tu n'as plus à y penser individuellement — l'app te guide, étape par étape, dans le bon ordre, avec le bon rythme.
+
+Si tu cherches la sérénité financière au quotidien plus que la performance, le profil du [Quêteur de Sérénité](/profil/queteur-de-serenite) est peut-être le tien. Et ces 7 habitudes sont exactement le type de pratiques que Noory installe pour toi, sans pression.
+
+Si la charge mentale financière te pèse, on en parle aussi dans [Charge mentale financière : pourquoi l'argent t'épuise](/blog/charge-mentale-financiere).
+
+## Commence par une seule
+
+La tentation sera forte de toutes les essayer demain. Ne fais pas ça. Choisis la plus simple pour toi — souvent le check-in matinal ou la pause 10 minutes — et tiens-la pendant 7 jours. Juste 7 jours.
+
+Ensuite, ajoute la deuxième. Puis la troisième. En 7 semaines, tu auras intégré les 7 sans effort. Et ta relation à l'argent ne sera plus jamais la même.
+
+---
+
+*Noory transforme ces micro-habitudes en rituel quotidien de 3 minutes. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
+  },
+  {
+    slug: "defi-epargne-52-semaines",
+    title: "Défi épargne 52 semaines : le plan pour mettre 1 378€ de côté cette année",
+    metaTitle: "Défi épargne 52 semaines : atteindre 1 378€ en 1 an | Noory",
+    metaDescription: "Le défi 52 semaines expliqué simplement. Semaine 1 = 1€, semaine 52 = 52€. Total : 1 378€ sans forcer.",
+    date: "2026-04-18",
+    readTime: "6 min",
+    intro: "Tu veux mettre de l'argent de côté mais tu ne sais pas par où commencer ? Le défi 52 semaines est parfait : tu démarres avec 1€, et tu finis l'année avec 1 378€.",
+    keywords: ["défi épargne 52 semaines", "challenge épargne", "comment épargner 1000 euros"],
+    content: `## Le concept du défi 52 semaines
+
+Le principe est d'une simplicité redoutable : tu épargnes chaque semaine un montant qui correspond au numéro de la semaine.
+
+- Semaine 1 → 1€
+- Semaine 2 → 2€
+- Semaine 3 → 3€
+- ...
+- Semaine 52 → 52€
+
+Au bout d'un an, tu as mis de côté 1 + 2 + 3 + ... + 52 = **1 378€**. Sans rien changer à ton mode de vie les premiers mois. Sans tableur compliqué. Sans avoir besoin d'une méthode de ouf.
+
+C'est l'un des challenges d'épargne les plus populaires au monde, et il y a une bonne raison : il fonctionne. Parce qu'il démarre tellement petit que personne ne peut dire "je n'ai pas les moyens".
+
+## Le tableau complet, mois par mois
+
+Voici combien tu mets de côté chaque mois en suivant le défi :
+
+- **Janvier** (semaines 1-4) : 1 + 2 + 3 + 4 = **10€**
+- **Février** (semaines 5-8) : 5 + 6 + 7 + 8 = **26€**
+- **Mars** (semaines 9-13) : 9 + 10 + 11 + 12 + 13 = **55€**
+- **Avril** (semaines 14-17) : 14 + 15 + 16 + 17 = **62€**
+- **Mai** (semaines 18-21) : 18 + 19 + 20 + 21 = **78€**
+- **Juin** (semaines 22-26) : 22 + 23 + 24 + 25 + 26 = **120€**
+- **Juillet** (semaines 27-30) : 27 + 28 + 29 + 30 = **114€**
+- **Août** (semaines 31-34) : 31 + 32 + 33 + 34 = **130€**
+- **Septembre** (semaines 35-39) : 35 + 36 + 37 + 38 + 39 = **185€**
+- **Octobre** (semaines 40-43) : 40 + 41 + 42 + 43 = **166€**
+- **Novembre** (semaines 44-47) : 44 + 45 + 46 + 47 = **182€**
+- **Décembre** (semaines 48-52) : 48 + 49 + 50 + 51 + 52 = **250€**
+
+Total : **1 378€**.
+
+Tu peux imprimer ce tableau et le coller sur ton frigo. Chaque semaine, tu coches la ligne. L'aspect visuel joue énormément : voir les semaines se cocher les unes après les autres crée une dynamique puissante.
+
+## La variante inversée (pour éviter la déprime de fin d'année)
+
+Tu as repéré le problème ? Les mois les plus chargés financièrement sont novembre et décembre (fêtes, cadeaux, fin d'année), et c'est **justement** à ce moment-là que le défi classique te demande de mettre le plus d'argent de côté. Pas idéal.
+
+La variante inversée inverse le planning :
+
+- Semaine 1 → 52€ (janvier, tu es motivé·e, tu as souvent des étrennes)
+- Semaine 2 → 51€
+- ...
+- Semaine 52 → 1€ (décembre, tu mets tout petit)
+
+Même total (1 378€), mais beaucoup plus adapté à la réalité d'une année. Janvier et février sont souvent des mois "légers" côté dépenses — tu as toute l'énergie pour mettre les plus gros montants. Décembre, tu te détends.
+
+Si tu hésites entre les deux versions, choisis celle qui colle à ton année. Il n'y a pas de "bonne" version.
+
+## La variante fixe (la plus simple)
+
+Si les montants qui varient chaque semaine te stressent, prends la version fixe : **26€ par semaine, toutes les semaines**.
+
+26€ × 52 = 1 352€. Presque le même résultat, avec une logique ultra-simple : tu mets pareil chaque semaine. Idéal si tu fais un virement automatique hebdomadaire (ou 104€ mensuel, ce qui donne le même résultat).
+
+Cette version est moins ludique, mais plus facile à automatiser. Et comme on le sait, **automatiser > se motiver**.
+
+## Comment ne pas abandonner en cours de route
+
+Soyons honnêtes : la majorité des gens qui démarrent le défi 52 semaines abandonnent avant juin. Voici comment faire partie des 10% qui tiennent :
+
+### Automatise dès le départ
+
+Ne compte pas sur toi pour virer l'argent manuellement chaque semaine. Programme un virement automatique hebdomadaire. Si tu prends la version variable, tu peux même programmer 12 virements mensuels avec les montants calculés ci-dessus.
+
+### Trackse visuellement
+
+Imprime le tableau des 52 semaines et coche chaque case. Ou utilise une appli qui te montre ta progression. L'aspect visuel crée de la dopamine à chaque coche. Et la dopamine crée l'envie de continuer.
+
+### Célèbre les paliers
+
+Tous les 3 mois, regarde combien tu as déjà mis de côté et félicite-toi. Pas un achat compensatoire — juste un moment de reconnaissance. "Regarde, j'ai 150€ sur ce compte, il n'y avait rien il y a 3 mois." Cette validation interne est ce qui te fait tenir sur la durée.
+
+### Prévois un jour de rattrapage par mois
+
+Parfois tu oublieras une semaine. Pas grave. Prévois un "dimanche rattrapage" en fin de mois pour vérifier et rattraper ce qui manque. Si tu as oublié 2 semaines, tu vires les 2 montants d'un coup. Le défi continue.
+
+## Et après ? Transformer le défi en rituel
+
+Le défi 52 semaines est un excellent **démarrage**. Tu prouves à ton cerveau que tu es capable d'épargner régulièrement. Tu sors avec 1 378€ et une nouvelle identité : celle d'une personne qui met de côté.
+
+Mais ce n'est qu'un début. L'année suivante, tu peux :
+
+- Refaire le défi à l'identique (pour un total de 2 756€ sur 2 ans)
+- Passer à un virement automatique fixe équivalent à ta moyenne (115€/mois)
+- Reprendre plus ambitieux : [commencer l'épargne automatique structurée](/blog/epargne-automatique-comment-mettre-en-place)
+
+L'objectif n'est pas de faire le défi toute ta vie. C'est de transformer une habitude temporaire en système permanent. Et pour ça, Noory t'aide à passer du défi au rituel durable.
+
+## L'approche Noory : progression douce intégrée au parcours 28 jours
+
+Le parcours 28 jours de Noory intègre cette logique de progression douce. On ne te demande pas de tout faire d'un coup. On commence minuscule, et on augmente progressivement — exactement comme le défi 52 semaines, mais avec un accompagnement humain et des rappels bienveillants.
+
+Si épargner te semble impossible quand tu n'as pas la motivation, lis [Épargner quand on n'a pas la motivation](/blog/epargner-quand-on-a-pas-la-motivation). Et si tu penses que ton salaire est trop petit pour faire le défi, découvre [Comment épargner avec un petit salaire](/blog/epargner-petit-salaire).
+
+## Jour 1, c'est maintenant
+
+N'attends pas le 1er janvier. N'attends pas lundi. Aujourd'hui, c'est ta semaine 1. Mets 1€ de côté maintenant. Dans 52 semaines, tu auras 1 378€. Et surtout, tu auras prouvé à ton cerveau que tu en es capable.
+
+---
+
+*Noory t'accompagne pour transformer un défi ponctuel en habitude durable. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
+  },
+  {
+    slug: "fond-urgence-pourquoi-indispensable",
+    title: "Fonds d'urgence : pourquoi c'est la première chose à faire avec ton argent",
+    metaTitle: "Fonds d'urgence : pourquoi c'est la priorité absolue | Noory",
+    metaDescription: "Avant d'investir, avant d'épargner pour un projet : le fonds d'urgence. Combien, où, comment. Le guide complet.",
+    date: "2026-04-18",
+    readTime: "6 min",
+    intro: "On te parle d'investir, de bourse, de crypto, d'assurance-vie. Mais avant tout ça, il y a une étape non négociable : le fonds d'urgence. Voici pourquoi c'est ta priorité absolue.",
+    keywords: ["fonds d'urgence", "pourquoi épargne de précaution", "fonds de sécurité"],
+    content: `## C'est quoi un fonds d'urgence, concrètement ?
+
+Le fonds d'urgence, c'est une somme d'argent que tu gardes de côté, accessible immédiatement, pour une seule chose : **absorber un imprévu sans déstabiliser ta vie**.
+
+Ce n'est pas un compte pour les vacances. Ce n'est pas pour un achat plaisir. Ce n'est pas pour investir. C'est un **filet de sécurité** — et il ne sert qu'à ça.
+
+Concrètement, il couvre les coups durs classiques :
+- Une panne de voiture à 800€
+- Une facture médicale non remboursée
+- Un mois sans salaire (fin de contrat, maladie, transition)
+- Une réparation urgente dans ton logement
+- Un déménagement imprévu
+
+Sans fonds d'urgence, chacun de ces événements devient une **crise financière** — et souvent une dette. Avec fonds d'urgence, c'est juste un inconvénient. La différence est énorme.
+
+## Pourquoi c'est AVANT tout le reste
+
+Une question revient souvent : "Pourquoi je mettrais de l'argent sur un Livret A à 3% alors que je pourrais investir en bourse à 8% de rendement annuel moyen ?"
+
+Voici la réponse : **parce qu'une panne de voiture sans fonds d'urgence = une dette à 18% d'intérêts**.
+
+Tu vois le problème ? Si tu n'as pas de coussin et qu'un imprévu arrive, tu es obligé·e de :
+
+- Soit sortir du crédit renouvelable à 18-21% (le pire)
+- Soit utiliser ta carte de crédit avec des frais massifs
+- Soit emprunter à ta famille (charge relationnelle)
+- Soit revendre un placement en urgence, au mauvais moment (potentiellement à perte)
+
+Aucune de ces options n'est bonne. Et toutes annulent, en quelques jours, les rendements que tu as pu faire les mois précédents.
+
+C'est pour ça que **le fonds d'urgence est la fondation**. Avant la fondation, tu ne construis rien de solide. Une fois la fondation posée, tu peux construire tout ce que tu veux.
+
+## Combien, exactement ?
+
+La règle de base : **3 à 6 mois de tes charges fixes**.
+
+Pas tes dépenses totales. Tes **charges fixes** : le minimum vital pour vivre si tu perdais tout revenu demain.
+
+Fais le calcul simple :
+
+- Loyer : _____ €
+- Factures (elec, eau, internet, téléphone) : _____ €
+- Alimentation minimum : _____ €
+- Transport essentiel : _____ €
+- Assurances : _____ €
+
+**Total mensuel × 3 = ton fonds d'urgence minimum.**
+
+**Total mensuel × 6 = ton fonds d'urgence confortable.**
+
+Exemple concret : si tes charges fixes font 1 200€/mois, ton fonds d'urgence minimum est de 3 600€, et ton objectif idéal est 7 200€.
+
+Ça te paraît énorme ? Ça l'est. C'est pour ça qu'on le construit sur 1 à 2 ans, pas en 3 mois.
+
+## Où le placer ?
+
+Deux critères absolus :
+
+1. **Disponible immédiatement** (tu dois y accéder sous 48h max)
+2. **Sans risque de perte** (pas en bourse, pas en crypto, pas sur assurance-vie en UC)
+
+Le grand gagnant : le **Livret A**.
+- Plafond : 22 950€ (amplement suffisant)
+- Rémunéré (taux actuel autour de 3%)
+- Garanti par l'État français
+- Retrait en 24h
+
+Si ton Livret A est plein, complète avec le **LDDS** (plafond 12 000€).
+
+**Ce qu'il faut ÉVITER pour le fonds d'urgence :**
+
+- Assurance-vie (fonds bloqués ou pénalisés en cas de retrait rapide, impôts)
+- PEA (horizon long terme, volatile)
+- Actions / ETFs (peuvent baisser au pire moment)
+- Cryptomonnaies (volatilité extrême)
+- Compte courant (trop tentant de piocher)
+
+Le fonds d'urgence n'a **pas pour vocation de rapporter**. Il a pour vocation de te protéger. Ces deux choses sont incompatibles, et c'est OK.
+
+## Comment le construire quand tu pars de zéro
+
+Tu as 0€ de côté ? Tu n'es pas seul·e. Près de 40% des Français n'ont pas 500€ d'épargne de précaution. Voici le plan simple :
+
+### Étape 1 : Vise 500€ (le premier palier qui change tout)
+
+Ne vise pas 7 200€ tout de suite. Tu vas te décourager. Vise **500€** pour commencer. C'est suffisant pour couvrir 80% des imprévus du quotidien : panne d'électroménager, facture oubliée, petit problème de santé.
+
+À 100€/mois, tu y es en 5 mois. À 50€/mois, en 10 mois. À 30€/mois, en 17 mois. Peu importe la vitesse — commence.
+
+### Étape 2 : 1 mois de charges fixes
+
+Une fois 500€ atteints, continue. Objectif : 1 mois de charges fixes. Sur ton salaire de 1 800€ avec 1 100€ de charges, ça fait 1 100€ de côté. À 100€/mois, 6 mois de plus.
+
+À ce stade, tu es déjà beaucoup plus protégé·e que la majorité des gens autour de toi.
+
+### Étape 3 : 3 à 6 mois
+
+Continue progressivement. Ne te mets pas de deadline rigide. Continue à virer 100€/mois (ou plus si tu peux), et dans 1 à 2 ans, tu as ton fonds d'urgence complet.
+
+Pour les étapes pratiques de mise en place du virement automatique, lis [Épargne automatique : la méthode complète](/blog/epargne-automatique-comment-mettre-en-place).
+
+## La tranquillité d'esprit que ça apporte
+
+On ne parle pas assez de ça. Le fonds d'urgence n'est pas qu'une question de chiffres — c'est une question de **santé mentale**.
+
+Quand tu sais que tu as 3 mois de charges devant toi, des choses changent dans ta tête :
+
+- Tu dors mieux (vraiment — des études le montrent)
+- Tu prends de meilleures décisions au quotidien (moins de stress = moins d'achats impulsifs)
+- Tu peux dire non à un job toxique, parce que tu sais que tu peux tenir
+- Tu n'as plus peur d'ouvrir ton appli bancaire
+- Chaque imprévu ne devient plus un drame
+
+Ce n'est pas un luxe. C'est la **base de toute vie financière saine**. Et surtout, c'est accessible à toi, quel que soit ton revenu — parce que c'est la régularité qui compte, pas le montant mensuel.
+
+Pour aller plus loin sur les montants précis selon ta situation, lis [Épargne de précaution : combien mettre de côté](/blog/epargne-de-precaution-combien). Et pour installer le système automatique qui construit ton fonds sans effort, découvre [Épargne automatique : la méthode pour épargner sans y penser](/blog/epargne-automatique-comment-mettre-en-place).
+
+## Ta première action aujourd'hui
+
+Fais le calcul de tes charges fixes mensuelles. Note le chiffre. C'est ton point de départ. Multiplie-le par 3 — c'est ton objectif minimum.
+
+Puis ouvre ton appli bancaire et mets en place un virement automatique mensuel vers ton Livret A. Même 30€. Même 20€. L'important, c'est de commencer.
+
+Dans 6 mois, tu auras un premier coussin. Dans 18 mois, tu auras un vrai fonds d'urgence. Et tu ne regarderas plus jamais ton argent de la même manière.
+
+---
+
+*Noory t'aide à construire ton fonds d'urgence étape par étape, sans pression. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
+  },
+  {
+    slug: "routine-financiere-dimanche",
+    title: "La routine financière du dimanche : 15 minutes pour reprendre le contrôle",
+    metaTitle: "Routine financière du dimanche : 15 min pour reprendre le contrôle | Noory",
+    metaDescription: "Chaque dimanche, 15 minutes avec un café. C'est tout ce qu'il faut pour garder le contrôle de ton argent.",
+    date: "2026-04-17",
+    readTime: "6 min",
+    intro: "Tu n'as pas besoin de 2 heures de budgétisation. Un rendez-vous hebdomadaire de 15 minutes le dimanche suffit à garder ton argent aligné avec ta vie.",
+    keywords: ["routine financière", "rituel dimanche argent", "gérer son budget hebdomadaire"],
+    content: `## Le concept : un rendez-vous hebdo avec ton argent
+
+On parle beaucoup de routine matinale, de routine sportive, de routine bien-être. Mais presque jamais de routine financière. Et pourtant, c'est l'une des plus puissantes.
+
+Le principe est simple : chaque dimanche, à un moment fixe, tu prends **15 minutes** pour regarder ton argent. Un café. Ton téléphone. Pas de stress, pas de pression — juste un rendez-vous régulier avec tes finances.
+
+Pourquoi ça marche tellement ? Parce que tu remplaces le "bruit permanent" de l'argent dans ta tête (la charge mentale, les micro-inquiétudes, l'évitement) par un **moment structuré**. Et ce moment structuré suffit à garder le contrôle toute la semaine.
+
+Voici comment découper ces 15 minutes.
+
+## Minute 1 à 5 : Vérifier le solde et les dernières transactions
+
+Ouvre ton appli bancaire. Regarde ton solde. Pas pour paniquer — pour savoir.
+
+Puis fais défiler les transactions de la semaine passée. Rapidement. L'objectif n'est pas de juger chaque dépense, c'est de **voir**. Est-ce qu'il y a quelque chose qui te surprend ? Un prélèvement oublié ? Un achat dont tu ne te souviens plus ?
+
+Cette simple habitude règle 50% du problème. Parce que ce que tu vois, tu peux le gérer. Ce que tu ne vois pas, te contrôle.
+
+Beaucoup de gens évitent de regarder par peur. La première fois que tu le fais, ça peut être inconfortable. Dès la deuxième semaine, c'est presque apaisant. Parce que l'incertitude est bien pire que la réalité, dans 80% des cas.
+
+## Minute 5 à 10 : Catégoriser (besoins, envies, fuites)
+
+Reprends ta liste de transactions. Pour chaque dépense significative (au-dessus de 20€), pose-toi cette question simple à 3 options :
+
+- **Besoin** : c'était nécessaire (loyer, courses essentielles, facture)
+- **Envie** : c'était un plaisir que j'ai choisi consciemment (restaurant, vêtement que j'aime, sortie)
+- **Fuite** : je l'ai fait sans réfléchir, je ne suis pas sûr·e que ça m'apporte quelque chose
+
+Pas de jugement sur ces 3 catégories. Les **envies** sont OK — elles font partie d'une vie équilibrée. Ce qu'on veut identifier, ce sont les **fuites** : ces dépenses automatiques, impulsives, que tu ne choisis pas vraiment.
+
+Au bout de 3-4 dimanches, un pattern va apparaître. Souvent : les fuites se concentrent sur un type de dépense précis (livraison de repas, achats en ligne le soir, cafés à emporter). C'est là que l'action deviendra ciblée.
+
+Pour approfondir ce tri, lis [Comment tracker ses dépenses simplement](/blog/tracker-ses-depenses-simplement).
+
+## Minute 10 à 12 : Ajuster la semaine à venir
+
+Maintenant regarde la semaine qui arrive :
+
+- Qu'est-ce qui est déjà prévu (sortie, restaurant, achats) ?
+- Est-ce qu'il y a un prélèvement gros à venir ?
+- Est-ce qu'il y a des jours chargés où tu risques de craquer sur la livraison de repas ?
+
+À partir de là, prends **une décision concrète** pour la semaine :
+
+- "Cette semaine je cuisine le lundi et le mercredi soir"
+- "Cette semaine je ne commande rien sur Amazon"
+- "Cette semaine je prévois 30€ de budget loisirs, pas plus"
+
+Une seule décision. Précise. Réaliste. Elle devient ton "contrat de la semaine".
+
+## Minute 12 à 15 : Check l'épargne du mois
+
+Regarde ton compte épargne. Est-ce que ton virement automatique est bien passé ce mois-ci ? Combien tu as mis de côté au total ce mois-ci ? Es-tu dans les clous de ton objectif ?
+
+Cette vérification de 3 minutes crée un ancrage puissant. Tu ne mets pas juste de l'argent de côté dans le vide — tu le **vois grandir**. Et voir grandir, c'est la meilleure motivation qui existe.
+
+Si tu es en avance → félicite-toi (pas d'achat compensatoire, juste une reconnaissance mentale).
+Si tu es en retard → identifie pourquoi, et ajuste la semaine prochaine. Pas de drame.
+
+## Pourquoi le dimanche, spécifiquement ?
+
+Tu pourrais faire ce rituel n'importe quel jour. Mais le dimanche a trois avantages uniques :
+
+### L'effet reset
+
+Le dimanche, tu quittes la semaine passée et tu prépares la suivante. C'est un moment de transition naturelle. Ton cerveau est déjà en mode "bilan + préparation". Ajouter tes finances à ce moment est naturel.
+
+### L'absence de pression immédiate
+
+Le lundi matin, tu es pressé·e, stressé·e. Le mardi soir, tu es fatigué·e. Le dimanche matin ou après-midi, tu es détendu·e. Et un rituel fait en paix est un rituel qui dure.
+
+### La symétrie hebdomadaire
+
+Faire la même chose chaque dimanche crée une boucle rassurante. Semaine après semaine, tu reviens à ce rendez-vous. Et au bout de 4 ou 5 fois, ça devient un réflexe.
+
+## Ce qu'il ne faut PAS faire pendant ces 15 minutes
+
+Quelques pièges à éviter :
+
+- **Ne pas faire de plan sur 12 mois** : trop abstrait, trop flou. Tu restes sur la semaine à venir, point.
+- **Ne pas remuer la culpabilité** : si une dépense t'énerve, note-la, pas de débat intérieur. L'émotion vient après l'action, pas avant.
+- **Ne pas dépasser 15 minutes** : au-delà, tu entres dans la rumination. Le but est d'agir, pas de ruminer.
+
+Cette distinction entre **rituel** et **rumination** est centrale. Le rituel apaise, la rumination épuise. On en parle aussi dans [Charge mentale financière : pourquoi l'argent t'épuise](/blog/charge-mentale-financiere).
+
+## Noory : la version 3 min/jour au lieu de 15 min/semaine
+
+Le parcours 28 jours de Noory fait exactement ce travail, mais découpé en micro-moments quotidiens : 3 minutes par jour, pour ne jamais accumuler de charge. Tu fais un check-in le matin, une micro-action dans la journée, et tu avances.
+
+Les deux approches sont valides :
+- 15 min le dimanche (rituel hebdo, autonome)
+- 3 min par jour (rituel quotidien, accompagné par l'app)
+
+Si tu cherches une routine bien-être autour de l'argent, le profil du [Quêteur de Sérénité](/profil/queteur-de-serenite) est peut-être le tien. Et si tu ne sais pas où part ton argent chaque mois, lis [Où passe mon argent chaque mois](/blog/ou-passe-mon-argent-chaque-mois).
+
+## Ton premier dimanche, c'est ce weekend
+
+Tu n'as pas besoin d'app, pas besoin de tableur, pas besoin d'être expert·e en finance. Tu as besoin d'un téléphone, d'un café, et de 15 minutes.
+
+Ce dimanche. Pose-toi. Ouvre ton appli bancaire. Fais les 4 étapes. Dans 4 semaines, tu seras surpris·e du contrôle que tu auras retrouvé.
+
+---
+
+*Noory transforme le rituel hebdomadaire en check-in quotidien de 3 minutes. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
+  },
+  {
+    slug: "depenses-inutiles-couper-sans-souffrir",
+    title: "Couper ses dépenses inutiles sans souffrir (la méthode douce)",
+    metaTitle: "Couper ses dépenses inutiles sans souffrir | Noory",
+    metaDescription: "Tu veux réduire tes dépenses mais pas vivre comme un moine ? Voici la méthode douce pour couper le superflu sans frustration.",
+    date: "2026-04-17",
+    readTime: "6 min",
+    intro: "Tu veux réduire tes dépenses, mais pas vivre comme un moine. Bonne nouvelle : tu peux couper le superflu sans te priver. Voici la méthode douce.",
+    keywords: ["réduire dépenses", "couper abonnements", "économiser sans se priver"],
+    content: `## Pourquoi "tout couper" ne marche jamais
+
+Tu as sûrement déjà essayé. Un moment de motivation (souvent après une fin de mois difficile), et tu décides : "Plus de restos. Plus d'Uber. Plus d'Amazon. J'arrête tout."
+
+3 jours plus tard, tu craques. Tu te sens coupable. Tu te dis "je suis nul·le avec l'argent". Et tu retombes dans le schéma de départ — parfois en pire, parce que la culpabilité déclenche encore plus d'achats impulsifs.
+
+Ce n'est pas ta faute. C'est la méthode qui est mauvaise.
+
+Couper tout d'un coup est l'équivalent financier des régimes extrêmes. Ça marche 2 semaines, puis ton cerveau se rebelle, et l'effet yo-yo s'installe. La méthode durable est l'inverse : **petite, progressive, ciblée**.
+
+## Étape 1 : La liste des abonnements (fais-la maintenant)
+
+Prends ton téléphone. Ouvre ton appli bancaire. Filtre par "prélèvements récurrents" ou regarde tes 3 derniers relevés.
+
+Liste **tous** tes abonnements. Tous. Même les petits. Même ceux que tu avais oubliés.
+
+Ça inclut :
+- Streaming (Netflix, Disney+, Spotify, Apple Music...)
+- Salle de sport / app de fitness
+- Abonnements presse / magazines
+- Cloud (iCloud, Dropbox, Google One)
+- Apps mobiles (productivité, méditation, dating...)
+- Services (Amazon Prime, box internet premium...)
+- Assurances non essentielles
+
+Fais le total. La moyenne française est entre 80€ et 150€ d'abonnements mensuels. Certains découvrent qu'ils ont 200€+ de récurrents qu'ils avaient complètement oubliés.
+
+Cette simple prise de conscience fait la moitié du travail.
+
+## Étape 2 : La règle du "est-ce que je l'ai utilisé cette semaine ?"
+
+Pour chaque abonnement de ta liste, pose-toi la question : **"Est-ce que je l'ai vraiment utilisé cette semaine ?"**
+
+Pas "est-ce que j'en ai eu besoin en théorie". Pas "est-ce que ça pourrait servir un jour". **Est-ce que tu l'as vraiment utilisé cette semaine ?**
+
+Classe en 3 catégories :
+
+- **Utilisé cette semaine** → à garder
+- **Utilisé ce mois** mais pas cette semaine → zone grise, tu reprends dans 2 semaines
+- **Pas utilisé depuis plus d'un mois** → candidat sérieux à la coupe
+
+Le pouvoir de cette question, c'est qu'elle remplace les arguments abstraits ("je pourrais l'utiliser", "c'est pas cher") par une réalité concrète. Un abonnement que tu n'utilises pas n'a aucune valeur — même s'il ne coûte que 8€/mois.
+
+## Étape 3 : Les 3 catégories — vital, plaisir réel, automatisme
+
+Pour toutes tes autres dépenses (pas seulement les abonnements), utilise cette grille à 3 cases :
+
+### Vital
+
+Ce dont tu as vraiment besoin pour vivre : loyer, charges, courses essentielles, transport pour le travail. Non négociable.
+
+### Plaisir réel
+
+Les dépenses qui te **rendent vraiment heureux·se**. Le resto du samedi avec ta meilleure amie. Le yoga le mardi soir. Le livre mensuel. Le café dans **ce** café que tu aimes. Ce sont tes "non-négociables émotionnels" — tu les gardes sans culpabilité.
+
+### Automatisme
+
+Ce que tu fais par habitude, sans y penser : la livraison de repas parce que tu es fatigué·e, le café à emporter tous les matins parce que "c'est le rituel", l'abonnement qui coûte 12€ que tu n'utilises plus. **C'est ici que se trouvent tes économies.**
+
+La méthode ne consiste pas à couper les plaisirs. Elle consiste à couper les **automatismes**. Et ça, ça ne fait pas souffrir — au contraire, ça libère.
+
+## Étape 4 : Ne pas tout couper d'un coup
+
+Tu as identifié 8 automatismes à couper ? Ne coupe pas les 8 cette semaine.
+
+Coupe **1 par semaine**.
+
+Semaine 1 : tu annules l'abonnement à l'app de méditation que tu n'as pas ouverte depuis 4 mois. Tu observes. Est-ce qu'il te manque ? Non ? OK, on continue.
+
+Semaine 2 : tu te limites à 1 Uber Eats max. Tu cuisines le reste. Tu observes. Est-ce difficile ? Plaisant ? Supportable ?
+
+Semaine 3 : tu annules la salle de sport que tu n'as plus fréquentée depuis 6 mois. Tu testes d'autres formes de mouvement gratuites.
+
+Et ainsi de suite. En 8 semaines, tu as coupé les 8 automatismes. Sans choc, sans frustration. Et surtout : sans rechute, parce que ton cerveau a eu le temps de s'adapter à chaque changement.
+
+## Étape 5 : Réaffecter ce que tu coupes
+
+Voici la clé psychologique : **ne laisse pas l'argent "gagné" disparaître dans ton compte courant**. Sinon, il se redilue dans ton quotidien et tu ne verras rien.
+
+Dès que tu coupes un abonnement à 12€, fais un virement automatique de 12€ vers ton épargne ou ton projet. **Le même jour**. La même logique : tu as libéré 12€ de ton budget, tu les réalloues volontairement.
+
+Au bout de 8 semaines, si tu as coupé 8 automatismes à une moyenne de 15€, tu as libéré 120€/mois. Sur un an, c'est 1 440€ qui vont directement vers ton objectif. Sans te priver, sans souffrir, sans avoir changé radicalement ton mode de vie.
+
+Pour structurer cette épargne automatique, lis [Épargne automatique : la méthode complète](/blog/epargne-automatique-comment-mettre-en-place).
+
+## Ce n'est pas se priver, c'est choisir
+
+Voilà la vérité qu'on ne t'explique pas : couper ses dépenses inutiles, ce n'est pas se priver. C'est le contraire.
+
+Quand tu dépenses par automatisme, tu n'as pas choisi. Tu as subi. Le marketing a choisi pour toi. La publicité a choisi pour toi. Ton habitude a choisi pour toi. Tu n'es pas plus heureux·se pour autant — tu es juste plus pauvre.
+
+Couper les automatismes, c'est reprendre le volant. C'est dire : "Je décide ce qui compte pour moi, et je mets mon argent là." Et cette reprise de contrôle crée une vraie satisfaction — bien plus profonde que le soulagement éphémère d'un achat impulsif.
+
+Si tu te sens coupable de te faire plaisir avec ton argent, lis [Dépense plaisir sans culpabiliser](/blog/depense-plaisir-sans-culpabiliser). Et pour comprendre la méthode budget la plus simple, lis [Budget pour les nuls](/blog/budget-pour-les-nuls).
+
+## Ton prochain geste
+
+Ouvre ton appli bancaire maintenant. Regarde tes abonnements. Identifie-en **un** que tu n'as pas utilisé cette semaine. Annule-le. C'est tout.
+
+En 5 minutes, tu viens de libérer 10, 15, 20€ par mois. De manière permanente. Sans douleur. Et tu as posé la première pierre d'un mode de vie financier plus conscient.
+
+Semaine prochaine, tu en couperas un deuxième. Et dans 2 mois, tu auras transformé ton budget sans jamais avoir eu l'impression de te priver.
+
+---
+
+*Noory t'aide à distinguer tes automatismes de tes vrais plaisirs, sans jugement. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
+  },
+  {
+    slug: "tracker-ses-depenses-simplement",
+    title: "Comment tracker ses dépenses simplement (sans app compliquée)",
+    metaTitle: "Tracker ses dépenses simplement, sans app compliquée | Noory",
+    metaDescription: "Pas besoin d'une app à 47 catégories. Voici la méthode ultra-simple pour savoir où part ton argent.",
+    date: "2026-04-16",
+    readTime: "6 min",
+    intro: "Tu as essayé 3 apps de tracking de dépenses et tu les as toutes abandonnées au bout d'une semaine ? Normal. Voici une méthode ultra-simple qui tient.",
+    keywords: ["tracker ses dépenses", "suivre ses dépenses", "méthode simple budget"],
+    content: `## Pourquoi les apps de tracking échouent (presque) toutes
+
+Tu télécharges une app de gestion de budget. Au début, tu es motivé·e. Tu catégorises, tu saisis, tu remplis. Au bout de 5 jours, tu oublies une saisie. Au bout de 10 jours, tu n'ouvres plus l'app. Au bout d'un mois, tu la désinstalles.
+
+Rassure-toi : ce n'est pas toi. C'est la méthode.
+
+La majorité des apps de tracking demandent trop :
+- Trop de catégories (alimentation, transport, loisirs, santé, vêtements, abonnements, voyages, éducation, cadeaux...)
+- Trop de saisie (chaque transaction, chaque jour, chaque détail)
+- Trop de précision (tel café à 2,80€, tel métro à 1,90€)
+
+Pour qui ? Pour l'app. Pas pour toi. Toi, tu as besoin d'une information actionnable, pas d'un tableau Excel en 47 dimensions.
+
+La bonne nouvelle : tracker efficacement ses dépenses ne demande pas de tout noter. Ça demande de noter **ce qui compte**. Et ce qui compte, c'est beaucoup plus simple que tu ne le penses.
+
+## La méthode 3 catégories : besoins, envies, regrets
+
+Oublie les 15 catégories habituelles. Tu n'as besoin que de 3 :
+
+### Besoins
+
+Tout ce qui est vital et non négociable : loyer, charges, courses essentielles, transport pour bosser, factures.
+
+Tu ne les traques pas en détail. Tu connais les grandes lignes et elles ne bougent pas beaucoup d'un mois à l'autre.
+
+### Envies
+
+Les dépenses plaisir que tu **choisis consciemment** : restos, sorties, vêtements que tu aimes, abonnements que tu utilises, voyages.
+
+Ces dépenses ne sont pas un problème — elles font partie d'une vie équilibrée. Tu les suis juste du coin de l'œil.
+
+### Regrets
+
+**C'est LA catégorie à tracker**. Ce sont les achats que tu regrettes après coup. Les livraisons de repas à 3h du mat quand tu n'avais pas vraiment faim. Le vêtement acheté en promo que tu n'as jamais porté. L'abonnement que tu as oublié d'annuler depuis 4 mois.
+
+Ces regrets, ce ne sont pas "des erreurs". Ce sont les **signaux** qui te montrent où ton argent part malgré toi.
+
+## La méthode concrète : noter uniquement les regrets pendant 1 semaine
+
+Pendant 7 jours, tu ne notes QUE les regrets. Rien d'autre.
+
+Chaque fois que tu fais un achat et qu'en y repensant plus tard tu te dis "mmh, j'aurais pu m'en passer" — tu le notes. Dans tes notes de téléphone. Trois infos :
+
+1. **Le montant**
+2. **L'objet** (café, Uber Eats, vêtement, abonnement)
+3. **L'émotion du moment** (fatigué·e, stressé·e, triste, en colère, ennuyé·e)
+
+Rien d'autre. Pas de catégorie, pas de tableur. Trois lignes, 30 secondes.
+
+Au bout de 7 jours, tu as un document puissant : la liste de tes achats regrettés avec leur déclencheur émotionnel. Et ce document va te révéler des choses que tu ne voyais pas.
+
+## Ce que ça révèle (et c'est souvent surprenant)
+
+Au bout d'une semaine de "journal des regrets", tu vas voir apparaître des **patterns**. Presque toujours les mêmes :
+
+- **Un moment précis** : "toujours le soir après 22h", "toujours le mercredi quand j'ai ma réunion stressante", "toujours le dimanche quand je m'ennuie"
+- **Une émotion précise** : "toujours quand je suis fatigué·e", "toujours après un conflit", "toujours quand je viens de voir Instagram"
+- **Un canal précis** : "toujours sur Amazon", "toujours sur Uber Eats", "toujours en boutique quand je me promène sans but"
+
+Ces patterns sont en or. Parce qu'ils transforment un problème flou ("je dépense trop") en problème concret ("je commande à manger 4 fois par semaine entre 20h et 22h quand je suis épuisé·e"). Et un problème concret, tu peux agir dessus.
+
+Beaucoup de gens découvrent qu'une seule habitude représente 40 à 60% de leurs regrets d'achat. C'est à dire que changer **une seule chose** peut transformer l'ensemble du budget. C'est énorme.
+
+## Passer du tracking au changement
+
+Tracker, c'est bien. Mais tracker sans agir, c'est comme peser sur une balance sans rien faire d'autre : ça n'a aucun effet.
+
+Une fois ton pattern identifié, passe à l'action **simplement** :
+
+- Pattern "Uber Eats le soir quand fatigué·e" → Prépare 2 repas le dimanche pour les soirs de semaine chargés
+- Pattern "achats en ligne quand stressé·e" → Désinstalle les apps shopping, remplace l'impulsion par 5 minutes de marche
+- Pattern "café à emporter tous les matins" → Si c'est un vrai plaisir : garde-le. Si c'est juste un automatisme : achète une bonne thermos, économie = 60€/mois
+- Pattern "sorties en boutique qui coûtent" → Évite les centres commerciaux le samedi, propose des activités gratuites à tes potes
+
+La règle d'or : **change une seule chose à la fois**. Pas toutes en même temps. Une, installée pendant 2-3 semaines, avant d'en ajouter une autre.
+
+## Ce que tu arrêtes de faire (et qui est libérateur)
+
+Avec cette méthode, tu arrêtes plusieurs choses épuisantes :
+
+- Tu arrêtes de te sentir coupable de chaque dépense plaisir (les envies assumées sont OK)
+- Tu arrêtes de passer 20 minutes par jour à catégoriser
+- Tu arrêtes de te mentir ("j'ai pas trop dépensé ce mois-ci") parce que les chiffres sont là
+- Tu arrêtes la charge mentale du contrôle permanent
+
+Tu gardes uniquement le focus sur ce qui compte vraiment : les patterns qui te font saigner.
+
+Pour une vision plus large sur où part ton argent chaque mois, lis [Où passe mon argent chaque mois](/blog/ou-passe-mon-argent-chaque-mois). Et si tes regrets sont surtout émotionnels, le profil du [Dépensier Émotionnel](/profil/depensier-emotionnel) pourrait t'éclairer.
+
+## Noory intègre ce tracking dans ton rituel quotidien
+
+Le check-in quotidien de Noory intègre ce principe : pas de saisie manuelle fastidieuse. Juste 3 minutes par jour pour te connecter à ton argent, identifier les patterns émotionnels qui pilotent tes dépenses, et agir en conscience.
+
+Plus tu avances dans le parcours 28 jours, plus tu identifies tes propres déclencheurs — et plus les dépenses regret diminuent naturellement. Pas par discipline. Par compréhension.
+
+## Ton premier test : 7 jours de journal de regrets
+
+Démarre aujourd'hui. Ouvre tes notes de téléphone. Crée une note "Mes regrets d'achat - semaine du [date]". Et pendant 7 jours, note chaque achat que tu regrettes.
+
+Le 8e jour, relis la note tranquillement. Les patterns vont te sauter aux yeux. Et à partir de là, le changement devient simple. Pas facile — mais **simple**. La différence est énorme.
+
+---
+
+*Noory t'aide à identifier tes patterns de dépense sans te noyer dans les chiffres. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
+  },
+  {
+    slug: "objectif-financier-comment-le-definir",
+    title: "Comment définir un objectif financier qui te motive vraiment",
+    metaTitle: "Définir un objectif financier qui te motive vraiment | Noory",
+    metaDescription: "Épargner sans objectif c'est comme courir sans ligne d'arrivée. Voici comment définir un objectif qui te donne envie de continuer.",
+    date: "2026-04-16",
+    readTime: "6 min",
+    intro: "Épargner sans but précis, c'est comme courir sans ligne d'arrivée : ça fatigue et ça n'avance pas. Voici comment définir un objectif qui te donne envie de continuer.",
+    keywords: ["objectif financier", "objectif épargne", "se fixer un but financier"],
+    content: `## Pourquoi "mettre de côté" ne suffit pas
+
+Tu te dis peut-être : "Je vais mettre de côté chaque mois."
+
+Essayons autre chose : "Je vais courir chaque semaine."
+
+Tu sens la différence ? La deuxième phrase aussi est floue. Courir combien de temps ? À quelle allure ? Pour quelle distance ? Pour préparer quoi ? Sans réponse à ces questions, la motivation s'effondre au bout de 3 semaines.
+
+L'épargne, c'est pareil. "Mettre de côté" est trop vague pour faire travailler ton cerveau. Ton cerveau a besoin d'un **but concret** pour orienter son énergie. Sans but, chaque euro mis de côté est "en concurrence" avec chaque envie du quotidien. Et les envies gagnent toujours.
+
+La psychologie le montre : les personnes qui ont un objectif d'épargne précis épargnent en moyenne **2 à 3 fois plus** que celles qui "mettent de côté" sans but. Pour le même revenu.
+
+## La méthode SMART version finances personnelles
+
+SMART est un acronyme classique pour définir des objectifs qui tiennent. Appliqué aux finances, ça donne :
+
+### S comme Spécifique
+
+Pas "épargner". Pas "mettre de côté". Tu dois pouvoir nommer **précisément** ton objectif.
+
+- ❌ "Faire un voyage"
+- ✅ "Faire un voyage au Japon avec Marie en octobre 2027"
+
+Plus c'est précis, plus ton cerveau visualise. Et plus il visualise, plus il priorise.
+
+### M comme Mesurable
+
+Un montant, en euros. Précis.
+
+- ❌ "Avoir un apport"
+- ✅ "Avoir 15 000€ d'apport"
+
+Comment calculer ? Pour un voyage : budget vol + hébergement + sur place + marge imprévue. Pour un apport : 10% du prix du bien visé. Pour un fonds d'urgence : 3 mois de charges fixes × ton montant. Sois concret.
+
+### A comme Atteignable
+
+Ton objectif doit être **réaliste** au vu de ton revenu.
+
+Si tu gagnes 1 800€ et que tu veux 30 000€ dans 6 mois, tu t'installes dans l'échec. Si tu veux 10 000€ en 2 ans, c'est 420€/mois — serré mais possible. Si tu veux 5 000€ en 2 ans, c'est 210€/mois — confortable.
+
+L'objectif doit t'étirer sans te casser. S'il est trop facile, tu ne bouges pas. S'il est trop dur, tu abandonnes.
+
+### R comme Relevant (pertinent)
+
+Est-ce que cet objectif compte **vraiment pour toi** — ou est-ce que c'est un objectif que tu crois devoir avoir ?
+
+Beaucoup de gens se fixent "acheter un appart" parce que "il faut". Mais au fond, ils voudraient d'abord voyager 6 mois. L'objectif est bon s'il te fait vibrer quand tu y penses. Sinon, tu travailles contre toi-même.
+
+### T comme Temporellement défini
+
+Une **date**. Pas "bientôt", pas "un jour", pas "quand je pourrai".
+
+- ❌ "Un jour, j'aimerais ouvrir un studio de yoga"
+- ✅ "Ouvrir mon studio de yoga en septembre 2028"
+
+La date transforme un rêve en projet. Et un projet, tu peux le découper.
+
+## Le test en 2 minutes : ton objectif est-il bon ?
+
+Reformule ton objectif en une seule phrase, au format :
+
+*"[Montant] pour [quoi] par [date]."*
+
+Exemples qui marchent :
+- "3 000€ pour mon voyage en Asie en décembre 2027"
+- "10 000€ d'apport pour mon premier appart en juin 2028"
+- "5 000€ de fonds d'urgence d'ici mars 2027"
+- "8 000€ pour lancer mon micro-business en janvier 2028"
+
+Si tu peux écrire ton objectif comme ça, tu es bon·ne. Si tu bloques sur une partie (le montant, la date, le pourquoi), c'est que l'objectif n'est pas encore assez clair. Travaille-le jusqu'à ce qu'il passe le test.
+
+## Découper en mini-paliers : la vraie astuce
+
+Voici où la plupart des gens échouent : ils fixent un gros objectif (ex. 10 000€) et regardent la montagne devant eux. La motivation dure 3 semaines.
+
+La clé : **découper l'objectif en paliers accessibles**.
+
+10 000€ en 2 ans, c'est :
+- 5 000€ en 1 an (mi-parcours)
+- 2 500€ en 6 mois (premier gros palier)
+- 415€ par mois (rythme mensuel)
+- 96€ par semaine (rythme hebdo)
+- 14€ par jour (rythme quotidien)
+
+Chacun de ces chiffres est un **mini-objectif** que tu peux célébrer. Ton cerveau adore les petites victoires. Et accumuler des petites victoires, c'est ce qui crée la motivation durable.
+
+## Visualiser ton objectif : pourquoi c'est puissant
+
+Fais ça maintenant : colle une photo de ton objectif **quelque part que tu regardes chaque jour**. Le frigo. Le fond d'écran de ton téléphone. Le miroir de la salle de bain.
+
+- Voyage au Japon → photo de Kyoto sous les cerisiers
+- Appart → photo du type d'appart que tu veux
+- Studio de yoga → photo d'un studio inspirant
+
+C'est ringard ? Non. C'est du neuromarketing appliqué à toi-même. Ton cerveau prend les décisions quotidiennes en fonction de ce qu'il voit. Si tu vois ton objectif 10 fois par jour, il influence 10 fois plus tes choix que si tu n'y penses qu'une fois par mois.
+
+Cette technique a été prouvée dans des dizaines d'études. Les athlètes l'utilisent depuis 50 ans. Ça marche aussi pour l'argent.
+
+## Célébrer les paliers (c'est plus important que tu ne le crois)
+
+À 25% de ton objectif : prends un vrai moment pour célébrer. Pas un achat compensatoire — juste une reconnaissance consciente. Un bon repas, un moment avec quelqu'un que tu aimes, une balade dans un endroit que tu adores.
+
+À 50% : pareil. Avec un peu plus d'ampleur.
+
+À 75% : pareil.
+
+À 100% : tu vis ton objectif à fond, sans culpabilité (tu l'as mérité).
+
+Pourquoi c'est crucial ? Parce que sans ces moments de reconnaissance, ton cerveau ne perçoit pas la progression comme une récompense. Et sans récompense, il cherche ailleurs — souvent dans des achats impulsifs qui cassent la progression. Célébrer les paliers protège ton objectif contre le sabotage inconscient.
+
+## L'approche Noory : le parcours construit autour de TON objectif
+
+Noory ne te propose pas un objectif générique. Le parcours 28 jours commence par identifier **ton** objectif — celui qui te fait vibrer — et construit tout le reste autour.
+
+Chaque action quotidienne est reliée à ce pourquoi. Tu ne mets pas "de côté" dans le vide : tu avances **vers ton Japon**, vers **ton appart**, vers **ta liberté**. Et cette connexion rend les gestes quotidiens infiniment plus faciles.
+
+Si tu as les idées mais pas l'action, le profil du [Bâtisseur Bloqué](/profil/batisseur-bloque) est peut-être le tien. Noory est conçu pour débloquer exactement ce passage à l'action. Et si la motivation est ton point faible, lis aussi [Épargner quand on n'a pas la motivation](/blog/epargner-quand-on-a-pas-la-motivation).
+
+## Ton exercice de 10 minutes, maintenant
+
+Prends 10 minutes. Prends un carnet, une note, n'importe quoi. Et écris :
+
+1. Un objectif qui te fait vibrer (SMART)
+2. Le montant précis
+3. La date précise
+4. Le découpage mensuel/hebdo
+5. La photo que tu vas regarder chaque jour
+
+En 10 minutes, tu as transformé une vague idée d'épargne en projet concret. Et ton cerveau, à partir de maintenant, travaille pour toi — pas contre toi.
+
+---
+
+*Noory construit ton parcours 28 jours autour de ton objectif personnel. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
+  },
+  {
+    slug: "relation-saine-argent",
+    title: "Comment construire une relation saine avec l'argent",
+    metaTitle: "Construire une relation saine avec l'argent : le guide complet | Noory",
+    metaDescription: "L'argent te stresse, te culpabilise ou t'angoisse ? Voici comment transformer ta relation à l'argent en quelque chose de serein.",
+    date: "2026-04-15",
+    readTime: "8 min",
+    intro: "L'argent te stresse, te culpabilise, te fait honte ou t'angoisse ? Tu n'es pas seul·e. Et surtout, ça se change. Voici comment construire une relation saine avec l'argent.",
+    keywords: ["relation saine argent", "rapport à l'argent", "psychologie argent"],
+    content: `## L'argent n'est pas sale — déconstruire le tabou français
+
+En France, parler d'argent est culturellement chargé. On t'a probablement appris (directement ou indirectement) que :
+- "L'argent ne fait pas le bonheur"
+- "Les riches sont des requins"
+- "C'est vulgaire de parler de son salaire"
+- "L'argent corrompt"
+- "C'est mieux d'être pauvre et honnête que riche et malhonnête"
+
+Toutes ces phrases ont un point commun : elles associent l'argent à quelque chose de **moralement problématique**. Sale. Vulgaire. Dangereux.
+
+Mais l'argent, en soi, n'a aucune morale. C'est un outil neutre. Un medium d'échange. C'est ce que **tu en fais** qui peut être sale ou honorable — exactement comme un couteau peut servir à préparer un dîner ou à blesser. L'outil n'est pas le problème.
+
+Le vrai problème, c'est que ce tabou culturel a contaminé ta relation personnelle à l'argent. Et pour construire une relation saine, il faut d'abord reconnaître l'origine du mal.
+
+## D'où vient ta relation actuelle à l'argent
+
+Ta relation à l'argent, tu ne l'as pas inventée. Tu l'as **héritée**.
+
+Pose-toi ces questions honnêtement :
+
+- Quand tu étais enfant, comment tes parents parlaient-ils de l'argent ?
+- Est-ce qu'il y avait des disputes d'argent à la maison ? Quel ton ? Quelle ambiance ?
+- Quand tu demandais quelque chose, quelle était la réponse type ? ("On n'a pas les moyens", "Tu ne te rends pas compte", "Dépense pas comme ça"...)
+- Est-ce qu'on te cachait des choses sur l'argent (salaire des parents, dettes, difficultés) ?
+- Comment les adultes autour de toi réagissaient face à quelqu'un qui avait "trop" d'argent ?
+
+Tes réponses révèlent ton **héritage financier émotionnel**. Pas ton héritage en euros — ton héritage en croyances et en émotions autour de l'argent. Et cet héritage pilote 80% de tes comportements actuels, que tu le saches ou non.
+
+La bonne nouvelle : ce que tu as appris inconsciemment, tu peux le désapprendre consciemment. Ça prend du temps, mais c'est possible. Le parcours 28 jours de Noory est construit autour de ce travail.
+
+## Les 4 croyances toxiques les plus fréquentes
+
+Parmi toutes les croyances héritées, 4 reviennent systématiquement. Reconnais-tu certaines ?
+
+### "L'argent corrompt"
+
+Si tu crois que l'argent corrompt, tu vas **inconsciemment saboter** tout signe de réussite financière. Tu vas dépenser dès que tu gagnes plus. Tu vas refuser les opportunités qui rapportent. Tu vas culpabiliser à chaque euro épargné au-delà d'un certain seuil.
+
+La vérité : l'argent n'a pas de moralité. Il **amplifie** qui tu es déjà. Si tu es généreux·se, plus d'argent = plus de générosité. Si tu es égoïste, plus d'argent = plus d'égoïsme. L'argent révèle, il ne transforme pas.
+
+### "Je ne mérite pas"
+
+Cette croyance est une bombe. Elle te pousse à refuser les augmentations, à ne pas demander ce qui te revient, à gagner systématiquement moins que ta valeur réelle. Elle vient souvent d'une enfance où l'on t'a fait sentir "pas assez".
+
+La vérité : mériter n'est pas une condition préalable pour gagner dignement sa vie. Tu n'as pas besoin de "mériter" — tu as besoin d'**accueillir**. Tes compétences ont une valeur sur le marché, point.
+
+### "C'est égoïste de vouloir de l'argent"
+
+Cette croyance transforme chaque objectif financier en culpabilité morale. Tu n'oses pas dire "je veux gagner plus" sans ajouter "mais juste ce qu'il faut" — comme s'il fallait s'excuser d'avoir de l'ambition.
+
+La vérité : vouloir de l'argent, c'est souvent vouloir de la **liberté**. De la sécurité. Du temps avec tes proches. De la capacité à aider les autres. Rien d'égoïste là-dedans. Au contraire : quelqu'un de financièrement solide peut donner bien plus que quelqu'un qui galère.
+
+### "J'y comprendrai jamais rien"
+
+C'est la croyance d'évitement. Tu te persuades que la finance, c'est trop compliqué pour toi. Tu laisses tomber avant d'essayer. Et comme tu ne t'y intéresses pas, tu te coupes des connaissances qui t'auraient aidé·e.
+
+La vérité : la finance personnelle **n'est pas compliquée**. Elle est rendue compliquée par des gens qui vendent du service. Mais les bases — épargner, dépenser consciemment, éviter les dettes toxiques, se fixer des objectifs — tiennent sur 2 pages. Tu peux apprendre.
+
+## Remplacer chaque croyance par une version saine
+
+Le travail n'est pas de "chasser" les croyances toxiques — elles ne s'en vont pas comme ça. Le travail, c'est de les **remplacer**.
+
+- "L'argent corrompt" → "L'argent amplifie qui je suis. Je peux utiliser cet outil avec mes valeurs."
+- "Je ne mérite pas" → "Mes compétences ont une valeur. Je peux la demander et l'accueillir."
+- "C'est égoïste" → "Vouloir de la liberté financière n'est pas égoïste. C'est prendre soin de ma vie et de celle des autres."
+- "J'y comprendrai rien" → "Les bases tiennent sur 2 pages. Je peux apprendre une chose nouvelle chaque semaine."
+
+Écris ces nouvelles croyances quelque part. Relis-les. Chaque jour, pendant 28 jours. Ça paraît simpliste — c'est littéralement la méthode du coaching cognitif, et ça marche.
+
+## L'argent est un outil, pas une identité
+
+Voici l'un des principes les plus importants de ce travail : **ton compte en banque ne définit pas ta valeur**.
+
+- Tu es endetté·e → tu n'es pas un·e raté·e
+- Tu as 50€ sur ton livret → tu n'es pas "en retard"
+- Tu gagnes peu → tu n'es pas "moins" que les autres
+- Tu gagnes beaucoup → tu n'es pas "mieux" que les autres
+
+Ton identité, c'est qui tu es. Tes valeurs. Tes relations. Tes actions. Tes passions. Ton compte en banque est un chiffre — parfois gros, parfois petit, toujours temporaire.
+
+Quand tu arrêtes de te confondre avec ton solde, deux choses changent :
+1. Les montagnes russes financières deviennent moins violentes (une mauvaise semaine n'est plus une attaque contre ton identité)
+2. Tu prends de meilleures décisions (parce qu'elles ne sont plus pilotées par la peur ou la honte)
+
+## Exercice : écris une lettre à ton argent
+
+Ça va te paraître bizarre. Fais-le quand même.
+
+Prends un stylo. Une feuille. Et écris une lettre à ton argent. Oui, comme à une personne. Dis-lui ce que tu ressens.
+
+- "Je suis en colère contre toi parce que..."
+- "Je t'ai ignoré pendant des années parce que..."
+- "J'aimerais qu'on ait une meilleure relation, mais..."
+- "Ce que j'attends de toi maintenant, c'est..."
+
+Cet exercice, aussi ridicule qu'il paraisse, a un effet profond. Parce qu'il te force à **nommer** ce que tu ressens face à l'argent. Et ce que tu nommes, tu peux le travailler.
+
+Beaucoup de gens découvrent, en faisant cet exercice, qu'ils ont en fait une relation de **colère** avec l'argent (contre des parents qui en manquaient, contre eux-mêmes pour leurs erreurs passées, contre un système qui leur semble injuste). Et cette colère, tant qu'elle reste invisible, sabote toutes leurs tentatives.
+
+Pour aller plus loin sur ce lien, lis [Argent et émotions : comprendre le lien](/blog/argent-et-emotions-comprendre-le-lien). Et si la culpabilité est ton émotion dominante, [Culpabilité et argent](/blog/culpabilite-argent-depenser) est fait pour toi.
+
+## Noory t'accompagne pour transformer cette relation en 28 jours
+
+Changer sa relation à l'argent en 28 jours, ce n'est pas magique. Mais c'est possible si on aborde le sujet avec les bons outils.
+
+Noory n'est pas une app de budget. C'est un **accompagnement comportemental**. Chaque jour, une micro-action ciblée sur ta relation à l'argent : parfois un acte concret (un virement, une coupe de dépense), parfois un exercice émotionnel (observer, noter, reformuler).
+
+Au bout de 28 jours, tu n'as pas juste "mieux géré ton budget". Tu as transformé **ta relation à l'argent**. Et cette transformation, elle reste.
+
+Pour savoir quel profil financier tu es — et donc quelle relation tu entretiens avec l'argent — fais [le quiz Noory en 2 minutes](/quiz).
+
+## Le premier pas : regarde sans juger
+
+Aujourd'hui, fais un seul geste. Ouvre ton appli bancaire. Regarde ton solde. Et **observe ce que tu ressens**. Honte ? Soulagement ? Anxiété ? Indifférence ? Colère ?
+
+Note cette émotion. Ne la juge pas. Ne cherche pas à la changer.
+
+C'est ta première minute de travail conscient sur ta relation à l'argent. Et à partir d'ici, tout peut évoluer.
+
+---
+
+*Noory t'aide à transformer ta relation à l'argent, pas juste à mieux gérer ton budget. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
+  },
+  {
+    slug: "premiere-paie-5-reflexes",
+    title: "Première paie : les 5 réflexes à prendre dès le premier mois",
+    metaTitle: "Première paie : les 5 réflexes à prendre dès le début | Noory",
+    metaDescription: "Tu viens de recevoir ta première paie ? Voici les 5 réflexes à adopter maintenant pour ne pas galérer dans 6 mois.",
+    date: "2026-04-14",
+    readTime: "6 min",
+    intro: "Tu viens de recevoir ta première paie. Félicitations. Les 6 prochains mois vont déterminer ta relation à l'argent pour les 10 prochaines années. Voici les 5 réflexes à adopter maintenant.",
+    keywords: ["première paie", "premier salaire", "gérer premier job"],
+    content: `## Pourquoi les premiers mois sont décisifs
+
+Ta première paie, c'est un moment spécial. Tu passes de "l'argent des parents / du stage / de la bourse" à **ton argent**. Et à partir de là, tu commences à construire des habitudes — souvent inconsciemment.
+
+Les études le montrent : **les habitudes financières installées dans les 6 premiers mois de vie active persistent souvent pendant 10 à 20 ans**. Pas parce que tu ne peux pas les changer, mais parce que le cerveau n'a aucune raison de revoir un système qui "marche".
+
+C'est pour ça que ces premiers mois comptent énormément. Les réflexes que tu installes maintenant deviennent tes automatismes futurs. Et ces automatismes décideront si, à 30 ans, tu galères chaque fin de mois ou si tu as un vrai coussin de sécurité.
+
+Voici les 5 réflexes à installer dès **le premier mois**. Pas plus tard. Maintenant.
+
+## Réflexe 1 : Ouvre un deuxième compte (un pour vivre, un pour épargner)
+
+Ne garde pas tout ton argent sur un seul compte courant. C'est la pire configuration possible.
+
+Pourquoi ? Parce que tout ce qui est dans ton compte courant est **mentalement disponible**. Ton cerveau l'interprète comme "de l'argent à dépenser". Si ton épargne est mélangée à ton argent quotidien, elle est systématiquement mangée.
+
+La solution : **deux comptes**.
+
+1. **Compte courant** : ton argent du quotidien (charges, courses, plaisir)
+2. **Compte épargne séparé** : ton argent intouchable (livret A dans une autre banque idéalement, ou au minimum un livret séparé)
+
+L'effort pour transférer depuis le livret A vers le compte courant crée assez de friction pour casser l'impulsion. Ton épargne devient protégée par cette friction.
+
+Temps nécessaire : **10 minutes** dans ton appli bancaire. Fais-le ce soir.
+
+## Réflexe 2 : Mets 10% de côté le jour même (même si c'est 80€)
+
+Dès que ta première paie arrive, vire **immédiatement** 10% vers ton livret A. Pas demain. Pas "quand tu auras regardé ton budget". Le jour même.
+
+Sur 800€ → 80€.
+Sur 1 200€ → 120€.
+Sur 1 800€ → 180€.
+
+Oui, ça fait mal sur la première paie. Tu avais prévu 10 choses à faire avec cet argent. Mais ce premier virement est **symbolique**. Il pose une identité : tu es quelqu'un qui met de côté dès le départ.
+
+Et surtout : tu l'automatises pour les paies suivantes. Un virement automatique, le jour du salaire, vers ton livret. Une fois programmé, tu n'y penses plus. Le système tourne pour toi. Pour aller plus loin, lis [Épargne automatique : la méthode complète](/blog/epargne-automatique-comment-mettre-en-place).
+
+Si tu ne fais qu'UNE seule chose dans cet article, fais ça. C'est de loin le réflexe le plus puissant sur 10 ans.
+
+## Réflexe 3 : Note tes 3 plus grosses charges fixes
+
+Prends 10 minutes et note **tes 3 plus grosses charges fixes mensuelles**. Celles qui ne bougent pas.
+
+En général, pour un·e jeune actif·ve :
+
+1. **Le loyer** (souvent 30 à 50% du salaire)
+2. **Le téléphone / internet** (30 à 50€)
+3. **Le transport** (Navigo, essence, assurance voiture)
+
+Pourquoi noter ces 3 chiffres ? Parce qu'ils définissent ton **seuil de survie mensuelle**. Tu sais exactement combien il te faut, minimum, pour tenir un mois. Et ce chiffre est précieux :
+
+- Il t'aide à calculer ton fonds d'urgence (ces 3 chiffres × 3 mois = ton objectif minimum)
+- Il te donne une base pour évaluer une future augmentation ou un déménagement
+- Il te rassure (tu sais que même dans une mauvaise passe, tu connais le minimum)
+
+Ce simple exercice sort beaucoup de jeunes du flou financier. Fais-le une fois, sans stress, et note le total dans tes notes téléphone.
+
+## Réflexe 4 : Supprime le paiement en 1 clic sur tes apps shopping
+
+Amazon, Shein, Vinted, Zalando, UberEats, Deliveroo — toutes ces apps ont un point commun : elles sont conçues pour que tu puisses acheter en **2 clics**. Parfois en **1 clic**. Sans même avoir à taper ton mot de passe ou à confirmer tes coordonnées bancaires.
+
+Ce design n'est pas pour ton confort. Il est pour leur chiffre d'affaires. Parce que chaque étape supplémentaire dans l'achat réduit la conversion de 20 à 30%. Plus c'est fluide, plus tu achètes impulsivement.
+
+La contre-mesure est simple : **retire tes infos bancaires** de ces apps.
+
+Pas toutes. Mais celles où tu sens que tu dépenses par impulsion. Chaque achat deviendra un micro-effort (ressaisir ta carte, confirmer). Et ce micro-effort te donnera les 10 secondes nécessaires à réfléchir.
+
+Tu continueras à acheter quand tu en as vraiment besoin. Mais les achats automatiques, inconscients, vont fondre. Tu peux économiser 50 à 150€/mois avec juste ce réflexe.
+
+## Réflexe 5 : Donne-toi un budget plaisir SANS culpabilité
+
+Voici le réflexe que beaucoup oublient : **prévoir un vrai budget plaisir**.
+
+Pourquoi c'est crucial ? Parce que les budgets "tout austère" finissent toujours par craquer. Tu tiens 2 semaines, puis tu explose sur un achat compensatoire qui dépasse ce que tu aurais dépensé si tu avais eu un budget plaisir officiel.
+
+Alloue-toi un montant précis par mois pour tes envies : sorties, restos, achats plaisir, ce que tu veux. Sur 1 800€, un budget plaisir de 150 à 200€ est réaliste.
+
+Et voilà la clé : **quand tu dépenses dans ce budget, tu ne culpabilises pas**. C'est prévu. C'est choisi. C'est validé à l'avance.
+
+Paradoxalement, un budget plaisir **explicite** réduit les dépenses impulsives de 30 à 40%. Parce que tu as une "soupape" officielle — et parce que tu arrêtes de culpabiliser à chaque petite dépense, ce qui réduit le cycle honte → compensation → honte.
+
+Pour t'aider à te faire plaisir sans culpabiliser, lis [Dépense plaisir sans culpabiliser](/blog/depense-plaisir-sans-culpabiliser).
+
+## L'erreur classique du premier salaire : le lifestyle creep précoce
+
+Voici le piège dans lequel tombent la majorité des jeunes actifs : ils commencent à vivre comme s'ils allaient **toujours gagner plus**.
+
+Premier salaire = nouveau téléphone tout de suite. Premier bonus = vacances plus chères que prévues. Première augmentation = abonnements supplémentaires, resto plus fréquent, app premium partout.
+
+Le problème ? Ton niveau de vie monte **plus vite** que ton salaire. Et une fois installé, il est très difficile de redescendre. Tu t'habitues aux abonnements, aux restos, aux services. Et si ton salaire ne continue pas à monter au même rythme, tu te retrouves coincé·e.
+
+La bonne approche : **laisse ton niveau de vie monter avec 2 à 3 mois de retard** sur ton salaire. Quand tu reçois une augmentation, ne l'absorbe pas immédiatement. Garde ton mode de vie actuel pendant 2-3 mois, et investis/épargne la différence. Ensuite seulement, ajuste si besoin.
+
+Cette seule habitude t'épargne des milliers d'euros sur ta carrière.
+
+## Noory est pensé pour les jeunes actifs qui veulent bien démarrer
+
+Le parcours 28 jours de Noory est particulièrement adapté aux jeunes actif·ves qui viennent de commencer. Il installe les bons réflexes dès la semaine 1 — avant que les mauvais s'installent.
+
+Si tu navigues à vue avec cette nouvelle responsabilité financière, le profil du [Navigateur à Vue](/profil/navigateur-a-vue) est peut-être le tien. Pour approfondir sur ce qu'il faut faire de ton premier salaire, lis [Premier salaire : que faire avec](/blog/premier-salaire-quoi-faire). Et pour la méthode budget la plus simple qui existe, lis [Budget pour les nuls](/blog/budget-pour-les-nuls).
+
+## Tes 5 minutes d'action maintenant
+
+Tu as reçu ta première paie (ou la reçois bientôt). Fais ces 5 choses **cette semaine** :
+
+1. Ouvre un compte épargne séparé (10 min)
+2. Programme un virement automatique de 10% vers ce compte (5 min)
+3. Note tes 3 charges fixes (5 min)
+4. Retire tes infos bancaires de tes apps shopping (10 min)
+5. Définis un budget plaisir mensuel (5 min)
+
+Total : 35 minutes. Ces 35 minutes, c'est l'investissement le plus rentable de ta vie active. Littéralement.
+
+---
+
+*Noory t'aide à poser les bons réflexes dès ton premier salaire. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
+  },
+  {
     slug: "depenses-impulsives-comment-arreter",
     title: "Dépenses impulsives : comment arrêter le cycle sans se priver",
     metaTitle: "Dépenses impulsives : comment arrêter le cycle sans se priver | Noory",
@@ -332,7 +1515,7 @@ C'est exactement ce que Noory te propose : des **objectifs d'épargne concrets**
 
 Tu n'as pas besoin de gagner plus pour commencer. Tu as besoin d'un premier geste. Ouvre Noory, définis ton premier objectif d'épargne — même 30€ par mois — et laisse l'app t'accompagner.
 
-En 28 jours, tu auras une habitude installée. Et tu seras surpris·e de ce que même un petit montant peut construire quand il est régulier. Et si la motivation te manque, lis [Épargner quand on n'a pas la motivation](/blog/epargner-quand-on-a-pas-la-motivation).
+En 28 jours, tu auras une habitude installée. Et tu seras surpris·e de ce que même un petit montant peut construire quand il est régulier. Et si la motivation te manque, lis [Épargner quand on n'a pas la motivation](/blog/epargner-quand-on-a-pas-la-motivation). Pour un démarrage ludique à partir de 1€, lance-toi dans le [défi épargne 52 semaines](/blog/defi-epargne-52-semaines) : tu finis l'année avec 1 378€.
 
 ---
 
@@ -576,7 +1759,7 @@ Le **rituel quotidien** de 3 minutes remplace le shopping comme mécanisme de r�
 
 Si tu te reconnais dans le profil du [Dépensier Émotionnel](/profil/depensier-emotionnel), sache que Noory a un parcours de 28 jours spécialement conçu pour toi. Pas de privation. De la compréhension. Et des alternatives concrètes.
 
-Tu peux aussi lire notre article sur [la culpabilité financière et comment en sortir](/blog/culpabilite-argent-depenser). Et si tu dépenses surtout en ligne, découvre nos [8 astuces pour acheter en ligne sans exploser ton budget](/blog/acheter-en-ligne-moins-depenser).
+Tu peux aussi lire notre article sur [la culpabilité financière et comment en sortir](/blog/culpabilite-argent-depenser). Et si tu dépenses surtout en ligne, découvre nos [8 astuces pour acheter en ligne sans exploser ton budget](/blog/acheter-en-ligne-moins-depenser). Pour remplacer les réflexes d'achat émotionnel par des gestes plus sains, lis aussi [7 micro-habitudes financières qui changent tout](/blog/habitudes-financieres-qui-changent-tout).
 
 ---
 
@@ -624,6 +1807,8 @@ C'est la charge des micro-décisions qui épuise. Pas les gros achats. Chaque pe
 ### 1. Un seul moment par semaine pour les comptes
 
 Au lieu de vérifier ton solde 10 fois par jour, choisis un moment fixe par semaine — dimanche matin, mercredi soir, peu importe. Pendant 10 minutes, tu regardes ta situation, tu notes ce qu'il faut noter, et tu fermes. Le reste de la semaine, tu ne vérifies pas.
+
+Si tu veux une méthode hebdomadaire clé en main, découvre [la routine financière du dimanche : 15 minutes pour reprendre le contrôle](/blog/routine-financiere-dimanche).
 
 Ça demande de la confiance. Mais cette confiance se construit quand tu as un **système** en place. Et le système, c'est justement le point suivant.
 
@@ -866,7 +2051,7 @@ Le but d'un budget n'est pas de tout contrôler. C'est de s'assurer que ton arge
 
 Le budget n'est pas une punition. C'est un **miroir**. Il te montre si tes actions quotidiennes sont alignées avec ce qui compte pour toi.
 
-Découvre aussi [où passe ton argent chaque mois](/blog/ou-passe-mon-argent-chaque-mois), [comment épargner même avec un petit salaire](/blog/epargner-petit-salaire), ou [la méthode des enveloppes](/blog/methode-enveloppes-budget) pour structurer ton budget simplement.
+Découvre aussi [où passe ton argent chaque mois](/blog/ou-passe-mon-argent-chaque-mois), [comment épargner même avec un petit salaire](/blog/epargner-petit-salaire), ou [la méthode des enveloppes](/blog/methode-enveloppes-budget) pour structurer ton budget simplement. Et si tu veux juste commencer à suivre tes dépenses sans te noyer dans une appli compliquée, lis [Comment tracker ses dépenses simplement](/blog/tracker-ses-depenses-simplement).
 
 ---
 
@@ -931,7 +2116,7 @@ C'est exactement ce que [Noory](https://apps.apple.com/fr/app/noory-finance-obje
 
 Tu n'as pas besoin de tout changer ce mois-ci. Tu as besoin d'un seul geste : programme un virement automatique de 5% de ton salaire, le jour de ton salaire, vers un compte séparé. C'est tout. Ce seul geste change la dynamique.
 
-Ensuite, Noory t'accompagne pour comprendre tes mécanismes et construire des habitudes durables. Découvre aussi notre [méthode budget simple](/blog/budget-pour-les-nuls) qui ne demande que 2 minutes par jour.
+Ensuite, Noory t'accompagne pour comprendre tes mécanismes et construire des habitudes durables. Découvre aussi notre [méthode budget simple](/blog/budget-pour-les-nuls) qui ne demande que 2 minutes par jour. Et pour t'attaquer au superflu sans frustration, lis [Couper ses dépenses inutiles sans souffrir : la méthode douce](/blog/depenses-inutiles-couper-sans-souffrir).
 
 ---
 

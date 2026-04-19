@@ -16,7 +16,69 @@
     <priority>0.9</priority>
   </url>
 
-  <!-- Blog articles — Wave 2 (newest) -->
+  <!-- Blog articles — Wave 3 (épargne & habitudes) -->
+  <url>
+    <loc>https://noory.io/blog/epargne-automatique-comment-mettre-en-place</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noory.io/blog/habitudes-financieres-qui-changent-tout</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noory.io/blog/defi-epargne-52-semaines</loc>
+    <lastmod>2026-04-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noory.io/blog/fond-urgence-pourquoi-indispensable</loc>
+    <lastmod>2026-04-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noory.io/blog/routine-financiere-dimanche</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noory.io/blog/depenses-inutiles-couper-sans-souffrir</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noory.io/blog/tracker-ses-depenses-simplement</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noory.io/blog/objectif-financier-comment-le-definir</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noory.io/blog/relation-saine-argent</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noory.io/blog/premiere-paie-5-reflexes</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog articles — Wave 2 -->
   <url>
     <loc>https://noory.io/blog/premier-salaire-quoi-faire</loc>
     <lastmod>2026-04-13</lastmod>
