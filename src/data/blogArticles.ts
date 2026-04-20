@@ -1,3 +1,8 @@
+export interface BlogFaqItem {
+  q: string;
+  a: string;
+}
+
 export interface BlogArticle {
   slug: string;
   title: string;
@@ -8,6 +13,7 @@ export interface BlogArticle {
   intro: string;
   keywords: string[];
   content: string;
+  faq?: BlogFaqItem[];
 }
 
 export const blogArticles: BlogArticle[] = [
@@ -99,7 +105,21 @@ C'est fait en 4 minutes. Et ces 4 minutes vont transformer ta relation à l'arge
 
 ---
 
-*Noory t'aide à installer l'épargne automatique comme un rituel qui tient. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
+*Noory t'aide à installer l'épargne automatique comme un rituel qui tient. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`,
+    faq: [
+      {
+        q: "Combien épargner par mois quand on débute ?",
+        a: "Commence par 5% de ton salaire, même si c'est 50€. L'important c'est l'automatisation, pas le montant.",
+      },
+      {
+        q: "Faut-il épargner avant ou après avoir dépensé ?",
+        a: "Avant. Mets en place un virement automatique le 1er du mois. Si tu attends la fin du mois, il ne restera rien.",
+      },
+      {
+        q: "Où mettre son épargne de précaution ?",
+        a: "Sur un Livret A. C'est accessible immédiatement, garanti par l'État, et tu ne prends aucun risque.",
+      },
+    ],
   },
   {
     slug: "habitudes-financieres-qui-changent-tout",
@@ -195,7 +215,21 @@ Ensuite, ajoute la deuxième. Puis la troisième. En 7 semaines, tu auras intég
 
 ---
 
-*Noory transforme ces micro-habitudes en rituel quotidien de 3 minutes. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
+*Noory transforme ces micro-habitudes en rituel quotidien de 3 minutes. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`,
+    faq: [
+      {
+        q: "Combien de temps pour changer une habitude financière ?",
+        a: "La recherche montre entre 18 et 254 jours selon la complexité. Noory propose 28 jours car c'est suffisant pour ancrer les bases.",
+      },
+      {
+        q: "Quelle est la micro-habitude financière la plus efficace ?",
+        a: "Le check-in matinal de 30 secondes : ouvrir son appli bancaire et regarder son solde. Ça crée de la conscience sans effort.",
+      },
+      {
+        q: "Faut-il une app pour changer ses habitudes financières ?",
+        a: "Non, mais un cadre structuré aide. C'est le principe du rituel Noory : 3 minutes par jour, adapté à ton profil.",
+      },
+    ],
   },
   {
     slug: "defi-epargne-52-semaines",
@@ -308,7 +342,21 @@ N'attends pas le 1er janvier. N'attends pas lundi. Aujourd'hui, c'est ta semaine
 
 ---
 
-*Noory t'accompagne pour transformer un défi ponctuel en habitude durable. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
+*Noory t'accompagne pour transformer un défi ponctuel en habitude durable. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`,
+    faq: [
+      {
+        q: "Comment fonctionne le défi 52 semaines ?",
+        a: "Semaine 1 tu mets 1€, semaine 2 tu mets 2€, jusqu'à 52€ la dernière semaine. Total : 1 378€ en un an.",
+      },
+      {
+        q: "Et si je n'arrive pas à mettre 52€ la dernière semaine ?",
+        a: "Utilise la variante inversée : commence par 52€ en janvier (quand tu es motivé) et descends. Ou la variante fixe : 26€/semaine toute l'année.",
+      },
+      {
+        q: "Comment ne pas abandonner le défi ?",
+        a: "Automatise le virement chaque lundi. Et donne un nom à ton épargne. \"Mon voyage\" est plus motivant que \"Livret A\".",
+      },
+    ],
   },
   {
     slug: "fond-urgence-pourquoi-indispensable",
@@ -1763,7 +1811,21 @@ Tu peux aussi lire notre article sur [la culpabilité financière et comment en 
 
 ---
 
-*Envie de comprendre tes mécanismes d'achat ? Noory t'accompagne sans jugement. [Découvre ton profil financier gratuitement.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
+*Envie de comprendre tes mécanismes d'achat ? Noory t'accompagne sans jugement. [Découvre ton profil financier gratuitement.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`,
+    faq: [
+      {
+        q: "Pourquoi j'achète quand je suis triste ?",
+        a: "Ton cerveau associe l'achat à une récompense immédiate (dopamine). C'est un mécanisme de compensation émotionnelle, pas un défaut de caractère.",
+      },
+      {
+        q: "Comment résister à un achat impulsif ?",
+        a: "La technique la plus efficace est la pause de 10 minutes. Mets un timer quand l'envie monte. Dans 80% des cas, l'envie passe.",
+      },
+      {
+        q: "Est-ce que Noory peut m'aider avec les achats impulsifs ?",
+        a: "Oui. Le SOS Achat de Noory crée une pause structurée entre l'envie et l'achat, avec une analyse de tes déclencheurs émotionnels.",
+      },
+    ],
   },
   {
     slug: "charge-mentale-financiere",
@@ -1838,7 +1900,21 @@ Découvre aussi nos [5 habitudes douces pour gérer ton argent sans stress](/blo
 
 ---
 
-*Libère ton cerveau de la charge mentale financière. Noory t'accompagne en 3 minutes par jour. [Découvre ton profil financier gratuitement.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
+*Libère ton cerveau de la charge mentale financière. Noory t'accompagne en 3 minutes par jour. [Découvre ton profil financier gratuitement.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`,
+    faq: [
+      {
+        q: "C'est quoi la charge mentale financière ?",
+        a: "C'est le bruit mental permanent lié à l'argent : vérifier son compte, s'inquiéter des fins de mois, repousser les décisions financières. Ça épuise autant qu'une journée de travail.",
+      },
+      {
+        q: "Comment réduire le stress lié à l'argent ?",
+        a: "Fixe un seul moment par semaine pour tes comptes. Automatise tout ce que tu peux. Remplace l'anxiété diffuse par un rituel court et contrôlé.",
+      },
+      {
+        q: "Quelle app peut aider avec le stress financier ?",
+        a: "Noory propose un rituel quotidien de 3 minutes qui remplace des heures de bruit mental. Adapté à ton profil psychologique financier.",
+      },
+    ],
   },
   {
     slug: "ou-passe-mon-argent-chaque-mois",

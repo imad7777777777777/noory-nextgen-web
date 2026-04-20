@@ -72,6 +72,8 @@ const Footer = () => {
           <div className="flex items-center gap-3 text-xs text-muted-foreground">
             <span>© {new Date().getFullYear()} Noory. Tous droits réservés.</span>
             <span>·</span>
+            <Link to="/a-propos" className="hover:text-primary transition-colors">À propos</Link>
+            <span>·</span>
             <Link to="/confidentialite" className="hover:text-primary transition-colors">Confidentialité</Link>
             <span>·</span>
             <Link to="/cgu" className="hover:text-primary transition-colors">CGU</Link>

@@ -12,6 +12,7 @@ import QuizPage from "./pages/QuizPage.tsx";
 import FaqPage from "./pages/FaqPage.tsx";
 import ConfidentialitePage from "./pages/ConfidentialitePage.tsx";
 import CguPage from "./pages/CguPage.tsx";
+import AProposPage from "./pages/AProposPage.tsx";
 
 const queryClient = new QueryClient();
 
@@ -30,6 +31,7 @@ const App = () => (
           <Route path="/faq" element={<FaqPage />} />
           <Route path="/confidentialite" element={<ConfidentialitePage />} />
           <Route path="/cgu" element={<CguPage />} />
+          <Route path="/a-propos" element={<AProposPage />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>

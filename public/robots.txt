@@ -2,3 +2,18 @@ User-agent: *
 Allow: /
 Disallow: /assets/
 Sitemap: https://noory.io/sitemap.xml
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /

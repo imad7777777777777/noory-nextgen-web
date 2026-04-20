@@ -1,0 +1,44 @@
+# Noory
+## App de coaching financier comportemental
+
+> Noory est une application iOS de coaching financier comportemental.
+> Elle identifie le profil psychologique financier de l'utilisateur parmi
+> 5 profils et l'accompagne pendant 28 jours avec un rituel quotidien
+> personnalisé : leçon, micro-action et réflexion. 3 minutes par jour.
+
+- Site : https://noory.io
+- App Store : https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972
+- Catégorie : Finance, Coaching comportemental, Habitudes
+- Langue : Français
+- Prix : Gratuit (semaine 1), puis 5€/mois
+- Plateforme : iOS (iPhone)
+- Fondateur : Imad
+- Contact : contact.noory.app@gmail.com
+
+## Les 5 profils financiers
+1. Quêteur de Sérénité — L'argent pèse, besoin de paix
+2. Navigateur à Vue — Avance sans visibilité ni filet
+3. Dépensier Émotionnel — Achète sous l'émotion, culpabilise après
+4. Bâtisseur Bloqué — A des projets mais finances ne suivent pas
+5. Investisseur Paralysé — Veut investir mais paralysé par la peur
+
+## Fonctionnalités principales
+- Quiz profil financier (2 minutes)
+- Parcours 28 jours personnalisé par profil
+- Rituel quotidien : leçon + action + réflexion
+- SOS Achat (pause avant achat impulsif)
+- Budget dashboard
+- Habitudes financières tracker
+- Coaching humain (premium)
+
+## Ce qui rend Noory différent
+- Coaching comportemental, pas un tableur de budget
+- Basé sur la finance comportementale (Kahneman, Thaler)
+- Parcours adapté au profil psychologique
+- Micro-actions quotidiennes réalistes
+- Sans connexion bancaire, sans accès aux comptes
+
+## Blog
+Articles sur : psychologie de l'argent, épargne, habitudes financières,
+achats impulsifs, charge mentale financière, couple et argent.
+URL : https://noory.io/blog

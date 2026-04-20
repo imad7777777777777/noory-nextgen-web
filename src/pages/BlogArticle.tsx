@@ -12,17 +12,39 @@ const BlogArticlePage = () => {
   const { slug } = useParams<{ slug: string }>();
   const article = blogArticles.find((a) => a.slug === slug);
 
-  const jsonLd = useMemo(() => article ? {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    headline: article.title,
-    description: article.metaDescription,
-    datePublished: article.date,
-    author: { "@type": "Organization", name: "Noory" },
-    publisher: { "@type": "Organization", name: "Noory" },
-    mainEntityOfPage: `https://noory.io/blog/${article.slug}`,
-    inLanguage: "fr",
-  } : undefined, [article]);
+  const jsonLd = useMemo(() => {
+    if (!article) return undefined;
+    const articleSchema = {
+      "@type": "Article",
+      headline: article.title,
+      description: article.metaDescription,
+      datePublished: article.date,
+      author: { "@type": "Organization", name: "Noory" },
+      publisher: { "@type": "Organization", name: "Noory" },
+      mainEntityOfPage: `https://noory.io/blog/${article.slug}`,
+      inLanguage: "fr",
+    };
+    if (article.faq && article.faq.length > 0) {
+      return {
+        "@context": "https://schema.org",
+        "@graph": [
+          articleSchema,
+          {
+            "@type": "FAQPage",
+            mainEntity: article.faq.map((item) => ({
+              "@type": "Question",
+              name: item.q,
+              acceptedAnswer: {
+                "@type": "Answer",
+                text: item.a,
+              },
+            })),
+          },
+        ],
+      };
+    }
+    return { "@context": "https://schema.org", ...articleSchema };
+  }, [article]);
 
   useSEO({
     title: article?.metaTitle || "Article — Noory",
@@ -133,6 +155,26 @@ const BlogArticlePage = () => {
                 return <p key={i} className="text-base leading-relaxed">{renderInlineMarkdown(block)}</p>;
               })}
             </div>
+
+            {article.faq && article.faq.length > 0 && (
+              <section className="mt-14">
+                <h2 className="text-2xl font-display font-bold text-foreground mb-6">
+                  Questions fréquentes
+                </h2>
+                <div className="space-y-6">
+                  {article.faq.map((item, i) => (
+                    <div key={i}>
+                      <h3 className="text-lg font-display font-bold text-foreground mb-2">
+                        {item.q}
+                      </h3>
+                      <p className="text-base leading-relaxed text-foreground/80">
+                        {item.a}
+                      </p>
+                    </div>
+                  ))}
+                </div>
+              </section>
+            )}
 
             {/* CTA */}
             <div className="mt-14 p-8 bg-card border border-border rounded-2xl text-center">
