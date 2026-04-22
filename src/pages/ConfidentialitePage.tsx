@@ -19,7 +19,7 @@ const ConfidentialitePage = () => {
             Politique de confidentialité
           </h1>
           <p className="text-sm text-gray-500 mb-10">
-            Dernière mise à jour : 13 avril 2026
+            Dernière mise à jour : 22 avril 2026
           </p>
 
           <div className="prose-legal space-y-8 text-gray-700 leading-relaxed">
@@ -99,6 +99,41 @@ const ConfidentialitePage = () => {
                 </li>
                 <li>Améliorer l'application</li>
               </ul>
+
+              <h3 className="text-lg font-display font-bold text-gray-800 mt-6 mb-2">
+                Mesure d'audience (PostHog)
+              </h3>
+              <p className="mb-3">
+                Pour améliorer l'application et comprendre comment elle est
+                utilisée, nous collectons des données d'usage anonymisées via
+                PostHog, hébergé dans l'Union européenne (Irlande).
+              </p>
+              <p className="mb-3">
+                <strong>Ce que nous mesurons</strong> : les étapes d'onboarding
+                parcourues, les actions dans l'application (leçons démarrées,
+                rituels complétés), et les interactions avec l'écran de
+                souscription. Nous ne mesurons jamais le contenu de tes réponses
+                personnelles (dépenses, objectifs, messages SOS, etc.).
+              </p>
+              <p className="mb-3">
+                <strong>Base légale</strong> : intérêt légitime (article 6.1.f
+                du RGPD). Nous n'utilisons pas de cookies tiers ni de pixel de
+                tracking cross-site.
+              </p>
+              <p className="mb-3">
+                <strong>Durée de conservation</strong> : 12 mois maximum.
+              </p>
+              <p>
+                <strong>Ton droit d'opposition</strong> : tu peux t'opposer à
+                cette mesure d'audience à tout moment en écrivant à{" "}
+                <a
+                  href="mailto:contact.noory.app@gmail.com"
+                  className="text-primary hover:underline"
+                >
+                  contact.noory.app@gmail.com
+                </a>
+                . Nous désactiverons alors PostHog pour ton compte.
+              </p>
             </section>
 
             {/* 3 */}
