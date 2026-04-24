@@ -176,8 +176,17 @@ const BlogArticlePage = () => {
               </section>
             )}
 
+            <aside className="mt-12 p-5 bg-gray-100 text-gray-600 text-sm italic rounded-xl leading-relaxed">
+              Cet article a une vocation pédagogique. Il ne constitue ni un
+              conseil en investissement, ni un conseil financier personnalisé
+              au sens de l'article L. 541-1 du Code monétaire et financier.
+              Pour toute décision financière importante, consultez un
+              conseiller habilité (CIF, CGP). Noory est un outil de coaching
+              comportemental, pas un service financier réglementé.
+            </aside>
+
             {/* CTA */}
-            <div className="mt-14 p-8 bg-card border border-border rounded-2xl text-center">
+            <div className="mt-10 p-8 bg-card border border-border rounded-2xl text-center">
               <h3 className="text-xl font-display font-bold text-foreground mb-3">
                 Prêt·e à changer ton rapport à l'argent ?
               </h3>
