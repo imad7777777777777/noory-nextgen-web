@@ -2,8 +2,10 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import { blogArticles } from "@/data/blogArticles";
 import { useSEO } from "@/hooks/useSEO";
+import { BASE_URL, LANG, ORG_NOORY, WEBSITE_NOORY } from "@/lib/seo";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import Breadcrumb from "@/components/Breadcrumb";
 
 const gradientMap: Record<string, string> = {
   // Emotion articles (rose)
@@ -146,11 +148,29 @@ const BlogIndex = () => {
     url: "/blog",
     jsonLd: {
       "@context": "https://schema.org",
-      "@type": "Blog",
-      name: "Blog Noory",
-      description: "Articles sur la finance comportementale et la psychologie de l'argent.",
-      publisher: { "@type": "Organization", name: "Noory" },
-      inLanguage: "fr",
+      "@graph": [
+        ORG_NOORY,
+        WEBSITE_NOORY,
+        {
+          "@type": "Blog",
+          "@id": `${BASE_URL}/blog#blog`,
+          url: `${BASE_URL}/blog`,
+          name: "Blog Noory",
+          description:
+            "Articles sur la finance comportementale et la psychologie de l'argent.",
+          inLanguage: LANG,
+          publisher: { "@id": `${BASE_URL}/#organization` },
+          isPartOf: { "@id": `${BASE_URL}/#website` },
+          blogPost: blogArticles.map((a) => ({
+            "@type": "BlogPosting",
+            "@id": `${BASE_URL}/blog/${a.slug}#article`,
+            headline: a.title,
+            url: `${BASE_URL}/blog/${a.slug}`,
+            datePublished: a.date,
+            dateModified: a.dateModified ?? a.date,
+          })),
+        },
+      ],
     },
   });
 
@@ -165,9 +185,15 @@ const BlogIndex = () => {
   return (
     <div className="min-h-screen bg-background">
       <Navbar />
-      <main className="pt-24 pb-16">
+      <Breadcrumb
+        items={[
+          { label: "Accueil", href: "/" },
+          { label: "Blog" },
+        ]}
+      />
+      <main className="pb-16">
         <div className="container mx-auto px-4 md:px-8 max-w-5xl">
-          <div className="text-center mb-10">
+          <div className="text-center mb-10 mt-6">
             <p className="text-sm uppercase tracking-widest text-primary mb-4 font-medium">Blog</p>
             <h1 className="text-3xl md:text-4xl font-display font-bold tracking-tight text-foreground">
               Mieux comprendre ton rapport à l'argent

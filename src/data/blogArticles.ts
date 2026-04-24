@@ -9,6 +9,7 @@ export interface BlogArticle {
   metaTitle: string;
   metaDescription: string;
   date: string;
+  dateModified?: string;
   readTime: string;
   intro: string;
   keywords: string[];

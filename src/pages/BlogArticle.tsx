@@ -3,6 +3,7 @@ import { useEffect, useMemo } from "react";
 import { ArrowLeft } from "lucide-react";
 import { blogArticles } from "@/data/blogArticles";
 import { useSEO } from "@/hooks/useSEO";
+import { BASE_URL, LANG, ORG_NOORY, PERSON_IMAD } from "@/lib/seo";
 import AppStoreBadge from "@/components/AppStoreBadge";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
@@ -14,36 +15,37 @@ const BlogArticlePage = () => {
 
   const jsonLd = useMemo(() => {
     if (!article) return undefined;
-    const articleSchema = {
-      "@type": "Article",
+    const url = `${BASE_URL}/blog/${article.slug}`;
+    const blogPostingSchema = {
+      "@type": "BlogPosting",
+      "@id": `${url}#article`,
       headline: article.title,
       description: article.metaDescription,
+      url,
       datePublished: article.date,
-      author: { "@type": "Organization", name: "Noory" },
-      publisher: { "@type": "Organization", name: "Noory" },
-      mainEntityOfPage: `https://noory.io/blog/${article.slug}`,
-      inLanguage: "fr",
+      dateModified: article.dateModified ?? article.date,
+      author: PERSON_IMAD,
+      publisher: ORG_NOORY,
+      mainEntityOfPage: { "@type": "WebPage", "@id": url },
+      inLanguage: LANG,
+      isPartOf: { "@id": `${BASE_URL}/#website` },
+      ...(article.keywords && article.keywords.length > 0
+        ? { keywords: article.keywords.join(", ") }
+        : {}),
     };
+    const graph: Record<string, unknown>[] = [blogPostingSchema];
     if (article.faq && article.faq.length > 0) {
-      return {
-        "@context": "https://schema.org",
-        "@graph": [
-          articleSchema,
-          {
-            "@type": "FAQPage",
-            mainEntity: article.faq.map((item) => ({
-              "@type": "Question",
-              name: item.q,
-              acceptedAnswer: {
-                "@type": "Answer",
-                text: item.a,
-              },
-            })),
-          },
-        ],
-      };
+      graph.push({
+        "@type": "FAQPage",
+        "@id": `${url}#faq`,
+        mainEntity: article.faq.map((item) => ({
+          "@type": "Question",
+          name: item.q,
+          acceptedAnswer: { "@type": "Answer", text: item.a },
+        })),
+      });
     }
-    return { "@context": "https://schema.org", ...articleSchema };
+    return { "@context": "https://schema.org", "@graph": graph };
   }, [article]);
 
   useSEO({
