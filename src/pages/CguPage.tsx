@@ -1,6 +1,8 @@
 import { useSEO } from "@/hooks/useSEO";
+import { BASE_URL, LANG } from "@/lib/seo";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import Breadcrumb from "@/components/Breadcrumb";
 
 const CguPage = () => {
   useSEO({
@@ -8,14 +10,29 @@ const CguPage = () => {
     description:
       "Conditions Générales d'Utilisation de l'application Noory. Coaching financier comportemental sur iPhone.",
     url: "/cgu",
+    jsonLd: {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": `${BASE_URL}/cgu#webpage`,
+      url: `${BASE_URL}/cgu`,
+      name: "Conditions Générales d'Utilisation",
+      inLanguage: LANG,
+      isPartOf: { "@id": `${BASE_URL}/#website` },
+    },
   });
 
   return (
     <div className="min-h-screen" style={{ backgroundColor: "#FFF8F0" }}>
       <Navbar />
-      <main className="pt-24 pb-16">
+      <Breadcrumb
+        items={[
+          { label: "Accueil", href: "/" },
+          { label: "CGU" },
+        ]}
+      />
+      <main className="pb-16">
         <div className="container mx-auto px-4 md:px-8 max-w-3xl">
-          <h1 className="text-3xl md:text-4xl font-display font-bold tracking-tight text-gray-800 mb-2">
+          <h1 className="text-3xl md:text-4xl font-display font-bold tracking-tight text-gray-800 mb-2 mt-6">
             Conditions Générales d'Utilisation
           </h1>
           <p className="text-sm text-gray-500 mb-10">

@@ -1,6 +1,8 @@
 import { useSEO } from "@/hooks/useSEO";
+import { BASE_URL, LANG } from "@/lib/seo";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import Breadcrumb from "@/components/Breadcrumb";
 
 const ConfidentialitePage = () => {
   useSEO({
@@ -8,14 +10,29 @@ const ConfidentialitePage = () => {
     description:
       "Politique de confidentialité de l'application Noory. Découvre comment nous collectons, utilisons et protégeons tes données personnelles.",
     url: "/confidentialite",
+    jsonLd: {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": `${BASE_URL}/confidentialite#webpage`,
+      url: `${BASE_URL}/confidentialite`,
+      name: "Politique de confidentialité",
+      inLanguage: LANG,
+      isPartOf: { "@id": `${BASE_URL}/#website` },
+    },
   });
 
   return (
     <div className="min-h-screen" style={{ backgroundColor: "#FFF8F0" }}>
       <Navbar />
-      <main className="pt-24 pb-16">
+      <Breadcrumb
+        items={[
+          { label: "Accueil", href: "/" },
+          { label: "Confidentialité" },
+        ]}
+      />
+      <main className="pb-16">
         <div className="container mx-auto px-4 md:px-8 max-w-3xl">
-          <h1 className="text-3xl md:text-4xl font-display font-bold tracking-tight text-gray-800 mb-2">
+          <h1 className="text-3xl md:text-4xl font-display font-bold tracking-tight text-gray-800 mb-2 mt-6">
             Politique de confidentialité
           </h1>
           <p className="text-sm text-gray-500 mb-10">
