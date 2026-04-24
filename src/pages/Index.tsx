@@ -1,4 +1,5 @@
 import { useSEO } from "@/hooks/useSEO";
+import { APP_STORE_URL, BASE_URL, LANG, ORG_NOORY, WEBSITE_NOORY } from "@/lib/seo";
 import Navbar from "@/components/Navbar";
 import HeroSection from "@/components/HeroSection";
 import ProblemSection from "@/components/ProblemSection";
@@ -20,14 +21,23 @@ const Index = () => {
     url: "/",
     jsonLd: {
       "@context": "https://schema.org",
-      "@type": "MobileApplication",
-      name: "Noory",
-      operatingSystem: "iOS",
-      applicationCategory: "FinanceApplication",
-      description: "Coaching financier comportemental. Micro-actions quotidiennes, zéro jugement.",
-      offers: { "@type": "Offer", price: "0", priceCurrency: "EUR" },
-      downloadUrl: "https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972",
-      inLanguage: "fr",
+      "@graph": [
+        ORG_NOORY,
+        WEBSITE_NOORY,
+        {
+          "@type": "MobileApplication",
+          "@id": `${BASE_URL}/#app`,
+          name: "Noory",
+          operatingSystem: "iOS",
+          applicationCategory: "FinanceApplication",
+          description:
+            "Coaching financier comportemental. Micro-actions quotidiennes, zéro jugement.",
+          offers: { "@type": "Offer", price: "0", priceCurrency: "EUR" },
+          downloadUrl: APP_STORE_URL,
+          inLanguage: LANG,
+          publisher: { "@id": `${BASE_URL}/#organization` },
+        },
+      ],
     },
   });
 
