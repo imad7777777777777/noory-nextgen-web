@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { useSEO } from "@/hooks/useSEO";
+import { BASE_URL, LANG, ORG_NOORY, WEBSITE_NOORY } from "@/lib/seo";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import Breadcrumb from "@/components/Breadcrumb";
@@ -124,17 +125,28 @@ const faqCategories: FaqCategory[] = [
 
 const faqJsonLd = {
   "@context": "https://schema.org",
-  "@type": "FAQPage",
-  mainEntity: faqCategories.flatMap((cat) =>
-    cat.items.map((item) => ({
-      "@type": "Question",
-      name: item.question,
-      acceptedAnswer: {
-        "@type": "Answer",
-        text: item.answer,
-      },
-    }))
-  ),
+  "@graph": [
+    ORG_NOORY,
+    WEBSITE_NOORY,
+    {
+      "@type": "FAQPage",
+      "@id": `${BASE_URL}/faq#faq`,
+      url: `${BASE_URL}/faq`,
+      name: "FAQ Noory",
+      inLanguage: LANG,
+      isPartOf: { "@id": `${BASE_URL}/#website` },
+      mainEntity: faqCategories.flatMap((cat) =>
+        cat.items.map((item) => ({
+          "@type": "Question",
+          name: item.question,
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: item.answer,
+          },
+        }))
+      ),
+    },
+  ],
 };
 
 const FaqPage = () => {

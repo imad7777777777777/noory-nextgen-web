@@ -3,10 +3,12 @@ import { Link } from "react-router-dom";
 import { motion, AnimatePresence } from "framer-motion";
 import { quizQuestions, profileResults, QuizProfile } from "@/data/quizData";
 import { useSEO } from "@/hooks/useSEO";
+import { BASE_URL, LANG } from "@/lib/seo";
 import { Progress } from "@/components/ui/progress";
 import AppStoreBadge from "@/components/AppStoreBadge";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import Breadcrumb from "@/components/Breadcrumb";
 
 const QuizPage = () => {
   const [current, setCurrent] = useState(0);
@@ -20,10 +22,12 @@ const QuizPage = () => {
     jsonLd: {
       "@context": "https://schema.org",
       "@type": "WebPage",
+      "@id": `${BASE_URL}/quiz#webpage`,
       name: "Quiz Profil Financier Noory",
       description: "Découvre ton profil financier comportemental en 2 minutes.",
-      url: "https://noory.io/quiz",
-      inLanguage: "fr",
+      url: `${BASE_URL}/quiz`,
+      inLanguage: LANG,
+      isPartOf: { "@id": `${BASE_URL}/#website` },
     },
   });
 
@@ -57,10 +61,16 @@ const QuizPage = () => {
   return (
     <div className="min-h-screen bg-background">
       <Navbar />
-      <main className="pt-24 pb-16 min-h-[80vh] flex flex-col">
+      <Breadcrumb
+        items={[
+          { label: "Accueil", href: "/" },
+          { label: "Quiz" },
+        ]}
+      />
+      <main className="pb-16 min-h-[80vh] flex flex-col">
         <div className="container mx-auto px-4 md:px-8 max-w-2xl flex-1 flex flex-col">
           {/* Progress bar */}
-          <div className="mb-8">
+          <div className="mb-8 mt-6">
             <div className="flex items-center justify-between text-xs text-muted-foreground mb-2">
               <span>Quiz — Ton profil financier</span>
               <span>{result ? "Résultat" : `${current + 1}/${quizQuestions.length}`}</span>

@@ -1,7 +1,9 @@
 import { useMemo } from "react";
 import { useSEO } from "@/hooks/useSEO";
+import { BASE_URL, LANG, ORG_NOORY, PERSON_IMAD } from "@/lib/seo";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import Breadcrumb from "@/components/Breadcrumb";
 
 const APP_STORE_URL =
   "https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972";
@@ -13,17 +15,19 @@ const AProposPage = () => {
   const jsonLd = useMemo(
     () => ({
       "@context": "https://schema.org",
-      "@type": "Person",
-      name: "Imad",
-      jobTitle: "Fondateur Noory",
-      url: "https://noory.io/a-propos",
-      email: "contact.noory.app@gmail.com",
-      worksFor: {
-        "@type": "Organization",
-        name: "Noory",
-        url: "https://noory.io",
-      },
-      sameAs: [TIKTOK_URL, APP_STORE_URL],
+      "@graph": [
+        ORG_NOORY,
+        PERSON_IMAD,
+        {
+          "@type": "AboutPage",
+          "@id": `${BASE_URL}/a-propos#webpage`,
+          url: `${BASE_URL}/a-propos`,
+          name: "À propos — Imad, fondateur de Noory",
+          inLanguage: LANG,
+          isPartOf: { "@id": `${BASE_URL}/#website` },
+          mainEntity: { "@id": `${BASE_URL}/a-propos#imad` },
+        },
+      ],
     }),
     []
   );
@@ -39,9 +43,15 @@ const AProposPage = () => {
   return (
     <div className="min-h-screen" style={{ backgroundColor: "#FFF8F0" }}>
       <Navbar />
-      <main className="pt-24 pb-16">
+      <Breadcrumb
+        items={[
+          { label: "Accueil", href: "/" },
+          { label: "À propos" },
+        ]}
+      />
+      <main className="pb-16">
         <div className="container mx-auto px-4 md:px-8 max-w-3xl">
-          <h1 className="text-3xl md:text-4xl font-display font-bold tracking-tight text-gray-800 mb-8">
+          <h1 className="text-3xl md:text-4xl font-display font-bold tracking-tight text-gray-800 mb-8 mt-6">
             À propos — Imad, fondateur de Noory
           </h1>
 

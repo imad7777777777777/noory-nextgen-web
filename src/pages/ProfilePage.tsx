@@ -3,6 +3,7 @@ import { useEffect, useMemo } from "react";
 import { ArrowLeft } from "lucide-react";
 import { profiles } from "@/data/profiles";
 import { useSEO } from "@/hooks/useSEO";
+import { BASE_URL, LANG } from "@/lib/seo";
 import AppStoreBadge from "@/components/AppStoreBadge";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
@@ -15,15 +16,12 @@ const ProfilePage = () => {
   const jsonLd = useMemo(() => profile ? {
     "@context": "https://schema.org",
     "@type": "WebPage",
+    "@id": `${BASE_URL}/profil/${profile.slug}#webpage`,
     name: profile.metaTitle,
     description: profile.metaDescription,
-    url: `https://noory.io/profil/${profile.slug}`,
-    inLanguage: "fr",
-    isPartOf: {
-      "@type": "WebSite",
-      name: "Noory",
-      url: "https://noory.io",
-    },
+    url: `${BASE_URL}/profil/${profile.slug}`,
+    inLanguage: LANG,
+    isPartOf: { "@id": `${BASE_URL}/#website` },
   } : undefined, [profile]);
 
   useSEO({
