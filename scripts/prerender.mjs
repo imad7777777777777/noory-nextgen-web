@@ -41,6 +41,7 @@ const routes = [
   "/faq",
   "/confidentialite",
   "/cgu",
+  "/a-propos",
   "/profil/depensier-emotionnel",
   "/profil/navigateur-a-vue",
   "/profil/queteur-de-serenite",

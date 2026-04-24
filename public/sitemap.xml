@@ -248,6 +248,14 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- À propos -->
+  <url>
+    <loc>https://noory.io/a-propos</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
   <!-- Profile pages -->
   <url>
     <loc>https://noory.io/profil/depensier-emotionnel</loc>

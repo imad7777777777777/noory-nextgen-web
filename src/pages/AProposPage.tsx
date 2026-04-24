@@ -3,51 +3,35 @@ import { useSEO } from "@/hooks/useSEO";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
+const APP_STORE_URL =
+  "https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972";
+const TIKTOK_URL = "https://www.tiktok.com/@imad.argent.ethique";
+// LinkedIn à compléter par Imad — pas d'URL publique à exposer pour l'instant
+const LINKEDIN_URL = "https://www.linkedin.com/in/TODO";
+
 const AProposPage = () => {
   const jsonLd = useMemo(
     () => ({
       "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": "Organization",
-          name: "Noory",
-          url: "https://noory.io",
-          logo: "https://noory.io/og-image.png",
-          description:
-            "App de coaching financier comportemental basée sur la finance comportementale. Identifie ton profil financier et suis 28 jours de coaching personnalisé.",
-          email: "contact.noory.app@gmail.com",
-          sameAs: [
-            "https://www.instagram.com/noory_app",
-            "https://www.tiktok.com/@imad.argent.ethique",
-            "https://www.youtube.com/@Imadargentethique",
-          ],
-          founder: {
-            "@type": "Person",
-            name: "Imad",
-          },
-        },
-        {
-          "@type": "Person",
-          name: "Imad",
-          jobTitle: "Fondateur & développeur",
-          worksFor: {
-            "@type": "Organization",
-            name: "Noory",
-          },
-          nationality: "FR",
-          email: "contact.noory.app@gmail.com",
-          description:
-            "Fondateur et développeur de Noory, app de coaching financier comportemental pour les francophones.",
-        },
-      ],
+      "@type": "Person",
+      name: "Imad",
+      jobTitle: "Fondateur Noory",
+      url: "https://noory.io/a-propos",
+      email: "contact.noory.app@gmail.com",
+      worksFor: {
+        "@type": "Organization",
+        name: "Noory",
+        url: "https://noory.io",
+      },
+      sameAs: [TIKTOK_URL, APP_STORE_URL],
     }),
     []
   );
 
   useSEO({
-    title: "À propos de Noory | Coaching financier comportemental",
+    title: "À propos — Imad, fondateur de Noory",
     description:
-      "Découvre l'histoire de Noory, sa méthode basée sur la finance comportementale (Kahneman, Thaler) et son fondateur Imad. Une app française de coaching financier sans jugement.",
+      "Imad, fondateur solo de Noory, basé à Marseille. Pourquoi j'ai créé une app de coaching financier qui parle au comportement plutôt qu'au budget.",
     url: "/a-propos",
     jsonLd,
   });
@@ -57,94 +41,121 @@ const AProposPage = () => {
       <Navbar />
       <main className="pt-24 pb-16">
         <div className="container mx-auto px-4 md:px-8 max-w-3xl">
-          <h1 className="text-3xl md:text-4xl font-display font-bold tracking-tight text-gray-800 mb-10">
-            À propos de Noory
+          <h1 className="text-3xl md:text-4xl font-display font-bold tracking-tight text-gray-800 mb-8">
+            À propos — Imad, fondateur de Noory
           </h1>
 
-          <div className="space-y-10 text-gray-700 leading-relaxed">
-            <section>
-              <h2 className="text-xl font-display font-bold text-gray-800 mb-3">
-                L'histoire
-              </h2>
-              <p className="mb-4">
-                Noory est né d'un constat simple : les apps de budget ne
-                marchent pas. Pas parce qu'elles sont mal faites, mais parce
-                qu'elles répondent à la mauvaise question. Elles te montrent
-                combien tu dépenses. Mais elles ne t'aident pas à comprendre
-                pourquoi.
-              </p>
-              <p className="mb-4">
-                J'ai creusé la finance comportementale — les travaux de Daniel
-                Kahneman, Richard Thaler, Dan Ariely — et j'ai découvert que
-                notre rapport à l'argent est d'abord psychologique. Nos
-                décisions financières sont pilotées par nos émotions, nos
-                habitudes et nos croyances, pas par notre intelligence.
-              </p>
-              <p>
-                J'ai construit Noory autour de cette idée : un coach qui
-                comprend ta psychologie financière et t'accompagne pour changer
-                tes réflexes. Pas un tableau de bord. Un compagnon.
-              </p>
-            </section>
+          {/*
+            PHOTO À INSÉRER ICI — conserver la convention src/assets/ (comme screen-home.webp, hero-phone.png).
+            Ajoute src/assets/imad-founder.webp (ou .jpg), puis remplace ce commentaire par :
 
-            <section>
-              <h2 className="text-xl font-display font-bold text-gray-800 mb-3">
-                Le fondateur
-              </h2>
-              <p>
-                Je suis Imad, fondateur et développeur de Noory. Basé en France,
-                je travaille seul sur ce projet depuis 2025. Mon objectif :
-                aider les jeunes francophones à construire une relation saine
-                avec l'argent, sans jugement et sans jargon.
-              </p>
-            </section>
+              import imadPhoto from "@/assets/imad-founder.webp";
+              ...
+              <img
+                src={imadPhoto}
+                alt="Imad, fondateur de Noory"
+                className="w-40 h-40 rounded-full object-cover mb-8 shadow-md"
+              />
+          */}
 
-            <section>
-              <h2 className="text-xl font-display font-bold text-gray-800 mb-3">
-                La méthode
-              </h2>
-              <p className="mb-3">Noory repose sur 3 piliers scientifiques :</p>
-              <ul className="list-disc pl-6 space-y-2">
-                <li>
-                  <strong>La finance comportementale</strong> (Kahneman, Thaler)
-                  : nos biais cognitifs influencent nos décisions financières
-                </li>
-                <li>
-                  <strong>La psychologie des habitudes</strong> (BJ Fogg, James
-                  Clear) : de petites actions répétées créent des changements
-                  durables
-                </li>
-                <li>
-                  <strong>Le coaching personnalisé</strong> : chaque profil
-                  financier a ses propres forces et pièges
-                </li>
-              </ul>
-            </section>
+          <div className="space-y-6 text-gray-700 leading-relaxed text-base md:text-lg">
+            <p>
+              Salut, moi c'est Imad. Je suis seul derrière Noory — je code l'app,
+              j'écris le contenu, je réponds aux mails. Je vis à Marseille, et
+              j'ai lancé ce projet en 2025 parce que je n'ai jamais trouvé d'app
+              qui me parlait vraiment.
+            </p>
 
-            <section>
-              <h2 className="text-xl font-display font-bold text-gray-800 mb-3">
-                Contact
-              </h2>
-              <p>
-                Une question ? Un retour ?{" "}
+            <p>
+              Pendant longtemps, j'ai eu un rapport compliqué à l'argent. Pas
+              parce que j'en manquais — mais parce que je ne comprenais pas
+              pourquoi je dépensais comme je dépensais. J'ai essayé les apps de
+              budget : elles me montraient <em>combien</em> je dépensais, jamais{" "}
+              <em>pourquoi</em>. J'ai téléchargé, rempli des catégories, abandonné.
+              Trois fois. Cinq fois. Comme tout le monde.
+            </p>
+
+            <p>
+              En creusant la finance comportementale — Kahneman, Thaler, Ariely —
+              j'ai compris que la plupart de nos décisions financières ne sont pas
+              rationnelles. Elles sont émotionnelles. Un budget qui ignore ça ne
+              marche pas. C'est pour ça que les apps classiques ne tiennent pas :
+              elles s'adressent à un cerveau logique qui n'existe pas.
+            </p>
+
+            <p>
+              Noory est construit à l'envers. On part de ta psychologie, pas de
+              tes chiffres. On te fait faire des micro-actions quotidiennes — pas
+              un gros plan à suivre pendant six mois. Et on le fait sans jugement.
+              Pas de badges de culpabilité, pas de cris quand tu dépasses ton
+              budget. Juste un rituel simple, répété, qui t'apprend à te
+              comprendre avant de te discipliner.
+            </p>
+
+            <p>
+              L'éthique compte aussi. Noory ne vend pas tes données, ne te pousse
+              pas vers des produits financiers commissionnés, ne te culpabilise
+              pas pour te faire rester. On n'est pas un service financier
+              réglementé — on est un outil de coaching comportemental. La
+              différence est importante, et je la tiens.
+            </p>
+
+            <p>
+              Si tu veux qu'on parle : <strong>écris-moi directement</strong> à{" "}
+              <a
+                href="mailto:contact.noory.app@gmail.com"
+                className="text-primary hover:underline"
+              >
+                contact.noory.app@gmail.com
+              </a>
+              . Je lis tout, je réponds à tout. C'est un des avantages d'être
+              seul sur le projet.
+            </p>
+
+            <p>Tu peux aussi me trouver ailleurs :</p>
+
+            <ul className="list-disc pl-6 space-y-2">
+              <li>
+                TikTok :{" "}
                 <a
-                  href="mailto:contact.noory.app@gmail.com"
-                  className="text-primary hover:underline"
-                >
-                  contact.noory.app@gmail.com
-                </a>
-                <br />
-                Instagram :{" "}
-                <a
-                  href="https://www.instagram.com/noory_app"
+                  href={TIKTOK_URL}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-primary hover:underline"
                 >
-                  @noory_app
+                  @imad.argent.ethique
+                </a>{" "}
+                — là où je parle argent sans tabou et sans jargon
+              </li>
+              <li>
+                App Store :{" "}
+                <a
+                  href={APP_STORE_URL}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-primary hover:underline"
+                >
+                  Noory sur iPhone
+                </a>{" "}
+                — gratuit 7 jours, sans engagement
+              </li>
+              <li>
+                LinkedIn :{" "}
+                <a
+                  href={LINKEDIN_URL}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-primary hover:underline"
+                >
+                  profil pro
                 </a>
-              </p>
-            </section>
+              </li>
+            </ul>
+
+            <p className="pt-4">
+              Merci d'être passé·e. Si Noory t'aide, même un tout petit peu, j'ai
+              fait ce que je voulais faire.
+            </p>
           </div>
         </div>
       </main>
