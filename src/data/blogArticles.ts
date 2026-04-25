@@ -2681,7 +2681,7 @@ L'anxiété financière, ce n'est pas juste "être stressé par l'argent". C'est
 
 Parce que l'anxiété ne vient pas toujours des chiffres. Elle vient du **rapport** qu'on a avec l'argent. Des peurs héritées de l'enfance. Du manque d'éducation financière. Du sentiment de ne pas maîtriser ce qui se passe. De la honte de ne pas "être meilleur·e avec l'argent".
 
-Selon une étude de l'American Psychological Association, l'argent est la première source de stress dans le monde — devant le travail, la santé et les relations. En France, une étude récente montre que 60 % des 18-35 ans ressentent de l'anxiété liée à leurs finances au moins une fois par semaine.
+Selon le rapport [Stress in America 2023 de l'American Psychological Association](https://www.apa.org/news/press/releases/stress/2023/collective-trauma-recovery), 63 % des adultes américains citent l'argent comme source significative de stress, à un niveau comparable à la santé (65 %) et à l'économie (64 %). En France, selon un [sondage IFOP réalisé pour Mes Bienfaits en mars 2022](https://www.ifop.com/wp-content/uploads/2022/05/rapport-sondage-anxiete-ifop-mesbienfaits.pdf), la situation financière est source d'anxiété pour 59 % des moins de 35 ans — contre 36 % chez les plus de 35 ans et 17 % chez les plus de 65 ans.
 
 Si tu ressens cette pression, tu n'es ni faible ni incompétent·e. Tu es humain·e. Et il existe des techniques concrètes pour calmer ce stress.
 
