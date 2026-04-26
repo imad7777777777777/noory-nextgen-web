@@ -449,7 +449,7 @@ Le fonds d'urgence n'a **pas pour vocation de rapporter**. Il a pour vocation de
 
 ## Comment le construire quand tu pars de zéro
 
-Tu as 0€ de côté ? Tu n'es pas seul·e. Près de 40% des Français n'ont pas 500€ d'épargne de précaution. Voici le plan simple :
+Tu as 0€ de côté ? Tu n'es pas seul·e. Selon le [baromètre CSA pour Cofidis (2024)](https://www.cofidis.fr/fr/question-de-budget/pouvoir-achat/barometre-pouvoir-achat-2024.html), 51 % des Français déclarent ne pas parvenir à mettre de l'argent de côté chaque mois. Pas par manque de volonté — mais parce que personne ne nous a appris comment. Voici le plan simple :
 
 ### Étape 1 : Vise 500€ (le premier palier qui change tout)
 
