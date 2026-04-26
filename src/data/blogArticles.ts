@@ -3069,7 +3069,7 @@ Et dans 3 mois, quand tu regarderas ce petit matelas qui a grandi sans effort, t
 
 En France, parler d'argent est un acte presque transgressif. Demande à un ami combien il gagne, et tu verras son visage se fermer. Évoque ton salaire à table, et un malaise s'installe. Parle d'épargne en soirée, et on te regardera comme si tu avais commis une faute de goût.
 
-Ce tabou est profondément ancré. Selon une étude IFOP de 2023, 62 % des Français considèrent qu'il est "inconvenant" de parler d'argent, même avec ses proches. C'est plus que le sexe (34 %) et la politique (28 %). L'argent est littéralement le dernier tabou français.
+Ce tabou est profondément ancré. Même au travail — où parler d'argent devrait être banal — [une étude IFOP réalisée pour Compte Pro en octobre 2023](https://www.ifop.com/publication/enquete-aupres-des-salariees-sur-leurs-sujets-de-conversation-et-leurs-relations-amicales-en-entreprise/) auprès de 948 salariés montre que 68 % des Français considèrent le montant des rémunérations comme un sujet tabou, plus que les relations sentimentales entre collègues (52 %) ou les questions de religion (46 %). L'argent reste l'un des derniers tabous français.
 
 Et ce silence a des conséquences bien réelles sur ta vie financière. Parce que quand on ne parle pas d'argent, on ne peut pas apprendre. On ne peut pas se comparer de manière saine. On ne peut pas demander de l'aide. Et on reste seul avec ses erreurs, sa honte, et son stress.
 
