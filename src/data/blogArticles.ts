@@ -153,7 +153,7 @@ Tu vois quelque chose que tu veux acheter — sur Amazon, en boutique, peu impor
 
 Pas "je renonce". Juste "pas maintenant". Tu continues ce que tu faisais. Tu fais autre chose. Et dans 10 minutes, tu te reposes la question : "Est-ce que j'ai toujours envie de ça ?"
 
-Dans 70% des cas, l'envie est passée. C'était une réaction émotionnelle, pas un vrai besoin. Les 30% restants, tu achètes en conscience — et tu ne regrettes pas. Cette mini-pause transforme l'achat impulsif en choix délibéré.
+Souvent, l'envie est déjà passée. C'était une réaction émotionnelle, pas un vrai besoin. Les autres fois, tu achètes en conscience — et tu ne regrettes pas. Cette mini-pause transforme l'achat impulsif en choix délibéré.
 
 ## Habitude 3 — Nommer chaque euro épargné
 
@@ -163,7 +163,7 @@ Au lieu d'avoir "un livret A" ou "mon épargne", nomme tes comptes d'épargne co
 - Au lieu de "compte épargne" → "Changer de voiture en 2028"
 - Au lieu de "PEL" → "Apport appart"
 
-Pourquoi ? Parce que "épargner" est abstrait. "Mettre 50€ de plus vers le voyage au Japon" est concret et motivant. La psychologie montre que l'épargne nommée progresse 30% plus vite que l'épargne générique. Tu sais pourquoi tu mets de côté — donc tu le fais plus facilement.
+Pourquoi ? Parce que "épargner" est abstrait. "Mettre 50€ de plus vers le voyage au Japon" est concret et motivant. Une [étude de terrain de Karlan et al. (2016)](https://poverty-action.org/sites/default/files/publications/getting-to-the-top-of-mind.pdf) menée auprès de clients de banques aux Philippines, en Bolivie et au Pérou a montré que des rappels mentionnant explicitement l'objectif d'épargne sont **deux fois plus efficaces** pour augmenter l'épargne que des rappels génériques. Tu sais pourquoi tu mets de côté — donc tu le fais plus facilement.
 
 ## Habitude 4 — Le dimanche budget (15 min, un café, tes comptes)
 
@@ -220,7 +220,7 @@ Ensuite, ajoute la deuxième. Puis la troisième. En 7 semaines, tu auras intég
     faq: [
       {
         q: "Combien de temps pour changer une habitude financière ?",
-        a: "La recherche montre entre 18 et 254 jours selon la complexité. Noory propose 28 jours car c'est suffisant pour ancrer les bases.",
+        a: "Une étude de l'University College London publiée en 2010 par Lally et al. (https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674) a montré une fourchette allant de 18 à 254 jours selon la personne et l'habitude — avec une moyenne de 66 jours. Noory propose 28 jours car c'est suffisant pour ancrer les bases.",
       },
       {
         q: "Quelle est la micro-habitude financière la plus efficace ?",
@@ -3450,7 +3450,7 @@ Fais le quiz de profil et découvre ton rapport à l'argent. Si la comparaison e
 
 Tu as probablement entendu cette phrase : "Il faut 21 jours pour créer une nouvelle habitude." Elle vient du Dr Maxwell Maltz, un chirurgien plasticien des années 1960 qui avait observé que ses patients mettaient environ 21 jours à s'habituer à leur nouveau visage.
 
-La réalité scientifique est plus nuancée. Une étude de l'University College London en 2009 a montré que le temps moyen pour automatiser un comportement est de 66 jours -- avec une fourchette allant de 18 à 254 jours selon la personne et l'habitude.
+La réalité scientifique est plus nuancée. Une [étude de l'University College London publiée en 2010 par Lally et al.](https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674) a montré que le temps moyen pour automatiser un comportement est de 66 jours — avec une fourchette allant de 18 à 254 jours selon la personne et l'habitude.
 
 Alors pourquoi 21 jours ? Parce que 21 jours, c'est suffisamment long pour créer un vrai changement, et suffisamment court pour rester motivé. C'est un horizon réaliste. Pas un sprint impossible, pas un marathon décourageant. C'est le sweet spot.
 

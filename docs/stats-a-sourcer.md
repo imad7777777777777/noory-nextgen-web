@@ -1,5 +1,12 @@
 # Statistiques à sourcer ou paraphraser — articles blog
 
+> **Note méthodo** — Les numéros de ligne ci-dessous reflètent l'état du
+> fichier au moment de la création de cette doc et accusent un décalage
+> systématique de **+1 ligne** par rapport au fichier actuel
+> (ex : « L451 » = en réalité L452 aujourd'hui). La grep par contenu reste
+> fiable. Ne pas re-indexer ligne par ligne — corriger seulement quand on
+> traite une stat.
+
 Liste brute des chiffres et études citées sans source dans
 `src/data/blogArticles.ts`. **Rien n'a été modifié** : c'est Imad qui
 décide article par article s'il :
@@ -104,21 +111,28 @@ des illustrations pédagogiques, pas des claims factuels.
   → Deux chiffres différents pour le même phénomène dans le même
   article. À harmoniser et à sourcer (ou à qualitatif).
 
-## 9. `epargne-automatique-comment-mettre-en-place`
+## 9. `habitudes-financieres-qui-changent-tout`
 
-- **Ligne 155** — « Dans 70% des cas, l'envie est passée. »
-  → Même stat que ci-dessus, autre article.
+> **Correctif** — Ces 3 stats étaient initialement attribuées à
+> `epargne-automatique-comment-mettre-en-place` mais elles vivent en
+> réalité dans `habitudes-financieres-qui-changent-tout` (slug à L126).
+> `epargne-automatique-comment-mettre-en-place` ne contient aucune stat
+> à sourcer — section retirée.
 
-- **Ligne 165** — « La psychologie montre que l'épargne nommée progresse
+- **Ligne 156** — « Dans 70% des cas, l'envie est passée. »
+  → Même stat que ci-dessus, autre article. ✅ TRAITÉ — paraphrasé
+  qualitativement (option B) sans chiffre.
+
+- **Ligne 166** — « La psychologie montre que l'épargne nommée progresse
   30% plus vite que l'épargne générique. »
-  → Source à identifier (littérature « mental accounting » Thaler,
-  ou travaux sur labeled savings).
+  → ✅ TRAITÉ — citation Karlan et al. (2016, *Management Science*),
+  étude de terrain : rappels avec objectif d'épargne nommé deux fois
+  plus efficaces que rappels génériques.
 
-- **Ligne 222** *(FAQ)* — « La recherche montre entre 18 et 254 jours
+- **Ligne 223** *(FAQ)* — « La recherche montre entre 18 et 254 jours
   selon la complexité. »
-  → Stat UCL 2009 (Lally et al.), DÉJÀ SOURCÉE dans
-  `habitudes-financieres-21-jours` (L3452). À synchroniser : reprendre
-  la même formulation avec citation UCL.
+  → ✅ TRAITÉ — citation Lally et al. (2010, UCL), lien Wiley DOI ajouté
+  + harmonisé avec `habitudes-financieres-21-jours` L3453.
 
 ## 10. `routine-financiere-dimanche`
 
@@ -219,10 +233,11 @@ des illustrations pédagogiques, pas des claims factuels.
 
 ## Stats déjà sourcées (ne pas toucher)
 
-- `habitudes-financieres-21-jours` L3452 — « Une étude de
-  l'University College London en 2009 a montré que le temps moyen
-  pour automatiser un comportement est de 66 jours. » *(Lally et al.,
-  source nommée.)*
+- `habitudes-financieres-21-jours` L3453 — « Une étude de
+  l'University College London publiée en 2010 par Lally et al.
+  a montré que le temps moyen pour automatiser un comportement est de
+  66 jours. » ✅ Lien Wiley DOI ajouté, formulation harmonisée avec
+  `habitudes-financieres-qui-changent-tout` L223.
 
 ## À considérer en priorité (haut risque YMYL / visibilité)
 
