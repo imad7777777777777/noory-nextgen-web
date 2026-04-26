@@ -88,6 +88,9 @@ des illustrations pédagogiques, pas des claims factuels.
 - **Ligne 2830** — « Et les achats impulsifs en ligne augmentent de 40
   % entre 20h et 23h. »
   → Même source que `depenses-impulsives-comment-arreter` ligne 1274.
+  ⚠️ Stat identique à celle de `depenses-impulsives-comment-arreter` —
+  utiliser la même source Baumeister & Vohs (2007) + framing « fatigue
+  décisionnelle » quand on traitera cet article.
 
 - **Ligne 2850** — « Dans 70 % des cas, tu n'en auras plus envie. »
   *(règle d'attente 48h avant achat)*

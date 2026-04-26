@@ -1205,7 +1205,7 @@ Alloue-toi un montant précis par mois pour tes envies : sorties, restos, achats
 
 Et voilà la clé : **quand tu dépenses dans ce budget, tu ne culpabilises pas**. C'est prévu. C'est choisi. C'est validé à l'avance.
 
-Paradoxalement, un budget plaisir **explicite** réduit les dépenses impulsives de 30 à 40%. Parce que tu as une "soupape" officielle — et parce que tu arrêtes de culpabiliser à chaque petite dépense, ce qui réduit le cycle honte → compensation → honte.
+Paradoxalement, un budget plaisir **explicite** réduit les dépenses impulsives. Les travaux de [Richard Thaler sur le mental accounting](https://people.bath.ac.uk/mnsrf/Teaching%202011/Thaler-99.pdf) (1999, prix Nobel d'économie 2017) ont montré que catégoriser explicitement son argent par poste — y compris un poste « plaisir » — aide à mieux résister aux achats hors-budget. Parce que tu as une "soupape" officielle — et parce que tu arrêtes de culpabiliser à chaque petite dépense, ce qui réduit le cycle honte → compensation → honte.
 
 Pour t'aider à te faire plaisir sans culpabiliser, lis [Dépense plaisir sans culpabiliser](/blog/depense-plaisir-sans-culpabiliser).
 
@@ -1272,7 +1272,7 @@ Le problème, c'est que ce soulagement dure quelques minutes. Et il est souvent 
 
 On en parle moins, mais l'ennui est un déclencheur puissant. Quand tu n'as rien à faire, quand tu te sens vide, quand ta journée manque de stimulation — ton cerveau cherche quelque chose à faire. Et acheter en ligne, c'est facile, accessible, et immédiat.
 
-Les études montrent que les achats impulsifs en ligne augmentent de 40 % les soirs de semaine entre 20h et 23h. Ce n'est pas un hasard. C'est le moment où l'ennui est le plus présent.
+Le soir, ton cerveau est fatigué : ta capacité à résister aux impulsions baisse en fin de journée. La recherche en psychologie cognitive parle de "fatigue décisionnelle" (decision fatigue) — plus tu as pris de décisions dans la journée, moins tu as de ressources mentales pour résister à un achat impulsif ([Baumeister & Vohs, 2007](https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-9004.2007.00001.x)). C'est pour ça que les apps de e-commerce sont conçues pour te capter exactement à ce moment-là.
 
 ### La comparaison sociale
 
