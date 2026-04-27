@@ -156,13 +156,18 @@ des illustrations pédagogiques, pas des claims factuels.
 
 - **Ligne 799** — « Beaucoup de gens découvrent qu'une seule habitude
   représente 40 à 60% de leurs regrets d'achat. »
-  → Chiffre sans base — reformuler ou sourcer.
+  → ✅ TRAITÉ — paraphrase qualitative ("concentre une part
+  disproportionnée"), exemples concrets ajoutés (abonnement, catégorie,
+  magasin).
 
 ## 12. `relation-saine-argent`
 
 - **Ligne 1022** — « Cet héritage pilote 80% de tes comportements
   actuels, que tu le saches ou non. »
-  → Chiffre sans base (transmission comportementale autour de l'argent).
+  → ✅ TRAITÉ — citation [Klontz et al.
+  (2011)](https://newprairiepress.org/jft/vol2/iss1/1/), concept "money
+  scripts" (premier usage). Référence académique solide qui ancre le
+  positionnement Noory sur la psychologie de l'argent.
 
 ## 13. `premiere-paie-5-reflexes`
 
@@ -193,7 +198,8 @@ des illustrations pédagogiques, pas des claims factuels.
 
 - **Ligne 2368** — « Cette règle élimine 80% des micro-conflits liés
   aux achats quotidiens. »
-  → Affirmation sans base.
+  → ✅ TRAITÉ — paraphrase qualitative ("désamorce la plupart"),
+  affirmation rhétorique adoucie.
 
 ## 16. `depense-plaisir-sans-culpabiliser`
 

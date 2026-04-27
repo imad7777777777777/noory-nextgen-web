@@ -798,7 +798,7 @@ Au bout d'une semaine de "journal des regrets", tu vas voir apparaître des **pa
 
 Ces patterns sont en or. Parce qu'ils transforment un problème flou ("je dépense trop") en problème concret ("je commande à manger 4 fois par semaine entre 20h et 22h quand je suis épuisé·e"). Et un problème concret, tu peux agir dessus.
 
-Beaucoup de gens découvrent qu'une seule habitude représente 40 à 60% de leurs regrets d'achat. C'est à dire que changer **une seule chose** peut transformer l'ensemble du budget. C'est énorme.
+Beaucoup de gens découvrent qu'une seule habitude — un abonnement, une catégorie de dépenses, un magasin — concentre une part disproportionnée de leurs regrets d'achat. C'est à dire que changer **une seule chose** peut transformer l'ensemble du budget. C'est énorme.
 
 ## Passer du tracking au changement
 
@@ -1021,7 +1021,7 @@ Pose-toi ces questions honnêtement :
 - Est-ce qu'on te cachait des choses sur l'argent (salaire des parents, dettes, difficultés) ?
 - Comment les adultes autour de toi réagissaient face à quelqu'un qui avait "trop" d'argent ?
 
-Tes réponses révèlent ton **héritage financier émotionnel**. Pas ton héritage en euros — ton héritage en croyances et en émotions autour de l'argent. Et cet héritage pilote 80% de tes comportements actuels, que tu le saches ou non.
+Tes réponses révèlent ton **héritage financier émotionnel**. Pas ton héritage en euros — ton héritage en croyances et en émotions autour de l'argent. La recherche en finance comportementale parle de "money scripts" — ces croyances apprises dans l'enfance, souvent inconscientes, qui pilotent silencieusement tes décisions financières d'adulte ([Klontz et al., 2011](https://newprairiepress.org/jft/vol2/iss1/1/)).
 
 La bonne nouvelle : ce que tu as appris inconsciemment, tu peux le désapprendre consciemment. Ça prend du temps, mais c'est possible. Le parcours 28 jours de Noory est construit autour de ce travail.
 
@@ -2367,7 +2367,7 @@ Pas de reproches, pas de comptes à rendre. Juste un moment de clarté à deux. 
 
 C'est LA règle qui sauve les couples. Chaque mois, chacun dispose d'un montant personnel qu'il peut dépenser **sans rendre de comptes**. 50€, 100€, 200€ — le montant importe peu. Ce qui compte, c'est la **liberté**.
 
-Tu veux acheter un objet qui semble inutile à ton partenaire ? C'est ton budget liberté, pas de justification nécessaire. Cette règle élimine 80% des micro-conflits liés aux achats quotidiens.
+Tu veux acheter un objet qui semble inutile à ton partenaire ? C'est ton budget liberté, pas de justification nécessaire. Cette règle désamorce la plupart des micro-conflits liés aux achats quotidiens.
 
 ## Règle 3 : Un seuil au-dessus duquel on décide à deux
 
