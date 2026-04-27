@@ -205,13 +205,15 @@ des illustrations pédagogiques, pas des claims factuels.
 
 - **Ligne 2455** — « Ces 3 questions prennent 30 secondes et évitent
   80% des regrets. »
-  → Affirmation sans base.
+  → ✅ TRAITÉ — paraphrase qualitative ("évitent la grande majorité
+  des regrets d'achat").
 
 ## 17. `defi-epargne-52-semaines`
 
 - **Ligne 303** — « Voici comment faire partie des 10% qui tiennent. »
   *(en parlant du défi 52 semaines)*
-  → Affirmation sans base — reformuler qualitativement.
+  → ✅ TRAITÉ — paraphrase qualitative ("ceux qui tiennent jusqu'au
+  bout"), chiffre rond rhétorique retiré.
 
 ## 18. `depenses-inutiles-couper-sans-souffrir`
 

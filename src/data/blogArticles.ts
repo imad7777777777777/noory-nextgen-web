@@ -302,7 +302,7 @@ Cette version est moins ludique, mais plus facile à automatiser. Et comme on le
 
 ## Comment ne pas abandonner en cours de route
 
-Soyons honnêtes : la majorité des gens qui démarrent le défi 52 semaines abandonnent avant juin. Voici comment faire partie des 10% qui tiennent :
+Soyons honnêtes : la majorité des gens qui démarrent le défi 52 semaines abandonnent avant juin. Voici comment faire partie de ceux qui tiennent jusqu'au bout :
 
 ### Automatise dès le départ
 
@@ -2454,7 +2454,7 @@ Quand tu hésites, pose-toi ces 3 questions :
 
 3. **"Est-ce que c'est dans mon budget plaisir ?"** (Si oui, pas de culpabilité. Si non, est-ce que tu peux attendre le mois prochain ?)
 
-Ces 3 questions prennent 30 secondes et évitent 80% des regrets. C'est le même principe que le SOS achat de Noory — un espace entre l'envie et l'acte.
+Ces 3 questions prennent 30 secondes et évitent la grande majorité des regrets d'achat. C'est le même principe que le SOS achat de Noory — un espace entre l'envie et l'acte.
 
 ## Noory : un coaching qui t'aide à dépenser MIEUX, pas moins
 
