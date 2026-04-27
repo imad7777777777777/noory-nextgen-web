@@ -52,9 +52,10 @@ des illustrations pédagogiques, pas des claims factuels.
 - **Ligne 2594** — « Les études en finance comportementale montrent
   qu'on dépense en moyenne 12 à 18 % de moins quand on paie en cash
   plutôt qu'en carte. »
-  → Référence habituelle : travaux de Prelec & Simester (2001, MIT)
-  sur le « pain of paying » / effet carte vs cash. Chiffre précis à
-  vérifier.
+  → ✅ TRAITÉ — citation [Prelec & Simester
+  (2001)](https://web.mit.edu/simester/Public/Papers/Alwaysleavehome.pdf),
+  finding canonique : la disposition à payer peut quasi-doubler avec
+  carte vs cash. Le 12-18% retiré au profit du finding réel.
 
 ## 4. `parler-argent-tabou-france`
 
@@ -68,11 +69,14 @@ des illustrations pédagogiques, pas des claims factuels.
 
 - **Ligne 1333** — « Les études montrent que 73 % des personnes qui
   commencent un budget strict l'abandonnent en moins de 2 semaines. »
-  → Source à identifier.
+  → ✅ TRAITÉ — paraphrase qualitative invoquant la "fatigue de budget"
+  (concept documenté). Pas de chiffre fragile.
 
 - **Ligne 1353** — « Les recherches montrent que 70 % des envies
   d'achat disparaissent en 24h. »
-  → Source à identifier (littérature impulse buying).
+  → ✅ TRAITÉ — paraphrase qualitative ("Souvent, l'envie d'achat se
+  dissipe dans les heures qui suivent"), cohérence avec la famille
+  pause/délai déjà paraphrasée dans 4 articles.
 
 ## 6. `depenses-impulsives-comment-arreter`
 
@@ -233,8 +237,11 @@ des illustrations pédagogiques, pas des claims factuels.
 ## 22. `arreter-comparer-finances-reseaux`
 
 - **Ligne 3383** — « Le stress financier touche 7 personnes sur 10. »
-  → Source à identifier (baromètres Harris/Ipsos sur santé mentale
-  financière).
+  → ✅ TRAITÉ — citation [baromètre Ipsos/Secours Populaire
+  2025](https://www.secourspopulaire.fr/barometre-ipsos-spf-2025-des-europeens-precaires-et-anxieux/) :
+  72% des personnes en difficulté budgétaire ressentent de l'anxiété
+  liée à la précarité financière. Cadrage corrigé : sous-ensemble
+  "personnes en difficulté", pas population générale.
 
 ---
 

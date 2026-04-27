@@ -1332,7 +1332,7 @@ Et à partir de là, Noory t'accompagne — un jour à la fois, un choix à la f
     keywords: ["gérer son argent", "gestion budget simple", "finances personnelles"],
     content: `## Pourquoi les budgets classiques échouent
 
-Soyons honnêtes : combien de fois tu as téléchargé une app de budget, rempli tes catégories pendant 3 jours, puis abandonné ? Tu n'es pas seul·e. Les études montrent que 73 % des personnes qui commencent un budget strict l'abandonnent en moins de 2 semaines.
+Soyons honnêtes : combien de fois tu as téléchargé une app de budget, rempli tes catégories pendant 3 jours, puis abandonné ? Tu n'es pas seul·e. La "fatigue de budget" est un phénomène documenté en finance comportementale — les budgets trop stricts s'effondrent vite parce qu'ils ignorent comment marche la motivation humaine.
 
 Pourquoi ? Parce que les budgets classiques reposent sur un principe qui ne fonctionne pas : le contrôle total. Tout noter, tout catégoriser, tout optimiser. C'est épuisant. Et surtout, ça crée de la culpabilité à chaque écart. Tu dépasses ton budget restaurant ? Tu te sens nul·le. Tu craques pour un plaisir ? Tu culpabilises.
 
@@ -1352,7 +1352,7 @@ Le check-in de 2 minutes, c'est l'antidote au flou. Si tu te demandes souvent o�
 
 Avant tout achat non-essentiel de plus de 30€, attends 24 heures. C'est tout. Tu ne dis pas non, tu dis "demain".
 
-Cette technique est redoutablement efficace. Les recherches montrent que 70 % des envies d'achat disparaissent en 24h. L'émotion passe, la raison revient, et tu réalises souvent que tu n'en avais pas vraiment besoin.
+Cette technique est redoutablement efficace. Souvent, l'envie d'achat se dissipe dans les heures qui suivent. L'émotion passe, la raison revient, et tu réalises souvent que tu n'en avais pas vraiment besoin.
 
 Noory intègre cette logique avec le **SOS achat** : au lieu de lutter contre l'envie, tu crées un espace. Et dans cet espace, tu retrouves ta capacité à choisir.
 
@@ -2593,7 +2593,7 @@ Les budgets classiques échouent pour une raison précise : ils sont **abstraits
 
 Avec les enveloppes, la dépense est physique. Tu ouvres l'enveloppe, tu vois ce qui reste, et tu décides en connaissance de cause. Cette **friction positive** — le fait de devoir ouvrir, compter, toucher — ralentit ta prise de décision. Et c'est exactement ce dont on a besoin.
 
-Les études en finance comportementale montrent qu'on dépense en moyenne 12 à 18 % de moins quand on paie en cash plutôt qu'en carte. Le "pain of paying" — la douleur de payer — est plus forte avec du liquide. C'est un allié, pas un ennemi.
+Les études en finance comportementale montrent qu'on dépense significativement moins quand on paie en cash plutôt qu'en carte. Une [étude classique de Prelec & Simester (2001, MIT)](https://web.mit.edu/simester/Public/Papers/Alwaysleavehome.pdf) a même observé que la disposition à payer pouvait quasi-doubler avec une carte de crédit par rapport au cash, dans une expérience aux enchères. Le "pain of paying" — la douleur de payer — est plus forte avec du liquide. C'est un allié, pas un ennemi.
 
 Si tu cherches à comprendre les bases d'un budget avant de te lancer, jette un œil à [Budget pour les nuls](/blog/budget-pour-les-nuls). C'est le complément parfait.
 
@@ -3382,7 +3382,7 @@ Les réseaux sociaux sont un highlight reel. Personne ne poste son relevé de co
 
 Les algorithmes amplifient le problème. Ils te montrent ce qui génère de l'engagement -- et rien ne génère plus d'engagement que le luxe, le succès, et le "regarde comme ma vie est parfaite". Tu ne vois pas un échantillon représentatif de la réalité. Tu vois une sélection biaisée vers l'exceptionnel.
 
-Si tu suivais les finances réelles des Français de ton âge, tu verrais que la majorité n'épargne pas autant qu'elle le voudrait, que beaucoup ont des crédits, et que le stress financier touche 7 personnes sur 10. Mais ça, les réseaux ne te le montrent pas.
+Si tu suivais les finances réelles des Français de ton âge, tu verrais que la majorité n'épargne pas autant qu'elle le voudrait, que beaucoup ont des crédits, et que selon le [baromètre Ipsos/Secours Populaire 2025](https://www.secourspopulaire.fr/barometre-ipsos-spf-2025-des-europeens-precaires-et-anxieux/), 72 % des personnes en difficulté budgétaire ressentent de l'anxiété liée à la précarité financière. Mais ça, les réseaux ne te le montrent pas.
 
 ### Le marketing déguisé
 
