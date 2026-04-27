@@ -8,8 +8,7 @@ import Breadcrumb from "@/components/Breadcrumb";
 const APP_STORE_URL =
   "https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972";
 const TIKTOK_URL = "https://www.tiktok.com/@imad.argent.ethique";
-// LinkedIn à compléter par Imad — pas d'URL publique à exposer pour l'instant
-const LINKEDIN_URL = "https://www.linkedin.com/in/TODO";
+const LINKEDIN_URL = "https://www.linkedin.com/in/imad-noory-3b2242403/";
 
 const AProposPage = () => {
   const jsonLd = useMemo(
@@ -35,7 +34,7 @@ const AProposPage = () => {
   useSEO({
     title: "À propos — Imad, fondateur de Noory",
     description:
-      "Imad, fondateur solo de Noory, basé à Marseille. Pourquoi j'ai créé une app de coaching financier qui parle au comportement plutôt qu'au budget.",
+      "Imad, fondateur de Noory, basé à Marseille. Pourquoi j'ai créé une app de coaching financier qui parle au comportement plutôt qu'au budget.",
     url: "/a-propos",
     jsonLd,
   });
@@ -70,10 +69,10 @@ const AProposPage = () => {
 
           <div className="space-y-6 text-gray-700 leading-relaxed text-base md:text-lg">
             <p>
-              Salut, moi c'est Imad. Je suis seul derrière Noory — je code l'app,
-              j'écris le contenu, je réponds aux mails. Je vis à Marseille, et
-              j'ai lancé ce projet en 2025 parce que je n'ai jamais trouvé d'app
-              qui me parlait vraiment.
+              Salut, moi c'est Imad. Je m'occupe de Noory au quotidien avec
+              une petite équipe — je code l'app, j'écris le contenu, je réponds
+              aux mails. Je vis à Marseille, et j'ai lancé ce projet en 2025
+              parce que je n'ai jamais trouvé d'app qui me parlait vraiment.
             </p>
 
             <p>
@@ -118,8 +117,8 @@ const AProposPage = () => {
               >
                 contact.noory.app@gmail.com
               </a>
-              . Je lis tout, je réponds à tout. C'est un des avantages d'être
-              seul sur le projet.
+              . Je lis tout, je réponds à tout. C'est un des avantages d'avoir
+              une petite équipe.
             </p>
 
             <p>Tu peux aussi me trouver ailleurs :</p>

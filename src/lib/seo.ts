@@ -27,6 +27,7 @@ export const ORG_NOORY = {
   sameAs: [
     "https://www.instagram.com/noory_app",
     "https://www.tiktok.com/@imad.argent.ethique",
+    "https://www.linkedin.com/in/imad-noory-3b2242403/",
     APP_STORE_URL,
   ],
 } as const;
@@ -38,7 +39,10 @@ export const PERSON_IMAD = {
   jobTitle: "Fondateur Noory",
   url: `${BASE_URL}/a-propos`,
   worksFor: { "@id": `${BASE_URL}/#organization` },
-  sameAs: ["https://www.tiktok.com/@imad.argent.ethique"],
+  sameAs: [
+    "https://www.tiktok.com/@imad.argent.ethique",
+    "https://www.linkedin.com/in/imad-noory-3b2242403/",
+  ],
 } as const;
 
 export const WEBSITE_NOORY = {
