@@ -25,11 +25,11 @@ const Index = () => {
         ORG_NOORY,
         WEBSITE_NOORY,
         {
-          "@type": "MobileApplication",
+          "@type": "SoftwareApplication",
           "@id": `${BASE_URL}/#app`,
           name: "Noory",
           operatingSystem: "iOS",
-          applicationCategory: "FinanceApplication",
+          applicationCategory: "Finance",
           description:
             "Coaching financier comportemental. Micro-actions quotidiennes, zéro jugement.",
           offers: { "@type": "Offer", price: "0", priceCurrency: "EUR" },
