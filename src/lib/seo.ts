@@ -25,9 +25,10 @@ export const ORG_NOORY = {
     url: `${BASE_URL}/og-image.png`,
   },
   sameAs: [
-    "https://www.instagram.com/noory_app",
-    "https://www.tiktok.com/@imad.argent.ethique",
     "https://www.linkedin.com/in/imad-noory-3b2242403/",
+    "https://www.tiktok.com/@imad.argent.ethique",
+    "https://www.youtube.com/@Imadargentethique",
+    "https://www.instagram.com/noory_app",
     APP_STORE_URL,
   ],
 } as const;
@@ -54,8 +55,9 @@ export const PERSON_IMAD = {
     "habitudes financières",
   ],
   sameAs: [
-    "https://www.tiktok.com/@imad.argent.ethique",
     "https://www.linkedin.com/in/imad-noory-3b2242403/",
+    "https://www.tiktok.com/@imad.argent.ethique",
+    "https://www.youtube.com/@Imadargentethique",
   ],
 } as const;
 
