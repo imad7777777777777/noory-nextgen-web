@@ -3,7 +3,7 @@ import { useEffect, useMemo } from "react";
 import { ArrowLeft } from "lucide-react";
 import { blogArticles } from "@/data/blogArticles";
 import { useSEO } from "@/hooks/useSEO";
-import { BASE_URL, LANG, ORG_NOORY, PERSON_IMAD } from "@/lib/seo";
+import { BASE_URL, DEFAULT_OG_IMAGE, LANG, ORG_NOORY, PERSON_IMAD, toIsoDate } from "@/lib/seo";
 import AppStoreBadge from "@/components/AppStoreBadge";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
@@ -22,8 +22,9 @@ const BlogArticlePage = () => {
       headline: article.title,
       description: article.metaDescription,
       url,
-      datePublished: article.date,
-      dateModified: article.dateModified ?? article.date,
+      image: article.image ?? DEFAULT_OG_IMAGE,
+      datePublished: toIsoDate(article.date),
+      dateModified: toIsoDate(article.dateModified ?? article.date),
       author: PERSON_IMAD,
       publisher: ORG_NOORY,
       mainEntityOfPage: { "@type": "WebPage", "@id": url },

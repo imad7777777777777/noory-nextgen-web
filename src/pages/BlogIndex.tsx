@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import { blogArticles } from "@/data/blogArticles";
 import { useSEO } from "@/hooks/useSEO";
-import { BASE_URL, LANG, ORG_NOORY, WEBSITE_NOORY } from "@/lib/seo";
+import { BASE_URL, DEFAULT_OG_IMAGE, LANG, ORG_NOORY, WEBSITE_NOORY, toIsoDate } from "@/lib/seo";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import Breadcrumb from "@/components/Breadcrumb";
@@ -166,8 +166,9 @@ const BlogIndex = () => {
             "@id": `${BASE_URL}/blog/${a.slug}#article`,
             headline: a.title,
             url: `${BASE_URL}/blog/${a.slug}`,
-            datePublished: a.date,
-            dateModified: a.dateModified ?? a.date,
+            image: a.image ?? DEFAULT_OG_IMAGE,
+            datePublished: toIsoDate(a.date),
+            dateModified: toIsoDate(a.dateModified ?? a.date),
           })),
         },
       ],

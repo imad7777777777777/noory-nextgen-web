@@ -10,6 +10,7 @@ export interface BlogArticle {
   metaDescription: string;
   date: string;
   dateModified?: string;
+  image?: string;
   readTime: string;
   intro: string;
   keywords: string[];
