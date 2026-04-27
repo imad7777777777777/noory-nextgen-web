@@ -3,7 +3,7 @@ import { useEffect, useMemo } from "react";
 import { ArrowLeft } from "lucide-react";
 import { blogArticles } from "@/data/blogArticles";
 import { useSEO } from "@/hooks/useSEO";
-import { BASE_URL, DEFAULT_OG_IMAGE, LANG, ORG_NOORY, PERSON_IMAD, toIsoDate } from "@/lib/seo";
+import { BASE_URL, DEFAULT_OG_IMAGE, LANG, ORG_NOORY, PERSON_IMAD, formatDateFr, toIsoDate } from "@/lib/seo";
 import AppStoreBadge from "@/components/AppStoreBadge";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
@@ -99,8 +99,14 @@ const BlogArticlePage = () => {
           </Link>
 
           <article>
-            <div className="flex items-center gap-3 text-xs text-muted-foreground mb-4">
-              <span>{new Date(article.date).toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" })}</span>
+            <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-muted-foreground mb-4">
+              <span>Publié le {formatDateFr(article.date)}</span>
+              {article.dateModified && article.dateModified !== article.date && (
+                <>
+                  <span>·</span>
+                  <span>Mis à jour le {formatDateFr(article.dateModified)}</span>
+                </>
+              )}
               <span>·</span>
               <span>{article.readTime} de lecture</span>
             </div>

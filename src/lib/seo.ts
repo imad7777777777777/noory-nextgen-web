@@ -15,6 +15,15 @@ export function toIsoDate(yyyyMmDd: string): string {
   return `${yyyyMmDd}T00:00:00+02:00`;
 }
 
+/** "2026-04-12" -> "12 avril 2026" */
+export function formatDateFr(yyyyMmDd: string): string {
+  return new Date(yyyyMmDd).toLocaleDateString("fr-FR", {
+    day: "numeric",
+    month: "long",
+    year: "numeric",
+  });
+}
+
 export const ORG_NOORY = {
   "@type": "Organization",
   "@id": `${BASE_URL}/#organization`,
