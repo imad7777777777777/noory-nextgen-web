@@ -1789,7 +1789,7 @@ La clé, ce n'est pas de résister plus fort. C'est de **remplacer** le mécanis
 
 ### La pause de 10 minutes
 
-Quand tu sens l'envie d'acheter, mets un timer de 10 minutes. C'est tout. Tu ne dis pas non, tu dis "pas maintenant". Dans 70% des cas, l'envie passe. Ton cerveau a eu le temps de sortir du mode réactif et de retrouver un peu de recul.
+Quand tu sens l'envie d'acheter, mets un timer de 10 minutes. C'est tout. Tu ne dis pas non, tu dis "pas maintenant". Souvent, l'envie passe. Ton cerveau a eu le temps de sortir du mode réactif et de retrouver un peu de recul.
 
 ### Le carnet d'envies
 
@@ -1821,7 +1821,7 @@ Tu peux aussi lire notre article sur [la culpabilité financière et comment en 
       },
       {
         q: "Comment résister à un achat impulsif ?",
-        a: "La technique la plus efficace est la pause de 10 minutes. Mets un timer quand l'envie monte. Dans 80% des cas, l'envie passe.",
+        a: "La technique la plus efficace est la pause de 10 minutes. Mets un timer quand l'envie monte. Souvent, l'envie passe.",
       },
       {
         q: "Est-ce que Noory peut m'aider avec les achats impulsifs ?",
@@ -1844,7 +1844,7 @@ La charge mentale financière, c'est cette boucle permanente dans ta tête. "Est
 
 Ce n'est pas une question de montant. Des personnes avec des revenus confortables vivent cette charge mentale aussi intensément que celles avec des petits salaires. Parce que le problème n'est pas financier — il est **cognitif**. Ton cerveau utilise de l'énergie pour traiter l'incertitude. Et quand l'incertitude est permanente, l'épuisement l'est aussi.
 
-Les études montrent que les préoccupations financières chroniques réduisent les capacités cognitives de manière mesurable. En d'autres termes : quand tu penses à l'argent tout le temps, tu as moins d'énergie pour tout le reste.
+Une [étude publiée dans Science en 2013 par Mani, Mullainathan, Shafir et Zhao](https://www.science.org/doi/10.1126/science.1238041) a montré que les préoccupations financières chroniques réduisent mesurablement les capacités cognitives — l'équivalent d'une nuit blanche ou d'environ 13 points de QI en moins. En d'autres termes : quand tu penses à l'argent tout le temps, tu as moins d'énergie pour tout le reste.
 
 ## Les signes que tu portes cette charge
 
@@ -1862,7 +1862,7 @@ Si tu coches 3 de ces signes ou plus, tu portes une charge mentale financière s
 
 ## Pourquoi les femmes sont particulièrement touchées
 
-En France, les études montrent que les femmes portent une part disproportionnée de la charge mentale financière au sein du foyer. Pas parce qu'elles gèrent plus d'argent — souvent parce qu'elles gèrent les **décisions quotidiennes** : courses, vêtements des enfants, cadeaux, activités, abonnements.
+Selon l'[enquête Emploi du temps de l'INSEE (2010)](https://www.insee.fr/fr/statistiques/2123967), les femmes assurent 71 % des tâches parentales et 64 % des tâches domestiques. Une part importante de ces tâches inclut des micro-décisions financières quotidiennes — courses, vêtements des enfants, cadeaux, abonnements — qui s'accumulent en charge mentale invisible.
 
 C'est la charge des micro-décisions qui épuise. Pas les gros achats. Chaque petit calcul, chaque comparaison de prix, chaque "est-ce qu'on peut se le permettre" consomme de l'énergie mentale. Et comme ces décisions sont invisibles, cette charge est rarement reconnue.
 
@@ -2829,7 +2829,7 @@ Ce n'est pas un hasard si tu dépenses plus en ligne qu'en magasin. C'est **con�
 - Le **paiement différé** ("Payez en 3 fois sans frais") masque le coût réel
 - Les **notifications push** te ramènent vers le panier que tu as abandonné
 
-Les études montrent qu'on dépense en moyenne 20 à 30 % de plus en ligne qu'en magasin pour les mêmes catégories de produits. Et les achats impulsifs en ligne augmentent de 40 % entre 20h et 23h — le moment où ta volonté est au plus bas et l'ennui au plus haut.
+En ligne, on dépense souvent plus qu'en magasin sans même s'en rendre compte. Trois mécaniques s'additionnent : l'absence de friction (pas de file d'attente, pas de portefeuille à sortir), les recommandations personnalisées qui suggèrent toujours plus, et le paiement masqué (carte enregistrée, Apple Pay) qui efface la « douleur de payer » identifiée par les recherches en finance comportementale ([Prelec & Loewenstein, 1998](https://www.cmu.edu/dietrich/sds/docs/loewenstein/redblack.pdf)). Et le soir entre 20h et 23h, ta capacité à résister chute — c'est le moment où la « fatigue décisionnelle » est maximale ([Baumeister & Vohs, 2007](https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-9004.2007.00001.x)). C'est exactement le créneau où les apps de e-commerce te poussent à acheter.
 
 Si tu te reconnais dans ce schéma, tu n'es pas seul·e. Le problème n'est pas ta volonté — c'est l'environnement digital qui est conçu pour la contourner. Si les achats impulsifs sont un sujet qui te parle, [Dépenses impulsives : comment arrêter le cycle](/blog/depenses-impulsives-comment-arreter) va plus en profondeur sur les mécanismes émotionnels en jeu.
 
@@ -2849,7 +2849,7 @@ Une fois que tu vois ces mécanismes, tu ne les subis plus de la même façon. C
 
 C'est la plus efficace. Quand tu trouves quelque chose que tu veux acheter en ligne, mets-le dans ton panier — et **ferme le site**. Ne valide pas. Reviens 48 heures plus tard.
 
-Dans 70 % des cas, tu n'en auras plus envie. L'urgence aura disparu. L'émotion sera passée. Et si dans 48h tu le veux toujours ? Alors c'est probablement un achat aligné — vas-y.
+Souvent, tu n'en auras plus envie. L'urgence aura disparu. L'émotion sera passée. Et si dans 48h tu le veux toujours ? Alors c'est probablement un achat aligné — vas-y.
 
 Cette technique exploite un principe neuroscientifique simple : l'envie d'achat est une émotion de **pic** — elle monte vite et redescend vite. En créant un délai, tu laisses le pic passer.
 

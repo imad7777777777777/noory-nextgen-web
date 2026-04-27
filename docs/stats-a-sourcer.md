@@ -78,38 +78,41 @@ des illustrations pédagogiques, pas des claims factuels.
 
 - **Ligne 1207** — « Paradoxalement, un budget plaisir explicite
   réduit les dépenses impulsives de 30 à 40%. »
-  → Source à identifier.
+  → ✅ TRAITÉ — citation Thaler (1999, *Mental Accounting Matters*),
+  pourcentage retiré au profit du concept Nobel.
 
 - **Ligne 1274** — « Les études montrent que les achats impulsifs en
   ligne augmentent de 40 % les soirs de semaine entre 20h et 23h. »
-  → Source à identifier (stat reprise aussi dans
-  `acheter-en-ligne-moins-depenser`).
+  → ✅ TRAITÉ — recadré en « fatigue décisionnelle »
+  ([Baumeister & Vohs, 2007](https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-9004.2007.00001.x)).
 
 ## 7. `acheter-en-ligne-moins-depenser`
 
 - **Ligne 2830** — « Les études montrent qu'on dépense en moyenne 20 à
   30 % de plus en ligne qu'en magasin pour les mêmes catégories de
   produits. »
-  → Source à identifier.
+  → ✅ TRAITÉ — paraphrasé qualitativement + concept « pain of paying »
+  ([Prelec & Loewenstein, 1998](https://www.cmu.edu/dietrich/sds/docs/loewenstein/redblack.pdf)).
 
 - **Ligne 2830** — « Et les achats impulsifs en ligne augmentent de 40
   % entre 20h et 23h. »
-  → Même source que `depenses-impulsives-comment-arreter` ligne 1274.
-  ⚠️ Stat identique à celle de `depenses-impulsives-comment-arreter` —
-  utiliser la même source Baumeister & Vohs (2007) + framing « fatigue
-  décisionnelle » quand on traitera cet article.
+  → ✅ TRAITÉ — réutilisation Baumeister & Vohs (2007), même framing
+  « fatigue décisionnelle » que dans `depenses-impulsives-comment-arreter`.
 
 - **Ligne 2850** — « Dans 70 % des cas, tu n'en auras plus envie. »
   *(règle d'attente 48h avant achat)*
-  → Même famille que la stat « 70 % des envies d'achat disparaissent »
-  — unifier ou sourcer.
+  → ✅ TRAITÉ — paraphrasé qualitativement (« Souvent, tu n'en auras
+  plus envie »), cohérence avec autres reformulations de la famille
+  pause/délai.
 
 ## 8. `j-achete-quand-je-suis-triste`
 
 - **Ligne 1790** — « Dans 70% des cas, l'envie passe. »
 - **Ligne 1822** *(FAQ)* — « Dans 80% des cas, l'envie passe. »
-  → Deux chiffres différents pour le même phénomène dans le même
-  article. À harmoniser et à sourcer (ou à qualitatif).
+  → ✅ TRAITÉ — incohérence interne (70/80%) résolue par double
+  paraphrase qualitative (« Souvent, l'envie passe »). Cohérence
+  inter-articles avec `habitudes-financieres-qui-changent-tout` L156
+  et `acheter-en-ligne-moins-depenser` L2852.
 
 ## 9. `habitudes-financieres-qui-changent-tout`
 
@@ -166,13 +169,17 @@ des illustrations pédagogiques, pas des claims factuels.
 - **Ligne 1845** — « Les études montrent que les préoccupations
   financières chroniques réduisent les capacités cognitives de manière
   mesurable. »
-  → Source : Mani, Mullainathan, Shafir & Zhao, Science 2013 (« Poverty
-  impedes cognitive function »). À citer explicitement.
+  → ✅ TRAITÉ — citation [Mani, Mullainathan, Shafir & Zhao, *Science*
+  (2013)](https://www.science.org/doi/10.1126/science.1238041),
+  équivalent ~13 points de QI / nuit blanche.
 
 - **Ligne 1863** — « En France, les études montrent que les femmes
   portent une part disproportionnée de la charge mentale financière au
   sein du foyer. »
-  → Source à identifier (INSEE, INED, enquêtes genre et économie).
+  → ✅ TRAITÉ — citation [enquête Emploi du temps INSEE
+  (2010)](https://www.insee.fr/fr/statistiques/2123967) : 71 % tâches
+  parentales + 64 % tâches domestiques. Cadrage prudent : « une part
+  importante de ces tâches inclut des micro-décisions financières ».
 
 ## 15. `couple-et-argent-eviter-les-disputes`
 
