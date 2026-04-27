@@ -109,23 +109,14 @@ const BlogArticlePage = () => {
               {article.title}
             </h1>
 
-            {/*
-              PHOTO BYLINE À INSÉRER ICI — fichier servi depuis /public/imad-founder.webp (800×800 WebP).
-              Pour activer la photo, remplace le div placeholder ci-dessous par :
-
-                <img
-                  src="/imad-founder.webp"
-                  alt="Imad, cofondateur de Noory"
-                  className="w-12 h-12 rounded-full object-cover flex-shrink-0"
-                  width={48}
-                  height={48}
-                  loading="lazy"
-                />
-            */}
             <div className="flex items-start gap-3 mb-8 pb-6 border-b border-border">
-              <div
-                className="w-12 h-12 rounded-full bg-primary/10 flex-shrink-0"
-                aria-hidden="true"
+              <img
+                src="/imad-founder.webp"
+                alt="Imad, cofondateur de Noory"
+                className="w-12 h-12 rounded-full object-cover flex-shrink-0"
+                width={400}
+                height={400}
+                loading="lazy"
               />
               <div className="text-sm">
                 <Link

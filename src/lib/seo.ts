@@ -43,8 +43,8 @@ export const PERSON_IMAD = {
   image: {
     "@type": "ImageObject",
     url: `${BASE_URL}/imad-founder.webp`,
-    width: 400,
-    height: 400,
+    width: 800,
+    height: 800,
   },
   worksFor: { "@id": `${BASE_URL}/#organization` },
   knowsAbout: [

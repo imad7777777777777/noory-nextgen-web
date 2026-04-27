@@ -54,19 +54,14 @@ const AProposPage = () => {
             À propos — Imad, cofondateur de Noory
           </h1>
 
-          {/*
-            PHOTO À INSÉRER ICI — fichier servi depuis /public/imad-founder.webp (800×800 WebP, 134 KB).
-            Pour activer la photo, remplace ce commentaire par :
-
-              <img
-                src="/imad-founder.webp"
-                alt="Imad, cofondateur de Noory"
-                className="w-40 h-40 rounded-full object-cover mb-8 shadow-md"
-                width={160}
-                height={160}
-                loading="eager"
-              />
-          */}
+          <img
+            src="/imad-founder.webp"
+            alt="Imad, cofondateur de Noory"
+            className="w-40 h-40 rounded-full object-cover mb-8 shadow-md mx-auto md:mx-0"
+            width={400}
+            height={400}
+            loading="eager"
+          />
 
           <div className="space-y-6 text-gray-700 leading-relaxed text-base md:text-lg">
             <p>
