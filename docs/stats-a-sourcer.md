@@ -144,11 +144,13 @@ des illustrations pédagogiques, pas des claims factuels.
 ## 10. `routine-financiere-dimanche`
 
 - **Ligne 524** — « Cette simple habitude règle 50% du problème. »
-  → Affirmation sans base — reformuler qualitativement ou supprimer.
+  → ✅ TRAITÉ — paraphrase qualitative ("résout déjà une grande partie
+  du stress").
 
 - **Ligne 526** — « Parce que l'incertitude est bien pire que la
   réalité, dans 80% des cas. »
-  → Même type, à reformuler.
+  → ✅ TRAITÉ — paraphrase qualitative ("incertitude floue bien pire
+  à porter que la réalité chiffrée").
 
 ## 11. `tracker-ses-depenses-simplement`
 
@@ -231,17 +233,24 @@ des illustrations pédagogiques, pas des claims factuels.
 - **Ligne 1516** — « Des études montrent que les personnes qui
   épargnent régulièrement de petites sommes accumulent plus sur 10 ans
   que celles qui font des gros virements occasionnels. »
-  → Source à identifier.
+  → ✅ TRAITÉ — paraphrase qualitative invoquant les rendements
+  composés et la constance comportementale, sans chiffre fragile.
 
 - **Ligne 1558** — « La psychologie montre que l'épargne liée à un
   projet concret est 3 fois plus durable que l'épargne générique. »
-  → Source à identifier. (Même famille que L862.)
+  → ✅ TRAITÉ — réutilisation [Karlan et al.
+  (2016)](https://poverty-action.org/sites/default/files/publications/getting-to-the-top-of-mind.pdf)
+  (3e usage), harmonisé avec L862 (objectif-financier) et L2222
+  (epargner-sans-motivation).
 
 ## 21. `epargner-quand-on-a-pas-la-motivation`
 
 - **Ligne 2222** — « La psychologie montre que l'épargne liée à un
   objectif concret est 3 fois plus durable que l'épargne générique. »
-  → Même affirmation que L1558 dans un autre article — unifier.
+  → ✅ TRAITÉ — réutilisation [Karlan et al.
+  (2016)](https://poverty-action.org/sites/default/files/publications/getting-to-the-top-of-mind.pdf)
+  (4e usage), harmonisé avec L862 et L1558 — même formulation et même
+  source dans 3 articles.
 
 ## 22. `arreter-comparer-finances-reseaux`
 

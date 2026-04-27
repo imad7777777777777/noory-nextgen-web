@@ -523,9 +523,9 @@ Ouvre ton appli bancaire. Regarde ton solde. Pas pour paniquer — pour savoir.
 
 Puis fais défiler les transactions de la semaine passée. Rapidement. L'objectif n'est pas de juger chaque dépense, c'est de **voir**. Est-ce qu'il y a quelque chose qui te surprend ? Un prélèvement oublié ? Un achat dont tu ne te souviens plus ?
 
-Cette simple habitude règle 50% du problème. Parce que ce que tu vois, tu peux le gérer. Ce que tu ne vois pas, te contrôle.
+Cette simple habitude résout déjà une grande partie du stress. Parce que ce que tu vois, tu peux le gérer. Ce que tu ne vois pas, te contrôle.
 
-Beaucoup de gens évitent de regarder par peur. La première fois que tu le fais, ça peut être inconfortable. Dès la deuxième semaine, c'est presque apaisant. Parce que l'incertitude est bien pire que la réalité, dans 80% des cas.
+Beaucoup de gens évitent de regarder par peur. La première fois que tu le fais, ça peut être inconfortable. Dès la deuxième semaine, c'est presque apaisant. Parce que l'incertitude floue est bien pire à porter que la réalité chiffrée.
 
 ## Minute 5 à 10 : Catégoriser (besoins, envies, fuites)
 
@@ -1515,7 +1515,7 @@ Pas de conseils génériques. Pas de "fais un budget". Un accompagnement qui par
 
 "Quand je gagnerai plus, je commencerai à épargner." Si tu attends ce moment, tu attendras longtemps. Parce que le problème n'est presque jamais le montant — c'est le **mécanisme**.
 
-Des études montrent que les personnes qui épargnent régulièrement de petites sommes accumulent plus sur 10 ans que celles qui font des gros virements occasionnels. Pourquoi ? Parce que la régularité bat le montant. À chaque fois.
+La logique de l'épargne automatique tient en une phrase : la régularité bat le montant. Une personne qui met 50€ de côté chaque mois pendant 10 ans accumule plus que quelqu'un qui fait un gros virement occasionnel quand il "y pense" — parce que les rendements composés et la constance du geste font le travail à ta place.
 
 Le vrai obstacle, ce n'est pas ton salaire. C'est la croyance que "ça ne sert à rien de mettre si peu". Mais 20€ par mois, c'est 240€ par an. En 5 ans, c'est 1 200€. Avec des intérêts, plus. Et surtout, c'est une **identité** : tu deviens quelqu'un qui épargne. Et ça change tout.
 
@@ -1557,7 +1557,7 @@ Voici un secret que les banques ne te disent pas : **on épargne mieux quand on 
 
 "Mettre de côté" est vague. "Mettre de côté pour un voyage au Japon en septembre" est concret. "Épargner" est abstrait. "Constituer 1 000€ de coussin de sécurité en 8 mois" est un objectif.
 
-La psychologie montre que l'épargne liée à un projet concret est 3 fois plus durable que l'épargne générique. Parce qu'elle a du sens. Parce qu'elle te motive. Parce que tu vois le progrès.
+Une [étude de terrain de Karlan et al. (2016)](https://poverty-action.org/sites/default/files/publications/getting-to-the-top-of-mind.pdf) a montré que des rappels d'épargne mentionnant explicitement l'objectif sont **deux fois plus efficaces** que des rappels génériques. Parce qu'un objectif a du sens. Parce qu'il te motive. Parce que tu vois le progrès.
 
 C'est exactement ce que Noory te propose : des **objectifs d'épargne concrets**, avec un montant cible, une deadline, et un suivi visuel de ta progression. Pas un compteur abstrait — un projet qui te parle.
 
@@ -2221,7 +2221,7 @@ La bonne nouvelle : tu n'as **pas besoin** de motivation pour épargner. Tu as b
 
 "Livret A" n'est pas motivant. "Mon week-end à Barcelone" l'est. "Compte épargne" est abstrait. "Coussin de sécurité — plus jamais de stress en fin de mois" est concret.
 
-La psychologie montre que l'épargne liée à un objectif concret est 3 fois plus durable que l'épargne générique. Parce qu'elle a du sens. Parce qu'elle te parle. Parce que chaque euro mis de côté te rapproche de quelque chose de tangible.
+Une [étude de terrain de Karlan et al. (2016)](https://poverty-action.org/sites/default/files/publications/getting-to-the-top-of-mind.pdf) a montré que des rappels d'épargne mentionnant explicitement l'objectif sont **deux fois plus efficaces** que des rappels génériques. Parce qu'un objectif a du sens. Parce qu'il te parle. Parce que chaque euro mis de côté te rapproche de quelque chose de tangible.
 
 Alors renomme tes comptes d'épargne. Pas "Livret A" — mais "Mon appart", "Mon voyage", "Ma liberté".
 
