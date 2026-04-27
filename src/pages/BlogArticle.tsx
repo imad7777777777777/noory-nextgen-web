@@ -120,8 +120,8 @@ const BlogArticlePage = () => {
                 src="/imad-founder.webp"
                 alt="Imad, cofondateur de Noory"
                 className="w-12 h-12 rounded-full object-cover flex-shrink-0"
-                width={400}
-                height={400}
+                width={800}
+                height={800}
                 loading="lazy"
               />
               <div className="text-sm">

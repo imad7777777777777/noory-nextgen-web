@@ -58,8 +58,8 @@ const AProposPage = () => {
             src="/imad-founder.webp"
             alt="Imad, cofondateur de Noory"
             className="w-40 h-40 rounded-full object-cover mb-8 shadow-md mx-auto md:mx-0"
-            width={400}
-            height={400}
+            width={800}
+            height={800}
             loading="eager"
           />
 
