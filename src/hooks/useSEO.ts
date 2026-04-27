@@ -12,7 +12,8 @@ const BASE_URL = "https://noory.io";
 
 export function useSEO({ title, description, url, type = "website", jsonLd }: SEOProps) {
   useEffect(() => {
-    const fullUrl = url.startsWith("http") ? url : `${BASE_URL}${url}`;
+    const rawUrl = url.startsWith("http") ? url : `${BASE_URL}${url}`;
+    const fullUrl = rawUrl.endsWith("/") ? rawUrl : `${rawUrl}/`;
 
     document.title = title;
 
