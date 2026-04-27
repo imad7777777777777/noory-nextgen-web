@@ -21,7 +21,7 @@ const AProposPage = () => {
           "@type": "AboutPage",
           "@id": `${BASE_URL}/a-propos#webpage`,
           url: `${BASE_URL}/a-propos`,
-          name: "À propos — Imad, fondateur de Noory",
+          name: "À propos — Imad, cofondateur de Noory",
           inLanguage: LANG,
           isPartOf: { "@id": `${BASE_URL}/#website` },
           mainEntity: { "@id": `${BASE_URL}/a-propos#imad` },
@@ -32,9 +32,9 @@ const AProposPage = () => {
   );
 
   useSEO({
-    title: "À propos — Imad, fondateur de Noory",
+    title: "À propos — Imad, cofondateur de Noory",
     description:
-      "Imad, fondateur de Noory, basé à Marseille. Pourquoi j'ai créé une app de coaching financier qui parle au comportement plutôt qu'au budget.",
+      "Imad, cofondateur de Noory, basé à Marseille. Pourquoi j'ai créé une app de coaching financier qui parle au comportement plutôt qu'au budget.",
     url: "/a-propos",
     jsonLd,
   });
@@ -51,19 +51,20 @@ const AProposPage = () => {
       <main className="pb-16">
         <div className="container mx-auto px-4 md:px-8 max-w-3xl">
           <h1 className="text-3xl md:text-4xl font-display font-bold tracking-tight text-gray-800 mb-8 mt-6">
-            À propos — Imad, fondateur de Noory
+            À propos — Imad, cofondateur de Noory
           </h1>
 
           {/*
-            PHOTO À INSÉRER ICI — conserver la convention src/assets/ (comme screen-home.webp, hero-phone.png).
-            Ajoute src/assets/imad-founder.webp (ou .jpg), puis remplace ce commentaire par :
+            PHOTO À INSÉRER ICI — fichier servi depuis /public/imad-founder.webp (800×800 WebP, 134 KB).
+            Pour activer la photo, remplace ce commentaire par :
 
-              import imadPhoto from "@/assets/imad-founder.webp";
-              ...
               <img
-                src={imadPhoto}
-                alt="Imad, fondateur de Noory"
+                src="/imad-founder.webp"
+                alt="Imad, cofondateur de Noory"
                 className="w-40 h-40 rounded-full object-cover mb-8 shadow-md"
+                width={160}
+                height={160}
+                loading="eager"
               />
           */}
 

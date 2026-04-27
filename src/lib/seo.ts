@@ -36,7 +36,7 @@ export const PERSON_IMAD = {
   "@type": "Person",
   "@id": `${BASE_URL}/a-propos#imad`,
   name: "Imad",
-  jobTitle: "Fondateur Noory",
+  jobTitle: "Cofondateur Noory",
   description:
     "Cofondateur de Noory, l'app française de coaching financier comportemental. Écrit sur la psychologie de l'argent, les biais cognitifs et les habitudes financières.",
   url: `${BASE_URL}/a-propos`,
