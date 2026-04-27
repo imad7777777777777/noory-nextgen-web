@@ -109,6 +109,38 @@ const BlogArticlePage = () => {
               {article.title}
             </h1>
 
+            {/*
+              PHOTO BYLINE À INSÉRER ICI — convention src/assets/ comme HeroSection.
+              Une fois imad-founder.webp fourni dans src/assets/, remplace le div
+              placeholder ci-dessous par :
+
+                import imadPhoto from "@/assets/imad-founder.webp";
+                ...
+                <img
+                  src={imadPhoto}
+                  alt="Imad, fondateur de Noory"
+                  className="w-12 h-12 rounded-full object-cover flex-shrink-0"
+                  loading="lazy"
+                />
+            */}
+            <div className="flex items-start gap-3 mb-8 pb-6 border-b border-border">
+              <div
+                className="w-12 h-12 rounded-full bg-primary/10 flex-shrink-0"
+                aria-hidden="true"
+              />
+              <div className="text-sm">
+                <Link
+                  to="/a-propos"
+                  className="font-bold text-foreground hover:underline"
+                >
+                  Par Imad — Fondateur de Noory
+                </Link>
+                <p className="text-muted-foreground mt-0.5 leading-snug">
+                  L'équipe Noory écrit sur la finance comportementale depuis 2025. Basée à Marseille.
+                </p>
+              </div>
+            </div>
+
             <p className="text-lg text-muted-foreground leading-relaxed mb-10 border-l-4 border-primary/30 pl-4 italic">
               {article.intro}
             </p>
