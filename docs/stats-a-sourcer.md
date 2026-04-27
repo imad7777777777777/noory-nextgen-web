@@ -28,24 +28,30 @@ des illustrations pédagogiques, pas des claims factuels.
   de précaution. »
   *(Contexte : « Tu as 0€ de côté ? Tu n'es pas seul·e. Près de 40% des
   Français n'ont pas 500€ d'épargne de précaution. Voici le plan simple. »)*
-  → Source possible : baromètre Cercle de l'Épargne, Banque de France,
-  ou enquêtes INSEE sur l'épargne de précaution.
+  → ✅ TRAITÉ — citation [baromètre CSA pour Cofidis
+  (2024)](https://www.cofidis.fr/fr/question-de-budget/pouvoir-achat/barometre-pouvoir-achat-2024.html) :
+  51 % des Français ne parviennent pas à mettre de l'argent de côté.
+  Behavioral framing ajouté ("pas par manque de volonté").
 
 ## 2. `anxiete-financiere-calmer`
 
 - **Ligne 2683** — « Selon une étude de l'American Psychological
   Association, l'argent est la première source de stress dans le monde
   — devant le travail, la santé et les relations. »
-  → Référence : APA Stress in America report (année à préciser).
+  → ✅ TRAITÉ — citation [APA Stress in America
+  2023](https://www.apa.org/news/press/releases/stress/2023/collective-trauma-recovery) :
+  63% des adultes américains. Cadrage corrigé : "américains" et non
+  "monde", framing "comparable à la santé/économie" plutôt que
+  "première source".
 
 - **Ligne 2683** — « En France, une étude récente montre que 60 % des
   18-35 ans ressentent de l'anxiété liée à leurs finances au moins une
   fois par semaine. »
-  *(Contexte : « En France, une étude récente montre que 60 % des 18-35
-  ans ressentent de l'anxiété liée à leurs finances au moins une fois
-  par semaine. »)*
-  → Source à identifier (sondages OpinionWay / Harris Interactive sur
-  la santé mentale financière des jeunes, rapports Cofidis/Elabe).
+  → ✅ TRAITÉ — citation [sondage IFOP pour Mes Bienfaits, mars
+  2022](https://www.ifop.com/wp-content/uploads/2022/05/rapport-sondage-anxiete-ifop-mesbienfaits.pdf) :
+  59% des moins de 35 ans citent leur situation financière comme source
+  d'anxiété (vs 36% des plus de 35 ans, 17% des plus de 65 ans).
+  Fréquence "hebdomadaire" inventée — retirée.
 
 ## 3. `methode-enveloppes-budget`
 
@@ -62,8 +68,12 @@ des illustrations pédagogiques, pas des claims factuels.
 - **Ligne 3071** — « Selon une étude IFOP de 2023, 62 % des Français
   considèrent qu'il est "inconvenant" de parler d'argent, même avec
   ses proches. C'est plus que le sexe (34 %) et la politique (28 %). »
-  → Référence IFOP nommée mais à vérifier (commanditaire + lien + date
-  exacte). Si l'étude existe, ajouter le lien ; sinon paraphraser.
+  → ✅ TRAITÉ — chiffres originaux fabriqués (62/34/28% inexistants).
+  Remplacés par [étude IFOP/Compte Pro
+  (2023)](https://www.ifop.com/publication/enquete-aupres-des-salariees-sur-leurs-sujets-de-conversation-et-leurs-relations-amicales-en-entreprise/) :
+  68% considèrent les rémunérations comme tabou au travail, vs sexe
+  (52%) vs religion (46%). Recadré "tabou au travail" + softening
+  "l'un des derniers tabous" (vs "littéralement le dernier").
 
 ## 5. `gerer-son-argent-sans-stress`
 
