@@ -37,8 +37,22 @@ export const PERSON_IMAD = {
   "@id": `${BASE_URL}/a-propos#imad`,
   name: "Imad",
   jobTitle: "Fondateur Noory",
+  description:
+    "Cofondateur de Noory, l'app française de coaching financier comportemental. Écrit sur la psychologie de l'argent, les biais cognitifs et les habitudes financières.",
   url: `${BASE_URL}/a-propos`,
+  image: {
+    "@type": "ImageObject",
+    url: `${BASE_URL}/imad-founder.webp`,
+    width: 400,
+    height: 400,
+  },
   worksFor: { "@id": `${BASE_URL}/#organization` },
+  knowsAbout: [
+    "finance comportementale",
+    "psychologie financière",
+    "biais cognitifs",
+    "habitudes financières",
+  ],
   sameAs: [
     "https://www.tiktok.com/@imad.argent.ethique",
     "https://www.linkedin.com/in/imad-noory-3b2242403/",
