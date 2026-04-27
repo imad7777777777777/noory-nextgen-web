@@ -646,7 +646,7 @@ Liste **tous** tes abonnements. Tous. Même les petits. Même ceux que tu avais 
 - Services (Amazon Prime, box internet premium...)
 - Assurances non essentielles
 
-Fais le total. La moyenne française est entre 80€ et 150€ d'abonnements mensuels. Certains découvrent qu'ils ont 200€+ de récurrents qu'ils avaient complètement oubliés.
+Fais le total. Selon une [étude Ipsos pour Papernest (octobre 2021)](https://www.ipsos.com/fr-fr/les-francais-cumulent-en-moyenne-10-souscriptions-mensuelles), les Français cumulent en moyenne 10 souscriptions mensuelles, et 40 % continuent de payer pour des services qu'ils n'utilisent plus. 35 % ne peuvent même pas énumérer précisément leurs abonnements et leurs coûts. Tu vas probablement découvrir des récurrents que tu avais complètement oubliés.
 
 Cette simple prise de conscience fait la moitié du travail.
 
@@ -861,7 +861,7 @@ Tu sens la différence ? La deuxième phrase aussi est floue. Courir combien de 
 
 L'épargne, c'est pareil. "Mettre de côté" est trop vague pour faire travailler ton cerveau. Ton cerveau a besoin d'un **but concret** pour orienter son énergie. Sans but, chaque euro mis de côté est "en concurrence" avec chaque envie du quotidien. Et les envies gagnent toujours.
 
-La psychologie le montre : les personnes qui ont un objectif d'épargne précis épargnent en moyenne **2 à 3 fois plus** que celles qui "mettent de côté" sans but. Pour le même revenu.
+Une [étude de terrain de Karlan et al. (2016)](https://poverty-action.org/sites/default/files/publications/getting-to-the-top-of-mind.pdf) menée auprès de clients de banques aux Philippines, en Bolivie et au Pérou a montré que des rappels mentionnant explicitement l'objectif d'épargne sont **deux fois plus efficaces** pour augmenter l'épargne que des rappels génériques. La psychologie comportementale le confirme : un objectif précis transforme l'épargne abstraite en geste concret. Pour le même revenu.
 
 ## La méthode SMART version finances personnelles
 
@@ -1188,7 +1188,7 @@ Ce simple exercice sort beaucoup de jeunes du flou financier. Fais-le une fois, 
 
 Amazon, Shein, Vinted, Zalando, UberEats, Deliveroo — toutes ces apps ont un point commun : elles sont conçues pour que tu puisses acheter en **2 clics**. Parfois en **1 clic**. Sans même avoir à taper ton mot de passe ou à confirmer tes coordonnées bancaires.
 
-Ce design n'est pas pour ton confort. Il est pour leur chiffre d'affaires. Parce que chaque étape supplémentaire dans l'achat réduit la conversion de 20 à 30%. Plus c'est fluide, plus tu achètes impulsivement.
+Ce design n'est pas pour ton confort. Il est pour leur chiffre d'affaires. Selon le [Baymard Institute](https://baymard.com/lists/cart-abandonment-rate), le taux moyen d'abandon de panier sur les sites e-commerce dépasse 70 % — et chaque friction supprimée du parcours d'achat fait chuter ce taux. Plus c'est fluide, plus tu achètes impulsivement.
 
 La contre-mesure est simple : **retire tes infos bancaires** de ces apps.
 

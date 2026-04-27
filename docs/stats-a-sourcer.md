@@ -166,7 +166,9 @@ des illustrations pédagogiques, pas des claims factuels.
 
 - **Ligne 1189** — « Chaque étape supplémentaire dans l'achat réduit la
   conversion de 20 à 30%. »
-  → Stat e-commerce — source Baymard Institute ? à vérifier.
+  → ✅ TRAITÉ — recadré sur le taux moyen d'abandon de panier
+  ([Baymard Institute](https://baymard.com/lists/cart-abandonment-rate),
+  >70%). Moins précis que la stat originale mais sourcé et vérifiable.
 
 ## 14. `charge-mentale-financiere`
 
@@ -207,15 +209,22 @@ des illustrations pédagogiques, pas des claims factuels.
 
 - **Ligne 647** — « La moyenne française est entre 80€ et 150€
   d'abonnements mensuels. »
-  → Source : études Fluo, Bankin', ou UFC-Que Choisir sur les
-  abonnements récurrents. À vérifier.
+  → ✅ TRAITÉ — citation [étude Ipsos pour Papernest (oct
+  2021)](https://www.ipsos.com/fr-fr/les-francais-cumulent-en-moyenne-10-souscriptions-mensuelles) :
+  10 souscriptions/mois en moyenne, 40 % continuent de payer des
+  services inutilisés, 35 % incapables d'énumérer leurs abonnements.
+  Recadré sur le comportement (oubli/non-usage) plutôt que le montant
+  exact, plus fort narrativement.
 
 ## 19. `objectif-financier-comment-le-definir`
 
 - **Ligne 862** — « Les personnes qui ont un objectif d'épargne précis
   épargnent en moyenne 2 à 3 fois plus que celles qui "mettent de
   côté" sans but. »
-  → Source à identifier.
+  → ✅ TRAITÉ — réutilisation [Karlan et al.
+  (2016)](https://poverty-action.org/sites/default/files/publications/getting-to-the-top-of-mind.pdf)
+  (2e usage), même finding "rappels nommés 2× plus efficaces", cohérence
+  avec `habitudes-financieres-qui-changent-tout` L166.
 
 ## 20. `epargner-petit-salaire`
 
