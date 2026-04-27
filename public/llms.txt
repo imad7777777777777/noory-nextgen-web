@@ -1,44 +1,115 @@
-# Noory
-## App de coaching financier comportemental
+# Noory — Coaching financier comportemental
 
-> Noory est une application iOS de coaching financier comportemental.
-> Elle identifie le profil psychologique financier de l'utilisateur parmi
-> 5 profils et l'accompagne pendant 28 jours avec un rituel quotidien
-> personnalisé : leçon, micro-action et réflexion. 3 minutes par jour.
+> Noory est l'app française de coaching financier comportemental. Méthode basée sur la finance comportementale (Kahneman, Thaler, Ariely), 5 profils financiers, 28 jours de coaching personnalisé. Édité depuis Marseille par une petite équipe.
 
-- Site : https://noory.io
+## À propos
+
+- Site : https://noory.io/
 - App Store : https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972
 - Catégorie : Finance, Coaching comportemental, Habitudes
 - Langue : Français
 - Prix : Gratuit (semaine 1), puis 5€/mois
 - Plateforme : iOS (iPhone)
-- Fondateur : Imad
+- Édition : Marseille, France
+- Année de lancement : 2025
 - Contact : contact.noory.app@gmail.com
 
-## Les 5 profils financiers
-1. Quêteur de Sérénité — L'argent pèse, besoin de paix
-2. Navigateur à Vue — Avance sans visibilité ni filet
-3. Dépensier Émotionnel — Achète sous l'émotion, culpabilise après
-4. Bâtisseur Bloqué — A des projets mais finances ne suivent pas
-5. Investisseur Paralysé — Veut investir mais paralysé par la peur
+## Auteur
+
+Imad — Cofondateur de Noory. Écrit sur la psychologie de l'argent, les biais cognitifs et les habitudes financières.
+
+- Page auteur : https://noory.io/a-propos/
+- Domaines d'expertise : finance comportementale, psychologie financière, biais cognitifs, habitudes financières
+- LinkedIn : https://www.linkedin.com/in/imad-noory-3b2242403/
+- TikTok : https://www.tiktok.com/@imad.argent.ethique
+- YouTube : https://www.youtube.com/@Imadargentethique
+
+## Profils financiers
+
+- [Quêteur de Sérénité](https://noory.io/profil/queteur-de-serenite/) : L'argent pèse, besoin de paix
+- [Navigateur à Vue](https://noory.io/profil/navigateur-a-vue/) : Avance sans visibilité ni filet
+- [Dépensier Émotionnel](https://noory.io/profil/depensier-emotionnel/) : Achète sous l'émotion, culpabilise après
+- [Bâtisseur Bloqué](https://noory.io/profil/batisseur-bloque/) : A des projets mais finances ne suivent pas
+- [Investisseur Paralysé](https://noory.io/profil/investisseur-paralyse/) : Veut investir mais paralysé par la peur
 
 ## Fonctionnalités principales
+
 - Quiz profil financier (2 minutes)
 - Parcours 28 jours personnalisé par profil
-- Rituel quotidien : leçon + action + réflexion
-- SOS Achat (pause avant achat impulsif)
+- Rituel quotidien : leçon + action + réflexion (3 min/jour)
+- SOS Achat (pause guidée avant achat impulsif)
 - Budget dashboard
-- Habitudes financières tracker
+- Tracker d'habitudes financières
 - Coaching humain (premium)
 
 ## Ce qui rend Noory différent
-- Coaching comportemental, pas un tableur de budget
-- Basé sur la finance comportementale (Kahneman, Thaler)
-- Parcours adapté au profil psychologique
-- Micro-actions quotidiennes réalistes
-- Sans connexion bancaire, sans accès aux comptes
 
-## Blog
-Articles sur : psychologie de l'argent, épargne, habitudes financières,
-achats impulsifs, charge mentale financière, couple et argent.
-URL : https://noory.io/blog
+- Coaching comportemental, pas un tableur de budget
+- Basé sur la finance comportementale (Kahneman, Thaler, Ariely)
+- Parcours adapté au profil psychologique de l'utilisateur
+- Micro-actions quotidiennes réalistes (3 min/jour)
+- Sans connexion bancaire, sans accès aux comptes (zero data sensible)
+
+## Articles
+
+- [Épargne automatique : la méthode pour épargner sans y penser](https://noory.io/blog/epargne-automatique-comment-mettre-en-place/) : Mets en place un virement automatique et épargne sans effort. La méthode pas à pas pour ne plus jamais oublier de mettre de côté.
+- [7 micro-habitudes financières qui changent tout (en moins de 3 min/jour)](https://noory.io/blog/habitudes-financieres-qui-changent-tout/) : Pas besoin de 2h par semaine pour gérer ton argent. 7 micro-habitudes de 3 minutes qui transforment ta relation à l'argent.
+- [Défi épargne 52 semaines : le plan pour mettre 1 378€ de côté cette année](https://noory.io/blog/defi-epargne-52-semaines/) : Le défi 52 semaines expliqué simplement. Semaine 1 = 1€, semaine 52 = 52€. Total : 1 378€ sans forcer.
+- [Fonds d'urgence : pourquoi c'est la première chose à faire avec ton argent](https://noory.io/blog/fond-urgence-pourquoi-indispensable/) : Avant d'investir, avant d'épargner pour un projet : le fonds d'urgence. Combien, où, comment. Le guide complet.
+- [La routine financière du dimanche : 15 minutes pour reprendre le contrôle](https://noory.io/blog/routine-financiere-dimanche/) : Chaque dimanche, 15 minutes avec un café. C'est tout ce qu'il faut pour garder le contrôle de ton argent.
+- [Couper ses dépenses inutiles sans souffrir (la méthode douce)](https://noory.io/blog/depenses-inutiles-couper-sans-souffrir/) : Tu veux réduire tes dépenses mais pas vivre comme un moine ? Voici la méthode douce pour couper le superflu sans frustration.
+- [Comment tracker ses dépenses simplement (sans app compliquée)](https://noory.io/blog/tracker-ses-depenses-simplement/) : Pas besoin d'une app à 47 catégories. Voici la méthode ultra-simple pour savoir où part ton argent.
+- [Comment définir un objectif financier qui te motive vraiment](https://noory.io/blog/objectif-financier-comment-le-definir/) : Épargner sans objectif c'est comme courir sans ligne d'arrivée. Voici comment définir un objectif qui te donne envie de continuer.
+- [Comment construire une relation saine avec l'argent](https://noory.io/blog/relation-saine-argent/) : L'argent te stresse, te culpabilise ou t'angoisse ? Voici comment transformer ta relation à l'argent en quelque chose de serein.
+- [Première paie : les 5 réflexes à prendre dès le premier mois](https://noory.io/blog/premiere-paie-5-reflexes/) : Tu viens de recevoir ta première paie ? Voici les 5 réflexes à adopter maintenant pour ne pas galérer dans 6 mois.
+- [Dépenses impulsives : comment arrêter le cycle sans se priver](https://noory.io/blog/depenses-impulsives-comment-arreter/) : Découvre pourquoi tu achètes sous émotion et comment briser le cycle des achats compulsifs avec la méthode Noory. Sans privation, sans culpabilité.
+- [Gérer son argent sans stress : 5 habitudes douces qui changent tout](https://noory.io/blog/gerer-son-argent-sans-stress/) : Découvre 5 habitudes simples pour gérer ton argent sans pression. Pas de budget strict, pas de privation — juste des gestes qui tiennent dans la durée.
+- [Quel est ton profil financier ? Ce que ta psychologie dit de ton rapport à l'argent](https://noory.io/blog/profil-financier-psychologie-argent/) : Découvre les 5 profils financiers comportementaux et comprends enfin pourquoi tu gères ton argent comme tu le fais. Quiz gratuit dans l'app Noory.
+- [Comment épargner avec un petit salaire (même 50€/mois)](https://noory.io/blog/epargner-petit-salaire/) : Tu penses qu'il faut gagner beaucoup pour épargner ? Faux. Voici une méthode concrète pour mettre de côté même avec un petit salaire.
+- [Pourquoi tu culpabilises quand tu dépenses (et comment en sortir)](https://noory.io/blog/culpabilite-argent-depenser/) : Tu te sens coupable à chaque achat ? Découvre d'où vient cette culpabilité financière et comment retrouver un rapport sain à l'argent.
+- [Investir quand on a peur : le guide pour débutants paralysés](https://noory.io/blog/investir-debutant-peur/) : Tu veux investir mais la peur te bloque ? Ce guide t'explique pourquoi c'est normal et comment faire ton premier pas, même avec 10€.
+- [J'achète quand je suis triste : comprendre (et casser) le cycle](https://noory.io/blog/j-achete-quand-je-suis-triste/) : Tu achètes quand tu es triste ou stressé·e ? Découvre pourquoi ton cerveau associe achat et réconfort, et comment casser ce cycle sans te priver.
+- [La charge mentale financière : pourquoi l'argent t'épuise (et comment alléger)](https://noory.io/blog/charge-mentale-financiere/) : Tu penses à l'argent en permanence et ça t'épuise ? Découvre ce qu'est la charge mentale financière et 4 actions concrètes pour l'alléger.
+- [Où passe mon argent chaque mois ? La méthode pour enfin comprendre](https://noory.io/blog/ou-passe-mon-argent-chaque-mois/) : Tu ne sais pas où part ton argent chaque mois ? Découvre les 3 fuites invisibles et une méthode simple pour reprendre le contrôle de tes dépenses.
+- [No Buy Challenge : comment faire un mois sans achats inutiles](https://noory.io/blog/no-buy-challenge-comment-faire/) : Envie de tester le No Buy Challenge ? Découvre comment faire un mois sans achats inutiles avec un plan réaliste semaine par semaine.
+- [Budget pour les nuls : la méthode la plus simple qui existe](https://noory.io/blog/budget-pour-les-nuls/) : Tu ne sais pas faire un budget ? Voici la méthode la plus simple qui existe : 3 chiffres à connaître, 2 minutes par jour. Sans tableur, sans prise de tête.
+- [Pourquoi je dépense tout mon salaire (et comment en sortir)](https://noory.io/blog/pourquoi-je-depense-tout-mon-salaire/) : Tu dépenses tout ton salaire chaque mois sans savoir pourquoi ? Découvre les 3 raisons cachées et la technique simple pour en sortir.
+- [Épargner quand on n'a pas la motivation : 5 astuces qui marchent vraiment](https://noory.io/blog/epargner-quand-on-a-pas-la-motivation/) : Pas envie d'épargner ? C'est normal. Voici 5 astuces concrètes pour économiser même quand la motivation n'est pas là. Spoiler : la clé n'est pas la discipline.
+- [Argent et émotions : pourquoi ta relation à l'argent est (avant tout) psychologique](https://noory.io/blog/argent-et-emotions-comprendre-le-lien/) : L'argent n'est jamais juste de l'argent. Découvre comment ta psychologie, tes croyances familiales et tes émotions façonnent ton rapport aux finances.
+- [Couple et argent : 6 règles pour en parler sans se disputer](https://noory.io/blog/couple-et-argent-eviter-les-disputes/) : L'argent est le sujet de dispute n°1 dans les couples. Découvre 6 règles concrètes pour en parler sereinement et construire un projet financier à deux.
+- [Comment se faire plaisir avec son argent sans culpabiliser](https://noory.io/blog/depense-plaisir-sans-culpabiliser/) : Tu culpabilises à chaque dépense plaisir ? Découvre le concept de dépense alignée et comment te faire plaisir avec ton argent sans regret.
+- [Premier salaire : quoi faire (sans tout claquer en une semaine)](https://noory.io/blog/premier-salaire-quoi-faire/) : Tu viens de recevoir ton premier salaire ? Découvre comment en profiter intelligemment sans tout dépenser en une semaine. Guide concret pour jeune actif.
+- [La méthode des enveloppes : le budget simple qui marche vraiment](https://noory.io/blog/methode-enveloppes-budget/) : Découvre la méthode des enveloppes pour gérer ton budget simplement. Version moderne, digitale et sans prise de tête. Le système qui marche vraiment.
+- [Anxiété financière : 7 techniques pour calmer ton stress d'argent](https://noory.io/blog/anxiete-financiere-calmer/) : L'anxiété financière touche des millions de personnes. Découvre 7 techniques concrètes pour calmer ton stress d'argent et retrouver la sérénité.
+- [Acheter en ligne sans exploser ton budget : 8 astuces concrètes](https://noory.io/blog/acheter-en-ligne-moins-depenser/) : Tu dépenses trop en ligne ? Découvre 8 astuces concrètes pour acheter sur internet sans exploser ton budget. Anti achats impulsifs garanti.
+- [Épargne de précaution : combien mettre de côté (et pourquoi)](https://noory.io/blog/epargne-de-precaution-combien/) : Combien faut-il mettre de côté en épargne de précaution ? Découvre le montant idéal, où placer cet argent, et comment construire ton fonds d'urgence pas à pas.
+- [Parler d'argent en France : pourquoi c'est tabou (et comment briser le silence)](https://noory.io/blog/parler-argent-tabou-france/) : En France, parler d'argent est presque interdit. Découvre les origines de ce tabou, ses conséquences sur ta vie financière, et comment enfin briser le silence.
+- [La règle 50/30/20 : le budget le plus simple du monde (expliqué)](https://noory.io/blog/regle-50-30-20-explication/) : Découvre la règle 50/30/20 : le budget le plus simple pour organiser tes finances. On t'explique comment l'appliquer, l'adapter, et quand la laisser tomber.
+- [Le Money Date : le rendez-vous qui sauve ton couple (et tes finances)](https://noory.io/blog/money-date-couple/) : Découvre le Money Date : un rendez-vous régulier en couple pour parler d'argent sans conflit. Format concret, erreurs à éviter, et conseils pour commencer.
+- [Arrêter de comparer tes finances sur les réseaux sociaux](https://noory.io/blog/arreter-comparer-finances-reseaux/) : Les réseaux sociaux faussent ta vision de l'argent. Découvre comment la comparaison financière te pousse à dépenser, et 5 stratégies concrètes pour en sortir.
+- [21 jours pour changer tes habitudes financières (méthode complète)](https://noory.io/blog/habitudes-financieres-21-jours/) : Découvre une méthode en 3 semaines pour transformer tes habitudes financières. Semaine par semaine, exercice par exercice. Sans privation.
+
+## Sources d'expertise citées
+
+Auteurs et chercheurs :
+
+- Daniel Kahneman — Système 1 / Système 2, biais cognitifs (« Thinking, Fast and Slow », 2011 ; Nobel d'économie 2002)
+- Richard Thaler — Économie comportementale, nudge theory (« Nudge », 2008 ; Nobel d'économie 2017)
+- Dan Ariely — Décisions financières irrationnelles (« Predictably Irrational », 2008)
+- Phillippa Lally et al. (UCL, 2010) — Formation des habitudes : 18-254 jours, médiane 66
+- Dean Karlan et al. (Yale) — Engagement contracts pour épargne automatique
+- Roy Baumeister — Théorie de l'épuisement de la volonté (ego depletion)
+- Anandi Mani et al. (Harvard) — Charge cognitive de la précarité financière (Science, 2013)
+- Drazen Prelec & Duncan Simester (MIT) — Pain of paying : carte de crédit vs espèces
+
+Institutions et données françaises / internationales :
+
+- IFOP — Études d'opinion sur les finances personnelles en France
+- INSEE — Données économiques et sociodémographiques françaises
+- APA (American Psychological Association) — Stress in America 2023
+- Banque de France — Statistiques épargne, crédit, comportements financiers
+- AMF (Autorité des Marchés Financiers) — Cadre réglementaire investissement FR
+
+## Mentions légales
+
+Noory est un outil de coaching comportemental, pas un service financier réglementé. Les contenus du site et de l'app ont une vocation pédagogique et ne constituent ni un conseil en investissement, ni un conseil financier personnalisé au sens de l'article L.541-1 du Code monétaire et financier. Pour toute décision financière importante, consulter un conseiller habilité (CIF, CGP).
