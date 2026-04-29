@@ -70,6 +70,7 @@ export const PERSON_IMAD = {
     "https://www.linkedin.com/in/imad-noory-3b2242403/",
     "https://www.tiktok.com/@imad.argent.ethique",
     "https://www.youtube.com/@Imadargentethique",
+    "https://www.producthunt.com/@imad_noory",
   ],
 } as const;
 
