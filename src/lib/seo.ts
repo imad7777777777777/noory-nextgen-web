@@ -39,6 +39,9 @@ export const ORG_NOORY = {
     "https://www.youtube.com/@Imadargentethique",
     "https://www.instagram.com/noory_app",
     APP_STORE_URL,
+    "https://www.producthunt.com/products/noory",
+    "https://www.crunchbase.com/organization/noory-ae6d",
+    "https://www.indiehackers.com/product/noory",
   ],
 } as const;
 
