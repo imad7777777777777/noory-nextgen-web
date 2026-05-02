@@ -52,6 +52,7 @@ const routes = [
   "/confidentialite",
   "/cgu",
   "/a-propos",
+  "/nous-contacter",
   "/profil/depensier-emotionnel",
   "/profil/navigateur-a-vue",
   "/profil/queteur-de-serenite",

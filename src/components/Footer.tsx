@@ -33,6 +33,7 @@ const Footer = () => {
               <Link to="/blog" className="text-sm text-muted-foreground hover:text-primary transition-colors">Blog</Link>
               <Link to="/quiz" className="text-sm text-muted-foreground hover:text-primary transition-colors">Quiz — Ton profil</Link>
               <Link to="/faq" className="text-sm text-muted-foreground hover:text-primary transition-colors">FAQ</Link>
+              <Link to="/nous-contacter" className="text-sm text-muted-foreground hover:text-primary transition-colors">Nous contacter</Link>
               <a href={APP_STORE} target="_blank" rel="noopener noreferrer" className="text-sm text-muted-foreground hover:text-primary transition-colors">
                 App Store
               </a>
@@ -73,6 +74,8 @@ const Footer = () => {
             <span>© {new Date().getFullYear()} Noory. Tous droits réservés.</span>
             <span>·</span>
             <Link to="/a-propos" className="hover:text-primary transition-colors">À propos</Link>
+            <span>·</span>
+            <Link to="/nous-contacter" className="hover:text-primary transition-colors">Contact</Link>
             <span>·</span>
             <Link to="/confidentialite" className="hover:text-primary transition-colors">Confidentialité</Link>
             <span>·</span>

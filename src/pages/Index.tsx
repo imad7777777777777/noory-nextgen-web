@@ -5,11 +5,13 @@ import HeroSection from "@/components/HeroSection";
 import ProblemSection from "@/components/ProblemSection";
 import TransformationSection from "@/components/TransformationSection";
 import HowItWorksSection from "@/components/HowItWorksSection";
+import JourneySection from "@/components/JourneySection";
 import ProfileQuizSection from "@/components/ProfileQuizSection";
 import ForWhoSection from "@/components/ForWhoSection";
 import DifferenceSection from "@/components/DifferenceSection";
 import ProductDepthSection from "@/components/ProductDepthSection";
 import PhilosophySection from "@/components/PhilosophySection";
+import SocialProofSection from "@/components/SocialProofSection";
 import TestimonialsSection from "@/components/TestimonialsSection";
 import FinalCtaSection from "@/components/FinalCtaSection";
 import Footer from "@/components/Footer";
@@ -46,6 +48,7 @@ const Index = () => {
       <Navbar />
       <HeroSection />
       <ProblemSection />
+      <JourneySection />
       <TransformationSection />
       <HowItWorksSection />
       <ProfileQuizSection />
@@ -53,6 +56,7 @@ const Index = () => {
       <DifferenceSection />
       <ProductDepthSection />
       <PhilosophySection />
+      <SocialProofSection />
       <TestimonialsSection />
       <FinalCtaSection />
       <Footer />

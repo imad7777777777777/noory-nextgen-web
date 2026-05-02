@@ -1,0 +1,24 @@
+{
+  "name": "Noory — Coaching financier comportemental",
+  "short_name": "Noory",
+  "description": "Découvre ton profil financier et suis 28 jours de coaching adapté à ta psychologie.",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#338765",
+  "background_color": "#FFF8F0",
+  "display": "standalone",
+  "lang": "fr-FR",
+  "start_url": "/"
+}
