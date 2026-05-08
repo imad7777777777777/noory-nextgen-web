@@ -13,6 +13,7 @@ import ProductDepthSection from "@/components/ProductDepthSection";
 import PhilosophySection from "@/components/PhilosophySection";
 import SocialProofSection from "@/components/SocialProofSection";
 import TestimonialsSection from "@/components/TestimonialsSection";
+import HomepageFaqSection, { homepageFaq } from "@/components/HomepageFaqSection";
 import FinalCtaSection from "@/components/FinalCtaSection";
 import Footer from "@/components/Footer";
 
@@ -39,6 +40,17 @@ const Index = () => {
           inLanguage: LANG,
           publisher: { "@id": `${BASE_URL}/#organization` },
         },
+        {
+          "@type": "FAQPage",
+          "@id": `${BASE_URL}/#faq`,
+          inLanguage: LANG,
+          isPartOf: { "@id": `${BASE_URL}/#website` },
+          mainEntity: homepageFaq.map((item) => ({
+            "@type": "Question",
+            name: item.question,
+            acceptedAnswer: { "@type": "Answer", text: item.answer },
+          })),
+        },
       ],
     },
   });
@@ -58,6 +70,7 @@ const Index = () => {
       <PhilosophySection />
       <SocialProofSection />
       <TestimonialsSection />
+      <HomepageFaqSection />
       <FinalCtaSection />
       <Footer />
     </div>

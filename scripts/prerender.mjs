@@ -11,6 +11,9 @@ const PORT = 4510;
 const routes = [
   "/",
   "/blog",
+  "/blog/comment-arreter-de-depenser-impulsivement",
+  "/blog/epargner-petit-salaire-methodes-concretes",
+  "/blog/finance-comportementale-guide-debutant",
   "/blog/epargne-automatique-comment-mettre-en-place",
   "/blog/habitudes-financieres-qui-changent-tout",
   "/blog/defi-epargne-52-semaines",

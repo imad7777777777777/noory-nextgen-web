@@ -74,7 +74,13 @@ const BlogArticlePage = () => {
     );
   }
 
-  const otherArticles = blogArticles.filter((a) => a.slug !== slug).slice(0, 3);
+  const curatedRelated = (article.relatedSlugs ?? [])
+    .map((s) => blogArticles.find((a) => a.slug === s))
+    .filter((a): a is typeof blogArticles[number] => Boolean(a));
+
+  const otherArticles = curatedRelated.length > 0
+    ? curatedRelated.slice(0, 3)
+    : blogArticles.filter((a) => a.slug !== slug).slice(0, 3);
 
   return (
     <div className="min-h-screen bg-background">
@@ -231,16 +237,25 @@ const BlogArticlePage = () => {
           {/* Related articles */}
           {otherArticles.length > 0 && (
             <div className="mt-16">
-              <h3 className="text-xl font-display font-bold text-foreground mb-6">À lire aussi</h3>
+              <h3 className="text-xl font-display font-bold text-foreground mb-6">
+                Tu pourrais aussi aimer
+              </h3>
               <div className="grid md:grid-cols-3 gap-4">
                 {otherArticles.map((a) => (
                   <Link
                     key={a.slug}
                     to={`/blog/${a.slug}`}
-                    className="bg-card border border-border rounded-2xl p-5 hover:shadow-md transition-all"
+                    className="bg-card border border-border rounded-2xl p-5 hover:shadow-md transition-all flex flex-col"
                   >
-                    <h4 className="text-sm font-bold text-foreground mb-2 leading-snug">{a.title}</h4>
-                    <span className="text-xs text-muted-foreground">{a.readTime} de lecture</span>
+                    <h4 className="text-sm font-bold text-foreground mb-2 leading-snug">
+                      {a.title}
+                    </h4>
+                    <p className="text-xs text-muted-foreground leading-relaxed line-clamp-3 mb-3 flex-1">
+                      {a.intro}
+                    </p>
+                    <span className="text-xs text-muted-foreground">
+                      {a.readTime} de lecture
+                    </span>
                   </Link>
                 ))}
               </div>

@@ -16,9 +16,357 @@ export interface BlogArticle {
   keywords: string[];
   content: string;
   faq?: BlogFaqItem[];
+  relatedSlugs?: string[];
 }
 
 export const blogArticles: BlogArticle[] = [
+  {
+    slug: "comment-arreter-de-depenser-impulsivement",
+    title: "Comment arrêter de dépenser impulsivement : 5 techniques qui marchent vraiment",
+    metaTitle: "Comment arrêter de dépenser impulsivement : 5 techniques qui marchent | Noory",
+    metaDescription: "Tu dépenses sans réfléchir et tu le regrettes ? Voici 5 techniques concrètes issues de la finance comportementale pour reprendre le contrôle.",
+    date: "2026-05-08",
+    readTime: "7 min",
+    intro: "Tu te promets de faire attention. Tu craques quand même. Et tu culpabilises. Le problème, ce n'est pas ta volonté — c'est ta méthode. Voici 5 techniques qui changent vraiment la donne.",
+    keywords: [
+      "comment arrêter de dépenser",
+      "arrêter de dépenser impulsivement",
+      "je dépense trop",
+      "techniques anti-achat impulsif",
+      "finance comportementale",
+    ],
+    relatedSlugs: [
+      "depenses-impulsives-comment-arreter",
+      "j-achete-quand-je-suis-triste",
+      "no-buy-challenge-comment-faire",
+    ],
+    content: `## Pourquoi la volonté ne suffit jamais
+
+Tu as déjà essayé. Tu t'es dit "ce mois-ci je tiens". Le 5 du mois, tu craques sur un truc à 30€. Le 12, sur un autre à 50€. Le 25, tu n'oses plus regarder ton solde.
+
+Tu en conclus que tu manques de discipline. C'est faux. Le problème, c'est que tu te bats contre ton cerveau avec les mauvaises armes.
+
+Daniel Kahneman, prix Nobel d'économie, a montré que ton cerveau fonctionne avec deux systèmes. Le **Système 1** est rapide, automatique, émotionnel — c'est lui qui décide en 0,3 seconde quand tu vois la pub. Le **Système 2** est lent, réfléchi, rationnel — c'est lui qui sait que tu n'as pas besoin de cet objet. Et le Système 1 gagne presque toujours, parce qu'il est plus rapide et qu'il consomme moins d'énergie.
+
+La volonté, c'est du Système 2. Et le Système 2 est une ressource limitée qui s'épuise au fil de la journée. C'est pour ça que tu craques le soir, pas le matin.
+
+La bonne nouvelle : il existe des techniques qui ne demandent **pas** de volonté. Elles changent les conditions, pas ton caractère. Voici les 5 qui marchent vraiment.
+
+## Technique 1 — La pause 24h non négociable
+
+Pour tout achat non essentiel au-dessus d'un montant fixé à l'avance (10€, 20€, 50€ — à toi de choisir), tu t'imposes une règle simple : **24 heures avant de cliquer**.
+
+Tu mets l'objet dans ton panier. Tu fermes l'onglet. Tu écris dans ton téléphone : "envie de X — décision demain à la même heure".
+
+Pourquoi ça marche : en finance comportementale, on parle de "biais du présent". Ton cerveau surévalue énormément la satisfaction immédiate et sous-évalue les conséquences futures. La pause 24h donne au Système 2 le temps de revenir dans la course. Dans environ 70 % des cas, l'envie disparaît d'elle-même — parce qu'elle n'était pas un besoin, juste une émotion.
+
+Si tu veux creuser ce mécanisme, on en parle en détail dans [Dépenses impulsives : comment arrêter le cycle sans se priver](/blog/depenses-impulsives-comment-arreter).
+
+## Technique 2 — L'enveloppe cash adaptée à 2025
+
+La méthode des enveloppes papier, c'est pratique en théorie, impossible en vrai (qui paie en liquide aujourd'hui ?). La version moderne tient en deux comptes bancaires :
+
+1. **Compte "essentiel"** : loyer, courses, factures, transports. Avec ta carte habituelle.
+2. **Compte "plaisir"** : tout le reste. Avec une carte différente, idéalement une carte virtuelle ou prépayée.
+
+Tu vires en début de mois ton budget plaisir sur ce deuxième compte. Quand il est vide, il est vide. Tu ne piochses pas dans le compte essentiel.
+
+Pourquoi ça marche : le **comptabilité mentale** (Richard Thaler, prix Nobel 2017) montre que ton cerveau traite différemment les "pots" d'argent qu'il identifie séparément. Voir un solde "plaisir" passer de 200€ à 30€ déclenche une vigilance que ton solde global ne déclenche jamais.
+
+## Technique 3 — Le journal de dépenses émotionnelles
+
+Pour chaque achat impulsif (juste les impulsifs, pas tout), tu notes 3 choses dans une note de ton téléphone :
+
+- Le montant
+- L'émotion juste avant ("stress", "ennui", "tristesse", "comparaison Insta")
+- Le ressenti 24h après ("ravi", "ok", "regret", "honte")
+
+Pourquoi ça marche : tu ne peux pas changer ce que tu ne vois pas. La majorité des achats impulsifs sont invisibles parce qu'ils sont noyés dans le quotidien. Quand tu commences à voir le motif — "je craque toujours le mardi soir après le boulot" — tu peux intervenir en amont.
+
+Au bout de 3 semaines, tu connaîtras ton déclencheur principal. Et c'est là que la vraie liberté commence. On va plus loin sur le sujet émotionnel dans [J'achète quand je suis triste](/blog/j-achete-quand-je-suis-triste).
+
+## Technique 4 — Le micro-budget quotidien
+
+Oublie le budget mensuel. C'est trop long, trop abstrait. Personne ne tient un budget sur 30 jours.
+
+À la place : un **budget quotidien**. Tu prends ton budget plaisir mensuel, tu divises par 30. Si c'est 300€, tu as 10€/jour. Si tu n'as pas dépensé hier, tu as 20€ aujourd'hui. Si tu as dépensé 25€, tu pars avec -15€ aujourd'hui (rattrapable sur 2-3 jours).
+
+Pourquoi ça marche : le cerveau gère facilement un horizon de 1 à 3 jours. Au-delà, il décroche. 10€ aujourd'hui, c'est concret. 300€ ce mois, c'est de la fumée.
+
+Cette logique est exactement celle qu'on a intégrée dans les rituels quotidiens de Noory — un micro-suivi en moins de 2 minutes par jour, sans tableur, sans calculs.
+
+## Technique 5 — Le partenaire d'engagement
+
+Tu choisis une personne de confiance. Tu lui annonces un objectif précis : "ce mois-ci, je dépense max 200€ en achats plaisir". Et tu lui envoies une photo de ton solde plaisir tous les dimanches.
+
+C'est tout.
+
+Pourquoi ça marche : la science du **commitment device** (engagement contraignant) est l'un des leviers les plus puissants en sciences comportementales. Le simple fait de savoir que quelqu'un va voir tes chiffres active une vigilance que la solitude ne déclenche jamais. Pas de jugement nécessaire — juste un témoin.
+
+Si personne dans ton entourage ne convient, le quiz Noory te place dans une logique d'accompagnement quotidien qui joue exactement ce rôle.
+
+## Ce qu'il faut retenir
+
+Arrêter de dépenser impulsivement n'est pas une question de caractère. C'est une question de **système**. Tu changes les conditions autour de toi — pause forcée, séparation des comptes, journal émotionnel, micro-budget, témoin extérieur — et le comportement suit. Sans douleur, sans privation.
+
+Choisis-en une. Une seule. Tiens-la 7 jours. Puis ajoute la suivante. C'est l'effet cumulé qui change tout.
+
+Si tu veux tester quelle technique correspond le mieux à ton profil financier, [fais le quiz en 2 minutes](/quiz). Tu sauras ce qui te bloque vraiment — et la suite devient évidente.
+
+---
+
+*Noory transforme ces techniques en rituel quotidien adapté à ton profil. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`,
+    faq: [
+      {
+        q: "Pourquoi je n'arrive pas à arrêter de dépenser ?",
+        a: "Ce n'est pas un manque de volonté — c'est ton cerveau. Le Système 1 (rapide, émotionnel) prend les décisions d'achat avant que ton Système 2 (réfléchi) ait le temps de réagir. Les techniques qui marchent ne reposent pas sur la volonté mais sur des changements de conditions : pause 24h, séparation des comptes, journal émotionnel.",
+      },
+      {
+        q: "Est-ce que couper ma carte bancaire suffit ?",
+        a: "Non, pas durablement. Couper sa carte traite le symptôme, pas la cause. Tu vas finir par la racheter ou utiliser une autre méthode (Apple Pay, virement, lien de paiement). Ce qui marche : créer un compte dédié au plaisir avec un montant fixé à l'avance, pour que la limite soit dans le système et pas dans ta volonté.",
+      },
+      {
+        q: "Combien de temps pour changer ses habitudes financières ?",
+        a: "L'étude de Lally et al. (University College London, 2010) a mesuré entre 18 et 254 jours selon la personne, avec une moyenne de 66 jours. Pour des micro-habitudes simples comme la pause 24h, on observe un changement notable en 21 à 28 jours. C'est pour ça que le parcours Noory est calé sur 28 jours.",
+      },
+    ],
+  },
+  {
+    slug: "epargner-petit-salaire-methodes-concretes",
+    title: "Comment épargner avec un petit salaire : méthodes concrètes (pas de leçons de morale)",
+    metaTitle: "Comment épargner avec un petit salaire : 3 méthodes concrètes | Noory",
+    metaDescription: "Petit salaire ne veut pas dire zéro épargne. Découvre des méthodes réalistes pour commencer à mettre de côté, même avec 50€ par mois.",
+    date: "2026-05-08",
+    readTime: "8 min",
+    intro: "La majorité des conseils financiers supposent un salaire confortable. Quand tu touches 1 200€, 1 500€ ou 1 800€, ça sonne creux. Voici trois méthodes vraiment adaptées aux petits revenus — sans leçon de morale.",
+    keywords: [
+      "épargner petit salaire",
+      "comment épargner avec un petit budget",
+      "épargner avec le SMIC",
+      "micro-épargne",
+      "épargne 50 euros par mois",
+    ],
+    relatedSlugs: [
+      "epargner-petit-salaire",
+      "defi-epargne-52-semaines",
+      "epargne-automatique-comment-mettre-en-place",
+    ],
+    content: `## La réalité que personne ne te dit
+
+Quand tu lis un article sur l'épargne, on te parle d'investir 500€ par mois, de constituer 3 mois de salaire en réserve, de placer ton excédent en assurance-vie. Si tu gagnes 1 400€ après impôts et que ton loyer en prend 700, tu refermes la page. Tu te dis "ce n'est pas pour moi".
+
+Tu n'as pas tort. Cette approche n'est pas pour toi. Mais ça ne veut pas dire qu'épargner est impossible. Ça veut dire qu'il faut une méthode différente — une méthode qui démarre avec ce que tu as, pas avec ce que tu n'as pas.
+
+L'objectif de cet article n'est pas de te faire la leçon. Il est de te donner trois méthodes que des gens à 1 200€/mois utilisent vraiment, et qui marchent.
+
+## L'idée centrale : la micro-épargne, pas la macro-épargne
+
+Dans la finance classique, on raisonne en pourcentage : "épargne 10 % de tes revenus". Avec un petit salaire, ce raisonnement te bloque. Parce que 10 % de 1 200€, c'est 120€. Et 120€, quand chaque euro compte, ça fait peur.
+
+Le décalage est psychologique avant d'être mathématique. La micro-épargne renverse complètement la logique : tu démarres avec **un montant tellement petit qu'il ne peut pas faire mal**. 10€. 15€. 20€. Le but n'est pas le montant. Le but est l'**identité** : devenir, dans ta tête, quelqu'un qui épargne.
+
+Une fois que cette identité est là, le reste suit. L'augmentation viendra naturellement, mois après mois. Mais elle ne peut pas démarrer sans elle.
+
+C'est ce qu'on appelle, chez Noory, la **confiance composée** : pas de l'intérêt composé, mais de la confiance qui se renforce à chaque mois tenu. Et c'est infiniment plus puissant pour quelqu'un qui démarre.
+
+## Méthode 1 — L'arrondi automatique
+
+Le principe : à chaque dépense que tu fais avec ta carte, le montant est arrondi à l'euro supérieur. La différence part automatiquement sur un compte d'épargne.
+
+Tu paies un café à 2,30€ → 0,70€ partent à l'épargne. Tu fais des courses à 47,40€ → 0,60€ partent. Tu prends un Uber à 8,80€ → 0,20€ partent.
+
+Plusieurs banques proposent cette option (BoursoBank, Revolut, Lydia, Monabanq, certaines banques mutualistes). Active-la une fois, et tu n'y penses plus jamais.
+
+Pourquoi c'est puissant pour un petit salaire :
+
+- Tu ne sens **rien** partir. C'est invisible.
+- Sur 100 transactions par mois, tu épargnes en moyenne 30 à 60€ sans avoir pris une seule décision.
+- Ça contourne le biais du présent : ton Système 1 ne perçoit pas ces micro-prélèvements comme des "pertes".
+
+C'est la méthode parfaite pour démarrer quand tu te dis "je n'ai pas la marge". Tu l'as. Elle est juste répartie en miettes.
+
+## Méthode 2 — Le budget inversé
+
+Dans le budget classique, tu paies tes charges, tu vis, et tu épargnes ce qui reste. C'est exactement ce qui ne marche pas — il ne reste jamais rien.
+
+Le budget inversé fait l'opposé. Le jour de ton salaire, **avant toute autre dépense**, tu vires un montant fixe sur un compte d'épargne séparé. Ensuite seulement, tu vis avec ce qui reste.
+
+Pour un petit salaire, ce montant doit être ridiculement bas. **20 €**. **30 €**. À toi de fixer ce que tu peux tenir 6 mois sans craquer. Si à la fin du mois tu te retrouves vraiment à sec, tu peux récupérer une partie — l'objectif n'est pas la rigidité, c'est l'inversion de l'ordre.
+
+Pourquoi ça marche : le concept de **paye-toi en premier** (popularisé par George Clason puis Robert Kiyosaki) fonctionne parce qu'il déplace l'épargne hors de ton champ de décision quotidien. Tu ne renonces pas à 30 €/mois — tu vis avec 30 € de moins, ce qui est très différent psychologiquement.
+
+Pour aller plus loin sur l'automatisation, lis [Épargne automatique : la méthode pour épargner sans y penser](/blog/epargne-automatique-comment-mettre-en-place).
+
+## Méthode 3 — Le challenge weekly progressif
+
+Le défi hebdomadaire est l'arme préférée des petits budgets : il démarre à 1 € la première semaine et augmente d'1 € chaque semaine. Semaine 1 : 1 €. Semaine 2 : 2 €. Semaine 4 : 4 €. Semaine 12 : 12 €.
+
+Au bout de 6 mois, tu auras mis de côté 351 €. Sur un an complet, 1 378 €. Et tu auras commencé avec 1 euro.
+
+Pourquoi c'est génial pour un petit salaire :
+
+- Le ticket d'entrée est minuscule. Personne ne peut dire "j'ai pas les moyens" à 1 €.
+- L'augmentation est progressive : ton cerveau s'adapte sans choc.
+- Tu peux **inverser** le défi si tu sens que la fin sera dure : commence par 52 € en janvier (souvent un mois où on ressent la motivation post-fêtes), descends jusqu'à 1 € en décembre.
+
+On détaille toute la mécanique dans [Le défi épargne 52 semaines](/blog/defi-epargne-52-semaines).
+
+## La psychologie qui fait toute la différence
+
+Quand tu démarres avec un petit budget, tu te bats avec une croyance silencieuse : "ce que je mets de côté ne servira à rien". Cette pensée est le tueur silencieux de toute épargne modeste.
+
+La science te dit l'inverse. Une [étude de Karlan, McConnell, Mullainathan et Zinman (2016)](https://poverty-action.org/sites/default/files/publications/getting-to-the-top-of-mind.pdf) sur des clients aux Philippines, en Bolivie et au Pérou a montré que des rappels d'épargne mentionnant un objectif précis doublent l'épargne réelle, indépendamment du revenu de base.
+
+Ce n'est pas le montant qui fait l'effet. C'est la **direction**.
+
+20 €/mois pendant 5 ans = 1 200 €. C'est de quoi absorber sans drame une panne de voiture, un mois sans salaire, un déménagement urgent. C'est exactement la différence entre une crise financière et un imprévu gérable. Pour creuser le sujet du coussin de sécurité, lis [Épargne de précaution : combien mettre de côté](/blog/epargne-de-precaution-combien).
+
+## Ta première action — aujourd'hui
+
+Choisis **une seule** méthode. Pas trois. Une.
+
+- Si tu veux le mode "je ne fais rien" → arrondi automatique.
+- Si tu veux la simplicité absolue → budget inversé à 20 €/mois.
+- Si tu veux le côté ludique → challenge weekly à 1 €.
+
+Mets-la en place dans les 10 minutes qui viennent. Pas demain. Maintenant. C'est cette action — pas la réflexion — qui fait basculer ton identité financière.
+
+---
+
+*Noory t'accompagne avec un parcours adapté à ton revenu réel, pas à un revenu théorique. [Disponible gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`,
+    faq: [
+      {
+        q: "Peut-on vraiment épargner avec le SMIC ?",
+        a: "Oui — mais pas avec les méthodes classiques. Au SMIC (~1 426 € net en 2025), épargner 10 % est irréaliste pour la plupart des situations. Vise plutôt 1 à 3 % pour démarrer (15 à 45 €/mois) avec arrondi automatique ou virement programmé. L'objectif initial est l'identité, pas le montant.",
+      },
+      {
+        q: "Quelle est la première chose à faire pour commencer à épargner ?",
+        a: "Ouvrir un compte d'épargne séparé de ton compte courant. Sans cette séparation physique, l'argent reste mentalement disponible et finit dépensé. Une fois le compte ouvert, programme un virement automatique le jour de ton salaire — même 10 € suffit pour commencer.",
+      },
+      {
+        q: "Faut-il un Livret A pour épargner ?",
+        a: "Le Livret A est pratique pour démarrer car il est accessible immédiatement, sans frais et sans risque de perte. Mais l'important n'est pas le produit — c'est l'automatisation et la régularité. Une cagnotte chez ta banque en ligne ou un compte épargne séparé suffit largement pour les premiers mois.",
+      },
+    ],
+  },
+  {
+    slug: "finance-comportementale-guide-debutant",
+    title: "La finance comportementale, c'est quoi ? Guide simple pour comprendre (et changer) ton rapport à l'argent",
+    metaTitle: "Finance comportementale : guide débutant pour comprendre tes choix | Noory",
+    metaDescription: "La finance comportementale explique pourquoi tu fais des choix financiers irrationnels. Découvre les biais qui influencent ton argent au quotidien.",
+    date: "2026-05-08",
+    readTime: "9 min",
+    intro: "Pourquoi tu repousses ton épargne mois après mois ? Pourquoi tu craques sur les soldes même sans besoin ? Pourquoi tu restes chez ta banque qui te ruine en frais ? La finance comportementale a les réponses — et elles sont fascinantes.",
+    keywords: [
+      "finance comportementale",
+      "psychologie de l'argent",
+      "biais cognitifs argent",
+      "behavioral finance",
+      "Kahneman Thaler",
+    ],
+    relatedSlugs: [
+      "profil-financier-psychologie-argent",
+      "argent-et-emotions-comprendre-le-lien",
+      "relation-saine-argent",
+    ],
+    content: `## Une discipline qui dit ce que tu sais déjà : tu n'es pas rationnel·le
+
+La finance classique repose sur une hypothèse magnifique et fausse : les gens prennent des décisions financières rationnelles. Si on te montrait clairement les chiffres, tu choisirais toujours la meilleure option.
+
+Sauf que ce n'est jamais ce qui se passe. Tu sais qu'il faut épargner, et tu ne le fais pas. Tu sais que cette paire de baskets ne te rendra pas heureux·se, et tu l'achètes quand même. Tu sais que ta banque te facture 8 € de frais inutiles chaque mois, et tu n'en changes pas.
+
+La **finance comportementale** est née de ce constat. Deux noms à connaître :
+
+- **Daniel Kahneman**, prix Nobel d'économie 2002, auteur de *Thinking, Fast and Slow* (en français : *Système 1, Système 2*). Il a montré que nos décisions sont pilotées par deux modes de pensée : un rapide et émotionnel, un lent et rationnel.
+- **Richard Thaler**, prix Nobel d'économie 2017, auteur de *Misbehaving* et co-auteur de *Nudge*. Il a démontré que les gens dévient systématiquement de la "rationalité économique" — et que ces déviations sont **prévisibles**.
+
+La finance comportementale, c'est l'étude de ces déviations prévisibles. Et la bonne nouvelle, c'est que les comprendre te donne un avantage énorme.
+
+## Les 5 biais qui pilotent ton argent au quotidien
+
+### 1. Le biais du présent
+
+Tu préfères 50 € aujourd'hui à 100 € dans un an. Sur le papier, c'est absurde — c'est un rendement de 100 %. En vrai, c'est exactement comme ça que ton cerveau fonctionne. Il dévalorise massivement ce qui est dans le futur.
+
+C'est pour ça que tu dis "je m'y mets le mois prochain". Le mois prochain est un autre toi, à qui tu ne dois rien. Et quand le mois prochain arrive, le mois suivant prend la relève.
+
+**Ce que tu peux faire** : raccourcir la distance entre toi et ton futur. Au lieu de "épargner pour ma retraite dans 30 ans", écris "épargner pour le voyage que je vais faire en septembre prochain". L'objectif proche bat l'objectif lointain à chaque fois.
+
+### 2. L'aversion à la perte
+
+Imagine deux situations :
+
+- Tu trouves 20 € dans la rue.
+- Tu perds 20 € dans la rue.
+
+Tu mesures lequel a le plus d'impact émotionnel ? La perte. Toujours. Les recherches de Kahneman et Tversky montrent que **perdre fait environ 2 fois plus mal que gagner ne fait plaisir**.
+
+Ce biais explique pourquoi tu n'oses pas changer de banque ("je vais perdre du temps"), pourquoi tu ne vends jamais une action en moins-value ("ce serait acter la perte"), pourquoi tu gardes des abonnements inutiles ("j'ai déjà payé").
+
+**Ce que tu peux faire** : reformule chaque décision comme un gain potentiel plutôt qu'une perte évitée. "Changer de banque me fait gagner 100 €/an" est plus motivant que "je suis en train de perdre 100 €/an avec ma banque actuelle".
+
+### 3. L'effet d'ancrage
+
+Tu vois une veste à 200 € barrée, prix actuel 80 €. Tu la trouves "incroyable". Pourtant, tu n'avais jamais entendu parler de cette veste avant. Le 200 € initial est un **point d'ancrage** : il a fixé dans ton cerveau une référence, et le 80 € paraît bas par rapport à elle.
+
+C'est l'arme principale du marketing des soldes. Et c'est pour ça que tu te retrouves avec des trucs "en super affaire" que tu n'avais jamais voulus avant.
+
+**Ce que tu peux faire** : avant chaque achat soldé, demande-toi "à quel prix l'aurais-je acheté si je l'avais vu plein tarif ?". Souvent la réponse est "je ne l'aurais pas acheté du tout". L'achat n'est pas une affaire — c'est juste un achat que tu n'aurais pas fait.
+
+### 4. La comptabilité mentale
+
+C'est le biais découvert par Thaler. Ton cerveau crée des "catégories" mentales pour ton argent, et il les traite très différemment.
+
+Exemple concret : tu reçois 200 € de remboursement d'impôts. Tu les dépenses sans culpabilité — c'est de "l'argent en plus". Au même moment, dépenser 200 € de ton salaire te ferait souffrir. Pourtant, c'est mathématiquement le même argent.
+
+Autre exemple : "l'argent des vacances" est dépensé sans compter, alors que "l'argent du quotidien" est surveillé euro par euro. Même euro. Comportement complètement opposé.
+
+**Ce que tu peux faire** : utilise la comptabilité mentale **à ton avantage**. Crée volontairement un compte "épargne intouchable" séparé. Donne un nom précis à chaque pot ("voyage Japon", "coussin de sécurité"). Plus la catégorie est nette, plus tu la respecteras.
+
+### 5. Le biais de statu quo
+
+Tu sais que ta banque actuelle a des frais élevés. Tu sais qu'il existe des banques en ligne sans frais. Et pourtant, tu n'as jamais changé. Pourquoi ? Parce que **ne rien changer demande zéro effort**, et que ton cerveau est conçu pour économiser l'effort.
+
+Le statu quo est partout dans tes finances : abonnements oubliés, contrats énergie jamais renégociés, assurances renouvelées sans relecture, livrets bancaires à 0,5 % qu'on garde "parce que".
+
+**Ce que tu peux faire** : programme une "revue annuelle" — une heure par an, à date fixe, où tu passes en revue tes contrats, tes abonnements, et tes comptes. Une heure dans l'année qui peut te faire économiser des centaines d'euros.
+
+## Comment Noory utilise la finance comportementale
+
+Le parcours Noory n'est pas conçu sur des "bonnes pratiques" abstraites. Il est conçu directement à partir de ces biais. Concrètement :
+
+- Le **rituel quotidien de 2 minutes** contourne le biais du présent (l'objectif est aujourd'hui, pas dans 6 mois).
+- Les **5 profils** correspondent à des configurations différentes de biais. Le quiz détecte lequel domine chez toi.
+- Les **micro-actions** (commencer petit) exploitent le biais d'engagement : une fois que tu as fait le premier pas, ton cerveau veut maintenir la cohérence.
+
+Si tu veux comprendre le fond psychologique des 5 profils financiers que Noory a identifiés, lis [Quel est ton profil financier ? Ce que ta psychologie dit de ton rapport à l'argent](/blog/profil-financier-psychologie-argent). Et si tu veux explorer la couche émotionnelle qui rejoint ces biais, [Argent et émotions : comprendre le lien](/blog/argent-et-emotions-comprendre-le-lien).
+
+## Le vrai pouvoir de cette discipline
+
+La finance comportementale ne te transforme pas en machine rationnelle. Elle te donne quelque chose de bien plus utile : la capacité de **te voir penser**. De reconnaître le biais à l'œuvre quand il agit. Et à partir de là, de choisir.
+
+Tu n'élimines pas les biais — personne n'y arrive, même Kahneman le dit explicitement. Tu les **détectes**. Et ce simple fait change tout.
+
+Si tu veux savoir lequel de ces biais domine le plus chez toi, [le quiz Noory te le dit en 2 minutes](/quiz). Et le parcours qui suit est exactement conçu pour le déjouer, jour après jour.
+
+---
+
+*Noory traduit les sciences comportementales en rituel quotidien adapté à ton profil. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`,
+    faq: [
+      {
+        q: "Qui a inventé la finance comportementale ?",
+        a: "La discipline a été fondée à la fin des années 1970 par Daniel Kahneman et Amos Tversky avec leur théorie des perspectives (1979). Elle a été popularisée et étendue par Richard Thaler dans les années 1980-2000. Kahneman a reçu le prix Nobel d'économie en 2002, Thaler en 2017.",
+      },
+      {
+        q: "Comment la finance comportementale peut m'aider au quotidien ?",
+        a: "Elle te donne un nom et un mécanisme pour des comportements que tu vivais comme du \"manque de volonté\". Une fois que tu sais que tu cèdes au biais du présent ou à l'effet d'ancrage, tu peux mettre en place des contre-mesures simples : pause 24h, séparation des comptes, revue annuelle des frais. Tu agis sur le système, pas sur ton caractère.",
+      },
+      {
+        q: "Quelle est la différence entre finance classique et finance comportementale ?",
+        a: "La finance classique suppose que les gens sont rationnels et maximisent leur intérêt. La finance comportementale part du constat que ce n'est pas vrai, et étudie les déviations prévisibles (biais cognitifs, émotions, contexte social). En pratique, elle est beaucoup plus utile pour comprendre et changer les comportements financiers réels.",
+      },
+    ],
+  },
   {
     slug: "epargne-automatique-comment-mettre-en-place",
     title: "Épargne automatique : la méthode pour épargner sans y penser",
