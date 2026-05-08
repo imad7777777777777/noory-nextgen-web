@@ -67,7 +67,7 @@ const BlogArticlePage = () => {
         <Navbar />
         <div className="pt-32 text-center">
           <h1 className="text-2xl font-display font-bold text-foreground">Article introuvable</h1>
-          <Link to="/blog" className="text-primary mt-4 inline-block">Retour au blog</Link>
+          <Link to="/blog/" className="text-primary mt-4 inline-block">Retour au blog</Link>
         </div>
         <Footer />
       </div>
@@ -89,7 +89,7 @@ const BlogArticlePage = () => {
       <Breadcrumb
         items={[
           { label: "Accueil", href: "/" },
-          { label: "Blog", href: "/blog" },
+          { label: "Blog", href: "/blog/" },
           { label: article.title },
         ]}
       />
@@ -97,7 +97,7 @@ const BlogArticlePage = () => {
       <main className="pb-16">
         <div className="container mx-auto px-4 md:px-8 max-w-3xl">
           <Link
-            to="/blog"
+            to="/blog/"
             className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors mb-8 mt-6"
           >
             <ArrowLeft size={16} />
@@ -132,7 +132,7 @@ const BlogArticlePage = () => {
               />
               <div className="text-sm">
                 <Link
-                  to="/a-propos"
+                  to="/a-propos/"
                   className="font-bold text-foreground hover:underline"
                 >
                   Par Imad — Cofondateur de Noory
@@ -244,7 +244,7 @@ const BlogArticlePage = () => {
                 {otherArticles.map((a) => (
                   <Link
                     key={a.slug}
-                    to={`/blog/${a.slug}`}
+                    to={`/blog/${a.slug}/`}
                     className="bg-card border border-border rounded-2xl p-5 hover:shadow-md transition-all flex flex-col"
                   >
                     <h4 className="text-sm font-bold text-foreground mb-2 leading-snug">

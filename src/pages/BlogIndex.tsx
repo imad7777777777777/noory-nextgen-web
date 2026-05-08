@@ -13,7 +13,7 @@ const gradientMap: Record<string, string> = {
   "argent-et-emotions-comprendre-le-lien": "from-rose-pastel to-sky-pastel",
   "depense-plaisir-sans-culpabiliser": "from-rose-pastel to-emerald-pastel",
   "culpabilite-argent-depenser": "from-rose-pastel to-amber-pastel",
-  "depenses-impulsives-comment-arreter": "from-rose-pastel to-sky-pastel",
+  "comment-arreter-de-depenser-impulsivement": "from-rose-pastel to-sky-pastel",
   "anxiete-financiere-calmer": "from-rose-pastel to-amber-pastel",
   "arreter-comparer-finances-reseaux": "from-rose-pastel to-emerald-pastel",
   "relation-saine-argent": "from-rose-pastel to-emerald-pastel",
@@ -22,7 +22,7 @@ const gradientMap: Record<string, string> = {
   "no-buy-challenge-comment-faire": "from-emerald-pastel to-amber-pastel",
   "budget-pour-les-nuls": "from-emerald-pastel to-rose-pastel",
   "pourquoi-je-depense-tout-mon-salaire": "from-emerald-pastel to-sky-pastel",
-  "epargner-petit-salaire": "from-emerald-pastel to-amber-pastel",
+  "epargner-petit-salaire-methodes-concretes": "from-emerald-pastel to-amber-pastel",
   "premier-salaire-quoi-faire": "from-emerald-pastel to-rose-pastel",
   "methode-enveloppes-budget": "from-emerald-pastel to-sky-pastel",
   "regle-50-30-20-explication": "from-emerald-pastel to-amber-pastel",
@@ -62,10 +62,10 @@ const iconMap: Record<string, string> = {
   "argent-et-emotions-comprendre-le-lien": "💛",
   "couple-et-argent-eviter-les-disputes": "💑",
   "depense-plaisir-sans-culpabiliser": "🎁",
-  "depenses-impulsives-comment-arreter": "⚡",
+  "comment-arreter-de-depenser-impulsivement": "⚡",
   "gerer-son-argent-sans-stress": "🧘",
   "profil-financier-psychologie-argent": "🧩",
-  "epargner-petit-salaire": "🐷",
+  "epargner-petit-salaire-methodes-concretes": "🐷",
   "culpabilite-argent-depenser": "💛",
   "investir-debutant-peur": "📈",
   "premier-salaire-quoi-faire": "🎓",
@@ -97,7 +97,7 @@ const categoryMap: Record<string, Category[]> = {
   "argent-et-emotions-comprendre-le-lien": ["emotions"],
   "depense-plaisir-sans-culpabiliser": ["emotions"],
   "culpabilite-argent-depenser": ["emotions"],
-  "depenses-impulsives-comment-arreter": ["emotions"],
+  "comment-arreter-de-depenser-impulsivement": ["emotions"],
   "anxiete-financiere-calmer": ["emotions"],
   "arreter-comparer-finances-reseaux": ["emotions"],
   "relation-saine-argent": ["emotions"],
@@ -105,7 +105,7 @@ const categoryMap: Record<string, Category[]> = {
   "no-buy-challenge-comment-faire": ["budget"],
   "budget-pour-les-nuls": ["budget"],
   "pourquoi-je-depense-tout-mon-salaire": ["budget"],
-  "epargner-petit-salaire": ["budget"],
+  "epargner-petit-salaire-methodes-concretes": ["budget"],
   "premier-salaire-quoi-faire": ["budget"],
   "methode-enveloppes-budget": ["budget"],
   "regle-50-30-20-explication": ["budget"],
@@ -225,7 +225,7 @@ const BlogIndex = () => {
             {filteredArticles.map((article) => (
               <Link
                 key={article.slug}
-                to={`/blog/${article.slug}`}
+                to={`/blog/${article.slug}/`}
                 className="block bg-card border border-border rounded-2xl overflow-hidden hover:shadow-md hover:scale-[1.01] transition-all"
               >
                 <div className={`h-40 bg-gradient-to-br ${gradientMap[article.slug] || "from-emerald-pastel to-amber-pastel"} flex items-center justify-center relative`}>

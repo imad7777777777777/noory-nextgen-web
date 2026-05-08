@@ -11,8 +11,8 @@ const navLinks = [
   { label: "Méthode", href: "/#methode" },
   { label: "L'app", href: "/#app" },
   { label: "Pour qui", href: "/#pour-qui" },
-  { label: "Blog", href: "/blog" },
-  { label: "Quiz", href: "/quiz" },
+  { label: "Blog", href: "/blog/" },
+  { label: "Quiz", href: "/quiz/" },
 ];
 
 const Navbar = () => {

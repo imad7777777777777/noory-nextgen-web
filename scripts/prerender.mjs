@@ -24,10 +24,8 @@ const routes = [
   "/blog/objectif-financier-comment-le-definir",
   "/blog/relation-saine-argent",
   "/blog/premiere-paie-5-reflexes",
-  "/blog/depenses-impulsives-comment-arreter",
   "/blog/gerer-son-argent-sans-stress",
   "/blog/profil-financier-psychologie-argent",
-  "/blog/epargner-petit-salaire",
   "/blog/culpabilite-argent-depenser",
   "/blog/investir-debutant-peur",
   "/blog/j-achete-quand-je-suis-triste",
@@ -62,6 +60,37 @@ const routes = [
   "/profil/batisseur-bloque",
   "/profil/investisseur-paralyse",
 ];
+
+// Old slug → new slug. Generates a static HTML stub at the old path that
+// redirects to the new one (meta refresh + canonical). GitHub Pages can't do
+// 301s server-side, so this is the closest equivalent for googlebot.
+const redirects = {
+  "/blog/depenses-impulsives-comment-arreter":
+    "/blog/comment-arreter-de-depenser-impulsivement/",
+  "/blog/epargner-petit-salaire":
+    "/blog/epargner-petit-salaire-methodes-concretes/",
+};
+
+const BASE = "https://noory.io";
+
+function redirectStubHtml(target) {
+  const absolute = `${BASE}${target}`;
+  return `<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirection — Noory</title>
+    <link rel="canonical" href="${absolute}" />
+    <meta http-equiv="refresh" content="0; url=${target}" />
+    <meta name="robots" content="noindex,follow" />
+    <script>window.location.replace(${JSON.stringify(target)});</script>
+  </head>
+  <body>
+    <p>Cet article a été déplacé. <a href="${target}">Cliquer ici si la redirection ne fonctionne pas.</a></p>
+  </body>
+</html>
+`;
+}
 
 // Simple static file server for dist/
 function startServer() {
@@ -146,6 +175,18 @@ async function prerender() {
 
   await browser.close();
   server.close();
+
+  // Emit redirect stubs at old paths (meta refresh + canonical to new URL).
+  let redirectCount = 0;
+  for (const [from, to] of Object.entries(redirects)) {
+    const outDir = join(DIST, ...from.split("/").filter(Boolean));
+    mkdirSync(outDir, { recursive: true });
+    writeFileSync(join(outDir, "index.html"), redirectStubHtml(to), "utf-8");
+    redirectCount++;
+    console.log(`  ↪️   ${from} → ${to}`);
+  }
+
+  console.log(`Redirect stubs: ${redirectCount}`);
 
   console.log(
     `\nDone: ${success} prerendered, ${failed} failed out of ${routes.length} routes.`

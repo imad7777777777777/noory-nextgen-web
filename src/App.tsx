@@ -1,5 +1,5 @@
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
 import { lazy, Suspense } from "react";
 import { Toaster as Sonner } from "@/components/ui/sonner";
 import { Toaster } from "@/components/ui/toaster";
@@ -32,6 +32,14 @@ const App = () => (
           <Routes>
             <Route path="/" element={<Index />} />
             <Route path="/blog" element={<BlogIndex />} />
+            <Route
+              path="/blog/depenses-impulsives-comment-arreter"
+              element={<Navigate to="/blog/comment-arreter-de-depenser-impulsivement/" replace />}
+            />
+            <Route
+              path="/blog/epargner-petit-salaire"
+              element={<Navigate to="/blog/epargner-petit-salaire-methodes-concretes/" replace />}
+            />
             <Route path="/blog/:slug" element={<BlogArticle />} />
             <Route path="/profil/:slug" element={<ProfilePage />} />
             <Route path="/quiz" element={<QuizPage />} />

@@ -221,7 +221,7 @@ const FaqPage = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">
               <Link
-                to="/quiz"
+                to="/quiz/"
                 className="inline-flex items-center justify-center px-6 py-3 rounded-full bg-secondary text-foreground font-medium hover:bg-secondary/80 transition-colors"
               >
                 Fais le quiz

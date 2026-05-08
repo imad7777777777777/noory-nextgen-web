@@ -169,7 +169,7 @@ function ResultScreen({
 
       <div className="flex flex-col items-center gap-3">
         <Link
-          to={`/profil/${result.slug}`}
+          to={`/profil/${result.slug}/`}
           className="text-sm text-primary hover:underline"
         >
           Voir le détail du profil {result.name}

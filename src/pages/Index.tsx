@@ -19,8 +19,8 @@ import Footer from "@/components/Footer";
 
 const Index = () => {
   useSEO({
-    title: "Noory — Coaching financier comportemental | Gère ton argent sans culpabilité",
-    description: "Découvre ton profil financier et suis 28 jours de coaching adapté à ta psychologie. Micro-actions quotidiennes, zéro jugement. Gratuit 7 jours sur iPhone.",
+    title: "Coaching financier comportemental — Quiz profil & app",
+    description: "Comprends pourquoi tu gères ton argent comme tu le fais. Quiz de profil financier + 28 jours de coaching. Zéro jugement. Gratuit 7 jours sur iPhone.",
     url: "/",
     jsonLd: {
       "@context": "https://schema.org",

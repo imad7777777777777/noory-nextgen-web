@@ -36,9 +36,9 @@ export const blogArticles: BlogArticle[] = [
       "finance comportementale",
     ],
     relatedSlugs: [
-      "depenses-impulsives-comment-arreter",
       "j-achete-quand-je-suis-triste",
       "no-buy-challenge-comment-faire",
+      "argent-et-emotions-comprendre-le-lien",
     ],
     content: `## Pourquoi la volonté ne suffit jamais
 
@@ -59,8 +59,6 @@ Pour tout achat non essentiel au-dessus d'un montant fixé à l'avance (10€, 2
 Tu mets l'objet dans ton panier. Tu fermes l'onglet. Tu écris dans ton téléphone : "envie de X — décision demain à la même heure".
 
 Pourquoi ça marche : en finance comportementale, on parle de "biais du présent". Ton cerveau surévalue énormément la satisfaction immédiate et sous-évalue les conséquences futures. La pause 24h donne au Système 2 le temps de revenir dans la course. Dans environ 70 % des cas, l'envie disparaît d'elle-même — parce qu'elle n'était pas un besoin, juste une émotion.
-
-Si tu veux creuser ce mécanisme, on en parle en détail dans [Dépenses impulsives : comment arrêter le cycle sans se priver](/blog/depenses-impulsives-comment-arreter).
 
 ## Technique 2 — L'enveloppe cash adaptée à 2025
 
@@ -147,9 +145,9 @@ Si tu veux tester quelle technique correspond le mieux à ton profil financier, 
       "épargne 50 euros par mois",
     ],
     relatedSlugs: [
-      "epargner-petit-salaire",
       "defi-epargne-52-semaines",
       "epargne-automatique-comment-mettre-en-place",
+      "epargner-quand-on-a-pas-la-motivation",
     ],
     content: `## La réalité que personne ne te dit
 
@@ -686,7 +684,7 @@ L'objectif n'est pas de faire le défi toute ta vie. C'est de transformer une ha
 
 Le parcours 28 jours de Noory intègre cette logique de progression douce. On ne te demande pas de tout faire d'un coup. On commence minuscule, et on augmente progressivement — exactement comme le défi 52 semaines, mais avec un accompagnement humain et des rappels bienveillants.
 
-Si épargner te semble impossible quand tu n'as pas la motivation, lis [Épargner quand on n'a pas la motivation](/blog/epargner-quand-on-a-pas-la-motivation). Et si tu penses que ton salaire est trop petit pour faire le défi, découvre [Comment épargner avec un petit salaire](/blog/epargner-petit-salaire).
+Si épargner te semble impossible quand tu n'as pas la motivation, lis [Épargner quand on n'a pas la motivation](/blog/epargner-quand-on-a-pas-la-motivation). Et si tu penses que ton salaire est trop petit pour faire le défi, découvre [Comment épargner avec un petit salaire](/blog/epargner-petit-salaire-methodes-concretes/).
 
 ## Jour 1, c'est maintenant
 
@@ -1602,84 +1600,6 @@ Total : 35 minutes. Ces 35 minutes, c'est l'investissement le plus rentable de t
 *Noory t'aide à poser les bons réflexes dès ton premier salaire. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
   },
   {
-    slug: "depenses-impulsives-comment-arreter",
-    title: "Dépenses impulsives : comment arrêter le cycle sans se priver",
-    metaTitle: "Dépenses impulsives : comment arrêter le cycle sans se priver | Noory",
-    metaDescription: "Découvre pourquoi tu achètes sous émotion et comment briser le cycle des achats compulsifs avec la méthode Noory. Sans privation, sans culpabilité.",
-    date: "2026-04-12",
-    dateModified: "2026-04-26",
-    readTime: "6 min",
-    intro: "Tu connais cette sensation : tu achètes quelque chose dont tu n'avais pas besoin, et 10 minutes après, tu regrettes. Voici comment en sortir.",
-    keywords: ["dépenses impulsives", "achats compulsifs", "arrêter de dépenser"],
-    content: `## Pourquoi on achète sous émotion
-
-On aimerait croire que chaque achat est un choix rationnel. Mais la réalité est bien différente. La majorité de nos dépenses impulsives ne viennent pas d'un besoin réel — elles viennent d'une émotion qu'on essaie de calmer.
-
-Tu as eu une journée difficile au travail. Tu scrolles sur ton téléphone. Tu vois une pub. Tu cliques. Tu achètes. Pendant un instant, tu te sens mieux. Et puis la culpabilité arrive. Ce schéma, des millions de personnes le vivent chaque semaine. Et ce n'est pas un manque de volonté — c'est un mécanisme émotionnel profond.
-
-La recherche en finance comportementale montre que nos décisions financières sont pilotées par notre état émotionnel bien plus que par notre logique. Quand on est fatigué, stressé ou en manque d'estime, le cerveau cherche une récompense rapide. L'achat en est une.
-
-## Les 3 déclencheurs principaux
-
-### Le stress
-
-C'est le déclencheur le plus fréquent. Quand on est sous pression — au travail, dans sa vie personnelle, dans ses finances — le cerveau cherche un soulagement immédiat. L'achat crée une micro-dose de dopamine qui procure un sentiment éphémère de contrôle. "Au moins ça, je l'ai choisi."
-
-Le problème, c'est que ce soulagement dure quelques minutes. Et il est souvent suivi d'un stress supplémentaire : celui d'avoir dépensé.
-
-### L'ennui
-
-On en parle moins, mais l'ennui est un déclencheur puissant. Quand tu n'as rien à faire, quand tu te sens vide, quand ta journée manque de stimulation — ton cerveau cherche quelque chose à faire. Et acheter en ligne, c'est facile, accessible, et immédiat.
-
-Le soir, ton cerveau est fatigué : ta capacité à résister aux impulsions baisse en fin de journée. La recherche en psychologie cognitive parle de "fatigue décisionnelle" (decision fatigue) — plus tu as pris de décisions dans la journée, moins tu as de ressources mentales pour résister à un achat impulsif ([Baumeister & Vohs, 2007](https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-9004.2007.00001.x)). C'est pour ça que les apps de e-commerce sont conçues pour te capter exactement à ce moment-là.
-
-### La comparaison sociale
-
-Les réseaux sociaux amplifient un phénomène vieux comme le monde : se comparer aux autres. Quand tu vois quelqu'un afficher un style de vie, un vêtement, un voyage — ton cerveau interprète ça comme un signal de "retard". Et pour compenser, tu achètes.
-
-Ce n'est même pas conscient. C'est une réponse automatique. Et les algorithmes sont conçus pour te pousser vers l'achat juste après t'avoir montré quelque chose qui te fait te sentir en décalage.
-
-Si tu te reconnais dans ce schéma — acheter pour combler une émotion — tu n'es pas seul·e. On en parle en détail dans [J'achète quand je suis triste : comprendre et casser le cycle](/blog/j-achete-quand-je-suis-triste).
-
-## La technique de la pause : le SOS achat
-
-Chez Noory, on a créé un outil simple mais puissant : le **SOS achat**. C'est un bouton que tu presses quand tu sens l'envie monter. Il ne te dit pas "n'achète pas". Il te pose 3 questions :
-
-1. **De quoi j'ai vraiment besoin là, maintenant ?** (Souvent la réponse n'est pas l'objet, mais du repos, de la connexion, ou un moment de calme.)
-2. **Est-ce que cet achat me rapproche de mon objectif du mois ?** (Ça remet la perspective.)
-3. **Est-ce que dans 48h, j'y penserai encore ?** (La majorité des envies disparaissent en 24 à 48h.)
-
-Ce n'est pas de la privation. C'est une pause. Un espace entre l'envie et l'acte. Et cet espace, c'est là que la liberté commence.
-
-C'est exactement ce que Noory t'aide à faire au quotidien — créer cet espace entre l'émotion et la décision, pour que chaque achat devienne un vrai choix.
-
-## Remplacer sans se priver
-
-L'erreur classique des méthodes anti-dépenses, c'est de vouloir tout couper. "Arrête d'acheter des cafés dehors." "Annule tous tes abonnements." "Ne sors plus le week-end."
-
-Ça ne marche pas. Parce que tu ne traites pas la cause — tu supprimes juste le symptôme. Et le symptôme revient toujours, sous une autre forme.
-
-L'approche Noory est différente. On ne t'enlève rien. On te propose des **remplacements** :
-
-- Au lieu d'acheter sous stress → un exercice de respiration de 2 minutes dans l'app
-- Au lieu d'acheter par ennui → un défi du jour qui stimule ton cerveau autrement
-- Au lieu d'acheter par comparaison → un rappel de tes propres progrès (et ils sont réels)
-
-Le but n'est pas de devenir ascète. C'est de retrouver du choix. De passer de "je subis" à "je décide".
-
-Tu veux aller plus loin ? Découvre le [No Buy Challenge](/blog/no-buy-challenge-comment-faire) pour tester ta capacité à résister aux achats non essentiels. Et si tu veux comprendre le lien profond entre tes émotions et tes finances, lis [Argent et émotions : comprendre le lien](/blog/argent-et-emotions-comprendre-le-lien).
-
-## Le changement commence petit
-
-Tu n'as pas besoin de tout changer demain. Tu as besoin d'un premier geste. Ouvre Noory, fais le quiz de profil, et découvre ce qui déclenche vraiment tes achats impulsifs. En 2 minutes, tu auras une photo claire de ton rapport à l'argent.
-
-Et à partir de là, Noory t'accompagne — un jour à la fois, un choix à la fois.
-
----
-
-*Noory est une app de coaching financier comportemental. 28 jours pour transformer ton rapport à l'argent, sans culpabilité. [Disponible gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
-  },
-  {
     slug: "gerer-son-argent-sans-stress",
     title: "Gérer son argent sans stress : 5 habitudes douces qui changent tout",
     metaTitle: "Gérer son argent sans stress : 5 habitudes douces | Noory",
@@ -1764,8 +1684,8 @@ Noory est conçu exactement pour ça : t'accompagner un geste à la fois, un jou
   {
     slug: "profil-financier-psychologie-argent",
     title: "Quel est ton profil financier ? Ce que ta psychologie dit de ton rapport à l'argent",
-    metaTitle: "Profil financier : que dit ta psychologie de ton rapport à l'argent ? | Noory",
-    metaDescription: "Découvre les 5 profils financiers comportementaux et comprends enfin pourquoi tu gères ton argent comme tu le fais. Quiz gratuit dans l'app Noory.",
+    metaTitle: "Les 5 profils financiers : lequel es-tu ? — Noory",
+    metaDescription: "Quêteur, Navigateur, Dépensier, Bâtisseur, Investisseur — découvre quel profil financier explique ta façon de gérer l'argent. Quiz gratuit.",
     date: "2026-04-10",
     readTime: "8 min",
     intro: "On n'a pas tous le même rapport à l'argent. Découvre les 5 profils financiers comportementaux et ce qu'ils révèlent de ta psychologie.",
@@ -1860,76 +1780,6 @@ Pas de conseils génériques. Pas de "fais un budget". Un accompagnement qui par
 ---
 
 *Fais le quiz et découvre ton profil financier. C'est gratuit, ça prend 2 minutes. [Commence ici.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
-  },
-  {
-    slug: "epargner-petit-salaire",
-    title: "Comment épargner avec un petit salaire (même 50€/mois)",
-    metaTitle: "Épargner avec un petit salaire : méthode concrète même avec 50€/mois | Noory",
-    metaDescription: "Tu penses qu'il faut gagner beaucoup pour épargner ? Faux. Voici une méthode concrète pour mettre de côté même avec un petit salaire.",
-    date: "2026-04-10",
-    dateModified: "2026-04-27",
-    readTime: "6 min",
-    intro: "\"Je ne gagne pas assez pour épargner.\" C'est la phrase la plus répandue — et la plus fausse. Voici comment commencer, même avec 50€ par mois.",
-    keywords: ["épargner petit salaire", "mettre de côté", "économiser peu de revenus"],
-    content: `## Le mythe du "pas assez"
-
-"Quand je gagnerai plus, je commencerai à épargner." Si tu attends ce moment, tu attendras longtemps. Parce que le problème n'est presque jamais le montant — c'est le **mécanisme**.
-
-La logique de l'épargne automatique tient en une phrase : la régularité bat le montant. Une personne qui met 50€ de côté chaque mois pendant 10 ans accumule plus que quelqu'un qui fait un gros virement occasionnel quand il "y pense" — parce que les rendements composés et la constance du geste font le travail à ta place.
-
-Le vrai obstacle, ce n'est pas ton salaire. C'est la croyance que "ça ne sert à rien de mettre si peu". Mais 20€ par mois, c'est 240€ par an. En 5 ans, c'est 1 200€. Avec des intérêts, plus. Et surtout, c'est une **identité** : tu deviens quelqu'un qui épargne. Et ça change tout.
-
-## La méthode des enveloppes simplifiée
-
-La méthode des enveloppes est vieille comme le monde, mais elle marche toujours. Le principe : dès que tu reçois ton salaire, tu répartis l'argent en catégories. Pas 15 catégories — 3 suffisent :
-
-1. **L'essentiel** : loyer, courses, transport, factures. Ce qui ne bouge pas.
-2. **Le plaisir** : sorties, achats, loisirs. Ce qui rend la vie agréable.
-3. **L'avenir** : épargne, même minuscule. Ce qui te rend plus solide.
-
-La clé, c'est de décider **à l'avance** combien va dans chaque enveloppe. Pas à la fin du mois quand il ne reste rien — au début, quand tu as encore le choix.
-
-Noory t'aide à faire exactement ça : définir tes enveloppes en 2 minutes, et te rappeler chaque jour où tu en es. Pour un guide complet sur cette méthode, lis [Budget pour les nuls](/blog/budget-pour-les-nuls).
-
-C'est exactement ce que Noory t'aide à faire au quotidien — structurer tes finances en douceur, un geste à la fois.
-
-## Automatiser 5% dès le 1er du mois
-
-Voici la règle la plus simple et la plus puissante : le jour de ton salaire, 5% part automatiquement sur un compte d'épargne. Pas 20%. Pas 10%. 5%.
-
-Sur un salaire de 1 500€, c'est 75€. Sur 1 200€, c'est 60€. Sur 1 000€, c'est 50€. C'est un montant que tu ne sentiras presque pas — mais qui s'accumule silencieusement.
-
-Le secret, c'est l'automatisation. Si c'est automatique, tu n'as pas besoin de volonté. Tu n'as pas besoin d'y penser. Ça se fait. Et au bout de 3 mois, tu as une petite réserve. Au bout d'un an, tu as un coussin. Et surtout, tu as confiance.
-
-## Couper 3 abonnements inutiles
-
-Combien d'abonnements tu paies chaque mois sans les utiliser ? La moyenne en France est de 5 abonnements actifs. Et au moins 2 sont sous-utilisés ou oubliés.
-
-Fais l'exercice maintenant : regarde tes prélèvements du mois dernier. Est-ce qu'il y a un service que tu n'as pas utilisé depuis plus de 3 semaines ? Annule-le. Tu pourras toujours le reprendre.
-
-En coupant 2 à 3 abonnements inutiles, tu libères souvent entre 15€ et 40€ par mois. C'est de l'argent que tu dépensais sans même le savoir. Et c'est de l'argent qui peut aller directement dans ton épargne.
-
-Noory t'aide à identifier ces fuites invisibles dès la première semaine de ton parcours. Si tu te demandes souvent pourquoi tu finis le mois à zéro, lis aussi [Pourquoi je dépense tout mon salaire](/blog/pourquoi-je-depense-tout-mon-salaire).
-
-## L'épargne projet vs l'épargne vague
-
-Voici un secret que les banques ne te disent pas : **on épargne mieux quand on sait pourquoi**.
-
-"Mettre de côté" est vague. "Mettre de côté pour un voyage au Japon en septembre" est concret. "Épargner" est abstrait. "Constituer 1 000€ de coussin de sécurité en 8 mois" est un objectif.
-
-Une [étude de terrain de Karlan et al. (2016)](https://poverty-action.org/sites/default/files/publications/getting-to-the-top-of-mind.pdf) a montré que des rappels d'épargne mentionnant explicitement l'objectif sont **deux fois plus efficaces** que des rappels génériques. Parce qu'un objectif a du sens. Parce qu'il te motive. Parce que tu vois le progrès.
-
-C'est exactement ce que Noory te propose : des **objectifs d'épargne concrets**, avec un montant cible, une deadline, et un suivi visuel de ta progression. Pas un compteur abstrait — un projet qui te parle.
-
-## Commencer maintenant
-
-Tu n'as pas besoin de gagner plus pour commencer. Tu as besoin d'un premier geste. Ouvre Noory, définis ton premier objectif d'épargne — même 30€ par mois — et laisse l'app t'accompagner.
-
-En 28 jours, tu auras une habitude installée. Et tu seras surpris·e de ce que même un petit montant peut construire quand il est régulier. Et si la motivation te manque, lis [Épargner quand on n'a pas la motivation](/blog/epargner-quand-on-a-pas-la-motivation). Pour un démarrage ludique à partir de 1€, lance-toi dans le [défi épargne 52 semaines](/blog/defi-epargne-52-semaines) : tu finis l'année avec 1 378€.
-
----
-
-*Noory t'aide à épargner à ton rythme, sans pression. Commence gratuitement pendant 7 jours. [Télécharge sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
   },
   {
     slug: "culpabilite-argent-depenser",
@@ -2044,7 +1894,7 @@ Avant de mettre un euro dans quoi que ce soit, réponds à ces 3 questions. Pas 
 
 Un coussin de sécurité, c'est 2 à 3 mois de dépenses essentielles sur un compte accessible. Pas plus. Si tu ne l'as pas encore, c'est ta **première priorité**. Avant l'investissement, il y a la sécurité.
 
-Noory t'aide à construire ce coussin en premier, avec un objectif d'épargne dédié et un suivi quotidien. Pour savoir comment, lis [Comment épargner avec un petit salaire](/blog/epargner-petit-salaire).
+Noory t'aide à construire ce coussin en premier, avec un objectif d'épargne dédié et un suivi quotidien. Pour savoir comment, lis [Comment épargner avec un petit salaire](/blog/epargner-petit-salaire-methodes-concretes/).
 
 ### 2. Est-ce que cet argent, je peux ne pas y toucher pendant 5 ans ?
 
@@ -2193,8 +2043,8 @@ Tu peux aussi lire notre article sur [la culpabilité financière et comment en 
   {
     slug: "charge-mentale-financiere",
     title: "La charge mentale financière : pourquoi l'argent t'épuise (et comment alléger)",
-    metaTitle: "Charge mentale financière : pourquoi l'argent t'épuise | Noory",
-    metaDescription: "Tu penses à l'argent en permanence et ça t'épuise ? Découvre ce qu'est la charge mentale financière et 4 actions concrètes pour l'alléger.",
+    metaTitle: "Charge mentale financière : 4 actions pour l'alléger",
+    metaDescription: "Tu penses à l'argent dès le réveil ? La charge mentale financière a un nom — voici 4 actions concrètes pour t'en libérer cette semaine.",
     date: "2026-04-07",
     dateModified: "2026-04-27",
     readTime: "7 min",
@@ -2345,7 +2195,7 @@ La question n'est pas "combien j'ai dépensé ?". C'est "**pourquoi** j'ai dépe
 
 C'est pour ça que les apps de budget classiques ne marchent pas longtemps. Elles te montrent des chiffres, mais elles ne t'aident pas à comprendre tes comportements. Noory fait le contraire : il t'aide à comprendre tes mécanismes, et les chiffres suivent.
 
-Découvre aussi notre [méthode budget pour les nuls](/blog/budget-pour-les-nuls) ou apprends à [épargner même avec un petit salaire](/blog/epargner-petit-salaire).
+Découvre aussi notre [méthode budget pour les nuls](/blog/budget-pour-les-nuls) ou apprends à [épargner même avec un petit salaire](/blog/epargner-petit-salaire-methodes-concretes/).
 
 ---
 
@@ -2491,7 +2341,7 @@ Le but d'un budget n'est pas de tout contrôler. C'est de s'assurer que ton arge
 
 Le budget n'est pas une punition. C'est un **miroir**. Il te montre si tes actions quotidiennes sont alignées avec ce qui compte pour toi.
 
-Découvre aussi [où passe ton argent chaque mois](/blog/ou-passe-mon-argent-chaque-mois), [comment épargner même avec un petit salaire](/blog/epargner-petit-salaire), ou [la méthode des enveloppes](/blog/methode-enveloppes-budget) pour structurer ton budget simplement. Et si tu veux juste commencer à suivre tes dépenses sans te noyer dans une appli compliquée, lis [Comment tracker ses dépenses simplement](/blog/tracker-ses-depenses-simplement).
+Découvre aussi [où passe ton argent chaque mois](/blog/ou-passe-mon-argent-chaque-mois), [comment épargner même avec un petit salaire](/blog/epargner-petit-salaire-methodes-concretes/), ou [la méthode des enveloppes](/blog/methode-enveloppes-budget) pour structurer ton budget simplement. Et si tu veux juste commencer à suivre tes dépenses sans te noyer dans une appli compliquée, lis [Comment tracker ses dépenses simplement](/blog/tracker-ses-depenses-simplement).
 
 ---
 
@@ -2622,7 +2472,7 @@ Le parcours Noory est conçu pour les gens qui ne sont pas motivés pour épargn
 
 Chaque jour, Noory te propose une micro-action concrète. Pas un virement de 500€. Un petit geste : noter une dépense, ajuster un objectif, célébrer un progrès. Et jour après jour, ces micro-gestes construisent une habitude durable.
 
-Si tu as des projets qui n'avancent pas, le profil [Bâtisseur Bloqué](/profil/batisseur-bloque) de Noory a un parcours de 28 jours pour toi. Découvre aussi nos [astuces pour épargner avec un petit salaire](/blog/epargner-petit-salaire).
+Si tu as des projets qui n'avancent pas, le profil [Bâtisseur Bloqué](/profil/batisseur-bloque) de Noory a un parcours de 28 jours pour toi. Découvre aussi nos [astuces pour épargner avec un petit salaire](/blog/epargner-petit-salaire-methodes-concretes/).
 
 ---
 
@@ -3199,7 +3049,7 @@ Ce n'est pas un hasard si tu dépenses plus en ligne qu'en magasin. C'est **con�
 
 En ligne, on dépense souvent plus qu'en magasin sans même s'en rendre compte. Trois mécaniques s'additionnent : l'absence de friction (pas de file d'attente, pas de portefeuille à sortir), les recommandations personnalisées qui suggèrent toujours plus, et le paiement masqué (carte enregistrée, Apple Pay) qui efface la « douleur de payer » identifiée par les recherches en finance comportementale ([Prelec & Loewenstein, 1998](https://www.cmu.edu/dietrich/sds/docs/loewenstein/redblack.pdf)). Et le soir entre 20h et 23h, ta capacité à résister chute — c'est le moment où la « fatigue décisionnelle » est maximale ([Baumeister & Vohs, 2007](https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-9004.2007.00001.x)). C'est exactement le créneau où les apps de e-commerce te poussent à acheter.
 
-Si tu te reconnais dans ce schéma, tu n'es pas seul·e. Le problème n'est pas ta volonté — c'est l'environnement digital qui est conçu pour la contourner. Si les achats impulsifs sont un sujet qui te parle, [Dépenses impulsives : comment arrêter le cycle](/blog/depenses-impulsives-comment-arreter) va plus en profondeur sur les mécanismes émotionnels en jeu.
+Si tu te reconnais dans ce schéma, tu n'es pas seul·e. Le problème n'est pas ta volonté — c'est l'environnement digital qui est conçu pour la contourner. Si les achats impulsifs sont un sujet qui te parle, [Dépenses impulsives : comment arrêter le cycle](/blog/comment-arreter-de-depenser-impulsivement/) va plus en profondeur sur les mécanismes émotionnels en jeu.
 
 ## Les dark patterns : ce que les sites ne veulent pas que tu saches
 
@@ -3346,7 +3196,7 @@ Pour ceux qui veulent une sérénité maximale — freelances, indépendants, ou
 
 **Le conseil Noory :** ne te focalise pas sur le montant final. Focalise-toi sur le **prochain palier**. Tu es à 0 ? Vise 500 €. Tu es à 500 ? Vise 1 000 €. Chaque palier franchi est une victoire — et ton stress diminue à chaque étape.
 
-Si tu te demandes comment épargner avec un petit salaire, [cet article](/blog/epargner-petit-salaire) est fait pour toi.
+Si tu te demandes comment épargner avec un petit salaire, [cet article](/blog/epargner-petit-salaire-methodes-concretes/) est fait pour toi.
 
 ## Où placer ton épargne de précaution ?
 
@@ -3516,8 +3366,8 @@ Tu n'as pas besoin de devenir un militant de la transparence financière. Tu as 
   {
     slug: "regle-50-30-20-explication",
     title: "La règle 50/30/20 : le budget le plus simple du monde (expliqué)",
-    metaTitle: "La règle 50/30/20 expliquée simplement : le budget le plus simple | Noory",
-    metaDescription: "Découvre la règle 50/30/20 : le budget le plus simple pour organiser tes finances. On t'explique comment l'appliquer, l'adapter, et quand la laisser tomber.",
+    metaTitle: "Règle 50/30/20 : la méthode + quand l'abandonner",
+    metaDescription: "50% besoins, 30% envies, 20% épargne. La méthode budget la plus simple — et les 3 cas où elle ne fonctionne pas pour toi. Exemples concrets.",
     date: "2026-04-10",
     readTime: "7 min",
     intro: "Tu entends parler de la règle 50/30/20 partout, mais tu ne sais pas vraiment comment l'appliquer ? Voici le guide le plus clair que tu trouveras.",
@@ -3768,7 +3618,7 @@ La comparaison sur les réseaux a des effets très concrets sur ton portefeuille
 
 **L'épargne sabotée** : chaque euro dépensé pour "faire comme les autres" est un euro qui ne va pas vers tes vrais objectifs. Et le plus cruel, c'est que ces achats de compensation ne te rendent même pas heureux. La satisfaction dure quelques heures, puis la prochaine comparaison arrive.
 
-Si tu reconnais ce schéma -- acheter pour combler une émotion déclenchée par les réseaux -- tu n'es pas seul. Ce mécanisme est au coeur de [Dépenses impulsives : comment arrêter le cycle](/blog/depenses-impulsives-comment-arreter).
+Si tu reconnais ce schéma -- acheter pour combler une émotion déclenchée par les réseaux -- tu n'es pas seul. Ce mécanisme est au coeur de [Dépenses impulsives : comment arrêter le cycle](/blog/comment-arreter-de-depenser-impulsivement/).
 
 ## 5 stratégies pour reprendre le contrôle
 

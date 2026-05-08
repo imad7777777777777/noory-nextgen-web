@@ -27,7 +27,7 @@ const ForWhoSection = () => {
           {audiences.map((a, i) => (
             <Link
               key={a.title}
-              to={`/profil/${a.slug}`}
+              to={`/profil/${a.slug}/`}
               className={`${pastelBgs[i]} border border-border/50 rounded-2xl p-6 hover:scale-[1.02] transition-transform block h-full`}
             >
               <span className="text-3xl mb-4 block">{a.emoji}</span>

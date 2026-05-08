@@ -57,7 +57,7 @@ const ProfileQuizSection = () => {
           {profileCards.map((p) => (
             <Link
               key={p.slug}
-              to={`/profil/${p.slug}`}
+              to={`/profil/${p.slug}/`}
               className={`${p.bg} border border-border/50 rounded-2xl p-6 hover:-translate-y-1 hover:shadow-lg transition-all duration-200 block`}
             >
               <span className="text-4xl mb-4 block">{p.emoji}</span>
@@ -67,7 +67,7 @@ const ProfileQuizSection = () => {
           ))}
 
           <Link
-            to="/quiz"
+            to="/quiz/"
             className="bg-card border-2 border-dashed border-primary/30 rounded-2xl p-6 hover:-translate-y-1 hover:shadow-lg hover:border-primary/50 transition-all duration-200 flex flex-col items-center justify-center text-center"
           >
             <span className="text-4xl mb-4 block">🎯</span>
