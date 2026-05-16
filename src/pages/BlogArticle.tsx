@@ -158,6 +158,65 @@ const BlogArticlePage = () => {
                 if (block.startsWith("---")) {
                   return <hr key={i} className="border-border my-10" />;
                 }
+                if (block.startsWith("|")) {
+                  const tableLines = block.split("\n").map((l) => l.trim()).filter(Boolean);
+                  if (tableLines.length >= 2 && /^\|[\s\-:|]+\|$/.test(tableLines[1])) {
+                    const parseCells = (line: string) =>
+                      line.replace(/^\|/, "").replace(/\|$/, "").split("|").map((c) => c.trim());
+                    const headers = parseCells(tableLines[0]);
+                    const bodyRows = tableLines.slice(2).map(parseCells);
+                    return (
+                      <div key={i} className="my-6 overflow-x-auto">
+                        <table className="w-full text-sm border-collapse">
+                          <thead>
+                            <tr className="border-b-2 border-border">
+                              {headers.map((h, j) => (
+                                <th key={j} className="text-left px-3 py-2 font-bold text-foreground">
+                                  {renderInlineMarkdown(h)}
+                                </th>
+                              ))}
+                            </tr>
+                          </thead>
+                          <tbody>
+                            {bodyRows.map((row, k) => (
+                              <tr key={k} className="border-b border-border/50">
+                                {row.map((cell, j) => (
+                                  <td key={j} className="px-3 py-2 align-top">
+                                    {renderInlineMarkdown(cell)}
+                                  </td>
+                                ))}
+                              </tr>
+                            ))}
+                          </tbody>
+                        </table>
+                      </div>
+                    );
+                  }
+                }
+                if (block.startsWith("> ")) {
+                  const lines = block.split("\n").map((l) => l.replace(/^>\s?/, ""));
+                  const isCta = lines[0].startsWith("**");
+                  if (isCta) {
+                    return (
+                      <aside key={i} className="my-8 p-5 bg-secondary/60 border-l-4 border-primary rounded-r-2xl space-y-1">
+                        {lines.map((line, j) => (
+                          <p key={j} className={j === 0 ? "font-bold text-foreground" : "text-sm text-foreground/80 leading-relaxed"}>
+                            {renderInlineMarkdown(line)}
+                          </p>
+                        ))}
+                      </aside>
+                    );
+                  }
+                  return (
+                    <blockquote key={i} className="my-6 pl-4 border-l-4 border-primary/30 italic text-foreground/85 space-y-2">
+                      {lines.map((line, j) => (
+                        <p key={j} className="text-base leading-relaxed">
+                          {renderInlineMarkdown(line)}
+                        </p>
+                      ))}
+                    </blockquote>
+                  );
+                }
                 if (block.startsWith("- ")) {
                   const items = block.split("\n").filter(l => l.startsWith("- "));
                   return (

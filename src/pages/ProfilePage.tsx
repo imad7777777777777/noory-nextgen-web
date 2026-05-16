@@ -99,6 +99,24 @@ const ProfilePage = () => {
             </ul>
           </div>
 
+          {/* Self-diagnostic test — depensier-emotionnel only */}
+          {profile.slug === "depensier-emotionnel" && (
+            <Link
+              to="/blog/test-depensier-emotionnel/"
+              className="block mb-12 p-6 bg-secondary/60 border-l-4 border-primary rounded-r-2xl hover:bg-secondary/80 transition-colors"
+            >
+              <p className="font-display font-bold text-foreground mb-1">
+                Test : es-tu vraiment dépensière émotionnelle ?
+              </p>
+              <p className="text-sm text-muted-foreground mb-2 leading-relaxed">
+                5 questions pour confirmer (ou pas) que ce profil te correspond, avec un diagnostic personnalisé selon ton score.
+              </p>
+              <span className="text-sm text-primary font-bold">
+                Faire le test →
+              </span>
+            </Link>
+          )}
+
           {/* Ce que Noory te propose */}
           <div className="mb-12">
             <h2 className="text-xl font-display font-bold text-foreground mb-4">Ce que Noory te propose</h2>

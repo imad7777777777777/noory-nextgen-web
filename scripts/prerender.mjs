@@ -11,6 +11,8 @@ const PORT = 4510;
 const routes = [
   "/",
   "/blog",
+  "/blog/test-depensier-emotionnel",
+  "/blog/quel-salaire-pour-epargner-500-par-mois",
   "/blog/comment-arreter-de-depenser-impulsivement",
   "/blog/epargner-petit-salaire-methodes-concretes",
   "/blog/finance-comportementale-guide-debutant",

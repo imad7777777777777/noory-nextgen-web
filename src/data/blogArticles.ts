@@ -21,6 +21,438 @@ export interface BlogArticle {
 
 export const blogArticles: BlogArticle[] = [
   {
+    slug: "test-depensier-emotionnel",
+    title: "Test dépensier émotionnel : 5 questions pour savoir si c'est ton cas",
+    metaTitle: "Test dépensier émotionnel : 5 questions pour savoir si c'est ton cas | Noory",
+    metaDescription: "Tu dépenses quand t'es stressée, triste ou fatiguée ? Réponds à 5 questions pour savoir si t'es vraiment dépensière émotionnelle (et quoi faire si oui).",
+    date: "2026-05-15",
+    readTime: "6 min",
+    intro: "Tu te retrouves avec un truc dans ton panier en te demandant \"mais pourquoi j'ai acheté ça ?\". Ce n'est pas un manque de volonté — c'est un signal. 5 questions pour savoir si t'es vraiment dépensière émotionnelle, et quoi faire si oui.",
+    keywords: [
+      "dépensier émotionnel test",
+      "achats émotionnels",
+      "achat compulsif test",
+      "dépenses impulsives",
+      "comment savoir si je suis dépensière",
+    ],
+    relatedSlugs: [
+      "comment-arreter-de-depenser-impulsivement",
+      "j-achete-quand-je-suis-triste",
+      "profil-financier-psychologie-argent",
+    ],
+    content: `Tu sais ce moment où tu te retrouves avec un nouveau truc dans ton panier Vinted ou Sephora, et tu te demandes "mais POURQUOI j'ai acheté ça ?".
+
+Spoiler : ce n'est pas un manque de volonté. C'est un signal.
+
+Une partie des gens dépensent quand leur cerveau a besoin de gérer une émotion qu'il ne sait pas traiter autrement. Ce n'est pas un défaut de caractère — c'est un pattern psychologique très étudié, qu'on appelle "achat émotionnel". Si tu te reconnais, il y a une bonne nouvelle : une fois identifié, il devient possible de le désactiver.
+
+Ce test de 5 questions t'aide à savoir si tu corresponds vraiment au profil "Dépensier Émotionnel" — ou si ton rapport à l'argent est juste teinté d'émotions sans en être dépendant.
+
+---
+
+## Comment fonctionne le test
+
+Réponds honnêtement aux 5 questions ci-dessous. Pour chaque question, note ta réponse :
+
+- **A = Jamais** (0 point)
+- **B = Parfois** (1 point)
+- **C = Souvent** (2 points)
+- **D = Presque toujours** (3 points)
+
+À la fin, additionne tes points et compare au diagnostic.
+
+---
+
+## Question 1 — Le contexte émotionnel
+
+> Quand tu fais un achat non-essentiel (vêtement, déco, snack, abonnement), peux-tu nommer ce que tu ressentais juste avant ? Ennui, stress, tristesse, frustration, sentiment de "mériter" quelque chose, fatigue ?
+
+Si tu réponds "non, j'achète quand j'ai besoin" → A.
+
+Si "parfois je remarque que je suis fatiguée" → B.
+
+Si "souvent oui, je vois bien que c'est lié à mon humeur" → C.
+
+Si "à chaque fois — je peux nommer l'émotion précisément" → D.
+
+**Pourquoi cette question** : les dépensiers non-émotionnels achètent en fonction de **besoins concrets**. Les dépensiers émotionnels achètent en réaction à un **état interne**. Cette distinction est la clé.
+
+---
+
+## Question 2 — Le moment de la journée
+
+> Tes achats non-essentiels arrivent-ils à des moments précis et récurrents ? Le soir après le travail, le dimanche soir avant la semaine, juste après un appel difficile, en fin de cycle hormonal, le lundi matin ?
+
+Si tu réponds "non, c'est aléatoire" → A.
+
+Si "je ne sais pas, jamais regardé" → B.
+
+Si "oui, j'ai remarqué un pattern le soir / week-end" → C.
+
+Si "c'est tellement régulier que je pourrais prédire à l'avance" → D.
+
+**Pourquoi cette question** : les achats émotionnels sont déclenchés par des **moments de baisse d'énergie ou de tension**. Si tu peux prédire le moment, c'est qu'il y a un déclencheur émotionnel sous-jacent.
+
+---
+
+## Question 3 — Le sentiment juste après
+
+> Dans la minute qui suit un achat non-essentiel, qu'est-ce que tu ressens ?
+
+Si tu réponds "satisfaction d'avoir trouvé un bon prix" → A.
+
+Si "soulagement, comme un mini-cadeau" → B.
+
+Si "petit shoot de plaisir mais déjà mélangé avec de la culpabilité" → C.
+
+Si "culpabilité immédiate, je regrette presque tout de suite" → D.
+
+**Pourquoi cette question** : la **chute émotionnelle post-achat** est la signature du dépensier émotionnel. Plus la culpabilité arrive vite, plus l'achat servait à compenser une émotion qu'il ne réglait pas vraiment.
+
+---
+
+## Question 4 — La capacité à attendre
+
+> Si tu vois quelque chose qui te plaît en ligne et que tu te dis "j'attends 24h pour voir si j'en ai vraiment envie", combien de fois tiens-tu cet engagement ?
+
+Si tu réponds "facilement, je m'en fous souvent au bout de 2 heures" → A.
+
+Si "ça dépend, parfois oui parfois non" → B.
+
+Si "rarement, je trouve toujours une bonne raison de craquer avant 24h" → C.
+
+Si "jamais, l'attente devient insupportable et je cède" → D.
+
+**Pourquoi cette question** : un dépensier non-émotionnel utilise la règle des 24h sans effort. Un dépensier émotionnel ressent l'attente comme une **tension à dissiper** — et la dépense devient le moyen de la dissiper.
+
+---
+
+## Question 5 — Le mensonge à soi-même
+
+> Combien de fois t'es-tu dit "ce truc, je le porterai/utiliserai souvent" alors qu'au fond tu savais que non ?
+
+Si tu réponds "rarement, j'achète ce que j'utilise vraiment" → A.
+
+Si "ça m'arrive de me planter mais c'est marginal" → B.
+
+Si "souvent — j'ai des trucs neufs jamais utilisés" → C.
+
+Si "presque à chaque fois — mon dressing est plein de pièces avec l'étiquette" → D.
+
+**Pourquoi cette question** : la **rationalisation post-hoc** ("je le porterai", "ça me servira") est un mécanisme classique pour autoriser l'achat émotionnel. Si elle est systématique, c'est un signal très fort.
+
+---
+
+## Ton score, ton diagnostic
+
+Additionne tes points (0 à 15).
+
+### 0-3 points — Pas dépensière émotionnelle
+
+Tes dépenses sont majoritairement rationnelles. Tu peux avoir des achats coup de cœur mais ils ne sont pas pilotés par tes émotions. Ton profil financier est probablement plutôt **Navigateur à Vue** (tu gères au jour le jour) ou **Quêteur de Sérénité** (tu épargnes par sécurité). [Découvre les 5 profils financiers](/blog/profil-financier-psychologie-argent).
+
+### 4-7 points — Tendance émotionnelle, sans dépendance
+
+Tu as des moments où tes émotions guident tes achats, mais ce n'est pas systémique. La règle des 24h marche pour toi quand tu l'appliques. Ton travail = identifier les 2-3 contextes spécifiques où tu craques (ex : dimanche soir, après une dispute) et préparer des stratégies pour ces moments précis.
+
+### 8-11 points — Dépensière émotionnelle confirmée
+
+Tu corresponds au profil **Dépensière Émotionnelle**. Tes achats sont en grande partie une stratégie de régulation émotionnelle — pas une décision rationnelle. Ce n'est pas un défaut. C'est un mécanisme qui a une logique, qu'on peut décoder et désactiver progressivement.
+
+[Découvre en détail le profil Dépensier Émotionnel sur Noory →](/profil/depensier-emotionnel)
+
+[Lis notre guide complet : Comment arrêter de dépenser impulsivement →](/blog/comment-arreter-de-depenser-impulsivement)
+
+### 12-15 points — Dépendance émotionnelle forte
+
+Le shopping est probablement devenu ton outil principal de régulation émotionnelle. À ce niveau, les conseils budget classiques ne suffisent pas — c'est le système émotionnel qu'il faut adresser.
+
+3 prochaines étapes recommandées :
+
+1. Prendre conscience du pattern sans jugement (tu y es presque, ce test est un bon début).
+2. Identifier 2-3 stratégies de régulation alternatives (mouvement physique 10 min, appel à une personne précise, journal écrit).
+3. Si la situation crée de la souffrance financière ou personnelle, en parler à un psychologue cognitif-comportemental. Les TCC ont fait leurs preuves sur l'achat compulsif.
+
+---
+
+## Ce que ce test n'est pas
+
+C'est important d'être clair :
+
+- Ce test **n'est pas un diagnostic médical**. L'achat compulsif clinique (oniomanie) demande une évaluation par un professionnel.
+- C'est un **outil d'auto-observation**. Il t'aide à voir des patterns que tu n'aurais peut-être pas verbalisés.
+- Le **but n'est pas de juger** — c'est de rendre visible. Une fois visible, on peut agir dessus.
+
+---
+
+## Et après ?
+
+Si tu te reconnais dans le profil Dépensière Émotionnelle, voici ce qui marche concrètement (testé sur plus de 2 000 personnes dans la communauté Noory) :
+
+**1. Le délai émotionnel, pas le délai temporel.** Avant de cliquer "acheter", écris en 1 mot l'émotion que tu ressens à cet instant. Si c'est "ennui", "stress", "fatigue", "tristesse" ou "frustration", c'est un signal — pas un besoin d'achat.
+
+**2. Le panier d'attente.** Pour les achats en ligne, ajoute systématiquement au panier mais ne valide pas. Reviens 48h plus tard. La grande majorité des items te paraîtront moins urgents.
+
+**3. La caisse-aide.** Identifie 3 personnes ou activités vers qui tu peux te tourner à la place du shopping. Mets-les comme favoris dans ton téléphone. Le but est de raccourcir la friction.
+
+**4. Le rituel de remplacement.** Si tu shoppes typiquement le dimanche soir, mets quelque chose d'autre à la place de ce créneau (cuisine, balade, livre). Ce n'est pas du sacrifice, c'est de la **redirection**.
+
+---
+
+## Découvre ton profil financier complet
+
+Ce test couvre une dimension de ta relation à l'argent. Pour avoir le tableau complet, [fais le quiz Noory complet →](/quiz). En 5 minutes, tu sauras lequel des 5 profils financiers (Quêteur de Sérénité, Navigateur à Vue, Dépensier Émotionnel, Bâtisseur Bloqué, Investisseur Paralysé) explique ta façon de gérer l'argent — et tu peux démarrer 28 jours de coaching adapté à ton profil.
+
+L'app est gratuite 7 jours sur iPhone, [disponible sur l'App Store](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972).
+
+---
+
+*Article rédigé par l'équipe Noory, sur la base des données de 2 000+ utilisatrices de l'app et des travaux en psychologie comportementale de Kahneman, Thaler et Ariely.*`,
+    faq: [
+      {
+        q: "C'est quoi un achat émotionnel ?",
+        a: "Un achat émotionnel est une dépense déclenchée par un état interne (stress, tristesse, ennui, fatigue, frustration, sentiment de mériter quelque chose) plutôt que par un besoin concret. Le cerveau utilise l'achat comme régulateur émotionnel court terme — le soulagement dure quelques minutes, puis la culpabilité apparaît.",
+      },
+      {
+        q: "Comment savoir si je suis dépensière émotionnelle ?",
+        a: "Les 3 signes les plus fiables : tu peux nommer l'émotion qui précède l'achat, tu ressens de la culpabilité dans la minute qui suit, et tu n'arrives pas à tenir une pause de 24h avant de cliquer \"acheter\". Si ces 3 signes sont présents régulièrement, tu corresponds probablement à ce profil.",
+      },
+      {
+        q: "Quelle est la différence entre achat émotionnel et achat compulsif ?",
+        a: "L'achat émotionnel est un mécanisme de régulation que la majorité des gens utilise occasionnellement. L'achat compulsif clinique (oniomanie) est un trouble plus sévère, avec perte de contrôle, conséquences financières graves et souffrance persistante. Si tu te reconnais dans le second cas, l'évaluation par un psychologue cognitif-comportemental est recommandée.",
+      },
+    ],
+  },
+  {
+    slug: "quel-salaire-pour-epargner-500-par-mois",
+    title: "Quel salaire pour épargner 500€/mois ? Combien il faut vraiment",
+    metaTitle: "Quel salaire pour épargner 500€/mois ? Combien il faut vraiment | Noory",
+    metaDescription: "Combien tu dois gagner pour épargner 500€/mois ? Tableau par tranche de salaire + 3 méthodes pour y arriver même avec un revenu moyen.",
+    date: "2026-05-15",
+    readTime: "8 min",
+    intro: "500€ par mois, ça paraît demander \"un bon salaire\". Mais la vraie question n'est pas combien tu gagnes — c'est ce que ton organisation budgétaire te permet de mettre de côté. Tableau réaliste par tranche, et 3 leviers qui marchent.",
+    keywords: [
+      "quel salaire pour épargner 500 euros",
+      "combien épargner par mois",
+      "comment épargner 500 euros",
+      "épargne mensuelle salaire moyen",
+      "combien mettre de côté",
+    ],
+    relatedSlugs: [
+      "epargner-petit-salaire-methodes-concretes",
+      "regle-50-30-20-explication",
+      "epargne-de-precaution-combien",
+    ],
+    content: `500 euros par mois, ça paraît être une somme qui demande "un bon salaire". Mais la vraie question n'est pas combien tu gagnes — c'est ce que ton organisation budgétaire te permet de mettre de côté.
+
+Cet article te donne :
+
+- Le tableau réaliste par tranche de salaire net
+- Les 3 leviers qui marchent vraiment quand tu vises 500€/mois
+- Les cas où viser 500€/mois est une mauvaise idée (et ce que tu devrais viser à la place)
+
+---
+
+## Le tableau : combien chaque salaire peut épargner sans souffrir
+
+Voici une estimation **réaliste**, pas idéaliste. Elle suppose des charges fixes normales pour la France (loyer, courses, transport, impôts, mutuelle, abonnements raisonnables) et **pas de dette** sur le revenu disponible.
+
+| Salaire net mensuel | Reste à vivre estimé après charges fixes | Épargne réaliste (sans douleur) | Effort pour épargner 500€ |
+|---|---|---|---|
+| 1 300 € | ~300-400 € | 30-80 € | Très difficile, viser 50 € d'abord |
+| 1 600 € | ~500-700 € | 80-150 € | Difficile, viser 150 € d'abord |
+| 2 000 € | ~700-1 000 € | 150-300 € | Possible mais demande effort |
+| 2 500 € | ~1 000-1 400 € | 300-500 € | **500 € atteignable sans souffrir** |
+| 3 000 € | ~1 300-1 800 € | 500-700 € | 500 € très réaliste |
+| 3 500 €+ | ~1 700-2 200 €+ | 700-1 000 €+ | 500 € devrait être facile |
+
+**Ce que ce tableau te dit** : pour épargner 500€/mois sans organisation drastique, il faut un salaire net autour de **2 500 €**. En dessous, c'est possible mais demande des arbitrages.
+
+**Important** : ce n'est pas une fatalité. Si tu gagnes 1 600 € et que tu vises 500€/mois, le problème n'est pas mathématique — c'est d'organisation et d'arbitrages. La suite de l'article explique comment.
+
+---
+
+## La règle 50/30/20 appliquée à ton salaire
+
+La règle 50/30/20 dit : 50% besoins, 30% envies, 20% épargne. Sur ton salaire net, ça donne :
+
+| Salaire net | 50% besoins | 30% envies | 20% épargne |
+|---|---|---|---|
+| 1 300 € | 650 € | 390 € | **260 €** |
+| 1 600 € | 800 € | 480 € | **320 €** |
+| 2 000 € | 1 000 € | 600 € | **400 €** |
+| 2 500 € | 1 250 € | 750 € | **500 €** ← objectif atteint |
+| 3 000 € | 1 500 € | 900 € | **600 €** |
+
+Donc **si tu appliques la règle 50/30/20 à la lettre**, atteindre 500€/mois demande un net de 2 500 €.
+
+Si tu en gagnes moins, deux options :
+
+1. Tu acceptes d'épargner moins que 500€/mois et tu te fixes un objectif réaliste à ton revenu.
+2. Tu adaptes la règle (par exemple 60/20/20 ou 55/25/20) en réduisant la part "envies".
+
+Note : si tu trouves la règle trop simpliste pour ta situation, [lis notre article complet sur la règle 50/30/20 et quand l'abandonner](/blog/regle-50-30-20-explication).
+
+---
+
+## Les 3 leviers qui changent vraiment la donne
+
+Plutôt que te dire "réduis tes envies" (conseil inutile), voici les 3 leviers qui marchent dans la vraie vie pour atteindre 500€/mois même quand le salaire est moyen.
+
+### Levier 1 — Renégocier tes coûts fixes (impact immédiat : +30-80 €/mois)
+
+C'est le levier le plus sous-estimé. Les coûts fixes (assurances, mutuelle, abonnements télécoms, énergies) sont souvent payés sans révision pendant des années. Renégocier prend **2-3 heures de paperasse** et libère typiquement 30 à 80 € par mois.
+
+Checklist concrète :
+
+- **Mutuelle santé** : compare via leLynx, hyperassur, ou directement avec MAAF/Macif. Économie typique 15-40 €/mois.
+- **Assurance habitation** : idem. Économie 5-15 €/mois.
+- **Forfait téléphone** : passe à Free, B&You, RED 5G ou Sosh à 10-15 €/mois si t'es encore à 30 €+.
+- **Énergie** : EDF n'est plus le moins cher. Compare via energie-info.fr. Économie typique 20-50 €/mois sur un appart.
+- **Abonnements streaming** : fais le tri. Garde un seul à la fois et alterne (Netflix 2 mois, puis Disney+ 2 mois, etc.). Économie 15-25 €/mois.
+- **Banque** : si tu paies plus de 50 €/an de frais, va sur BoursoBank, Hello bank ou Revolut. Économie 60-150 €/an.
+
+**Total réaliste sur 3 mois de travail de renégo** : +50 à +100 €/mois d'épargne dispo, sans changer ton mode de vie.
+
+### Levier 2 — Automatiser au lendemain de la paie (impact : 100% de l'épargne visée)
+
+C'est LA technique qui sépare ceux qui épargnent vraiment de ceux qui essaient.
+
+**Le principe** : programme un virement automatique de ton compte courant vers ton compte épargne **le lendemain de la date de paie**. Pas le 15. Pas le 30. Pas "quand il en reste".
+
+Pourquoi ça marche : le cerveau humain considère ce qui est sur son compte courant comme "à dépenser". Si tu attends la fin du mois pour épargner ce qui reste, il ne reste jamais rien — pas parce que tu as gaspillé, mais parce que ton cerveau a calibré tes dépenses à ce qui était dispo.
+
+**À faire concrètement** :
+
+1. Ouvre un livret A (gratuit, sans frais, 3% en 2026) si pas déjà fait.
+2. Va dans ton appli banque → virement programmé.
+3. Programme un virement automatique : compte courant → livret A, montant que tu vises (commence à 100 € si tu testes), date = 2 jours après ta date de paie habituelle.
+4. Oublie. Le système fait le reste.
+
+**Si tu vises 500€/mois** : commence par 200 €/mois pendant 3 mois pour t'habituer à ce nouveau "salaire ressenti", puis augmente à 350 €, puis à 500 €.
+
+### Levier 3 — Auditer les "petites dépenses récurrentes" (impact : 50-150 €/mois)
+
+Ce ne sont pas tes vacances qui plombent ton épargne. Ce sont les petites dépenses récurrentes que tu ne vois pas.
+
+**Audit en 30 minutes** :
+
+1. Télécharge tes relevés bancaires des 3 derniers mois.
+2. Surligne TOUT ce qui est inférieur à 20 € et qui revient au moins une fois par mois.
+3. Additionne.
+
+Les coupables typiques :
+
+- Café à emporter : 4 € × 22 jours travaillés = **88 €/mois**
+- Snacks et boissons "sur le pouce" : 50-100 €/mois
+- Livraisons type Deliveroo le soir : 1× par semaine = 80-120 €/mois
+- Vinted / Shein impulses : 30-80 €/mois moyenne
+- Apps avec abonnement (Headspace, Strava, ChatGPT Plus, etc.) : 30-80 €/mois cumulé
+- "Sortie spontanée" non-budgétée : 50-100 €/mois
+
+**Total moyen identifié** : 200 à 400 € par mois invisibles.
+
+Tu n'as pas besoin de tout couper. Identifier 2-3 catégories où tu peux **réduire de moitié** te libère typiquement 80-150 € qui peuvent direct alimenter ton épargne.
+
+---
+
+## Cas concret : Sarah, 1 800 € net, atteint 500€/mois en 4 mois
+
+Voici une trajectoire réaliste de la communauté Noory (prénom modifié).
+
+**Mois 0 (départ)** : Sarah gagne 1 800 € net, épargne 50 €/mois "quand elle y pense". 800 € sur son livret A après 3 ans.
+
+**Mois 1 (renégo)** :
+
+- Passe sa mutuelle de 67 € à 35 € → +32 €/mois.
+- Quitte EDF pour Ekwateur → +28 €/mois.
+- Coupe Disney+ et garde Netflix → +12 €/mois.
+- **Économie cumulée mensuelle : +72 €**
+
+**Mois 2 (audit)** :
+
+- Coupe le café à emporter du matin (préparation maison) → +60 €/mois.
+- Annule 3 abonnements oubliés (anciens essais qui sont passés au payant) → +25 €/mois.
+- **Économie cumulée mensuelle : +85 €**
+
+**Mois 3 (automatisation)** :
+
+- Virement automatique 250 €/mois programmé le lendemain de la paie.
+- Reste à vivre quotidien : suffisant.
+- Premier mois sans à-coup.
+
+**Mois 4 (montée en puissance)** :
+
+- Le compte courant gère bien avec 250 € de moins.
+- Passage à 350 €/mois automatique.
+- Identifie 100 €/mois supplémentaires en réduisant Deliveroo de 4×/mois à 2×/mois.
+
+**Mois 6** :
+
+- Épargne stabilisée à 450 €/mois.
+- 500 €/mois atteint le mois suivant sans douleur supplémentaire.
+
+Total temps investi : environ 6 heures de paperasse réparties sur 4 mois.
+
+**Sarah n'a pas changé de mode de vie**. Elle a juste arrêté de payer pour des trucs qu'elle utilisait peu ou pas, et déplacé son cerveau de "épargne ce qui reste" à "dépense ce qui reste après l'épargne".
+
+---
+
+## Quand viser 500€/mois est une mauvaise idée
+
+Soyons honnêtes : viser 500 €/mois quand ça te met en stress permanent est contre-productif. Le **stress financier mine ta santé mentale**, qui mine ta productivité, qui plafonne ton revenu.
+
+**Tu ne devrais pas viser 500€/mois si** :
+
+- Ton reste à vivre quotidien serait inférieur à 200 €/mois après l'épargne.
+- Tu vis sous la barre du SMIC sans coloc et sans aide.
+- Tu as une dette à intérêt supérieur à 5% (rembourser cette dette est mathématiquement plus rentable qu'épargner).
+- Tu as un fonds d'urgence inférieur à 1 mois de charges (priorise ça d'abord).
+
+Dans ces cas, **vise 100-200 €/mois** comme étape intermédiaire. La régularité compte plus que le montant. 100 €/mois pendant 5 ans = 6 000 € — beaucoup plus efficace que 500 €/mois pendant 6 mois suivis d'abandon.
+
+---
+
+## Et après l'épargne ?
+
+Mettre 500 €/mois sur un livret A à 3%, c'est bien — mais après 2-3 ans tu commences à laisser de l'argent travailler peu (l'inflation grignote).
+
+Les étapes suivantes :
+
+1. **Construire ton fonds d'urgence** : 3 mois de charges sur livret A, intouchable. Pour le bon dosage, lis [Épargne de précaution : combien mettre de côté](/blog/epargne-de-precaution-combien).
+2. **Au-delà** : commencer à investir progressivement. PEA pour les actions europe (fiscalité avantageuse), Assurance vie pour la diversification. Si l'investissement te fait peur, [lis notre article sur investir quand on a peur](/blog/investir-debutant-peur).
+
+---
+
+## Pour aller plus loin
+
+Si tu galères à savoir par où commencer dans ton organisation budgétaire :
+
+- [Comment épargner avec un petit salaire : 3 méthodes concrètes →](/blog/epargner-petit-salaire-methodes-concretes)
+- [Fonds d'urgence : combien mettre de côté ? →](/blog/epargne-de-precaution-combien)
+- [Quel est ton profil financier ? Le quiz →](/quiz)
+
+L'app Noory te donne aussi 28 jours de coaching personnalisé selon ton profil financier (Quêteur de Sérénité, Navigateur à Vue, Dépensier Émotionnel, Bâtisseur Bloqué, Investisseur Paralysé). [Gratuit 7 jours sur iPhone](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972).
+
+---
+
+*Article rédigé par l'équipe Noory, sur la base de données INSEE 2025 et des trajectoires de 2 000+ utilisatrices de la communauté Noory.*`,
+    faq: [
+      {
+        q: "Quel salaire faut-il pour épargner 500€ par mois ?",
+        a: "Pour épargner 500€/mois sans organisation drastique, il faut un salaire net autour de 2 500 €. En appliquant la règle 50/30/20, c'est exactement ce que la part 20% épargne donne. En dessous (1 600-2 000 € net), c'est possible mais demande des arbitrages : renégocier les coûts fixes, automatiser au lendemain de la paie, auditer les petites dépenses récurrentes.",
+      },
+      {
+        q: "Comment épargner 500€ par mois avec un salaire moyen ?",
+        a: "Trois leviers cumulatifs : 1) renégocier mutuelle, énergie, forfait téléphone, banque, streaming (libère 50-100 €/mois), 2) programmer un virement automatique le lendemain de la paie (déplace l'épargne hors du champ de décision), 3) auditer les petites dépenses récurrentes inférieures à 20 € (typiquement 200-400 €/mois invisibles). Cumulés, ces 3 leviers permettent à un revenu de 1 800-2 000 € net d'atteindre 500€/mois.",
+      },
+      {
+        q: "Est-ce normal de ne pas réussir à épargner 500€ par mois ?",
+        a: "Oui — si ton salaire net est inférieur à 2 200 € ou si tes charges fixes représentent plus de 60% de ton revenu. Dans ces cas, viser 100-200 €/mois en régularité est plus efficace que viser 500 € par à-coups. 100 €/mois pendant 5 ans = 6 000 €, alors que 500 €/mois pendant 6 mois suivis d'abandon = 3 000 € + stress + culpabilité. La régularité bat le montant.",
+      },
+    ],
+  },
+  {
     slug: "comment-arreter-de-depenser-impulsivement",
     title: "Comment arrêter de dépenser impulsivement : 5 techniques qui marchent vraiment",
     metaTitle: "Comment arrêter de dépenser impulsivement : 5 techniques qui marchent | Noory",
@@ -82,6 +514,10 @@ Pour chaque achat impulsif (juste les impulsifs, pas tout), tu notes 3 choses da
 Pourquoi ça marche : tu ne peux pas changer ce que tu ne vois pas. La majorité des achats impulsifs sont invisibles parce qu'ils sont noyés dans le quotidien. Quand tu commences à voir le motif — "je craque toujours le mardi soir après le boulot" — tu peux intervenir en amont.
 
 Au bout de 3 semaines, tu connaîtras ton déclencheur principal. Et c'est là que la vraie liberté commence. On va plus loin sur le sujet émotionnel dans [J'achète quand je suis triste](/blog/j-achete-quand-je-suis-triste).
+
+> **Pas sûre que t'es vraiment dépensière émotionnelle ?**
+> Fais le test en 5 questions pour le savoir avant d'aller plus loin.
+> [Faire le test →](/blog/test-depensier-emotionnel)
 
 ## Technique 4 — Le micro-budget quotidien
 
@@ -156,6 +592,10 @@ Quand tu lis un article sur l'épargne, on te parle d'investir 500€ par mois, 
 Tu n'as pas tort. Cette approche n'est pas pour toi. Mais ça ne veut pas dire qu'épargner est impossible. Ça veut dire qu'il faut une méthode différente — une méthode qui démarre avec ce que tu as, pas avec ce que tu n'as pas.
 
 L'objectif de cet article n'est pas de te faire la leçon. Il est de te donner trois méthodes que des gens à 1 200€/mois utilisent vraiment, et qui marchent.
+
+> **Combien tu peux vraiment épargner selon ton salaire ?**
+> Tableau réaliste par tranche de revenus + 3 leviers concrets pour viser 500 €/mois sans souffrir.
+> [Voir le tableau →](/blog/quel-salaire-pour-epargner-500-par-mois)
 
 ## L'idée centrale : la micro-épargne, pas la macro-épargne
 
@@ -2050,6 +2490,11 @@ Tu peux aussi lire notre article sur [la culpabilité financière et comment en 
     readTime: "7 min",
     intro: "Tu te réveilles en pensant à ton compte en banque. Tu calcules mentalement pendant les courses. Tu stress avant chaque prélèvement. Ce n'est pas de l'anxiété — c'est de la charge mentale financière.",
     keywords: ["charge mentale financière", "stress argent", "fatigue financière", "anxiété argent"],
+    relatedSlugs: [
+      "test-depensier-emotionnel",
+      "anxiete-financiere-calmer",
+      "routine-financiere-dimanche",
+    ],
     content: `## Quand penser à l'argent prend toute ton énergie
 
 La charge mentale financière, c'est cette boucle permanente dans ta tête. "Est-ce que ça va passer ?", "Je peux me permettre ce resto ?", "J'ai combien sur mon compte ?", "Et si une dépense imprévue arrive ?"
@@ -3372,6 +3817,11 @@ Tu n'as pas besoin de devenir un militant de la transparence financière. Tu as 
     readTime: "7 min",
     intro: "Tu entends parler de la règle 50/30/20 partout, mais tu ne sais pas vraiment comment l'appliquer ? Voici le guide le plus clair que tu trouveras.",
     keywords: ["règle 50 30 20", "budget simple", "répartition budget"],
+    relatedSlugs: [
+      "quel-salaire-pour-epargner-500-par-mois",
+      "epargner-petit-salaire-methodes-concretes",
+      "budget-pour-les-nuls",
+    ],
     content: `## Le principe en 30 secondes
 
 La règle 50/30/20 est née d'un livre de la sénatrice américaine Elizabeth Warren en 2005. Son idée : au lieu de créer un budget avec 47 catégories et un tableur impossible à maintenir, divise simplement tes revenus en 3 parts.
