@@ -6,12 +6,15 @@ const AppStoreBadge = ({ className = "" }: { className?: string }) => {
       href={APP_STORE}
       target="_blank"
       rel="noopener noreferrer"
+      aria-label="Télécharger Noory sur l'App Store"
       className={`inline-block hover:opacity-80 transition-opacity ${className}`}
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 120 40"
         className="h-[44px] w-auto"
+        role="img"
+        aria-label="Télécharger sur l'App Store"
       >
         <rect width="120" height="40" rx="6" fill="#000" />
         <rect x="0.5" y="0.5" width="119" height="39" rx="5.5" stroke="#A6A6A6" strokeWidth="0.4" fill="none" />

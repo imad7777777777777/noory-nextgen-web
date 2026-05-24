@@ -21,6 +21,482 @@ export interface BlogArticle {
 
 export const blogArticles: BlogArticle[] = [
   {
+    slug: "tdah-argent-gestion-budget",
+    title: "TDAH et argent : pourquoi c'est plus dur (et comment gérer ton budget autrement)",
+    metaTitle: "TDAH et argent : gérer son budget avec un TDAH | Noory",
+    metaDescription: "Le TDAH complique vraiment la gestion d'argent : impulsivité, cécité temporelle, oubli. Comprends pourquoi — et découvre des méthodes pensées pour un cerveau TDAH.",
+    date: "2026-05-24",
+    readTime: "9 min",
+    intro: "Si tu as un TDAH, tu t'es sûrement déjà demandé pourquoi gérer ton argent te semble si difficile alors que ça a l'air si simple pour les autres. La réponse n'est pas \"tu ne fais pas assez d'efforts\". C'est que les méthodes classiques sont pensées pour un cerveau qui n'est pas le tien.",
+    keywords: [
+      "tdah argent",
+      "tdah budget",
+      "tdah gestion argent",
+      "gérer son budget tdah",
+      "tdah dépenses impulsives",
+    ],
+    relatedSlugs: [
+      "comment-arreter-de-depenser-impulsivement",
+      "epargne-automatique-comment-mettre-en-place",
+      "biais-cognitifs-budget",
+    ],
+    content: `## Pourquoi l'argent est (vraiment) plus dur avec un TDAH
+
+D'abord, une chose à poser clairement : si tu galères avec l'argent et que tu as un TDAH, ce n'est pas de la paresse ni un manque de discipline. Le TDAH touche directement les **fonctions exécutives** du cerveau — planification, mémoire de travail, contrôle des impulsions, perception du temps. Or gérer un budget repose précisément sur ces fonctions-là. C'est un peu comme demander à quelqu'un qui a une cheville cassée de courir un marathon, puis lui reprocher de ne pas y arriver.
+
+La bonne nouvelle : quand on comprend les mécanismes en jeu, on peut concevoir des méthodes qui contournent les difficultés au lieu de buter dessus. Tout le reste de cet article part de là.
+
+## Les 5 mécanismes qui compliquent l'argent
+
+- **L'impulsivité.** Le délai entre l'envie et l'achat est plus court. Le "je le veux" devient "je l'ai acheté" avant que le frein ne s'active. Les [dépenses impulsives](/blog/comment-arreter-de-depenser-impulsivement) sont l'un des défis les plus fréquents.
+- **La cécité temporelle.** Le cerveau TDAH vit beaucoup dans le "maintenant". Le futur est flou, presque abstrait — donc épargner "pour plus tard" ne déclenche aucune motivation, alors que la récompense immédiate, si.
+- **"Loin des yeux, loin du compte".** Ce qui n'est pas visible cesse un peu d'exister. Résultat : factures oubliées, abonnements fantômes qu'on paie depuis des mois, argent "découvert" en retard.
+- **La quête de dopamine.** Le cerveau TDAH manque de stimulation et la cherche activement. L'achat est une source de dopamine rapide et fiable — d'où une vulnérabilité particulière au shopping comme régulation.
+- **L'hyperfocus.** Quand une passion s'allume, le budget peut partir en fumée sur un sujet précis (matériel, collection, hobby) sans que les garde-fous habituels s'activent.
+
+## Ce qui ne marche pas (et pourquoi tu n'y es pour rien)
+
+Si tu as déjà abandonné dix applis de budget, ce n'est pas toi le problème. La plupart des méthodes classiques échouent avec un cerveau TDAH parce qu'elles demandent exactement ce qui est le plus difficile :
+
+- **Les budgets détaillés** qu'il faut tenir chaque jour : trop de friction, abandonnés en une semaine.
+- **La volonté comme moteur** : la volonté est encore plus fluctuante et coûteuse avec un TDAH. Construire dessus, c'est construire sur du sable.
+- **Les récompenses lointaines** : "dans 5 ans tu seras content d'avoir épargné" ne parle pas à un cerveau orienté présent.
+
+Comprendre ça évite des années de culpabilité inutile. Le problème n'est pas ta motivation — c'est l'outil.
+
+## Les méthodes qui marchent avec un cerveau TDAH
+
+Le principe général : **réduire la friction sur les bons comportements, augmenter la friction sur les mauvais, et ne jamais compter sur la mémoire ou la volonté.**
+
+1. **Automatise absolument tout.** Virement d'épargne le jour de la paie, prélèvements pour les factures, paiements récurrents. Chaque chose automatisée est une chose en moins à ne pas oublier. [L'épargne automatique](/blog/epargne-automatique-comment-mettre-en-place) est sans doute le levier numéro un pour un cerveau TDAH.
+2. **Rends l'achat impulsif plus difficile.** Supprime tes cartes enregistrées sur les sites, déconnecte le paiement en un clic, désinstalle les apps shopping. Chaque seconde de friction ajoutée laisse une chance au frein de s'activer.
+3. **Rends le futur visible.** Donne un nom et une image à ton épargne ("voyage", "matelas de sécurité"). Le cerveau TDAH répond beaucoup mieux à un objectif concret et visuel qu'à un chiffre abstrait.
+4. **Externalise ta mémoire.** Une seule liste de tous tes abonnements, des rappels automatiques pour les échéances. Ne demande jamais à ta tête de retenir ce qu'une alarme peut retenir à ta place.
+5. **Gamifie et rends immédiat.** Récompense-toi tout de suite pour un bon comportement (une série de jours, un petit palier atteint). Ramener la récompense dans le présent, c'est parler la langue de ton cerveau.
+
+Ces méthodes ne luttent pas contre ton TDAH : elles s'appuient sur son fonctionnement. C'est exactement la logique d'un [coach financier comportemental](/blog/coach-financier-comportemental) — et ça réduit aussi la [charge mentale financière](/blog/charge-mentale-financiere) qui pèse souvent lourd.
+
+## Une note importante
+
+Le TDAH est un trouble neurodéveloppemental qui se diagnostique et se suit avec des professionnels de santé. Cet article parle de stratégies de gestion d'argent adaptées — il ne remplace ni un diagnostic, ni un suivi médical, ni un traitement. Noory est un outil de coaching comportemental : il peut t'aider au quotidien à mettre en place de meilleurs systèmes, mais il ne diagnostique pas et ne soigne pas le TDAH. Si tu penses être concerné·e, parles-en à ton médecin.
+
+## Par où commencer
+
+Ne vise pas dix changements d'un coup — c'est le piège classique. Choisis **un seul** levier (le plus puissant : automatiser un virement d'épargne le jour de la paie), mets-le en place aujourd'hui, et laisse-le tourner.
+
+Pour savoir quels mécanismes te concernent le plus et par quoi commencer, [le quiz de profil financier](/quiz) te donne une lecture personnalisée en 2 minutes. Avec le bon système, un cerveau TDAH peut très bien gérer son argent — il a juste besoin d'autres règles du jeu.
+
+---
+
+*Noory met en place avec toi des systèmes adaptés à ton fonctionnement : automatismes, micro-actions, zéro jugement. [Découvre l'app gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`,
+    faq: [
+      {
+        q: "Pourquoi le TDAH rend-il la gestion de l'argent plus difficile ?",
+        a: "Parce que le TDAH affecte les fonctions exécutives du cerveau (planification, mémoire de travail, contrôle des impulsions, perception du temps), qui sont précisément celles qu'exige la gestion d'un budget. S'y ajoutent une plus grande impulsivité d'achat, une « cécité temporelle » qui rend l'épargne future peu motivante, et une recherche de dopamine à laquelle l'achat répond facilement.",
+      },
+      {
+        q: "Comment gérer son budget quand on a un TDAH ?",
+        a: "Le principe est de ne jamais compter sur la mémoire ou la volonté. Concrètement : automatiser tout ce qui peut l'être (épargne, factures), ajouter de la friction sur les achats impulsifs (supprimer les cartes enregistrées, désinstaller les apps shopping), rendre les objectifs d'épargne visuels et concrets, externaliser sa mémoire avec des rappels, et se récompenser dans l'instant plutôt que dans un futur lointain.",
+      },
+      {
+        q: "Noory est-elle adaptée aux personnes avec un TDAH ?",
+        a: "Noory s'appuie sur l'automatisation, les micro-actions et l'absence de jugement, ce qui correspond bien aux stratégies recommandées pour un cerveau TDAH. Cela dit, Noory est un outil de coaching comportemental, pas un dispositif médical : il n'établit aucun diagnostic et ne traite pas le TDAH. Pour un diagnostic ou un suivi, adresse-toi à un professionnel de santé.",
+      },
+    ],
+  },
+  {
+    slug: "depenses-emotionnelles-pourquoi-acheter-quand-triste",
+    title: "Dépenses émotionnelles : pourquoi on achète quand on est triste (ou stressé, ou seul)",
+    metaTitle: "Dépenses émotionnelles : pourquoi on achète selon ses émotions | Noory",
+    metaDescription: "Stress, tristesse, ennui, solitude : les dépenses émotionnelles ne sont pas un manque de volonté. Comprends tes déclencheurs et l'appli qui aide à les désamorcer.",
+    date: "2026-05-24",
+    readTime: "9 min",
+    intro: "Tu te retrouves avec un truc dans ton panier sans trop savoir comment il y est arrivé. La vérité, c'est que ce n'est presque jamais l'objet que tu voulais — c'est une émotion que tu cherchais à calmer. Voici comment fonctionnent les dépenses émotionnelles, et comment les désamorcer.",
+    keywords: [
+      "dépenses émotionnelles app",
+      "acheter quand triste",
+      "dépenses émotionnelles",
+      "shopping émotionnel",
+      "achat émotionnel",
+    ],
+    relatedSlugs: [
+      "j-achete-quand-je-suis-triste",
+      "comment-arreter-de-depenser-impulsivement",
+      "argent-et-emotions-comprendre-le-lien",
+    ],
+    content: `## C'est quoi une dépense émotionnelle ?
+
+Une dépense émotionnelle, c'est un achat déclenché par un **état intérieur**, pas par un besoin réel. Tu n'achètes pas l'objet : tu achètes le soulagement qu'il promet. Le pull, le énième gloss, le plat à emporter, l'abonnement — c'est l'emballage. Le vrai produit, c'est l'émotion que tu essaies de faire taire.
+
+Et ça marche… dix secondes. Le cerveau libère un petit shoot de dopamine au moment de l'achat, puis l'émotion revient, souvent accompagnée d'une nouvelle invitée : la culpabilité. C'est ce cycle qui rend les dépenses émotionnelles si difficiles à arrêter par la seule volonté.
+
+## Les 5 émotions qui te font acheter (et ce n'est pas que la tristesse)
+
+On résume souvent les dépenses émotionnelles à "acheter quand on est triste". La tristesse en fait partie, mais elle est loin d'être seule :
+
+- **Le stress.** L'achat devient une décharge, un moyen de reprendre un sentiment de contrôle quand tout déborde.
+- **La tristesse.** Le plus connu : se faire un cadeau pour combler un vide. On creuse le sujet dans [j'achète quand je suis triste](/blog/j-achete-quand-je-suis-triste).
+- **L'ennui.** Scroller une boutique en ligne devient une activité par défaut quand le cerveau cherche de la nouveauté.
+- **La solitude.** Le colis qui arrive, c'est un événement, presque une visite. L'achat remplit un silence.
+- **La récompense.** "Je l'ai bien mérité" après une grosse journée — l'émotion positive déclenche aussi des dépenses, et on l'oublie souvent.
+
+Repérer **quelle** émotion te fait acheter est la première marche. Tant qu'on dit juste "je dépense trop", on ne peut rien faire. Dès qu'on dit "je dépense quand je m'ennuie le dimanche soir", une solution devient possible.
+
+## Pourquoi ce n'est pas un manque de volonté
+
+Si tu te juges sévère, lis bien ce paragraphe. Les dépenses émotionnelles ne sont pas un défaut de caractère : c'est un mécanisme d'autorégulation. Face à une émotion inconfortable, le cerveau cherche le moyen le plus rapide de se soulager. L'achat est rapide, accessible, socialement accepté — un candidat idéal.
+
+Le commerce en ligne a parfaitement compris ce mécanisme : achat en un clic, notifications, comptes à rebours, "plus que 2 en stock". Tout est conçu pour capter le moment où ta garde émotionnelle est baissée. Tu n'affrontes pas seulement tes émotions — tu affrontes des milliards investis pour les exploiter. Comprendre que [l'argent et les émotions sont profondément liés](/blog/argent-et-emotions-comprendre-le-lien) enlève déjà beaucoup de honte.
+
+## Es-tu un dépensier émotionnel ?
+
+Quelques signes qui ne trompent pas :
+
+- Tes achats arrivent à des moments précis et récurrents (le soir, le dimanche, après un appel difficile).
+- Tu ressens un pic de plaisir à l'achat… vite remplacé par du regret.
+- Tu peux nommer l'émotion qui précédait l'achat, si tu y repenses.
+- Tu achètes des choses que tu n'utilises jamais vraiment.
+
+Si ça résonne, [le test du dépensier émotionnel](/blog/test-depensier-emotionnel) te donne un diagnostic en 5 questions, et le [profil du Dépensier Émotionnel](/profil/depensier-emotionnel) décrit en détail ce fonctionnement — avec ses forces, pas seulement ses pièges.
+
+## Comment désamorcer une dépense émotionnelle
+
+L'objectif n'est pas de ne plus jamais te faire plaisir. C'est de remettre du **choix** là où il y avait de l'automatisme. Trois leviers :
+
+1. **Nommer l'émotion avant l'achat.** "Là, je suis en train d'acheter parce que je suis ___." Mettre un mot dessus réactive la partie réfléchie du cerveau et casse l'automatisme.
+2. **Créer une pause.** Quelques minutes entre l'envie et le clic suffisent souvent à faire retomber le pic. C'est tout le principe des techniques détaillées dans [comment arrêter de dépenser impulsivement](/blog/comment-arreter-de-depenser-impulsivement).
+3. **Offrir une autre réponse à l'émotion.** Si tu achètes par ennui, le vrai besoin est la nouveauté, pas l'objet. Une marche, un appel, écrire deux lignes : trouve une réponse qui traite l'émotion au lieu de la masquer.
+
+## Pourquoi une app aide vraiment (et pas juste la volonté)
+
+C'est le point que beaucoup de gens découvrent : on ne gère pas une dépense émotionnelle à froid, en lisant un article. On la gère **à chaud**, au moment précis où l'envie monte — et c'est exactement là qu'une app de dépenses émotionnelles change la donne, là où un tableur de budget est inutile.
+
+Une bonne app ne te culpabilise pas : elle t'accompagne dans l'instant. Concrètement, Noory propose un "SOS Achat" qui, quand tu sens l'envie monter, te pose quelques questions simples pour recréer la pause entre l'émotion et l'acte. Et parce qu'elle apprend à reconnaître tes déclencheurs récurrents, elle t'aide à voir les patterns que tu ne vois pas seul·e — le moment, l'émotion, la situation. C'est cette combinaison (pause dans l'instant + lecture des schémas dans le temps) qui fait la différence avec la simple volonté.
+
+## Par où commencer
+
+Commence petit : la prochaine fois que tu sens l'envie d'acheter monter, ne lutte pas — observe. Demande-toi juste "qu'est-ce que je ressens, là, maintenant ?". Tu n'as rien à t'interdire. Tu as juste à regarder.
+
+Et si tu veux savoir quelle émotion pilote le plus tes dépenses, [le quiz de profil financier](/quiz) te le dira en 2 minutes — c'est le point de départ pour transformer un réflexe subi en choix conscient.
+
+---
+
+*Noory t'aide à désamorcer tes dépenses émotionnelles dans l'instant, avec un accompagnement quotidien sans jugement. [Télécharge l'app gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`,
+    faq: [
+      {
+        q: "C'est quoi une dépense émotionnelle ?",
+        a: "C'est un achat déclenché par une émotion (stress, tristesse, ennui, solitude, besoin de récompense) plutôt que par un besoin réel. On n'achète pas l'objet pour lui-même, mais pour le soulagement qu'il procure — un soulagement qui dure rarement plus de quelques secondes avant que l'émotion, et souvent la culpabilité, ne reviennent.",
+      },
+      {
+        q: "Pourquoi est-ce qu'on achète quand on est triste ?",
+        a: "Parce que l'achat déclenche une petite libération de dopamine qui apaise momentanément l'émotion négative. Le cerveau apprend que « acheter = se sentir mieux » et reproduit le réflexe. Ce n'est pas un manque de volonté mais un mécanisme d'autorégulation, massivement exploité par le marketing du commerce en ligne (achat en un clic, notifications, urgence artificielle).",
+      },
+      {
+        q: "Une app peut-elle aider à gérer les dépenses émotionnelles ?",
+        a: "Oui, et c'est même là qu'une app est la plus utile. Les dépenses émotionnelles se jouent dans l'instant, au moment où l'envie monte — pas à froid dans un tableur. Une app comme Noory intervient à ce moment précis (avec un outil de pause type « SOS Achat ») et repère tes déclencheurs récurrents dans le temps, ce qui aide à transformer un réflexe automatique en choix conscient.",
+      },
+    ],
+  },
+  {
+    slug: "coach-financier-comportemental",
+    title: "Coach financier comportemental : la nouvelle façon de changer ton rapport à l'argent",
+    metaTitle: "Coach financier comportemental : c'est quoi et pour qui ? | Noory",
+    metaDescription: "Un coach financier comportemental ne te dit pas où investir : il t'aide à comprendre pourquoi tu gères ton argent comme tu le fais. Explications et différences.",
+    date: "2026-05-24",
+    readTime: "8 min",
+    intro: "Tu connais les conseillers financiers et les apps de budget. Le coach financier comportemental, lui, ne s'occupe pas de tes placements ni de tes catégories de dépenses. Il s'occupe de la seule chose qui change vraiment les comportements : ta tête. Voici ce que c'est, et pour qui.",
+    keywords: [
+      "coach financier comportemental",
+      "coaching financier app",
+      "coaching financier",
+      "accompagnement budget",
+      "finance comportementale",
+    ],
+    relatedSlugs: [
+      "psychologie-de-l-argent-pourquoi-mauvaises-decisions",
+      "finance-comportementale-guide-debutant",
+      "biais-cognitifs-budget",
+    ],
+    content: `## C'est quoi un coach financier comportemental ?
+
+Un coach financier comportemental t'aide à transformer ta **relation** à l'argent, pas à choisir tes placements. Son terrain, ce n'est pas les chiffres — ce sont les comportements, les émotions et les habitudes qui produisent ces chiffres.
+
+Là où un conseiller te dit *quoi* faire de ton argent, le coach comportemental t'aide à comprendre *pourquoi* tu fais ce que tu fais : pourquoi tu dépenses quand tu es stressé·e, pourquoi tu repousses ton épargne, pourquoi tu évites d'ouvrir ton appli bancaire. Il s'appuie sur la [finance comportementale](/blog/finance-comportementale-guide-debutant), la discipline qui étudie les vraies décisions humaines — celles qui ne suivent pas la logique des manuels d'économie.
+
+## Ce qu'un coach comportemental n'est pas
+
+Pour bien comprendre, il faut le distinguer de trois choses avec lesquelles on le confond souvent :
+
+- **Ce n'est pas un conseiller en investissement.** Il ne te recommande aucun produit financier, aucune action, aucune assurance-vie. Pour ça, il te faut un professionnel certifié (CIF, CGP).
+- **Ce n'est pas une app de budget classique.** Il ne te demande pas de catégoriser chaque transaction ni de te connecter à ta banque. Le tableur n'a jamais changé un comportement — sinon ça se saurait.
+- **Ce n'est pas un psy.** Il ne traite pas un trouble psychologique. Il travaille spécifiquement ton rapport quotidien à l'argent. En cas de détresse réelle, c'est un professionnel de santé qu'il faut consulter.
+
+Sa zone, c'est l'entre-deux que personne ne couvrait : entre le conseiller qui parle rendement et le psy qui parle enfance, il y a ton quotidien d'argent — et c'est là qu'il agit.
+
+## Pourquoi l'approche comportementale marche mieux que les tableurs
+
+Si les budgets Excel fonctionnaient, tout le monde irait bien financièrement. Or la plupart des gens connaissent déjà les règles ("dépense moins que tu ne gagnes") et n'arrivent pas à les appliquer.
+
+La raison est simple : **le problème n'est presque jamais un manque d'information, mais un fonctionnement du cerveau.** Les [biais cognitifs](/blog/biais-cognitifs-budget) et les automatismes émotionnels prennent le dessus sur la bonne volonté. Un coach comportemental ne te donne donc pas plus d'infos — il t'aide à changer les conditions autour de tes décisions, pour que le bon comportement devienne le plus facile.
+
+C'est la différence entre se répéter "il faut que j'épargne" (volonté, qui s'épuise) et programmer un virement automatique (système, qui tient tout seul).
+
+## Pour qui c'est fait
+
+Le coaching financier comportemental n'est pas réservé aux personnes en difficulté. Il s'adresse à toi si :
+
+- Tu **sais** ce qu'il faudrait faire mais tu n'y arrives pas.
+- Tu ressens du **stress, de la culpabilité ou de la honte** autour de l'argent, même quand tes comptes sont corrects.
+- Tu dépenses de façon **impulsive ou émotionnelle** et tu veux comprendre pourquoi.
+- Tu veux construire une **relation apaisée** avec ton argent, pas juste un tableau de chiffres.
+
+Beaucoup de gens qui "gèrent bien" sur le papier vivent quand même mal leur argent. Apprendre à [gérer son argent sans stress](/blog/gerer-son-argent-sans-stress) est exactement le genre de transformation visée.
+
+## À quoi ressemble un accompagnement concret
+
+Avec une app comme Noory, le coaching comportemental prend une forme très concrète :
+
+1. **Un diagnostic de départ.** [Le quiz de profil financier](/quiz) identifie ton rapport dominant à l'argent — parmi cinq profils comme le Dépensier Émotionnel ou le Quêteur de Sérénité.
+2. **Un parcours de 28 jours.** Chaque jour, une micro-action de 2 à 5 minutes adaptée à ton profil : un exercice de réflexion, un défi, une prise de conscience.
+3. **Des outils pour les moments chauds.** Par exemple un "SOS Achat" qui crée une pause de quelques questions entre l'émotion et le passage en caisse.
+4. **Zéro jugement.** Pas de "tu as encore craqué", mais "qu'est-ce que ça t'apprend ?". On avance par compréhension, pas par culpabilité.
+
+L'objectif n'est pas de te transformer en comptable. C'est de rendre tes bons réflexes automatiques, pour qu'ils tiennent même quand tu n'y penses plus.
+
+## Comment commencer
+
+Pas besoin de tout changer d'un coup. Commence par te connaître : fais [le quiz en 2 minutes](/quiz) et découvre ce qui pilote vraiment tes décisions d'argent. À partir de là, un coach comportemental — humain ou via une app — peut t'accompagner pour transformer ce que tu comprends en habitudes durables.
+
+Le meilleur conseil financier du monde ne sert à rien si tu ne l'appliques pas. C'est exactement le trou que vient combler le coaching comportemental.
+
+---
+
+*Noory est un coach financier comportemental dans ta poche : profil personnalisé, parcours de 28 jours, zéro jugement. [Essaie gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`,
+    faq: [
+      {
+        q: "Quelle différence entre un coach financier comportemental et un conseiller financier ?",
+        a: "Un conseiller financier (CIF, CGP) te recommande des produits et des placements : il agit sur ton argent. Un coach financier comportemental agit sur tes comportements : il t'aide à comprendre pourquoi tu dépenses, épargnes ou évites tes finances comme tu le fais, et à installer de meilleures habitudes. Le premier optimise un patrimoine, le second transforme une relation à l'argent.",
+      },
+      {
+        q: "Un coach financier comportemental donne-t-il des conseils en investissement ?",
+        a: "Non. Le coaching comportemental ne porte ni sur le choix de placements ni sur des recommandations d'investissement, qui relèvent de professionnels certifiés. Il se concentre sur la psychologie et les habitudes financières du quotidien. Noory, par exemple, est un outil de coaching comportemental, pas un service financier réglementé.",
+      },
+      {
+        q: "Est-ce qu'une app peut vraiment jouer le rôle de coach financier ?",
+        a: "Une app ne remplace pas un accompagnement humain en cas de détresse, mais elle est très efficace pour le travail comportemental du quotidien : rappels, micro-actions personnalisées, pauses avant achat, suivi de progression. C'est même là qu'une app excelle, parce que le changement de comportement se joue dans les petits gestes répétés, jour après jour.",
+      },
+    ],
+  },
+  {
+    slug: "biais-cognitifs-budget",
+    title: "Les 7 biais cognitifs qui sabotent ton budget (et comment les déjouer)",
+    metaTitle: "Biais cognitifs et argent : 7 pièges qui plombent ton budget | Noory",
+    metaDescription: "Aversion à la perte, biais du présent, comptabilité mentale… 7 biais cognitifs sabotent ton budget sans que tu le voies. Apprends à les repérer et à les déjouer.",
+    date: "2026-05-24",
+    readTime: "9 min",
+    intro: "Tu n'es pas mauvais·e avec l'argent. Ton cerveau prend juste des raccourcis qui, appliqués à tes finances, te font perdre de l'argent sans même que tu le remarques. Voici les 7 biais cognitifs les plus coûteux — et la parade concrète pour chacun.",
+    keywords: [
+      "biais cognitifs argent",
+      "biais financiers",
+      "biais cognitifs budget",
+      "aversion à la perte",
+      "comptabilité mentale",
+    ],
+    relatedSlugs: [
+      "psychologie-de-l-argent-pourquoi-mauvaises-decisions",
+      "finance-comportementale-guide-debutant",
+      "regle-50-30-20-explication",
+    ],
+    content: `## Pourquoi ton cerveau te fait perdre de l'argent
+
+Un biais cognitif, c'est un raccourci mental. La plupart du temps, ces raccourcis sont utiles : ils nous permettent de décider vite sans tout analyser. Mais appliqués à l'argent, ils se retournent contre nous.
+
+Le point important : ces biais ne sont pas des défauts personnels. Ils sont câblés dans le cerveau humain, étudiés depuis les années 1970 par les pères de la finance comportementale, Daniel Kahneman et Amos Tversky. Personne n'y échappe — pas même les économistes. La seule différence entre ceux qui se font avoir et les autres, c'est de **savoir les nommer**. Une fois repéré, un biais perd la moitié de son pouvoir.
+
+Si tu veux le cadre général d'abord, [la psychologie de l'argent](/blog/psychologie-de-l-argent-pourquoi-mauvaises-decisions) pose les bases. Sinon, attaquons les 7 pièges directement.
+
+## Biais 1 — L'aversion à la perte
+
+**Ce qu'il fait :** perdre 50 € fait environ deux fois plus mal que gagner 50 € ne fait plaisir. Ton cerveau déteste perdre, au point de prendre des décisions irrationnelles pour l'éviter.
+
+**Le coût :** tu gardes un abonnement que tu n'utilises plus "parce que tu paies déjà". Tu refuses de vendre un objet à perte alors qu'il dort dans un placard.
+
+**La parade :** raisonne toujours en "à partir de maintenant". La question n'est pas "combien j'ai déjà mis", mais "est-ce que je rachèterais ça aujourd'hui, au prix d'aujourd'hui ?". Si non, tu coupes.
+
+## Biais 2 — Le biais du présent
+
+**Ce qu'il fait :** ton cerveau surévalue énormément la récompense immédiate et sous-évalue le futur. C'est pour ça que "épargner pour dans 10 ans" ne déclenche aucune émotion, alors que le café à emporter, si.
+
+**Le coût :** l'épargne passe toujours après l'envie du moment. "Je commencerai le mois prochain" — qui n'arrive jamais.
+
+**La parade :** rends le futur automatique. Un virement d'épargne le jour de la paie supprime le combat quotidien. Tu ne peux pas céder à une tentation sur un argent que tu ne vois pas.
+
+## Biais 3 — La comptabilité mentale
+
+**Ce qu'il fait :** tu ranges l'argent dans des "cases" mentales et tu le traites différemment selon son origine — alors qu'un euro reste un euro. Concept popularisé par Richard Thaler, prix Nobel 2017.
+
+**Le coût :** tu claques une prime de 500 € en un week-end mais tu protèges farouchement les 500 € de ton salaire. Tu mets de l'argent de côté à 0,5 % pendant que tu paies un découvert à 15 %.
+
+**La parade :** une fois par mois, regarde ton argent comme un tout, sans étiquette. Une méthode simple comme [la règle 50/30/20](/blog/regle-50-30-20-explication) t'aide à raisonner en masses globales plutôt qu'en cases isolées.
+
+## Biais 4 — L'effet d'ancrage
+
+**Ce qu'il fait :** le premier chiffre que tu vois sert de référence à tout le reste. Un prix barré "200 € → 99 €" te fait percevoir 99 € comme une affaire, même si l'objet n'en vaut que 40.
+
+**Le coût :** les soldes, le "prix conseillé", les paliers d'abonnement (le plan "Premium" à 99 € existe surtout pour te faire choisir le "Standard" à 49 €).
+
+**La parade :** avant de regarder le prix affiché, demande-toi : "combien je serais prêt·e à payer pour ça, sans connaître le prix ?". Compare à ce nombre, pas au prix barré.
+
+## Biais 5 — Le coût irrécupérable
+
+**Ce qu'il fait :** tu continues quelque chose uniquement parce que tu as déjà investi dedans — du temps, de l'argent, de l'énergie. "J'ai déjà payé l'année de salle de sport, je dois continuer."
+
+**Le coût :** des engagements et abonnements maintenus par culpabilité, pas par utilité.
+
+**La parade :** l'argent déjà dépensé est dépensé, quoi que tu fasses ensuite. La seule question valable : "à partir d'aujourd'hui, est-ce que ça m'apporte plus que ce que ça me coûte ?".
+
+## Biais 6 — L'effet de statu quo
+
+**Ce qu'il fait :** on préfère l'inaction. Changer de banque, renégocier une assurance, résilier — ça demande un effort, alors on ne fait rien, même quand on sait qu'on perd.
+
+**Le coût :** des centaines d'euros par an en assurances, abonnements et frais bancaires qu'on pourrait réduire en une après-midi.
+
+**La parade :** bloque une "heure ménage financier" dans ton agenda, une fois par trimestre. Un seul créneau dédié vaut mieux que des bonnes intentions permanentes.
+
+## Biais 7 — La comparaison sociale
+
+**Ce qu'il fait :** ton cerveau évalue ta situation non pas dans l'absolu, mais par rapport aux autres. Et les réseaux sociaux te montrent en permanence des vies (mises en scène) plus belles que la tienne.
+
+**Le coût :** l'inflation du train de vie — tu dépenses pour suivre un niveau que tu n'as pas choisi, juste pour ne pas te sentir "en retard".
+
+**La parade :** [arrêter de comparer tes finances sur les réseaux](/blog/arreter-comparer-finances-reseaux) commence par te rappeler une chose : tu compares ton quotidien réel au montage des autres. C'est un combat truqué.
+
+## Ce que tu peux faire maintenant
+
+Tu n'as pas besoin de combattre les 7 d'un coup. Choisis celui dans lequel tu te reconnais le plus, applique sa parade pendant deux semaines, puis passe au suivant. C'est l'effet cumulé qui change ton budget, pas l'héroïsme.
+
+Pour savoir quels biais te guettent le plus, [le quiz de profil financier](/quiz) te donne une lecture personnalisée en 2 minutes. Et si tu veux un accompagnement qui transforme ces parades en réflexes, c'est tout le principe d'un [coach financier comportemental](/blog/coach-financier-comportemental).
+
+---
+
+*Noory t'aide à déjouer tes biais au quotidien, avec des micro-actions adaptées à ton profil. [Télécharge l'app gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`,
+    faq: [
+      {
+        q: "C'est quoi un biais cognitif en matière d'argent ?",
+        a: "Un biais cognitif est un raccourci mental automatique qui fausse nos décisions. Avec l'argent, il pousse à des choix irrationnels : garder un abonnement inutile parce qu'on l'a déjà payé (aversion à la perte), privilégier le plaisir immédiat sur l'épargne (biais du présent) ou dépenser une prime plus facilement qu'un salaire (comptabilité mentale).",
+      },
+      {
+        q: "Peut-on se débarrasser de ses biais cognitifs ?",
+        a: "On ne les supprime pas — ils sont câblés dans le cerveau humain. Mais on peut les neutraliser. La première étape est de les nommer : un biais identifié perd une grande partie de son pouvoir. Ensuite, on met en place des parades concrètes (automatiser l'épargne, raisonner « à partir de maintenant », bloquer un créneau de révision) qui ne reposent pas sur la volonté.",
+      },
+      {
+        q: "Quel est le biais cognitif le plus coûteux pour un budget ?",
+        a: "Pour la plupart des gens, c'est le biais du présent : il fait passer systématiquement l'envie immédiate avant l'épargne future, et il se cumule mois après mois. Sa parade la plus efficace est l'automatisation — un virement d'épargne dès la réception du salaire, avant toute dépense.",
+      },
+    ],
+  },
+  {
+    slug: "psychologie-de-l-argent-pourquoi-mauvaises-decisions",
+    title: "Psychologie de l'argent : pourquoi on prend de mauvaises décisions financières",
+    metaTitle: "Psychologie de l'argent : pourquoi on fait de mauvais choix (et comment changer) | Noory",
+    metaDescription: "La psychologie de l'argent explique pourquoi tu dépenses, épargnes ou évites tes finances comme tu le fais. Comprends les mécanismes — et reprends la main.",
+    date: "2026-05-24",
+    readTime: "9 min",
+    intro: "Tu sais ce qu'il faudrait faire avec ton argent : épargner, moins dépenser, anticiper. Et pourtant tu fais souvent l'inverse. Ce n'est ni un manque d'intelligence ni un manque de volonté — c'est de la psychologie. Voici ce qui se passe vraiment dans ta tête, et comment reprendre la main.",
+    keywords: [
+      "psychologie de l'argent",
+      "gestion budget psychologie",
+      "psychologie financière",
+      "rapport à l'argent",
+      "money scripts",
+    ],
+    relatedSlugs: [
+      "finance-comportementale-guide-debutant",
+      "biais-cognitifs-budget",
+      "profil-financier-psychologie-argent",
+    ],
+    content: `## Pourquoi tu sais quoi faire, mais tu ne le fais pas
+
+Tu as déjà lu les conseils. "Fais un budget." "Épargne 20 %." "Arrête les achats impulsifs." Tu hoches la tête. Et le mois suivant, rien n'a changé.
+
+Le problème n'est pas l'information — tu connais déjà l'essentiel. Le problème, c'est que **les décisions financières ne se prennent pas dans la partie rationnelle de ton cerveau**. Elles se prennent dans la partie émotionnelle, ancienne, automatique : celle qui a peur, qui veut une récompense maintenant, qui fuit l'inconfort.
+
+La psychologie de l'argent, c'est l'étude de cet écart : entre ce que tu sais et ce que tu fais réellement. La bonne nouvelle, c'est qu'une fois les mécanismes compris, tu peux arrêter de te juger et commencer à agir sur les bons leviers.
+
+## Ton cerveau a deux vitesses (et ce n'est pas la bonne qui décide)
+
+Le psychologue Daniel Kahneman, prix Nobel d'économie 2002, a montré que notre esprit fonctionne avec deux modes de pensée.
+
+- Le **Système 1** est rapide, automatique, émotionnel. C'est lui qui réagit en une fraction de seconde devant une promo "−50 %".
+- Le **Système 2** est lent, réfléchi, logique. C'est lui qui sait calculer si tu as vraiment besoin de cet objet.
+
+Le piège : le Système 1 décide presque toujours en premier, parce qu'il est plus rapide et qu'il consomme moins d'énergie. Le Système 2, lui, est paresseux et fatigable. En fin de journée, après des dizaines de décisions, il n'a plus de carburant — c'est la **fatigue décisionnelle**. Voilà pourquoi tu craques le soir et pas le matin. Ce n'est pas un défaut moral, c'est de la biologie.
+
+Pour creuser ce fonctionnement, [le guide de la finance comportementale pour débutant](/blog/finance-comportementale-guide-debutant) reprend tout depuis le début.
+
+## Les "money scripts" : les croyances que tu ne sais pas avoir
+
+Le psychologue financier Brad Klontz a mis en évidence ce qu'il appelle les **money scripts** : des croyances sur l'argent formées dans l'enfance, le plus souvent inconscientes, qui pilotent tes décisions d'adulte. Il en distingue quatre grandes familles :
+
+- **L'évitement** : "l'argent est sale", "les riches sont malhonnêtes". Tu fuis le sujet, tu n'ouvres pas tes comptes, tu repousses les décisions.
+- **La vénération** : "plus d'argent réglerait tous mes problèmes". Tu cours après un montant qui ne suffit jamais.
+- **Le statut** : "ce que je possède dit qui je suis". Tu dépenses pour l'image, parfois au-delà de tes moyens.
+- **La vigilance** : "il faut économiser et se méfier". Plus sain en apparence, mais peut virer à l'anxiété et à l'incapacité de profiter.
+
+Tu as probablement un script dominant, hérité de phrases entendues mille fois enfant. Le simple fait de le nommer réduit déjà son emprise. C'est exactement ce qu'explore [le profil financier et la psychologie de l'argent](/blog/profil-financier-psychologie-argent).
+
+## Les biais qui te coûtent de l'argent sans que tu le voies
+
+Ton cerveau prend des raccourcis. La plupart du temps, c'est utile. Avec l'argent, ces raccourcis te trahissent :
+
+- **L'aversion à la perte** : perdre 50 € fait environ deux fois plus mal que gagner 50 € ne fait plaisir (Kahneman et Tversky). Résultat : tu gardes un abonnement inutile "parce que tu l'as déjà payé".
+- **Le biais du présent** : ton cerveau surévalue la récompense immédiate et sous-évalue le futur. 50 € aujourd'hui pèsent plus que 500 € dans un an, dans ta tête.
+- **La comptabilité mentale** (Richard Thaler, Nobel 2017) : tu traites différemment l'argent "prime", "salaire" ou "cadeau", alors qu'un euro reste un euro. C'est pour ça qu'on claque une prime mais qu'on protège son salaire.
+
+Ces mécanismes ne sont pas des faiblesses personnelles : ils sont câblés en chacun de nous. [Les biais cognitifs qui sabotent ton budget](/blog/biais-cognitifs-budget) les passent en revue un par un, avec la parade pour chacun.
+
+## L'argent n'est pas qu'une affaire de chiffres, c'est une affaire d'émotions
+
+Demande à quelqu'un pourquoi il a acheté un truc dont il n'avait pas besoin. La vraie réponse est rarement "j'en avais besoin". C'est "j'étais stressé", "je me sentais nul", "je voulais me récompenser", "je m'ennuyais".
+
+L'argent est devenu le langage par défaut de nos émotions. On dépense pour se consoler, pour se sentir vivant, pour exister aux yeux des autres. Ce lien est si fort qu'il mérite son propre article : [argent et émotions, comprendre le lien](/blog/argent-et-emotions-comprendre-le-lien). Et si tu te reconnais surtout dans les achats déclenchés par une émotion difficile, [pourquoi on achète quand on est triste](/blog/depenses-emotionnelles-pourquoi-acheter-quand-triste) va te parler.
+
+## Comment reprogrammer ta psychologie financière
+
+Tu ne changeras pas en te répétant "il faut que je fasse mieux". La volonté est une ressource limitée — s'appuyer dessus, c'est construire sur du sable. Ce qui marche, c'est de changer les **conditions**, pas ton caractère :
+
+1. **Identifie ton profil.** On ne soigne pas ce qu'on n'a pas nommé. Comprendre si tu es plutôt dans l'évitement, le statut ou la vigilance change tout.
+2. **Mets des automatismes à la place de la volonté.** Un virement d'épargne le jour de la paie, par exemple, retire la décision de l'équation.
+3. **Crée une pause entre l'émotion et l'achat.** Quelques secondes suffisent souvent à laisser le Système 2 revenir dans la course.
+4. **Avance par micro-actions.** Le cerveau change par répétition de petits gestes, pas par grandes résolutions du 1er janvier.
+
+C'est précisément la logique d'un [coach financier comportemental](/blog/coach-financier-comportemental) : travailler le "pourquoi" avant le "combien".
+
+## Par où commencer dès aujourd'hui
+
+Tu n'as pas besoin de tout comprendre pour commencer. Tu as besoin d'un premier miroir. [Le quiz de profil financier](/quiz) prend 2 minutes et te dit quel rapport à l'argent te gouverne — et donc quels leviers activer en priorité.
+
+Comprendre ta psychologie de l'argent, ce n'est pas un exercice intellectuel. C'est le moment où tu arrêtes de te battre contre toi-même, et où tu commences enfin à jouer avec ton cerveau plutôt que contre lui.
+
+---
+
+*Noory transforme la psychologie de l'argent en parcours concret de 28 jours, adapté à ton profil. Zéro jugement, juste des micro-actions. [Découvre l'app gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`,
+    faq: [
+      {
+        q: "C'est quoi la psychologie de l'argent ?",
+        a: "La psychologie de l'argent étudie pourquoi on prend des décisions financières qui vont souvent à l'encontre de notre propre intérêt. Elle s'intéresse aux émotions, aux croyances inconscientes (les money scripts) et aux biais cognitifs qui pilotent nos dépenses, notre épargne et notre rapport au risque — bien plus que les chiffres eux-mêmes.",
+      },
+      {
+        q: "Pourquoi je prends de mauvaises décisions financières alors que je sais quoi faire ?",
+        a: "Parce que les décisions d'argent se jouent surtout dans la partie émotionnelle et automatique du cerveau (le Système 1 de Kahneman), pas dans la partie rationnelle (Système 2). Cette dernière est lente et se fatigue : en fin de journée, elle n'a plus l'énergie de freiner les impulsions. Savoir ne suffit donc pas — il faut changer les conditions, pas seulement l'information.",
+      },
+      {
+        q: "Peut-on changer son rapport à l'argent ?",
+        a: "Oui. Le rapport à l'argent n'est pas figé : c'est un ensemble d'habitudes et de croyances apprises, donc réapprenables. Le changement passe par l'identification de ses propres schémas, la mise en place d'automatismes (qui remplacent la volonté) et la répétition de micro-actions, plutôt que par de grandes résolutions.",
+      },
+    ],
+  },
+  {
     slug: "test-depensier-emotionnel",
     title: "Test dépensier émotionnel : 5 questions pour savoir si c'est ton cas",
     metaTitle: "Test dépensier émotionnel : 5 questions pour savoir si c'est ton cas | Noory",
@@ -454,12 +930,12 @@ L'app Noory te donne aussi 28 jours de coaching personnalisé selon ton profil f
   },
   {
     slug: "comment-arreter-de-depenser-impulsivement",
-    title: "Comment arrêter de dépenser impulsivement : 5 techniques qui marchent vraiment",
-    metaTitle: "Comment arrêter de dépenser impulsivement : 5 techniques qui marchent | Noory",
-    metaDescription: "Tu dépenses sans réfléchir et tu le regrettes ? Voici 5 techniques concrètes issues de la finance comportementale pour reprendre le contrôle.",
+    title: "Comment arrêter de dépenser impulsivement : 7 techniques qui marchent vraiment",
+    metaTitle: "Comment arrêter de dépenser impulsivement : 7 techniques qui marchent | Noory",
+    metaDescription: "Tu dépenses sans réfléchir et tu le regrettes ? Voici 7 techniques concrètes issues de la finance comportementale pour reprendre le contrôle.",
     date: "2026-05-08",
     readTime: "7 min",
-    intro: "Tu te promets de faire attention. Tu craques quand même. Et tu culpabilises. Le problème, ce n'est pas ta volonté — c'est ta méthode. Voici 5 techniques qui changent vraiment la donne.",
+    intro: "Tu te promets de faire attention. Tu craques quand même. Et tu culpabilises. Le problème, ce n'est pas ta volonté — c'est ta méthode. Voici 7 techniques qui changent vraiment la donne.",
     keywords: [
       "comment arrêter de dépenser",
       "arrêter de dépenser impulsivement",
@@ -482,7 +958,7 @@ Daniel Kahneman, prix Nobel d'économie, a montré que ton cerveau fonctionne av
 
 La volonté, c'est du Système 2. Et le Système 2 est une ressource limitée qui s'épuise au fil de la journée. C'est pour ça que tu craques le soir, pas le matin.
 
-La bonne nouvelle : il existe des techniques qui ne demandent **pas** de volonté. Elles changent les conditions, pas ton caractère. Voici les 5 qui marchent vraiment.
+La bonne nouvelle : il existe des techniques qui ne demandent **pas** de volonté. Elles changent les conditions, pas ton caractère. Voici les 7 qui marchent vraiment.
 
 ## Technique 1 — La pause 24h non négociable
 
@@ -539,9 +1015,25 @@ Pourquoi ça marche : la science du **commitment device** (engagement contraigna
 
 Si personne dans ton entourage ne convient, le quiz Noory te place dans une logique d'accompagnement quotidien qui joue exactement ce rôle.
 
+## Technique 6 — La liste des 30 jours pour les grosses envies
+
+La pause 24h marche bien pour les petits achats. Pour les grosses envies — un vêtement de marque, un gadget tech, un meuble — 24h ne suffisent pas : l'émotion est trop forte. Pour celles-là, tu passes à **30 jours**.
+
+Tu notes l'objet, la date et le prix sur une liste (les notes de ton téléphone suffisent). Tu te donnes rendez-vous dans 30 jours. Si dans un mois tu en as toujours autant envie **et** que tu peux te le permettre, tu l'achètes — sans culpabilité, parce que c'est devenu un vrai choix.
+
+Pourquoi ça marche : la plupart des envies sont des pics émotionnels qui retombent en quelques jours. En finance comportementale, on parle d'**adaptation hédonique** — l'excitation d'un achat s'évapore bien plus vite qu'on ne l'imagine. La liste des 30 jours ne te dit jamais "non", elle dit "pas maintenant". Et la plupart du temps, "pas maintenant" devient "plus envie".
+
+## Technique 7 — Convertir le prix en heures de travail
+
+Un pull à 60€ n'est pas "60€". C'est **le nombre d'heures que tu as travaillé pour les gagner**. Si ton taux horaire net est de 12€, ce pull coûte 5 heures de ta vie. Une paire de baskets à 120€ ? Une journée entière de boulot.
+
+Avant un achat non essentiel, fais le calcul : prix ÷ ton salaire horaire net = le vrai prix, exprimé en temps de vie.
+
+Pourquoi ça marche : l'argent est une abstraction, le temps ne l'est pas. Cette technique, popularisée par le livre *Your Money or Your Life*, rebranche le coût sur quelque chose que ton cerveau ressent vraiment. La question "est-ce que je veux échanger 5 heures de ma vie contre ça ?" donne souvent une réponse bien plus claire que "est-ce que j'ai 60€ ?".
+
 ## Ce qu'il faut retenir
 
-Arrêter de dépenser impulsivement n'est pas une question de caractère. C'est une question de **système**. Tu changes les conditions autour de toi — pause forcée, séparation des comptes, journal émotionnel, micro-budget, témoin extérieur — et le comportement suit. Sans douleur, sans privation.
+Arrêter de dépenser impulsivement n'est pas une question de caractère. C'est une question de **système**. Tu changes les conditions autour de toi — pause forcée, séparation des comptes, journal émotionnel, micro-budget, témoin extérieur, liste des 30 jours, prix en heures de travail — et le comportement suit. Sans douleur, sans privation.
 
 Choisis-en une. Une seule. Tiens-la 7 jours. Puis ajoute la suivante. C'est l'effet cumulé qui change tout.
 
@@ -807,9 +1299,9 @@ Si tu veux savoir lequel de ces biais domine le plus chez toi, [le quiz Noory te
   },
   {
     slug: "epargne-automatique-comment-mettre-en-place",
-    title: "Épargne automatique : la méthode pour épargner sans y penser",
-    metaTitle: "Épargne automatique : la méthode complète pour épargner sans effort | Noory",
-    metaDescription: "Mets en place un virement automatique et épargne sans effort. La méthode pas à pas pour ne plus jamais oublier de mettre de côté.",
+    title: "Épargne automatique : comment la mettre en place pour épargner sans y penser",
+    metaTitle: "Épargne automatique : la méthode pas à pas pour épargner sans effort (2026) | Noory",
+    metaDescription: "Épargne automatique : programme un virement le jour de ta paie et mets de côté sans y penser. La méthode pas à pas, combien commencer et où placer l'argent.",
     date: "2026-04-19",
     readTime: "6 min",
     intro: "Tu te dis chaque mois \"je mettrai quelque chose de côté à la fin\". Et à la fin, il ne reste rien. Voici la méthode qui fonctionne — sans discipline, sans effort, sans y penser.",
@@ -3330,9 +3822,9 @@ Si tu as tendance à naviguer à vue avec ton argent, sans vraiment savoir où i
   },
   {
     slug: "anxiete-financiere-calmer",
-    title: "Anxiété financière : 7 techniques pour calmer ton stress d'argent",
-    metaTitle: "Anxiété financière : 7 techniques pour calmer ton stress | Noory",
-    metaDescription: "L'anxiété financière touche des millions de personnes. Découvre 7 techniques concrètes pour calmer ton stress d'argent et retrouver la sérénité.",
+    title: "Anxiété financière : pourquoi elle arrive et 7 techniques pour la calmer",
+    metaTitle: "Anxiété financière : pourquoi elle arrive et 7 techniques pour la calmer | Noory",
+    metaDescription: "L'anxiété financière touche près de 6 jeunes sur 10. Comprends d'où elle vient et applique 7 techniques concrètes pour calmer ton stress d'argent et respirer.",
     date: "2026-04-12",
     dateModified: "2026-04-25",
     readTime: "8 min",
@@ -3470,7 +3962,21 @@ Si tu te reconnais dans le profil du [Quêteur de Sérénité](/profil/queteur-d
 
 ---
 
-*L'anxiété financière se travaille, un geste à la fois. Noory t'accompagne avec des exercices quotidiens pour retrouver la sérénité avec ton argent. [Télécharge l'app gratuitement.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
+*L'anxiété financière se travaille, un geste à la fois. Noory t'accompagne avec des exercices quotidiens pour retrouver la sérénité avec ton argent. [Télécharge l'app gratuitement.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`,
+    faq: [
+      {
+        q: "Pourquoi ai-je de l'anxiété financière alors que je gagne bien ma vie ?",
+        a: "Parce que l'anxiété financière vient rarement des chiffres : elle vient du rapport qu'on entretient avec l'argent. Peurs héritées de l'enfance, sentiment de ne jamais en faire assez, manque de repères clairs… On peut avoir un compte au vert et un cerveau en alerte permanente. C'est ce rapport, pas ton solde, qu'il faut travailler.",
+      },
+      {
+        q: "Comment calmer une montée d'angoisse liée à l'argent sur le moment ?",
+        a: "Commence par le corps : respire en allongeant l'expiration (inspire 4 secondes, expire 6) pendant une minute pour faire baisser ton rythme cardiaque. Puis remplace la pensée floue (\"je vais tout perdre\") par un fait précis et une micro-action (\"je vérifie une seule chose\"). Le but n'est pas de tout régler, c'est de sortir de la sidération.",
+      },
+      {
+        q: "L'anxiété financière, est-ce que ça se soigne ?",
+        a: "Oui, ça se travaille. Quand elle est légère, des techniques comportementales (check-in régulier, micro-actions, changement de vocabulaire intérieur) suffisent souvent à la faire reculer. Quand elle envahit ton quotidien ou ton sommeil, un·e professionnel·le (psychologue, thérapeute) t'aidera à en traiter les racines. Noory accompagne le premier cas, pas le second.",
+      },
+    ],
   },
   {
     slug: "acheter-en-ligne-moins-depenser",
@@ -3810,9 +4316,9 @@ Tu n'as pas besoin de devenir un militant de la transparence financière. Tu as 
   },
   {
     slug: "regle-50-30-20-explication",
-    title: "La règle 50/30/20 : le budget le plus simple du monde (expliqué)",
-    metaTitle: "Règle 50/30/20 : la méthode + quand l'abandonner",
-    metaDescription: "50% besoins, 30% envies, 20% épargne. La méthode budget la plus simple — et les 3 cas où elle ne fonctionne pas pour toi. Exemples concrets.",
+    title: "La règle 50/30/20 : la méthode simple pour gérer ton budget",
+    metaTitle: "Règle 50/30/20 : la méthode simple pour gérer ton budget (exemples concrets) | Noory",
+    metaDescription: "50 % besoins, 30 % envies, 20 % épargne : la méthode budget la plus simple, avec un exemple concret chiffré — et les 3 cas où elle ne marche pas pour toi.",
     date: "2026-04-10",
     readTime: "7 min",
     intro: "Tu entends parler de la règle 50/30/20 partout, mais tu ne sais pas vraiment comment l'appliquer ? Voici le guide le plus clair que tu trouveras.",
@@ -3919,7 +4425,21 @@ Essaie le quiz de profil financier dans Noory. En 2 minutes, tu sauras quel type
 
 ---
 
-*Noory t'accompagne au-delà des formules. Coaching financier personnalisé, 28 jours pour transformer ton rapport à l'argent. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
+*Noory t'accompagne au-delà des formules. Coaching financier personnalisé, 28 jours pour transformer ton rapport à l'argent. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`,
+    faq: [
+      {
+        q: "La règle 50/30/20 fonctionne-t-elle avec un petit salaire ?",
+        a: "Quand une grosse part de tes revenus passe dans les besoins essentiels, le 50/30/20 strict devient irréaliste. Garde-le comme direction plutôt que comme règle absolue : vise par exemple 70/20/10 et augmente la part épargne au fil du temps. Le but n'est pas le chiffre exact, c'est de toujours réserver une part, même minime, pour l'avenir.",
+      },
+      {
+        q: "Que faut-il compter dans les 50 % de besoins ?",
+        a: "Les dépenses sans lesquelles ton quotidien s'écroule : loyer ou crédit, courses de base, factures (électricité, eau, internet, téléphone), transport et assurances obligatoires. Un abonnement streaming ou les restos, eux, vont dans les 30 % d'envies — même si ça ne te fait pas plaisir de les y ranger.",
+      },
+      {
+        q: "Faut-il suivre la règle 50/30/20 au centime près ?",
+        a: "Non, et c'est tout l'intérêt. Le 50/30/20 est un cadre mental, pas un tableur. Tu n'as pas à catégoriser chaque transaction : il s'agit de vérifier une fois par mois que tes grandes masses sont à peu près dans les clous. C'est cette simplicité qui te permet de tenir sur la durée.",
+      },
+    ],
   },
   {
     slug: "money-date-couple",

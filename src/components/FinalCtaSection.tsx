@@ -24,7 +24,7 @@ const FinalCtaSection = () => {
             </Button>
           </div>
 
-          <p className="text-sm text-muted-foreground/60">
+          <p className="text-sm text-muted-foreground">
             Gratuit · Sans engagement · Disponible sur iPhone
           </p>
         </div>

@@ -41,7 +41,7 @@ const HeroSection = () => {
             Gratuit · Sans engagement · Conçu pour durer
           </p>
 
-          <p className="text-xs text-muted-foreground/60">
+          <p className="text-xs text-muted-foreground">
             Déjà adopté par 45+ utilisateurs en France
           </p>
         </motion.div>

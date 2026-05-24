@@ -151,9 +151,9 @@ const faqJsonLd = {
 
 const FaqPage = () => {
   useSEO({
-    title: "FAQ — Questions fréquentes sur Noory | Coaching financier comportemental",
+    title: "FAQ Noory : le coach financier qui aide à mieux gérer ton argent (FAQ complète)",
     description:
-      "Toutes les réponses à tes questions sur Noory : l'app, les profils financiers, le coaching comportemental et la méthode des 28 jours.",
+      "C'est quoi Noory, comment marche un profil financier, le parcours 28 jours, la sécurité de tes données… Toutes les réponses sur le coach qui change ta relation à l'argent.",
     url: "/faq",
     jsonLd: faqJsonLd,
   });
@@ -213,7 +213,7 @@ const FaqPage = () => {
                 href="https://www.instagram.com/noory_app"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-primary hover:underline"
+                className="text-primary underline"
               >
                 @noory_app
               </a>{" "}

@@ -53,7 +53,7 @@ const JourneySection = () => {
               >
                 <step.icon size={22} className="text-foreground/70" />
               </div>
-              <span className="absolute top-6 right-6 text-xs font-bold text-muted-foreground/50 tabular-nums">
+              <span className="absolute top-6 right-6 text-xs font-bold text-muted-foreground tabular-nums" aria-hidden="true">
                 {String(i + 1).padStart(2, "0")}
               </span>
               <h3 className="text-lg font-bold mb-3 text-foreground">

@@ -75,7 +75,7 @@ const QuizPage = () => {
               <span>Quiz — Ton profil financier</span>
               <span>{result ? "Résultat" : `${current + 1}/${quizQuestions.length}`}</span>
             </div>
-            <Progress value={progress} className="h-2" />
+            <Progress value={progress} className="h-2" aria-label="Progression du quiz" />
           </div>
 
           <AnimatePresence mode="wait">

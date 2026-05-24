@@ -198,13 +198,13 @@ const BlogArticlePage = () => {
                   const isCta = lines[0].startsWith("**");
                   if (isCta) {
                     return (
-                      <aside key={i} className="my-8 p-5 bg-secondary/60 border-l-4 border-primary rounded-r-2xl space-y-1">
+                      <div key={i} className="my-8 p-5 bg-secondary/60 border-l-4 border-primary rounded-r-2xl space-y-1">
                         {lines.map((line, j) => (
                           <p key={j} className={j === 0 ? "font-bold text-foreground" : "text-sm text-foreground/80 leading-relaxed"}>
                             {renderInlineMarkdown(line)}
                           </p>
                         ))}
-                      </aside>
+                      </div>
                     );
                   }
                   return (
@@ -272,14 +272,14 @@ const BlogArticlePage = () => {
               </section>
             )}
 
-            <aside className="mt-12 p-5 bg-gray-100 text-gray-600 text-sm italic rounded-xl leading-relaxed">
+            <div className="mt-12 p-5 bg-gray-100 text-gray-700 text-sm italic rounded-xl leading-relaxed">
               Cet article a une vocation pédagogique. Il ne constitue ni un
               conseil en investissement, ni un conseil financier personnalisé
               au sens de l'article L. 541-1 du Code monétaire et financier.
               Pour toute décision financière importante, consultez un
               conseiller habilité (CIF, CGP). Noory est un outil de coaching
               comportemental, pas un service financier réglementé.
-            </aside>
+            </div>
 
             {/* CTA */}
             <div className="mt-10 p-8 bg-card border border-border rounded-2xl text-center">

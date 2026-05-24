@@ -58,20 +58,22 @@ const Index = () => {
   return (
     <div className="min-h-screen bg-background">
       <Navbar />
-      <HeroSection />
-      <ProblemSection />
-      <JourneySection />
-      <TransformationSection />
-      <HowItWorksSection />
-      <ProfileQuizSection />
-      <ForWhoSection />
-      <DifferenceSection />
-      <ProductDepthSection />
-      <PhilosophySection />
-      <SocialProofSection />
-      <TestimonialsSection />
-      <HomepageFaqSection />
-      <FinalCtaSection />
+      <main>
+        <HeroSection />
+        <ProblemSection />
+        <JourneySection />
+        <TransformationSection />
+        <HowItWorksSection />
+        <ProfileQuizSection />
+        <ForWhoSection />
+        <DifferenceSection />
+        <ProductDepthSection />
+        <PhilosophySection />
+        <SocialProofSection />
+        <TestimonialsSection />
+        <HomepageFaqSection />
+        <FinalCtaSection />
+      </main>
       <Footer />
     </div>
   );

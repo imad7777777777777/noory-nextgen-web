@@ -9,7 +9,29 @@
   <!-- Blog index -->
   <url>
     <loc>https://noory.io/blog/</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-05-24</lastmod>
+  </url>
+
+  <!-- Blog articles — Wave 6 (piliers psychologie & comportement, May 2026) -->
+  <url>
+    <loc>https://noory.io/blog/psychologie-de-l-argent-pourquoi-mauvaises-decisions/</loc>
+    <lastmod>2026-05-24</lastmod>
+  </url>
+  <url>
+    <loc>https://noory.io/blog/biais-cognitifs-budget/</loc>
+    <lastmod>2026-05-24</lastmod>
+  </url>
+  <url>
+    <loc>https://noory.io/blog/coach-financier-comportemental/</loc>
+    <lastmod>2026-05-24</lastmod>
+  </url>
+  <url>
+    <loc>https://noory.io/blog/depenses-emotionnelles-pourquoi-acheter-quand-triste/</loc>
+    <lastmod>2026-05-24</lastmod>
+  </url>
+  <url>
+    <loc>https://noory.io/blog/tdah-argent-gestion-budget/</loc>
+    <lastmod>2026-05-24</lastmod>
   </url>
 
   <!-- Blog articles — Wave 5 (long-tail SEO, May 2026) -->

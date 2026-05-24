@@ -28,7 +28,7 @@ const DifferenceSection = () => {
             <div key={i} className="grid md:grid-cols-2 gap-4">
               <div className="flex items-start gap-3 p-5 rounded-2xl bg-rose-pastel/60 border border-border/50">
                 <X size={18} className="text-destructive flex-shrink-0 mt-0.5" />
-                <p className="text-sm text-foreground/60 leading-relaxed">{c.old}</p>
+                <p className="text-sm text-foreground/80 leading-relaxed">{c.old}</p>
               </div>
               <div className="flex items-start gap-3 p-5 rounded-2xl bg-emerald-pastel/60 border border-border/50">
                 <Check size={18} className="text-primary flex-shrink-0 mt-0.5" />

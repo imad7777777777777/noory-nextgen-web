@@ -11,6 +11,11 @@ const PORT = 4510;
 const routes = [
   "/",
   "/blog",
+  "/blog/psychologie-de-l-argent-pourquoi-mauvaises-decisions",
+  "/blog/biais-cognitifs-budget",
+  "/blog/coach-financier-comportemental",
+  "/blog/depenses-emotionnelles-pourquoi-acheter-quand-triste",
+  "/blog/tdah-argent-gestion-budget",
   "/blog/test-depensier-emotionnel",
   "/blog/quel-salaire-pour-epargner-500-par-mois",
   "/blog/comment-arreter-de-depenser-impulsivement",
@@ -71,7 +76,15 @@ const redirects = {
     "/blog/comment-arreter-de-depenser-impulsivement/",
   "/blog/epargner-petit-salaire":
     "/blog/epargner-petit-salaire-methodes-concretes/",
+  // Legacy URL still in Google's index (old English about page) → current FR page
+  "/about-us": "/a-propos/",
+  // Legacy /plan URL (no longer exists) → homepage
+  "/plan": "/",
 };
+
+// A route whose #root has fewer than this many chars after render means React
+// didn't hydrate — it would ship a blank page to crawlers. Fails the build.
+const MIN_ROOT_CONTENT = 2000;
 
 const BASE = "https://noory.io";
 
@@ -146,6 +159,7 @@ async function prerender() {
 
   let success = 0;
   let failed = 0;
+  const thin = [];
 
   for (const route of routes) {
     try {
@@ -159,6 +173,15 @@ async function prerender() {
       await page.waitForSelector("#root > *", { timeout: 10000 });
 
       const html = await page.content();
+
+      // Guard: detect silent hydration failures (empty #root shipped to bots).
+      const rootContentLen = await page.evaluate(() => {
+        const r = document.getElementById("root");
+        return r ? r.innerHTML.length : 0;
+      });
+      if (rootContentLen < MIN_ROOT_CONTENT) {
+        thin.push(`${route} — #root only ${rootContentLen} chars`);
+      }
 
       // Write the prerendered HTML
       const outDir =
@@ -190,11 +213,18 @@ async function prerender() {
 
   console.log(`Redirect stubs: ${redirectCount}`);
 
+  if (thin.length > 0) {
+    console.error(
+      `\n🔥 ${thin.length} route(s) rendered with a thin/empty #root (< ${MIN_ROOT_CONTENT} chars) — likely a hydration failure that would ship a blank page to crawlers:`
+    );
+    thin.forEach((t) => console.error(`   - ${t}`));
+  }
+
   console.log(
-    `\nDone: ${success} prerendered, ${failed} failed out of ${routes.length} routes.`
+    `\nDone: ${success} prerendered, ${failed} failed, ${thin.length} thin out of ${routes.length} routes.`
   );
 
-  if (failed > 0) process.exit(1);
+  if (failed > 0 || thin.length > 0) process.exit(1);
 }
 
 prerender();

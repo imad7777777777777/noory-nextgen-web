@@ -28,7 +28,10 @@ export const ORG_NOORY = {
   "@type": "Organization",
   "@id": `${BASE_URL}/#organization`,
   name: "Noory",
+  alternateName: "Noory App",
   url: BASE_URL,
+  description:
+    "Noory est un coach financier comportemental : l'app t'aide à comprendre ta psychologie de l'argent et à faire moins d'erreurs émotionnelles avec ton budget.",
   logo: {
     "@type": "ImageObject",
     url: `${BASE_URL}/og-image.png`,

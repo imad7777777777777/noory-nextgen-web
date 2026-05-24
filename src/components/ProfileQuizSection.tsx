@@ -62,7 +62,7 @@ const ProfileQuizSection = () => {
             >
               <span className="text-4xl mb-4 block">{p.emoji}</span>
               <h3 className="text-lg font-bold mb-2 text-foreground">{p.name}</h3>
-              <p className="text-sm text-foreground/60 leading-relaxed">{p.tagline}</p>
+              <p className="text-sm text-foreground/80 leading-relaxed">{p.tagline}</p>
             </Link>
           ))}
 

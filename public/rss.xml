@@ -5,8 +5,43 @@
     <link>https://noory.io/blog</link>
     <description>Articles sur la psychologie de l'argent, l'épargne et les habitudes financières.</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 15 May 2026 09:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 09:00:00 GMT</lastBuildDate>
     <atom:link href="https://noory.io/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TDAH et argent : pourquoi c&apos;est plus dur (et comment gérer ton budget autrement)</title>
+      <link>https://noory.io/blog/tdah-argent-gestion-budget</link>
+      <description>Si tu as un TDAH, tu t&apos;es sûrement déjà demandé pourquoi gérer ton argent te semble si difficile alors que ça a l&apos;air si simple pour les autres. La réponse n&apos;est pas &quot;tu ne fais pas assez d&apos;efforts&quot;.</description>
+      <pubDate>Sun, 24 May 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://noory.io/blog/tdah-argent-gestion-budget</guid>
+    </item>
+    <item>
+      <title>Dépenses émotionnelles : pourquoi on achète quand on est triste (ou stressé, ou seul)</title>
+      <link>https://noory.io/blog/depenses-emotionnelles-pourquoi-acheter-quand-triste</link>
+      <description>Tu te retrouves avec un truc dans ton panier sans trop savoir comment il y est arrivé. La vérité, c&apos;est que ce n&apos;est presque jamais l&apos;objet que tu voulais — c&apos;est une émotion que tu cherchais à calmer.</description>
+      <pubDate>Sun, 24 May 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://noory.io/blog/depenses-emotionnelles-pourquoi-acheter-quand-triste</guid>
+    </item>
+    <item>
+      <title>Coach financier comportemental : la nouvelle façon de changer ton rapport à l&apos;argent</title>
+      <link>https://noory.io/blog/coach-financier-comportemental</link>
+      <description>Tu connais les conseillers financiers et les apps de budget. Le coach financier comportemental, lui, ne s&apos;occupe pas de tes placements ni de tes catégories de dépenses.</description>
+      <pubDate>Sun, 24 May 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://noory.io/blog/coach-financier-comportemental</guid>
+    </item>
+    <item>
+      <title>Les 7 biais cognitifs qui sabotent ton budget (et comment les déjouer)</title>
+      <link>https://noory.io/blog/biais-cognitifs-budget</link>
+      <description>Tu n&apos;es pas mauvais·e avec l&apos;argent. Ton cerveau prend juste des raccourcis qui, appliqués à tes finances, te font perdre de l&apos;argent sans même que tu le remarques.</description>
+      <pubDate>Sun, 24 May 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://noory.io/blog/biais-cognitifs-budget</guid>
+    </item>
+    <item>
+      <title>Psychologie de l&apos;argent : pourquoi on prend de mauvaises décisions financières</title>
+      <link>https://noory.io/blog/psychologie-de-l-argent-pourquoi-mauvaises-decisions</link>
+      <description>Tu sais ce qu&apos;il faudrait faire avec ton argent : épargner, moins dépenser, anticiper. Et pourtant tu fais souvent l&apos;inverse.</description>
+      <pubDate>Sun, 24 May 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://noory.io/blog/psychologie-de-l-argent-pourquoi-mauvaises-decisions</guid>
+    </item>
     <item>
       <title>Test dépensier émotionnel : 5 questions pour savoir si c&apos;est ton cas</title>
       <link>https://noory.io/blog/test-depensier-emotionnel</link>
@@ -22,7 +57,7 @@
       <guid isPermaLink="true">https://noory.io/blog/quel-salaire-pour-epargner-500-par-mois</guid>
     </item>
     <item>
-      <title>Comment arrêter de dépenser impulsivement : 5 techniques qui marchent vraiment</title>
+      <title>Comment arrêter de dépenser impulsivement : 7 techniques qui marchent vraiment</title>
       <link>https://noory.io/blog/comment-arreter-de-depenser-impulsivement</link>
       <description>Tu te promets de faire attention. Tu craques quand même.</description>
       <pubDate>Fri, 08 May 2026 09:00:00 GMT</pubDate>
@@ -43,7 +78,7 @@
       <guid isPermaLink="true">https://noory.io/blog/finance-comportementale-guide-debutant</guid>
     </item>
     <item>
-      <title>Épargne automatique : la méthode pour épargner sans y penser</title>
+      <title>Épargne automatique : comment la mettre en place pour épargner sans y penser</title>
       <link>https://noory.io/blog/epargne-automatique-comment-mettre-en-place</link>
       <description>Tu te dis chaque mois &quot;je mettrai quelque chose de côté à la fin&quot;. Et à la fin, il ne reste rien.</description>
       <pubDate>Sun, 19 Apr 2026 09:00:00 GMT</pubDate>
@@ -127,7 +162,7 @@
       <guid isPermaLink="true">https://noory.io/blog/methode-enveloppes-budget</guid>
     </item>
     <item>
-      <title>Anxiété financière : 7 techniques pour calmer ton stress d&apos;argent</title>
+      <title>Anxiété financière : pourquoi elle arrive et 7 techniques pour la calmer</title>
       <link>https://noory.io/blog/anxiete-financiere-calmer</link>
       <description>Tu te réveilles la nuit en pensant à tes finances ? Tu évites d&apos;ouvrir ton appli bancaire ?</description>
       <pubDate>Sun, 12 Apr 2026 09:00:00 GMT</pubDate>
@@ -169,7 +204,7 @@
       <guid isPermaLink="true">https://noory.io/blog/profil-financier-psychologie-argent</guid>
     </item>
     <item>
-      <title>La règle 50/30/20 : le budget le plus simple du monde (expliqué)</title>
+      <title>La règle 50/30/20 : la méthode simple pour gérer ton budget</title>
       <link>https://noory.io/blog/regle-50-30-20-explication</link>
       <description>Tu entends parler de la règle 50/30/20 partout, mais tu ne sais pas vraiment comment l&apos;appliquer ? Voici le guide le plus clair que tu trouveras.</description>
       <pubDate>Fri, 10 Apr 2026 09:00:00 GMT</pubDate>

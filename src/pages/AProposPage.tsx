@@ -109,7 +109,7 @@ const AProposPage = () => {
               Si tu veux qu'on parle : <strong>écris-moi directement</strong> à{" "}
               <a
                 href="mailto:contact.noory.app@gmail.com"
-                className="text-primary hover:underline"
+                className="text-primary underline"
               >
                 contact.noory.app@gmail.com
               </a>
@@ -126,7 +126,7 @@ const AProposPage = () => {
                   href={TIKTOK_URL}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-primary hover:underline"
+                  className="text-primary underline"
                 >
                   @imad.argent.ethique
                 </a>{" "}
@@ -138,7 +138,7 @@ const AProposPage = () => {
                   href={APP_STORE_URL}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-primary hover:underline"
+                  className="text-primary underline"
                 >
                   Noory sur iPhone
                 </a>{" "}
@@ -150,7 +150,7 @@ const AProposPage = () => {
                   href={LINKEDIN_URL}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-primary hover:underline"
+                  className="text-primary underline"
                 >
                   profil pro
                 </a>

@@ -47,7 +47,7 @@ const ConfidentialitePage = () => {
               Contact :{" "}
               <a
                 href="mailto:contact.noory.app@gmail.com"
-                className="text-primary hover:underline"
+                className="text-primary underline"
               >
                 contact.noory.app@gmail.com
               </a>
@@ -145,7 +145,7 @@ const ConfidentialitePage = () => {
                 cette mesure d'audience à tout moment en écrivant à{" "}
                 <a
                   href="mailto:contact.noory.app@gmail.com"
-                  className="text-primary hover:underline"
+                  className="text-primary underline"
                 >
                   contact.noory.app@gmail.com
                 </a>
@@ -228,7 +228,7 @@ const ConfidentialitePage = () => {
                 Pour exercer ces droits, contacte-nous :{" "}
                 <a
                   href="mailto:contact.noory.app@gmail.com"
-                  className="text-primary hover:underline"
+                  className="text-primary underline"
                 >
                   contact.noory.app@gmail.com
                 </a>
@@ -247,7 +247,7 @@ const ConfidentialitePage = () => {
                 toutes tes données en nous envoyant un email à{" "}
                 <a
                   href="mailto:contact.noory.app@gmail.com"
-                  className="text-primary hover:underline"
+                  className="text-primary underline"
                 >
                   contact.noory.app@gmail.com
                 </a>
@@ -286,7 +286,7 @@ const ConfidentialitePage = () => {
                 Pour toute question :{" "}
                 <a
                   href="mailto:contact.noory.app@gmail.com"
-                  className="text-primary hover:underline"
+                  className="text-primary underline"
                 >
                   contact.noory.app@gmail.com
                 </a>

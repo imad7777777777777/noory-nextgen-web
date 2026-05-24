@@ -32,7 +32,7 @@ const ForWhoSection = () => {
             >
               <span className="text-3xl mb-4 block">{a.emoji}</span>
               <h3 className="text-base font-bold mb-2 text-foreground">{a.title}</h3>
-              <p className="text-sm text-foreground/60 leading-relaxed">{a.description}</p>
+              <p className="text-sm text-foreground/80 leading-relaxed">{a.description}</p>
             </Link>
           ))}
         </div>

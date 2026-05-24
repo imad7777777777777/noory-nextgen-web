@@ -46,6 +46,8 @@ const App = () => (
             <Route path="/faq" element={<FaqPage />} />
             <Route path="/confidentialite" element={<ConfidentialitePage />} />
             <Route path="/cgu" element={<CguPage />} />
+            <Route path="/about-us" element={<Navigate to="/a-propos/" replace />} />
+            <Route path="/plan" element={<Navigate to="/" replace />} />
             <Route path="/a-propos" element={<AProposPage />} />
             <Route path="/nous-contacter" element={<ContactPage />} />
             {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}

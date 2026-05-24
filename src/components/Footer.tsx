@@ -28,7 +28,7 @@ const Footer = () => {
 
           {/* Navigation */}
           <div>
-            <h4 className="text-sm font-bold text-foreground mb-3">Explorer</h4>
+            <h2 className="text-sm font-bold text-foreground mb-3">Explorer</h2>
             <div className="flex flex-col gap-2">
               <Link to="/blog/" className="text-sm text-muted-foreground hover:text-primary transition-colors">Blog</Link>
               <Link to="/quiz/" className="text-sm text-muted-foreground hover:text-primary transition-colors">Quiz — Ton profil</Link>
@@ -42,7 +42,7 @@ const Footer = () => {
 
           {/* Profiles */}
           <div>
-            <h4 className="text-sm font-bold text-foreground mb-3">Profils financiers</h4>
+            <h2 className="text-sm font-bold text-foreground mb-3">Profils financiers</h2>
             <div className="flex flex-col gap-2">
               {profileLinks.map((p) => (
                 <Link
@@ -58,7 +58,7 @@ const Footer = () => {
 
           {/* Blog articles */}
           <div>
-            <h4 className="text-sm font-bold text-foreground mb-3">Articles populaires</h4>
+            <h2 className="text-sm font-bold text-foreground mb-3">Articles populaires</h2>
             <div className="flex flex-col gap-2">
               <Link to="/blog/comment-arreter-de-depenser-impulsivement/" className="text-sm text-muted-foreground hover:text-primary transition-colors">Dépenses impulsives</Link>
               <Link to="/blog/gerer-son-argent-sans-stress/" className="text-sm text-muted-foreground hover:text-primary transition-colors">Gérer sans stress</Link>
