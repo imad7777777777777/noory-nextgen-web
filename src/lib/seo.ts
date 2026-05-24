@@ -34,7 +34,9 @@ export const ORG_NOORY = {
     "Noory est un coach financier comportemental : l'app t'aide à comprendre ta psychologie de l'argent et à faire moins d'erreurs émotionnelles avec ton budget.",
   logo: {
     "@type": "ImageObject",
-    url: `${BASE_URL}/og-image.png`,
+    url: `${BASE_URL}/logo.webp`,
+    width: 512,
+    height: 512,
   },
   sameAs: [
     "https://www.linkedin.com/in/imad-noory-3b2242403/",
