@@ -1299,105 +1299,136 @@ Si tu veux savoir lequel de ces biais domine le plus chez toi, [le quiz Noory te
   },
   {
     slug: "epargne-automatique-comment-mettre-en-place",
-    title: "Épargne automatique : comment la mettre en place pour épargner sans y penser",
-    metaTitle: "Épargne automatique : la méthode pas à pas pour épargner sans effort (2026) | Noory",
-    metaDescription: "Épargne automatique : programme un virement le jour de ta paie et mets de côté sans y penser. La méthode pas à pas, combien commencer et où placer l'argent.",
+    title: "Épargne automatique : comment la mettre en place",
+    metaTitle: "Épargne automatique : comment la mettre en place (2026)",
+    metaDescription: "L'épargne automatique, c'est virer 150 € dès le jour de paie sur un livret séparé, avant de dépenser. La méthode pas à pas pour t'y mettre en 4 minutes.",
     date: "2026-04-19",
-    readTime: "6 min",
-    intro: "Tu te dis chaque mois \"je mettrai quelque chose de côté à la fin\". Et à la fin, il ne reste rien. Voici la méthode qui fonctionne — sans discipline, sans effort, sans y penser.",
-    keywords: ["épargne automatique", "virement automatique épargne", "comment épargner sans y penser"],
-    content: `## Pourquoi la discipline ne marche pas pour épargner
+    dateModified: "2026-05-29",
+    readTime: "8 min",
+    intro: "Concrètement : tu programmes un virement automatique de 150 € le jour de ta paie, vers un livret séparé, avant même d'avoir vu l'argent. C'est ça, l'épargne automatique. Voici comment la mettre en place en 4 minutes — et combien viser pour que ça tienne.",
+    keywords: ["épargne automatique", "virement automatique épargne", "comment épargner sans y penser", "épargne automatique sans virement", "investissement automatique", "conseils épargne"],
+    relatedSlugs: ["epargne-de-precaution-combien", "fonds-urgence-combien-comment", "regle-50-30-20-explication"],
+    content: `## L'épargne automatique en 3 étapes (mise en place en 4 minutes)
 
-Tu connais ce schéma : début du mois tu te dis "ce mois-ci, je mets 200€ de côté". Le 10, tu dépenses sans y penser. Le 20, tu piochces dans tes "économies" pour une sortie. Le 30, il ne reste plus rien. Et tu culpabilises.
+Pas besoin de discipline ni de tableur. Le principe tient en trois gestes que tu fais une seule fois :
 
-Ce n'est pas un manque de volonté. C'est de la biologie. La volonté est une ressource limitée, et elle diminue chaque fois que tu résistes à une envie. En fin de journée — ou en fin de mois — ton cerveau n'a plus les réserves pour dire non. Et c'est là que les dépenses non prévues surgissent.
+1. **Ouvre (ou repère) un compte d'épargne séparé.** Un Livret A suffit, et tu peux l'ouvrir en 10 minutes depuis ton appli bancaire. L'important : qu'il ne soit pas ton compte courant.
+2. **Programme un virement automatique récurrent.** Dans ton appli : virement programmé, montant fixe, fréquence mensuelle, date = le jour de ta paie (ou le lendemain).
+3. **Oublie-le.** C'est tout. Le système tourne sans toi. Chaque mois, l'argent part vers ton épargne avant que tu aies pu le dépenser.
 
-Les études en finance comportementale sont formelles : les personnes qui épargnent le plus régulièrement ne sont pas les plus disciplinées. Ce sont celles qui ont retiré l'épargne de leur champ de décision. Elles n'ont pas besoin de choisir, parce que le choix est déjà fait — à l'avance, une seule fois.
+Concrètement : 150 € qui partent le 28 vers ton Livret A, c'est 1 800 € de côté au bout d'un an — sans y avoir repensé une seule fois. L'argent que tu ne vois pas, tu ne le dépenses pas.
 
-## Le principe : virement auto le 1er du mois AVANT de dépenser
+## Combien épargner automatiquement par mois ?
 
-La méthode tient en une phrase : le jour où tu reçois ton salaire, un virement automatique part immédiatement vers un compte d'épargne séparé.
+La plus grosse erreur, c'est de viser trop haut et d'abandonner au bout de deux mois. Tu te dis "je mets 20 % de côté", et au premier imprévu, tu annules tout le système.
 
-Pas à la fin du mois avec "ce qui reste" (il ne reste jamais rien). Pas quand tu "y penseras" (tu n'y penseras pas). **Le jour même**, automatiquement, avant même que tu aies pu voir cet argent sur ton compte courant.
+Fais l'inverse : commence avec un montant si petit que tu ne le sens pas. **5 % de ton salaire**. Sur 1 800 € net, c'est 90 €. Sur 1 500 €, 75 €. Sur 1 000 €, 50 €.
 
-Ce principe est connu sous le nom de **"paye-toi en premier"**. Et c'est la technique la plus puissante en finances personnelles. Parce qu'elle inverse la logique habituelle : au lieu d'épargner ce qui reste après les dépenses, tu dépenses ce qui reste après l'épargne.
+Ce montant ne va pas transformer ta vie en un mois. Mais il installe trois choses qui valent plus que les euros accumulés :
 
-L'argent que tu ne vois pas, tu ne le dépenses pas. C'est aussi simple que ça.
+- Un **automatisme** : le système tourne tout seul.
+- Une **identité** : tu deviens quelqu'un qui épargne.
+- Une **confiance** : tu vois que tu tiens le plan.
 
-## Combien au départ ? Commence par 5% même si c'est 50€
+Si tu veux un cadre simple pour répartir ton budget, la [règle 50/30/20](/blog/regle-50-30-20-explication) place 20 % sur l'épargne — l'épargne automatique est exactement la façon de tenir ce 20 % sans y penser. Et si tu pars d'un petit salaire, [ces méthodes concrètes pour épargner](/blog/epargner-petit-salaire-methodes-concretes) montrent qu'on peut commencer à 20 €.
 
-La plus grosse erreur, c'est de viser trop haut et d'abandonner au bout de 2 mois. Tu te dis "je vais mettre 20% de côté" — et au premier imprévu, tu annules tout le système.
+## Sur quel compte mettre ton épargne automatique ?
 
-La bonne approche est l'inverse : commence avec un montant tellement petit que tu ne le sens pas. **5% de ton salaire**. Sur 1 800€ net, c'est 90€. Sur 1 500€, c'est 75€. Sur 1 000€, c'est 50€.
+Pour commencer, ne complique pas. Un **Livret A** fait parfaitement le job :
 
-Ce montant ne va pas transformer ta vie en un mois. Mais il va créer trois choses qui valent bien plus que les euros accumulés :
-
-- Un **automatisme** (le système tourne tout seul)
-- Une **identité** (tu deviens quelqu'un qui épargne)
-- Une **confiance** (tu vois que tu peux tenir le plan)
-
-Ces trois éléments sont les vraies fondations. Le montant, lui, augmentera naturellement avec le temps.
-
-## Où placer cet argent ?
-
-Pour commencer, ne complique pas. Un **Livret A** fait parfaitement le job. Il est :
-
-- Accessible immédiatement en cas de besoin réel
-- Garanti par l'État (pas de risque de perte)
-- Facile à ouvrir (10 minutes dans ton appli bancaire)
+- Disponible immédiatement en cas de besoin réel
+- Garanti par l'État (zéro risque de perte)
+- Ouvert en 10 minutes depuis ton appli
 - Séparé de ton compte courant (donc moins tentant)
 
-Le Livret A est idéal pour ton fonds d'urgence — ces 2 à 3 mois de dépenses qui te protègent des imprévus. Si tu veux creuser le sujet, nous en parlons en détail dans [Épargne de précaution : combien mettre de côté](/blog/epargne-de-precaution-combien).
+C'est le support idéal pour ton [fonds d'urgence](/blog/fonds-urgence-combien-comment) — ces 3 à 6 mois de dépenses qui te protègent des coups durs. Pour savoir combien viser précisément, on détaille tout dans [Épargne de précaution : combien mettre de côté](/blog/epargne-de-precaution-combien).
 
-Une fois ton fonds d'urgence constitué, tu pourras diversifier : LDDS pour compléter, assurance-vie pour les projets à 5 ans et plus, PEA pour investir. Mais tu n'as pas besoin d'y penser maintenant. Chaque chose en son temps.
+Une fois ton fonds d'urgence constitué, tu pourras diversifier : LDDS pour compléter, assurance-vie ou PEA pour les projets à 5 ans et plus. Mais chaque chose en son temps — tu n'as pas besoin d'y penser maintenant.
 
-## L'astuce qui change tout : +1% tous les 3 mois
+## Créer une épargne automatique sans virement (ni nouveau compte)
 
-Voici la vraie magie du système : ne reste pas à 5% pour toujours.
+Tu n'as pas envie d'ouvrir un compte, ou les virements programmés te bloquent ? Il existe des automatismes qui épargnent à ta place, sans virement classique :
 
-Tous les 3 mois, augmente ton virement automatique de 1%. Tu passes de 5% à 6%, puis 7%, puis 8%. Sur un an, tu atteins 9% sans effort. Sur deux ans, tu es à 13%.
+- **L'arrondi à l'euro supérieur.** Beaucoup de banques et néobanques arrondissent chaque achat et mettent la différence de côté. 0,40 € par-ci, 0,70 € par-là : indolore, mais ça s'accumule.
+- **Les règles automatiques.** "Chaque fois que je reçois mon salaire, mets 50 € de côté" : certaines apps déclenchent l'épargne sur un événement, pas sur une date.
+- **Les cagnottes et sous-comptes.** Sur la même banque, tu crées un espace dédié et tu y bascules une part automatiquement — pas besoin d'un autre établissement.
 
-Pourquoi ça marche ? Parce que 1% de plus, c'est quasi imperceptible dans ton budget quotidien. Sur 1 800€, passer de 90€ à 108€ d'épargne représente 18€ de moins par mois. Ça ne change pas ta vie. Mais l'effet cumulé, lui, change tout.
+L'idée reste la même : retirer l'épargne de ton champ de décision. Peu importe le mécanisme, ce qui compte c'est qu'il se déclenche **sans toi**.
 
-Au bout de 5 ans à ce rythme, tu épargnes 20 à 25% de ton salaire sans avoir jamais eu la sensation de te priver. C'est le pouvoir des micro-ajustements invisibles, répétés dans le temps.
+## Épargne ou investissement automatique ?
 
-Programme un rappel dans ton téléphone : "Augmenter virement épargne" tous les 3 mois. C'est littéralement tout ce que tu as à faire.
+"Épargne automatique" et "investissement automatique" ne servent pas à la même chose, et l'ordre compte.
+
+- **L'épargne automatique** alimente un produit sûr et disponible (Livret A). C'est pour ton fonds d'urgence et tes projets courts. Aucun risque de perte.
+- **L'investissement automatique** (souvent appelé *DCA*, pour investissement programmé) place une somme fixe chaque mois sur un PEA ou une assurance-vie en ETF. Le rendement potentiel est plus élevé, mais la valeur peut baisser à court terme.
+
+La règle d'or : **on construit d'abord le coussin de sécurité, ensuite seulement on investit**. Tant que ton fonds d'urgence n'est pas là, l'épargne automatique sur Livret A passe avant tout. L'investissement automatique vient après — jamais avant.
+
+## L'astuce qui change tout : +1 % tous les 3 mois
+
+Voici la vraie magie du système : ne reste pas à 5 % pour toujours.
+
+Tous les 3 mois, augmente ton virement de 1 %. Tu passes de 5 à 6, puis 7, puis 8 %. Sur un an, tu atteins 9 % sans effort. Sur deux ans, 13 %.
+
+Pourquoi ça marche ? Parce que 1 % de plus, c'est imperceptible dans ton quotidien. Sur 1 800 €, passer de 90 à 108 € d'épargne, c'est 18 € de moins par mois. Ça ne change pas ta vie — mais l'effet cumulé, lui, change tout.
+
+Programme un simple rappel : "augmenter virement épargne", tous les 3 mois. C'est littéralement tout ce que tu as à faire.
 
 ## Et si un mois tu ne peux pas ?
 
-Ça arrivera. Un imprévu, une grosse dépense, une fin de mois tendue. Et la tentation sera forte d'arrêter le virement automatique.
+Ça arrivera. Un imprévu, une grosse dépense, une fin de mois tendue. La tentation sera forte de tout arrêter.
 
-**Ne l'arrête pas.** Baisse-le temporairement si besoin, mais ne le supprime pas. Parce qu'un système qui tourne à 2% est infiniment plus efficace qu'un système parfait qu'on rétablira "bientôt". Le "bientôt" n'arrive jamais.
+**Ne supprime pas le virement.** Baisse-le temporairement si besoin, mais ne le coupe pas. Un système qui tourne à 2 % est infiniment plus efficace qu'un système parfait qu'on rétablira "bientôt". Le "bientôt" n'arrive jamais.
 
-La régularité bat le montant. Toujours. Mieux vaut 20€ chaque mois pendant 2 ans que 200€ un mois puis plus rien pendant 6 mois.
+La régularité bat le montant. Toujours. Mieux vaut 20 € chaque mois pendant deux ans que 200 € un mois puis plus rien pendant six.
 
-## Noory t'installe ce système dès la semaine 1
+## Pourquoi ça marche : tu dépenses ce qui reste après l'épargne
 
-Le parcours 28 jours de Noory intègre cette méthode dès la première semaine. On ne te demande pas de lire un livre de 300 pages — on t'accompagne, geste par geste, pour mettre ton virement en place, choisir le bon montant, et construire le rituel qui tient.
+Tu connais le schéma : début du mois, "ce mois-ci je mets 200 € de côté". Le 10, tu dépenses sans y penser. Le 30, il ne reste rien. Et tu culpabilises.
 
-Si tu navigues à vue avec ton argent et que tu sens que tu n'as aucune boussole, le profil du [Navigateur à Vue](/profil/navigateur-a-vue) est sûrement le tien. Et Noory est construit exactement pour t'aider à sortir de ce flou — une action à la fois, sans jugement.
+Ce n'est pas un manque de volonté — c'est de la biologie. La volonté est une ressource limitée qui s'épuise à chaque fois que tu résistes à une envie. En fin de mois, ton cerveau n'a plus les réserves pour dire non.
+
+Les personnes qui épargnent le plus régulièrement ne sont pas les plus disciplinées : ce sont celles qui ont **retiré l'épargne de leur champ de décision**. Ce principe porte un nom — "paie-toi en premier" — et c'est la technique la plus puissante en finances personnelles. Au lieu d'épargner ce qui reste après les dépenses, tu dépenses ce qui reste après l'épargne.
+
+C'est aussi un soulagement mental : un automatisme en plus, c'est une décision en moins, donc moins de [charge mentale financière](/blog/charge-mentale-financiere) à porter chaque mois.
+
+## 3 conseils pour que ton épargne automatique tienne
+
+1. **Donne un nom à ton épargne.** "Voyage", "matelas de sécurité", "liberté" : un objectif concret motive plus qu'un chiffre abstrait, surtout si tu le rends visible.
+2. **Cale le virement le jour de la paie.** Le bon moment, c'est avant de dépenser, pas après. Décale-le d'un jour si ton salaire tombe un week-end.
+3. **Ne touche pas à ce compte.** Ton épargne automatique n'est pas un deuxième compte courant. Si tu pioches dedans pour les soldes, tu casses le système.
+
+Pour savoir quel type d'épargnant·e tu es et ce qui te fait décrocher, [le profil financier](/blog/profil-financier-psychologie-argent) t'aide à comprendre tes propres mécanismes — et donc à choisir des règles qui te ressemblent.
 
 ## Le premier pas, c'est aujourd'hui
 
-Tu n'as pas besoin d'attendre le prochain salaire pour commencer. Ouvre ton appli bancaire maintenant. Crée le virement automatique. Choisis un montant que tu ne sentiras pas. Date : le 1er du mois (ou le jour où tu es payé·e). Destination : ton Livret A.
+Tu n'as pas besoin d'attendre le prochain salaire. Ouvre ton appli bancaire maintenant, crée le virement automatique, choisis un montant que tu ne sentiras pas, date : le jour de ta paie, destination : ton Livret A.
 
 C'est fait en 4 minutes. Et ces 4 minutes vont transformer ta relation à l'argent pour les années à venir.
 
 ---
 
-*Noory t'aide à installer l'épargne automatique comme un rituel qui tient. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`,
+*Noory t'aide à installer l'épargne automatique comme un rituel qui tient — un geste à la fois, sans jugement. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`,
     faq: [
       {
-        q: "Combien épargner par mois quand on débute ?",
-        a: "Commence par 5% de ton salaire, même si c'est 50€. L'important c'est l'automatisation, pas le montant.",
+        q: "Combien épargner automatiquement par mois ?",
+        a: "Commence par 5 % de ton salaire net, même si ça ne fait que 50 €. L'important n'est pas le montant mais l'automatisme. Augmente ensuite de 1 % tous les trois mois : c'est imperceptible au quotidien, mais en deux ans tu épargnes plus de 13 % sans jamais avoir eu la sensation de te priver.",
       },
       {
-        q: "Faut-il épargner avant ou après avoir dépensé ?",
-        a: "Avant. Mets en place un virement automatique le 1er du mois. Si tu attends la fin du mois, il ne restera rien.",
+        q: "Sur quel compte mettre l'épargne automatique ?",
+        a: "Pour démarrer, un Livret A suffit : disponible immédiatement, garanti par l'État, sans risque de perte et séparé de ton compte courant. C'est le support idéal pour ton fonds d'urgence. Une fois ce coussin constitué, tu peux compléter avec un LDDS, puis envisager une assurance-vie ou un PEA pour le long terme.",
       },
       {
-        q: "Où mettre son épargne de précaution ?",
-        a: "Sur un Livret A. C'est accessible immédiatement, garanti par l'État, et tu ne prends aucun risque.",
+        q: "Épargne automatique sans virement, c'est possible ?",
+        a: "Oui. Si les virements programmés te bloquent, tu peux automatiser autrement : l'arrondi à l'euro supérieur sur chaque achat, des règles déclenchées par un événement (par exemple à chaque salaire), ou un sous-compte dédié dans ta banque. Le mécanisme importe peu : ce qui compte, c'est qu'il se déclenche sans toi.",
+      },
+      {
+        q: "Épargne ou investissement automatique : par quoi commencer ?",
+        a: "Par l'épargne. Tant que ton fonds d'urgence (3 à 6 mois de dépenses) n'est pas constitué sur un Livret A, il passe avant tout. L'investissement automatique, qui place chaque mois une somme fixe en bourse ou en assurance-vie, vient seulement après : il rapporte plus, mais peut baisser à court terme.",
+      },
+      {
+        q: "Que faire si je ne peux pas épargner un mois ?",
+        a: "Ne supprime jamais ton virement automatique : baisse-le temporairement, même à 10 ou 20 €, mais garde-le actif. Un système qui tourne au ralenti reste infiniment plus efficace qu'un système parfait qu'on promet de rétablir « bientôt » — car ce « bientôt » n'arrive presque jamais. La régularité bat toujours le montant.",
       },
     ],
   },
@@ -1641,143 +1672,144 @@ N'attends pas le 1er janvier. N'attends pas lundi. Aujourd'hui, c'est ta semaine
     ],
   },
   {
-    slug: "fond-urgence-pourquoi-indispensable",
-    title: "Fonds d'urgence : pourquoi c'est la première chose à faire avec ton argent",
-    metaTitle: "Fonds d'urgence : pourquoi c'est la priorité absolue | Noory",
-    metaDescription: "Avant d'investir, avant d'épargner pour un projet : le fonds d'urgence. Combien, où, comment. Le guide complet.",
-    date: "2026-04-18",
-    dateModified: "2026-04-26",
-    readTime: "6 min",
-    intro: "On te parle d'investir, de bourse, de crypto, d'assurance-vie. Mais avant tout ça, il y a une étape non négociable : le fonds d'urgence. Voici pourquoi c'est ta priorité absolue.",
-    keywords: ["fonds d'urgence", "pourquoi épargne de précaution", "fonds de sécurité"],
-    content: `## C'est quoi un fonds d'urgence, concrètement ?
+    slug: "fonds-urgence-combien-comment",
+    title: "Fonds d'urgence : combien mettre de côté et comment le constituer",
+    metaTitle: "Fonds d'urgence : combien et comment le constituer (2026)",
+    metaDescription: "Un fonds d'urgence, c'est 3 à 6 mois de dépenses de côté pour absorber les imprévus. Combien viser, où le placer et comment le constituer dès 50 €/mois.",
+    date: "2026-05-29",
+    readTime: "9 min",
+    intro: "Ta voiture te lâche : 800 € de réparation, tout de suite. Sans fonds d'urgence, c'est un crédit à 18 % ou un découvert. Avec, c'est juste une mauvaise journée. Voici combien mettre de côté (3 à 6 mois de dépenses), où le placer, et comment t'y prendre sans te priver.",
+    keywords: ["fonds d'urgence", "fonds de précaution", "épargne de précaution montant", "combien épargner pour un fonds d'urgence", "mettre 500 euros de côté par mois"],
+    relatedSlugs: ["epargne-automatique-comment-mettre-en-place", "epargne-de-precaution-combien", "regle-50-30-20-explication"],
+    content: `## C'est quoi un fonds d'urgence (et pourquoi c'est ta priorité n°1)
 
-Le fonds d'urgence, c'est une somme d'argent que tu gardes de côté, accessible immédiatement, pour une seule chose : **absorber un imprévu sans déstabiliser ta vie**.
+Un fonds d'urgence — aussi appelé épargne de précaution ou fonds de précaution — c'est une somme d'argent que tu gardes de côté, accessible immédiatement, pour une seule mission : **absorber un imprévu sans déstabiliser ta vie**.
 
-Ce n'est pas un compte pour les vacances. Ce n'est pas pour un achat plaisir. Ce n'est pas pour investir. C'est un **filet de sécurité** — et il ne sert qu'à ça.
+Ce n'est pas un compte pour les vacances. Pas pour un achat plaisir. Pas pour investir. C'est un **filet de sécurité**, et il ne sert qu'à ça. Concrètement, il couvre les coups durs classiques :
 
-Concrètement, il couvre les coups durs classiques :
-- Une panne de voiture à 800€
+- Une panne de voiture à 800 €
 - Une facture médicale non remboursée
 - Un mois sans salaire (fin de contrat, maladie, transition)
 - Une réparation urgente dans ton logement
-- Un déménagement imprévu
+- Un électroménager qui lâche
 
-Sans fonds d'urgence, chacun de ces événements devient une **crise financière** — et souvent une dette. Avec fonds d'urgence, c'est juste un inconvénient. La différence est énorme.
+Sans fonds d'urgence, chacun de ces événements devient une **crise** — et souvent une dette. La vraie question n'est pas "est-ce que je mets de l'argent sur un Livret A plutôt qu'en bourse ?". C'est : **une panne de voiture sans coussin, c'est un crédit renouvelable à 18 %**. Ce taux annule, en quelques jours, des mois de rendement. Voilà pourquoi le fonds d'urgence passe avant l'investissement : c'est la fondation, et on ne construit rien de solide sans fondation.
 
-## Pourquoi c'est AVANT tout le reste
+## Combien mettre dans un fonds d'urgence ?
 
-Une question revient souvent : "Pourquoi je mettrais de l'argent sur un Livret A à 3% alors que je pourrais investir en bourse à 8% de rendement annuel moyen ?"
+La règle de référence : **3 à 6 mois de tes dépenses essentielles**. Pas tes dépenses totales — tes **charges fixes**, le minimum vital pour vivre si tu perdais tout revenu demain.
 
-Voici la réponse : **parce qu'une panne de voiture sans fonds d'urgence = une dette à 18% d'intérêts**.
+### La méthode de calcul (2 minutes)
 
-Tu vois le problème ? Si tu n'as pas de coussin et qu'un imprévu arrive, tu es obligé·e de :
+Additionne tes charges incompressibles sur un mois :
 
-- Soit sortir du crédit renouvelable à 18-21% (le pire)
-- Soit utiliser ta carte de crédit avec des frais massifs
-- Soit emprunter à ta famille (charge relationnelle)
-- Soit revendre un placement en urgence, au mauvais moment (potentiellement à perte)
+- Loyer ou crédit immobilier
+- Factures : électricité, eau, internet, téléphone
+- Alimentation de base
+- Transport essentiel
+- Assurances et mutuelle
 
-Aucune de ces options n'est bonne. Et toutes annulent, en quelques jours, les rendements que tu as pu faire les mois précédents.
+Puis applique la règle :
 
-C'est pour ça que **le fonds d'urgence est la fondation**. Avant la fondation, tu ne construis rien de solide. Une fois la fondation posée, tu peux construire tout ce que tu veux.
+- **Charges mensuelles × 3 = ton fonds d'urgence minimum**
+- **Charges mensuelles × 6 = ton fonds d'urgence confortable**
 
-## Combien, exactement ?
+**Exemple chiffré.** Tes charges fixes font 1 200 €/mois. Ton minimum, c'est 3 600 €. Ton objectif confortable, 7 200 €. Si tu es freelance ou à revenus variables, vise plutôt le haut de la fourchette (6 mois). Si tu es salarié·e en CDI avec des revenus stables, 3 mois sont déjà une protection solide.
 
-La règle de base : **3 à 6 mois de tes charges fixes**.
+Ça te paraît énorme ? C'est normal. C'est pour ça qu'on le construit sur 12 à 24 mois, pas en trois. Et qu'on ne vise jamais le montant final d'un coup (on y revient plus bas).
 
-Pas tes dépenses totales. Tes **charges fixes** : le minimum vital pour vivre si tu perdais tout revenu demain.
+## Où placer ton fonds d'urgence ?
 
-Fais le calcul simple :
+Deux critères, non négociables :
 
-- Loyer : _____ €
-- Factures (elec, eau, internet, téléphone) : _____ €
-- Alimentation minimum : _____ €
-- Transport essentiel : _____ €
-- Assurances : _____ €
+1. **Disponible immédiatement** — tu dois pouvoir y accéder sous 48 h.
+2. **Sans risque de perte** — pas de bourse, pas de crypto, pas d'assurance-vie en unités de compte.
 
-**Total mensuel × 3 = ton fonds d'urgence minimum.**
+Le grand gagnant : le **Livret A**. Plafond 22 950 € (large), rémunéré, garanti par l'État, retrait en 24 h. Si ton Livret A est plein, complète avec le **LDDS** (plafond 12 000 €).
 
-**Total mensuel × 6 = ton fonds d'urgence confortable.**
+Ce que ces deux livrets t'apportent et qu'un placement "plus rentable" ne peut pas : la certitude que l'argent sera là, intact, le jour où tu en auras besoin. Le fonds d'urgence n'a pas vocation à rapporter. Il a vocation à te protéger. Les deux sont incompatibles, et c'est très bien ainsi.
 
-Exemple concret : si tes charges fixes font 1 200€/mois, ton fonds d'urgence minimum est de 3 600€, et ton objectif idéal est 7 200€.
+**À éviter pour ce coussin précis :** assurance-vie (fonds peu disponibles, fiscalité au retrait), PEA et actions/ETF (peuvent baisser au pire moment), cryptomonnaies (trop volatiles), et surtout le **compte courant** — trop tentant d'y piocher au quotidien.
 
-Ça te paraît énorme ? Ça l'est. C'est pour ça qu'on le construit sur 1 à 2 ans, pas en 3 mois.
+## Comment constituer ton fonds d'urgence sans te priver
 
-## Où le placer ?
+C'est ici que tout se joue. Et la bonne nouvelle, c'est que ça ne repose pas sur la volonté.
 
-Deux critères absolus :
+### 1. Vise des paliers, pas le montant final
 
-1. **Disponible immédiatement** (tu dois y accéder sous 48h max)
-2. **Sans risque de perte** (pas en bourse, pas en crypto, pas sur assurance-vie en UC)
+Personne ne se motive devant "7 200 € à atteindre". Ton cerveau décroche. Découpe en paliers et célèbre chacun :
 
-Le grand gagnant : le **Livret A**.
-- Plafond : 22 950€ (amplement suffisant)
-- Rémunéré (taux actuel autour de 3%)
-- Garanti par l'État français
-- Retrait en 24h
+- **Palier 1 : 500 €.** Le plus important. Il couvre déjà 80 % des imprévus du quotidien (réparation, facture surprise, petit pépin de santé).
+- **Palier 2 : 1 mois de charges fixes.**
+- **Palier 3 : 3 à 6 mois.**
 
-Si ton Livret A est plein, complète avec le **LDDS** (plafond 12 000€).
+Chaque palier franchi est une victoire concrète — et ton stress baisse à chaque étape.
 
-**Ce qu'il faut ÉVITER pour le fonds d'urgence :**
+### 2. Automatise (le vrai secret)
 
-- Assurance-vie (fonds bloqués ou pénalisés en cas de retrait rapide, impôts)
-- PEA (horizon long terme, volatile)
-- Actions / ETFs (peuvent baisser au pire moment)
-- Cryptomonnaies (volatilité extrême)
-- Compte courant (trop tentant de piocher)
+Le jour de ta paie, un virement automatique part vers ton Livret A. **Avant** que tu aies pu dépenser cet argent. C'est le principe "paie-toi en premier", et c'est de loin la technique la plus efficace : l'argent que tu ne vois pas, tu ne le dépenses pas. On détaille la mise en place pas à pas dans [Épargne automatique : comment la mettre en place](/blog/epargne-automatique-comment-mettre-en-place).
 
-Le fonds d'urgence n'a **pas pour vocation de rapporter**. Il a pour vocation de te protéger. Ces deux choses sont incompatibles, et c'est OK.
+### 3. Mettre 500 € de côté par mois… ou 30 €
 
-## Comment le construire quand tu pars de zéro
+"Mettre 500 € de côté par mois" fait un beau titre, mais ce n'est pas réaliste pour tout le monde — et ce n'est pas grave. Ce qui compte, c'est la **régularité**, pas le montant :
 
-Tu as 0€ de côté ? Tu n'es pas seul·e. Selon le [baromètre CSA pour Cofidis (2024)](https://www.cofidis.fr/fr/question-de-budget/pouvoir-achat/barometre-pouvoir-achat-2024.html), 51 % des Français déclarent ne pas parvenir à mettre de l'argent de côté chaque mois. Pas par manque de volonté — mais parce que personne ne nous a appris comment. Voici le plan simple :
+- 500 €/mois → 3 600 € en 7 mois
+- 100 €/mois → 3 600 € en 3 ans
+- 30 €/mois → tu démarres quand même, et tu accélères plus tard
 
-### Étape 1 : Vise 500€ (le premier palier qui change tout)
+Si tu peux mettre 500 € sans te priver, fais-le. Sinon, commence à 30 € : un petit système qui tourne bat toujours un grand projet qui n'existe que dans ta tête.
 
-Ne vise pas 7 200€ tout de suite. Tu vas te décourager. Vise **500€** pour commencer. C'est suffisant pour couvrir 80% des imprévus du quotidien : panne d'électroménager, facture oubliée, petit problème de santé.
+### 4. Accélère avec les "extras"
 
-À 100€/mois, tu y es en 5 mois. À 50€/mois, en 10 mois. À 30€/mois, en 17 mois. Peu importe la vitesse — commence.
+Prime, remboursement d'impôts, cadeau, revente d'un objet : dirige automatiquement la moitié de chaque rentrée exceptionnelle vers ton fonds. Tu accélères sans rien changer à ton quotidien.
 
-### Étape 2 : 1 mois de charges fixes
+Pour caler tout ça dans un budget global, la [règle 50/30/20](/blog/regle-50-30-20-explication) réserve 20 % à l'épargne — ton fonds d'urgence est la première chose à loger dans ce 20 %.
 
-Une fois 500€ atteints, continue. Objectif : 1 mois de charges fixes. Sur ton salaire de 1 800€ avec 1 100€ de charges, ça fait 1 100€ de côté. À 100€/mois, 6 mois de plus.
+## Les erreurs fréquentes (et comment les éviter)
 
-À ce stade, tu es déjà beaucoup plus protégé·e que la majorité des gens autour de toi.
+- **Investir avant d'avoir son coussin.** La bourse à 8 % ne sert à rien si le premier imprévu te force à vendre à perte ou à t'endetter à 18 %. Le fonds d'urgence d'abord, l'investissement ensuite.
+- **Tout viser d'un coup.** Objectif 7 200 € dès le départ = découragement assuré. Des paliers, toujours.
+- **Le garder sur le compte courant.** Mélangé au reste, il fond sans que tu t'en rendes compte. Compte séparé, obligatoirement.
+- **Y piocher pour de faux besoins.** Pose-toi la question : "ne pas dépenser maintenant aurait-il des conséquences graves sur ma santé, mon logement ou mon travail ?" Si non, ce n'est pas une urgence.
+- **Tout arrêter au premier mois difficile.** Baisse le virement, ne le supprime pas.
 
-### Étape 3 : 3 à 6 mois
+## Le vrai bénéfice : dormir tranquille
 
-Continue progressivement. Ne te mets pas de deadline rigide. Continue à virer 100€/mois (ou plus si tu peux), et dans 1 à 2 ans, tu as ton fonds d'urgence complet.
+On ne parle pas assez de ça. Le fonds d'urgence n'est pas qu'une affaire de chiffres — c'est une affaire de **santé mentale**. Quand tu sais que tu as quelques mois de charges devant toi, quelque chose se relâche : tu dors mieux, tu prends de meilleures décisions (moins de stress = moins d'achats impulsifs), tu peux dire non à une situation professionnelle toxique, et chaque imprévu cesse d'être un drame.
 
-Pour les étapes pratiques de mise en place du virement automatique, lis [Épargne automatique : la méthode complète](/blog/epargne-automatique-comment-mettre-en-place).
-
-## La tranquillité d'esprit que ça apporte
-
-On ne parle pas assez de ça. Le fonds d'urgence n'est pas qu'une question de chiffres — c'est une question de **santé mentale**.
-
-Quand tu sais que tu as 3 mois de charges devant toi, des choses changent dans ta tête :
-
-- Tu dors mieux (vraiment — des études le montrent)
-- Tu prends de meilleures décisions au quotidien (moins de stress = moins d'achats impulsifs)
-- Tu peux dire non à un job toxique, parce que tu sais que tu peux tenir
-- Tu n'as plus peur d'ouvrir ton appli bancaire
-- Chaque imprévu ne devient plus un drame
-
-Ce n'est pas un luxe. C'est la **base de toute vie financière saine**. Et surtout, c'est accessible à toi, quel que soit ton revenu — parce que c'est la régularité qui compte, pas le montant mensuel.
-
-Pour aller plus loin sur les montants précis selon ta situation, lis [Épargne de précaution : combien mettre de côté](/blog/epargne-de-precaution-combien). Et pour installer le système automatique qui construit ton fonds sans effort, découvre [Épargne automatique : la méthode pour épargner sans y penser](/blog/epargne-automatique-comment-mettre-en-place).
+C'est exactement ce qui fait baisser l'[anxiété financière](/blog/anxiete-financiere-calmer) et allège la [charge mentale](/blog/charge-mentale-financiere) que tant de gens portent en silence. Si tu veux approfondir les montants selon ta situation précise, on complète le sujet dans [Épargne de précaution : combien mettre de côté](/blog/epargne-de-precaution-combien).
 
 ## Ta première action aujourd'hui
 
-Fais le calcul de tes charges fixes mensuelles. Note le chiffre. C'est ton point de départ. Multiplie-le par 3 — c'est ton objectif minimum.
+Calcule tes charges fixes mensuelles. Note le chiffre. Multiplie-le par 3 : c'est ton objectif minimum. Puis ouvre ton appli bancaire et programme un virement automatique vers ton Livret A — même 30 €.
 
-Puis ouvre ton appli bancaire et mets en place un virement automatique mensuel vers ton Livret A. Même 30€. Même 20€. L'important, c'est de commencer.
-
-Dans 6 mois, tu auras un premier coussin. Dans 18 mois, tu auras un vrai fonds d'urgence. Et tu ne regarderas plus jamais ton argent de la même manière.
+Dans six mois, tu auras un premier coussin. Dans dix-huit, un vrai fonds d'urgence. Et tu ne regarderas plus jamais ton argent de la même manière.
 
 ---
 
-*Noory t'aide à construire ton fonds d'urgence étape par étape, sans pression. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
+*Noory t'aide à construire ton fonds d'urgence étape par étape, sans pression et sans jugement. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`,
+    faq: [
+      {
+        q: "Combien mettre dans un fonds d'urgence ?",
+        a: "La règle de référence est de 3 à 6 mois de tes charges fixes (loyer, factures, alimentation, transport). Si elles font 1 200 €/mois, vise entre 3 600 € (minimum) et 7 200 € (confortable). Commence par un premier palier de 500 €, qui couvre déjà la majorité des imprévus du quotidien.",
+      },
+      {
+        q: "Fonds d'urgence ou Livret A : quelle différence ?",
+        a: "Ce ne sont pas deux options concurrentes : le fonds d'urgence est l'objectif (de l'argent disponible pour les imprévus), le Livret A est le contenant idéal pour le loger. Disponible en 24 h, garanti par l'État et sans risque, le Livret A est précisément le support recommandé pour ton fonds d'urgence.",
+      },
+      {
+        q: "Combien de mois de dépenses faut-il avoir de côté ?",
+        a: "Trois mois de charges fixes constituent une protection solide si tu es salarié·e en CDI. Vise plutôt six mois si tes revenus sont variables (freelance, indépendant, intermittent) ou si ta situation est moins stable. Dans tous les cas, calcule sur tes charges essentielles, pas sur l'ensemble de tes dépenses.",
+      },
+      {
+        q: "Où placer son fonds d'urgence ?",
+        a: "Sur un Livret A en priorité : disponible immédiatement, garanti par l'État, sans risque de perte. Complète avec un LDDS si ton Livret A est plein. Évite l'assurance-vie, le PEA, les actions et les cryptomonnaies : leur valeur peut chuter au pire moment, et c'est l'inverse de ce qu'on demande à un fonds d'urgence.",
+      },
+      {
+        q: "Comment se constituer un fonds d'urgence avec un petit salaire ?",
+        a: "Avec de petits montants automatisés et réguliers. Programme un virement de 30 ou 50 € le jour de ta paie vers ton Livret A, et vise des paliers (500 €, puis un mois de charges). La régularité compte bien plus que le montant : 30 €/mois qui tournent battent un grand plan qui n'existe que sur le papier.",
+      },
+    ]
   },
   {
     slug: "routine-financiere-dimanche",

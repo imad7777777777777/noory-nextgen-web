@@ -5,8 +5,15 @@
     <link>https://noory.io/blog</link>
     <description>Articles sur la psychologie de l'argent, l'épargne et les habitudes financières.</description>
     <language>fr</language>
-    <lastBuildDate>Sun, 24 May 2026 09:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 09:00:00 GMT</lastBuildDate>
     <atom:link href="https://noory.io/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fonds d&apos;urgence : combien mettre de côté et comment le constituer</title>
+      <link>https://noory.io/blog/fonds-urgence-combien-comment</link>
+      <description>Ta voiture te lâche : 800 € de réparation, tout de suite. Sans fonds d&apos;urgence, c&apos;est un crédit à 18 % ou un découvert.</description>
+      <pubDate>Fri, 29 May 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://noory.io/blog/fonds-urgence-combien-comment</guid>
+    </item>
     <item>
       <title>TDAH et argent : pourquoi c&apos;est plus dur (et comment gérer ton budget autrement)</title>
       <link>https://noory.io/blog/tdah-argent-gestion-budget</link>
@@ -78,9 +85,9 @@
       <guid isPermaLink="true">https://noory.io/blog/finance-comportementale-guide-debutant</guid>
     </item>
     <item>
-      <title>Épargne automatique : comment la mettre en place pour épargner sans y penser</title>
+      <title>Épargne automatique : comment la mettre en place</title>
       <link>https://noory.io/blog/epargne-automatique-comment-mettre-en-place</link>
-      <description>Tu te dis chaque mois &quot;je mettrai quelque chose de côté à la fin&quot;. Et à la fin, il ne reste rien.</description>
+      <description>Concrètement : tu programmes un virement automatique de 150 € le jour de ta paie, vers un livret séparé, avant même d&apos;avoir vu l&apos;argent. C&apos;est ça, l&apos;épargne automatique.</description>
       <pubDate>Sun, 19 Apr 2026 09:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://noory.io/blog/epargne-automatique-comment-mettre-en-place</guid>
     </item>
@@ -97,13 +104,6 @@
       <description>Tu veux mettre de l&apos;argent de côté mais tu ne sais pas par où commencer ? Le défi 52 semaines est parfait : tu démarres avec 1€, et tu finis l&apos;année avec 1 378€.</description>
       <pubDate>Sat, 18 Apr 2026 09:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://noory.io/blog/defi-epargne-52-semaines</guid>
-    </item>
-    <item>
-      <title>Fonds d&apos;urgence : pourquoi c&apos;est la première chose à faire avec ton argent</title>
-      <link>https://noory.io/blog/fond-urgence-pourquoi-indispensable</link>
-      <description>On te parle d&apos;investir, de bourse, de crypto, d&apos;assurance-vie. Mais avant tout ça, il y a une étape non négociable : le fonds d&apos;urgence.</description>
-      <pubDate>Sat, 18 Apr 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://noory.io/blog/fond-urgence-pourquoi-indispensable</guid>
     </item>
     <item>
       <title>La routine financière du dimanche : 15 minutes pour reprendre le contrôle</title>

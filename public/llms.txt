@@ -52,10 +52,10 @@ Imad — Cofondateur de Noory. Écrit sur la psychologie de l'argent, les biais 
 
 ## Articles
 
-- [Épargne automatique : la méthode pour épargner sans y penser](https://noory.io/blog/epargne-automatique-comment-mettre-en-place/) : Mets en place un virement automatique et épargne sans effort. La méthode pas à pas pour ne plus jamais oublier de mettre de côté.
+- [Épargne automatique : comment la mettre en place](https://noory.io/blog/epargne-automatique-comment-mettre-en-place/) : Programme un virement le jour de ta paie sur un livret séparé. La méthode pas à pas en 4 minutes, combien viser, et l'épargne automatique sans virement.
 - [7 micro-habitudes financières qui changent tout (en moins de 3 min/jour)](https://noory.io/blog/habitudes-financieres-qui-changent-tout/) : Pas besoin de 2h par semaine pour gérer ton argent. 7 micro-habitudes de 3 minutes qui transforment ta relation à l'argent.
 - [Défi épargne 52 semaines : le plan pour mettre 1 378€ de côté cette année](https://noory.io/blog/defi-epargne-52-semaines/) : Le défi 52 semaines expliqué simplement. Semaine 1 = 1€, semaine 52 = 52€. Total : 1 378€ sans forcer.
-- [Fonds d'urgence : pourquoi c'est la première chose à faire avec ton argent](https://noory.io/blog/fond-urgence-pourquoi-indispensable/) : Avant d'investir, avant d'épargner pour un projet : le fonds d'urgence. Combien, où, comment. Le guide complet.
+- [Fonds d'urgence : combien mettre de côté et comment le constituer](https://noory.io/blog/fonds-urgence-combien-comment/) : Combien viser (3 à 6 mois de dépenses), où placer ton fonds d'urgence, et comment le constituer sans te priver, dès 50 €/mois. Méthode de calcul et erreurs à éviter.
 - [La routine financière du dimanche : 15 minutes pour reprendre le contrôle](https://noory.io/blog/routine-financiere-dimanche/) : Chaque dimanche, 15 minutes avec un café. C'est tout ce qu'il faut pour garder le contrôle de ton argent.
 - [Couper ses dépenses inutiles sans souffrir (la méthode douce)](https://noory.io/blog/depenses-inutiles-couper-sans-souffrir/) : Tu veux réduire tes dépenses mais pas vivre comme un moine ? Voici la méthode douce pour couper le superflu sans frustration.
 - [Comment tracker ses dépenses simplement (sans app compliquée)](https://noory.io/blog/tracker-ses-depenses-simplement/) : Pas besoin d'une app à 47 catégories. Voici la méthode ultra-simple pour savoir où part ton argent.

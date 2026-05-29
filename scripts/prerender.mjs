@@ -24,7 +24,7 @@ const routes = [
   "/blog/epargne-automatique-comment-mettre-en-place",
   "/blog/habitudes-financieres-qui-changent-tout",
   "/blog/defi-epargne-52-semaines",
-  "/blog/fond-urgence-pourquoi-indispensable",
+  "/blog/fonds-urgence-combien-comment",
   "/blog/routine-financiere-dimanche",
   "/blog/depenses-inutiles-couper-sans-souffrir",
   "/blog/tracker-ses-depenses-simplement",
@@ -72,6 +72,10 @@ const routes = [
 // redirects to the new one (meta refresh + canonical). GitHub Pages can't do
 // 301s server-side, so this is the closest equivalent for googlebot.
 const redirects = {
+  // Consolidation (May 2026): old "pourquoi" fonds-urgence article merged into
+  // the new combien/comment pillar to kill keyword cannibalization on "fonds d'urgence".
+  "/blog/fond-urgence-pourquoi-indispensable":
+    "/blog/fonds-urgence-combien-comment/",
   "/blog/depenses-impulsives-comment-arreter":
     "/blog/comment-arreter-de-depenser-impulsivement/",
   "/blog/epargner-petit-salaire":
