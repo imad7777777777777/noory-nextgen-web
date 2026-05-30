@@ -1059,123 +1059,120 @@ Si tu veux tester quelle technique correspond le mieux à ton profil financier, 
   },
   {
     slug: "epargner-petit-salaire-methodes-concretes",
-    title: "Comment épargner avec un petit salaire : méthodes concrètes (pas de leçons de morale)",
-    metaTitle: "Comment épargner avec un petit salaire : 3 méthodes concrètes | Noory",
-    metaDescription: "Petit salaire ne veut pas dire zéro épargne. Découvre des méthodes réalistes pour commencer à mettre de côté, même avec 50€ par mois.",
+    title: "Comment épargner avec un petit salaire",
+    metaTitle: "Comment épargner avec un petit salaire (méthode concrète)",
+    metaDescription: "Petit salaire ne veut pas dire zéro épargne. Avec 1 400 € net, voici comment dégager 30 à 50 €/mois sans te priver — méthodes concrètes et déculpabilisantes.",
     date: "2026-05-08",
+    dateModified: "2026-05-30",
     readTime: "8 min",
-    intro: "La majorité des conseils financiers supposent un salaire confortable. Quand tu touches 1 200€, 1 500€ ou 1 800€, ça sonne creux. Voici trois méthodes vraiment adaptées aux petits revenus — sans leçon de morale.",
+    intro: "Tu gagnes 1 400 € net, ton loyer en prend 700, et chaque mois il ne reste « rien » à épargner. Pourtant, en automatisant 30 à 50 € le jour de la paie — l'équivalent d'un resto ou deux — tu peux mettre de côté sans rien sentir passer. Voici comment, concrètement, sans leçon de morale.",
     keywords: [
+      "comment épargner avec un petit salaire",
       "épargner petit salaire",
-      "comment épargner avec un petit budget",
+      "économiser avec un petit salaire",
+      "conseils épargne petit salaire",
       "épargner avec le SMIC",
+      "combien épargner petit salaire",
       "micro-épargne",
-      "épargne 50 euros par mois",
     ],
     relatedSlugs: [
-      "defi-epargne-52-semaines",
       "epargne-automatique-comment-mettre-en-place",
-      "epargner-quand-on-a-pas-la-motivation",
+      "fonds-urgence-combien-comment",
+      "regle-50-30-20-explication",
     ],
-    content: `## La réalité que personne ne te dit
+    content: `## Combien épargner avec un petit salaire ?
 
-Quand tu lis un article sur l'épargne, on te parle d'investir 500€ par mois, de constituer 3 mois de salaire en réserve, de placer ton excédent en assurance-vie. Si tu gagnes 1 400€ après impôts et que ton loyer en prend 700, tu refermes la page. Tu te dis "ce n'est pas pour moi".
+Premier réflexe à désactiver : raisonner en pourcentage. "Épargne 10 % de tes revenus" — sur 1 400 €, ça fait 140 €, et 140 € quand chaque euro compte, ça fait peur. Tu refermes l'article.
 
-Tu n'as pas tort. Cette approche n'est pas pour toi. Mais ça ne veut pas dire qu'épargner est impossible. Ça veut dire qu'il faut une méthode différente — une méthode qui démarre avec ce que tu as, pas avec ce que tu n'as pas.
+Raisonne en euros, et en euros tout petits. Voici des points de départ réalistes, pensés pour ne pas faire mal :
 
-L'objectif de cet article n'est pas de te faire la leçon. Il est de te donner trois méthodes que des gens à 1 200€/mois utilisent vraiment, et qui marchent.
+| Salaire net / mois | Objectif de départ | Soit, par mois |
+| --- | --- | --- |
+| ~1 400 € (SMIC) | 1 à 3 % | 15 à 45 € |
+| 1 500–1 700 € | 2 à 4 % | 30 à 65 € |
+| 1 800 € | 3 à 5 % | 55 à 90 € |
 
-> **Combien tu peux vraiment épargner selon ton salaire ?**
-> Tableau réaliste par tranche de revenus + 3 leviers concrets pour viser 500 €/mois sans souffrir.
-> [Voir le tableau →](/blog/quel-salaire-pour-epargner-500-par-mois)
+Ces montants ne vont pas te rendre riche ce mois-ci, et ce n'est pas le but. Le but, c'est de **devenir quelqu'un qui épargne** — l'augmentation viendra ensuite, toute seule. Commence par le bas de la fourchette : tu pourras toujours monter, jamais l'inverse sans te décourager.
 
-## L'idée centrale : la micro-épargne, pas la macro-épargne
+Et si tu veux le détail par tranche de revenu avec les leviers pour viser plus haut, on a fait le tableau complet dans [Quel salaire pour épargner 500 € par mois](/blog/quel-salaire-pour-epargner-500-par-mois).
 
-Dans la finance classique, on raisonne en pourcentage : "épargne 10 % de tes revenus". Avec un petit salaire, ce raisonnement te bloque. Parce que 10 % de 1 200€, c'est 120€. Et 120€, quand chaque euro compte, ça fait peur.
+## La micro-épargne : la seule logique qui marche quand on gagne peu
 
-Le décalage est psychologique avant d'être mathématique. La micro-épargne renverse complètement la logique : tu démarres avec **un montant tellement petit qu'il ne peut pas faire mal**. 10€. 15€. 20€. Le but n'est pas le montant. Le but est l'**identité** : devenir, dans ta tête, quelqu'un qui épargne.
+Dans la finance classique, on raisonne en gros montants. Avec un petit salaire, ça bloque — psychologiquement avant d'être mathématiquement. La micro-épargne renverse la logique : tu démarres avec **un montant si petit qu'il ne peut pas faire mal**. 10 €, 15 €, 20 €.
 
-Une fois que cette identité est là, le reste suit. L'augmentation viendra naturellement, mois après mois. Mais elle ne peut pas démarrer sans elle.
+Le but n'est pas le montant, c'est l'**identité**. C'est ce qu'on appelle chez Noory la **confiance composée** : pas de l'intérêt composé, mais de la confiance qui se renforce à chaque mois tenu. Pour quelqu'un qui démarre, c'est infiniment plus puissant — et ça allège la [charge mentale financière](/blog/charge-mentale-financiere) au lieu de l'alourdir.
 
-C'est ce qu'on appelle, chez Noory, la **confiance composée** : pas de l'intérêt composé, mais de la confiance qui se renforce à chaque mois tenu. Et c'est infiniment plus puissant pour quelqu'un qui démarre.
+## 3 méthodes concrètes pour économiser avec un petit salaire
 
-## Méthode 1 — L'arrondi automatique
+### Méthode 1 — L'arrondi automatique (le mode "je ne fais rien")
 
-Le principe : à chaque dépense que tu fais avec ta carte, le montant est arrondi à l'euro supérieur. La différence part automatiquement sur un compte d'épargne.
+À chaque paiement par carte, le montant est arrondi à l'euro supérieur et la différence part sur ton épargne. Café à 2,30 € → 0,70 € de côté. Courses à 47,40 € → 0,60 €. Plusieurs banques le proposent (BoursoBank, Revolut, Lydia, Monabanq…). Tu l'actives une fois, tu n'y penses plus.
 
-Tu paies un café à 2,30€ → 0,70€ partent à l'épargne. Tu fais des courses à 47,40€ → 0,60€ partent. Tu prends un Uber à 8,80€ → 0,20€ partent.
+Pourquoi c'est parfait pour un petit salaire : tu ne sens **rien** partir. Sur ~100 transactions par mois, tu mets 30 à 60 € de côté sans une seule décision. Ta marge existe — elle est juste répartie en miettes.
 
-Plusieurs banques proposent cette option (BoursoBank, Revolut, Lydia, Monabanq, certaines banques mutualistes). Active-la une fois, et tu n'y penses plus jamais.
+### Méthode 2 — Le budget inversé (paie-toi en premier)
 
-Pourquoi c'est puissant pour un petit salaire :
+Le budget classique : tu paies tes charges, tu vis, tu épargnes ce qui reste. Et il ne reste jamais rien. Le budget inversé fait l'inverse : le jour de la paie, **avant toute dépense**, tu vires un montant fixe sur un compte séparé. Ensuite seulement, tu vis avec le reste.
 
-- Tu ne sens **rien** partir. C'est invisible.
-- Sur 100 transactions par mois, tu épargnes en moyenne 30 à 60€ sans avoir pris une seule décision.
-- Ça contourne le biais du présent : ton Système 1 ne perçoit pas ces micro-prélèvements comme des "pertes".
+Pour un petit salaire, ce montant doit être ridiculement bas : **20 €, 30 €**. Tu ne renonces pas à 30 € — tu vis avec 30 € de moins, ce qui est très différent dans ta tête. Le plus simple pour tenir : l'automatiser. On détaille tout dans [Épargne automatique : comment la mettre en place](/blog/epargne-automatique-comment-mettre-en-place).
 
-C'est la méthode parfaite pour démarrer quand tu te dis "je n'ai pas la marge". Tu l'as. Elle est juste répartie en miettes.
+### Méthode 3 — Le challenge progressif (le côté ludique)
 
-## Méthode 2 — Le budget inversé
+Le défi hebdo démarre à 1 € la première semaine, +1 € chaque semaine. Semaine 1 : 1 €, semaine 12 : 12 €. Au bout de 6 mois : 351 €. Sur un an : 1 378 €, en ayant commencé avec 1 euro. Personne ne peut dire "j'ai pas les moyens" à 1 €. On détaille la mécanique (et comment l'inverser si la fin s'annonce dure) dans [Le défi épargne 52 semaines](/blog/defi-epargne-52-semaines).
 
-Dans le budget classique, tu paies tes charges, tu vis, et tu épargnes ce qui reste. C'est exactement ce qui ne marche pas — il ne reste jamais rien.
+## Conseils épargne petit salaire : 5 réflexes qui changent tout
 
-Le budget inversé fait l'opposé. Le jour de ton salaire, **avant toute autre dépense**, tu vires un montant fixe sur un compte d'épargne séparé. Ensuite seulement, tu vis avec ce qui reste.
+1. **Sépare physiquement l'argent.** Un compte d'épargne distinct du compte courant : ce qui n'est pas visible n'est pas dépensé.
+2. **Automatise tout.** Vire le jour de la paie, pas à la fin du mois. La régularité bat le montant, toujours.
+3. **Commence ridiculement petit.** 10 € tenus 6 mois valent mieux que 80 € abandonnés au 2e mois.
+4. **Donne un but à ton épargne.** "Fonds d'urgence", "matelas" : un objectif nommé motive bien plus qu'un chiffre abstrait.
+5. **Ne vise pas la perfection.** Un mois difficile ? Baisse le virement, ne le supprime pas.
 
-Pour un petit salaire, ce montant doit être ridiculement bas. **20 €**. **30 €**. À toi de fixer ce que tu peux tenir 6 mois sans craquer. Si à la fin du mois tu te retrouves vraiment à sec, tu peux récupérer une partie — l'objectif n'est pas la rigidité, c'est l'inversion de l'ordre.
+Le but de ces réflexes : réduire l'effort et la culpabilité. Si l'argent te crée une vraie angoisse, [calmer l'anxiété financière](/blog/anxiete-financiere-calmer) est une étape à part entière — elle compte autant que la méthode.
 
-Pourquoi ça marche : le concept de **paye-toi en premier** (popularisé par George Clason puis Robert Kiyosaki) fonctionne parce qu'il déplace l'épargne hors de ton champ de décision quotidien. Tu ne renonces pas à 30 €/mois — tu vis avec 30 € de moins, ce qui est très différent psychologiquement.
+## Combien ça protège, concrètement ?
 
-Pour aller plus loin sur l'automatisation, lis [Épargne automatique : la méthode pour épargner sans y penser](/blog/epargne-automatique-comment-mettre-en-place).
+Tu te bats peut-être avec une croyance silencieuse : "ce que je mets de côté ne servira à rien". C'est faux, et la science le dit : une [étude de Karlan, McConnell, Mullainathan et Zinman (2016)](https://poverty-action.org/sites/default/files/publications/getting-to-the-top-of-mind.pdf) montre que des rappels d'épargne associés à un objectif précis **doublent l'épargne réelle**, quel que soit le revenu de départ. Ce n'est pas le montant qui fait l'effet, c'est la **direction**.
 
-## Méthode 3 — Le challenge weekly progressif
+20 €/mois pendant 5 ans = 1 200 €. De quoi absorber sans drame une panne de voiture ou un mois sans salaire — la différence exacte entre une crise et un imprévu gérable. C'est le rôle du [fonds d'urgence](/blog/fonds-urgence-combien-comment), et c'est précisément ce que ton épargne modeste construit, mois après mois.
 
-Le défi hebdomadaire est l'arme préférée des petits budgets : il démarre à 1 € la première semaine et augmente d'1 € chaque semaine. Semaine 1 : 1 €. Semaine 2 : 2 €. Semaine 4 : 4 €. Semaine 12 : 12 €.
+## Où mettre cet argent ?
 
-Au bout de 6 mois, tu auras mis de côté 351 €. Sur un an complet, 1 378 €. Et tu auras commencé avec 1 euro.
-
-Pourquoi c'est génial pour un petit salaire :
-
-- Le ticket d'entrée est minuscule. Personne ne peut dire "j'ai pas les moyens" à 1 €.
-- L'augmentation est progressive : ton cerveau s'adapte sans choc.
-- Tu peux **inverser** le défi si tu sens que la fin sera dure : commence par 52 € en janvier (souvent un mois où on ressent la motivation post-fêtes), descends jusqu'à 1 € en décembre.
-
-On détaille toute la mécanique dans [Le défi épargne 52 semaines](/blog/defi-epargne-52-semaines).
-
-## La psychologie qui fait toute la différence
-
-Quand tu démarres avec un petit budget, tu te bats avec une croyance silencieuse : "ce que je mets de côté ne servira à rien". Cette pensée est le tueur silencieux de toute épargne modeste.
-
-La science te dit l'inverse. Une [étude de Karlan, McConnell, Mullainathan et Zinman (2016)](https://poverty-action.org/sites/default/files/publications/getting-to-the-top-of-mind.pdf) sur des clients aux Philippines, en Bolivie et au Pérou a montré que des rappels d'épargne mentionnant un objectif précis doublent l'épargne réelle, indépendamment du revenu de base.
-
-Ce n'est pas le montant qui fait l'effet. C'est la **direction**.
-
-20 €/mois pendant 5 ans = 1 200 €. C'est de quoi absorber sans drame une panne de voiture, un mois sans salaire, un déménagement urgent. C'est exactement la différence entre une crise financière et un imprévu gérable. Pour creuser le sujet du coussin de sécurité, lis [Épargne de précaution : combien mettre de côté](/blog/epargne-de-precaution-combien).
+Pour démarrer, ne complique pas : un **Livret A** suffit (disponible, sans frais, sans risque). L'important n'est pas le produit, c'est la **séparation** et l'**automatisation**. Une cagnotte ou un sous-compte chez ta banque en ligne fait aussi le job. Et si tu veux un cadre pour répartir le peu que tu as, la [règle 50/30/20](/blog/regle-50-30-20-explication) t'aide à réserver une part à l'épargne sans étouffer le reste — quitte à adapter les pourcentages à la baisse quand le budget est serré.
 
 ## Ta première action — aujourd'hui
 
 Choisis **une seule** méthode. Pas trois. Une.
 
-- Si tu veux le mode "je ne fais rien" → arrondi automatique.
-- Si tu veux la simplicité absolue → budget inversé à 20 €/mois.
-- Si tu veux le côté ludique → challenge weekly à 1 €.
+- Mode "je ne fais rien" → l'arrondi automatique.
+- Simplicité absolue → budget inversé à 20 €/mois.
+- Côté ludique → challenge à 1 €.
 
-Mets-la en place dans les 10 minutes qui viennent. Pas demain. Maintenant. C'est cette action — pas la réflexion — qui fait basculer ton identité financière.
+Mets-la en place dans les 10 minutes qui viennent. Pas demain — maintenant. C'est cette action, pas la réflexion, qui fait basculer ton identité financière.
 
 ---
 
 *Noory t'accompagne avec un parcours adapté à ton revenu réel, pas à un revenu théorique. [Disponible gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`,
     faq: [
       {
-        q: "Peut-on vraiment épargner avec le SMIC ?",
-        a: "Oui — mais pas avec les méthodes classiques. Au SMIC (~1 426 € net en 2025), épargner 10 % est irréaliste pour la plupart des situations. Vise plutôt 1 à 3 % pour démarrer (15 à 45 €/mois) avec arrondi automatique ou virement programmé. L'objectif initial est l'identité, pas le montant.",
+        q: "Combien épargner avec un petit salaire ?",
+        a: "Raisonne en euros, pas en pourcentage. Au départ, vise 1 à 5 % de ton salaire net, soit souvent 15 à 50 €/mois. L'objectif n'est pas le montant mais la régularité : un petit virement automatique tenu chaque mois installe l'habitude, et tu augmenteras naturellement ensuite, sans douleur.",
       },
       {
-        q: "Quelle est la première chose à faire pour commencer à épargner ?",
-        a: "Ouvrir un compte d'épargne séparé de ton compte courant. Sans cette séparation physique, l'argent reste mentalement disponible et finit dépensé. Une fois le compte ouvert, programme un virement automatique le jour de ton salaire — même 10 € suffit pour commencer.",
+        q: "Peut-on épargner en gagnant le SMIC ?",
+        a: "Oui, mais pas avec les méthodes classiques. Au SMIC (~1 426 € net), épargner 10 % est irréaliste. Vise 1 à 3 % pour démarrer (15 à 45 €/mois) via l'arrondi automatique ou un virement programmé le jour de la paie. Ce qui compte d'abord, c'est l'identité d'épargnant, pas le montant.",
       },
       {
-        q: "Faut-il un Livret A pour épargner ?",
-        a: "Le Livret A est pratique pour démarrer car il est accessible immédiatement, sans frais et sans risque de perte. Mais l'important n'est pas le produit — c'est l'automatisation et la régularité. Une cagnotte chez ta banque en ligne ou un compte épargne séparé suffit largement pour les premiers mois.",
+        q: "Quelle méthode d'épargne pour un petit budget ?",
+        a: "Trois fonctionnent particulièrement bien : l'arrondi automatique (la différence de chaque achat part de côté, tu ne sens rien), le budget inversé (tu vires 20-30 € le jour de la paie, avant de dépenser), et le défi progressif qui démarre à 1 €. Choisis-en une seule et automatise-la.",
+      },
+      {
+        q: "Faut-il un Livret A pour commencer ?",
+        a: "Le Livret A est pratique pour démarrer : disponible immédiatement, sans frais, sans risque de perte. Mais l'important n'est pas le produit — c'est de séparer cet argent de ton compte courant et d'automatiser le virement. Une cagnotte ou un sous-compte chez ta banque en ligne suffit aussi très bien.",
+      },
+      {
+        q: "Comment épargner quand il ne reste rien à la fin du mois ?",
+        a: "Justement, n'attends pas la fin du mois : il ne reste jamais rien. Inverse l'ordre — vire un petit montant le jour de la paie, avant toute dépense, puis vis avec le reste. Même 20 € automatisés valent mieux qu'une bonne intention. La séparation et l'automatisation font tout le travail.",
       },
     ],
   },
