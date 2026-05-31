@@ -2415,7 +2415,7 @@ Pour aller plus loin sur ce lien, lis [Argent et émotions : comprendre le lien]
 
 Changer sa relation à l'argent en 28 jours, ce n'est pas magique. Mais c'est possible si on aborde le sujet avec les bons outils.
 
-Noory n'est pas une app de budget. C'est un **accompagnement comportemental**. Chaque jour, une micro-action ciblée sur ta relation à l'argent : parfois un acte concret (un virement, une coupe de dépense), parfois un exercice émotionnel (observer, noter, reformuler).
+Noory n'est pas *qu'*une app de budget. Au-delà d'un budget clair, c'est un **accompagnement comportemental** : chaque jour, une micro-action ciblée sur ta relation à l'argent — parfois un acte concret (un virement, une coupe de dépense), parfois un exercice émotionnel (observer, noter, reformuler).
 
 Au bout de 28 jours, tu n'as pas juste "mieux géré ton budget". Tu as transformé **ta relation à l'argent**. Et cette transformation, elle reste.
 

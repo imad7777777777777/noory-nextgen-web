@@ -23,6 +23,11 @@ export const homepageFaq: HomepageFaqItem[] = [
       "Le parcours principal s'étend sur 28 jours, avec 2 à 3 minutes d'engagement par jour. Cette durée n'est pas arbitraire : elle correspond au temps moyen nécessaire pour ancrer une nouvelle habitude (étude Lally et al., University College London, 2010). Une fois le parcours terminé, tu continues à utiliser les outils à ton rythme.",
   },
   {
+    question: "Est-ce que Noory remplace mon app de budget ?",
+    answer:
+      "Pour beaucoup d'utilisateurs, oui. Noory intègre un budget clair : tu renseignes tes revenus et tes charges fixes, et l'app répartit automatiquement ton argent entre tes besoins, ton confort et tes plaisirs (cible 70-20-10), suit tes dépenses du mois et te propose même un plan pour atteindre tes objectifs d'épargne. La différence avec un tableur classique : Noory ne se contente pas d'afficher des chiffres, il t'aide à décider — sans connexion bancaire et sans saisie interminable.",
+  },
+  {
     question: "Est-ce que Noory donne des conseils en investissement ?",
     answer:
       "Non. Noory est explicitement un outil de coaching comportemental, pas un service financier réglementé. Nous ne fournissons pas de conseil en investissement au sens de l'article L. 541-1 du Code monétaire et financier. Pour toute décision financière importante, consulte un conseiller habilité (CIF, CGP).",

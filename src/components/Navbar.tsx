@@ -9,6 +9,7 @@ const APP_STORE = "https://apps.apple.com/fr/app/noory-finance-objectifs/id67464
 const navLinks = [
   { label: "Pourquoi", href: "/#pourquoi" },
   { label: "Méthode", href: "/#methode" },
+  { label: "Budget", href: "/#budget" },
   { label: "L'app", href: "/#app" },
   { label: "Pour qui", href: "/#pour-qui" },
   { label: "Blog", href: "/blog/" },

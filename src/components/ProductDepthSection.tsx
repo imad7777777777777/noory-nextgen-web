@@ -1,13 +1,16 @@
-import { Zap, Heart, ShieldAlert, CalendarCheck, Repeat, TrendingUp } from "lucide-react";
+import { Zap, Heart, ShieldAlert, CalendarCheck, Repeat, TrendingUp, PieChart, Wallet, LineChart } from "lucide-react";
 
-const pastelBgs = ["bg-amber-pastel", "bg-rose-pastel", "bg-emerald-pastel", "bg-sky-pastel", "bg-amber-pastel", "bg-emerald-pastel"];
+const pastelBgs = ["bg-emerald-pastel", "bg-amber-pastel", "bg-sky-pastel", "bg-rose-pastel", "bg-emerald-pastel", "bg-amber-pastel", "bg-sky-pastel", "bg-rose-pastel", "bg-emerald-pastel"];
 
 const features = [
+  { icon: PieChart, title: "Budget clair", description: "Ta répartition Besoin / Confort / Plaisir en un coup d'œil, avec ta cible 70-20-10 et tes dépenses du mois." },
+  { icon: Wallet, title: "Enveloppes & charges fixes", description: "Loyer, abonnements, assurances, transport… Tu répartis tes charges fixes en quelques secondes." },
+  { icon: LineChart, title: "Plan d'investissement", description: "Un objectif chiffré et le montant à placer chaque mois, intérêts composés compris." },
   { icon: Zap, title: "Actions utiles", description: "Chaque jour, une micro-action concrète adaptée à ton focus : épargne, projet, investissement ou habitude." },
-  { icon: Heart, title: "Motivations & déclics", description: "Des phrases, des réflexions et des perspectives pour recadrer ta relation à l'argent — sans leçon de morale." },
-  { icon: ShieldAlert, title: "SOS achat", description: "Tu es sur le point de craquer ? Le SOS t'aide à faire une pause, à identifier le déclencheur, et à choisir en conscience." },
-  { icon: CalendarCheck, title: "Rappel du lendemain", description: "Avant de finir ta journée, pose ton intention pour demain. Un petit geste qui change la dynamique." },
   { icon: Repeat, title: "Rituel quotidien", description: "Écrire, réfléchir, agir. Un espace calme pour te recentrer sur ce qui compte financièrement — en moins de 3 minutes." },
+  { icon: ShieldAlert, title: "SOS achat", description: "Tu es sur le point de craquer ? Le SOS t'aide à faire une pause, à identifier le déclencheur, et à choisir en conscience." },
+  { icon: Heart, title: "Motivations & déclics", description: "Des phrases, des réflexions et des perspectives pour recadrer ta relation à l'argent — sans leçon de morale." },
+  { icon: CalendarCheck, title: "Rappel du lendemain", description: "Avant de finir ta journée, pose ton intention pour demain. Un petit geste qui change la dynamique." },
   { icon: TrendingUp, title: "Progression douce", description: "Pas de score agressif. Une progression visible qui reflète ta régularité et tes efforts réels, jour après jour." },
 ];
 
@@ -18,11 +21,11 @@ const ProductDepthSection = () => {
         <div className="text-center max-w-2xl mx-auto mb-16">
           <p className="text-sm uppercase tracking-widest text-primary mb-4 font-medium">Ce que tu trouves dans l'app</p>
           <h2 className="text-3xl md:text-4xl font-display font-bold tracking-tight text-foreground">
-            Un compagnon quotidien.{" "}
-            <span className="text-gradient">Pas un tableau de bord.</span>
+            Bien plus qu'un budget.{" "}
+            <span className="text-gradient">Un compagnon au quotidien.</span>
           </h2>
           <p className="mt-4 text-muted-foreground leading-relaxed max-w-lg mx-auto">
-            Noory ne te montre pas des graphiques. Il t'accompagne dans tes décisions, tes doutes et tes progrès.
+            Un budget clair, un rituel simple et un coach qui t'accompagne dans tes décisions — pas juste des chiffres à regarder.
           </p>
         </div>
 

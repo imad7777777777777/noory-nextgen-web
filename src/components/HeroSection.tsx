@@ -27,7 +27,7 @@ const HeroSection = () => {
           </h1>
 
           <p className="text-lg text-muted-foreground leading-relaxed">
-            Noory est ton coach comportemental au quotidien. Des micro-actions, de la clarté, un rituel simple — pour dépenser, épargner et avancer plus calmement.
+            Noory est ton coach comportemental au quotidien : un budget clair, un rituel simple et des micro-actions — pour dépenser, épargner et avancer plus calmement.
           </p>
 
           <div className="flex flex-wrap items-center gap-4">
@@ -42,7 +42,7 @@ const HeroSection = () => {
           </p>
 
           <p className="text-xs text-muted-foreground">
-            Déjà adopté par 45+ utilisateurs en France
+            Déjà adopté par 1 300+ utilisateurs en France
           </p>
         </motion.div>
 

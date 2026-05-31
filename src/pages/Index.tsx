@@ -5,6 +5,7 @@ import HeroSection from "@/components/HeroSection";
 import ProblemSection from "@/components/ProblemSection";
 import TransformationSection from "@/components/TransformationSection";
 import HowItWorksSection from "@/components/HowItWorksSection";
+import BudgetSection from "@/components/BudgetSection";
 import JourneySection from "@/components/JourneySection";
 import ProfileQuizSection from "@/components/ProfileQuizSection";
 import ForWhoSection from "@/components/ForWhoSection";
@@ -34,7 +35,7 @@ const Index = () => {
           operatingSystem: "iOS",
           applicationCategory: "Finance",
           description:
-            "Coaching financier comportemental. Micro-actions quotidiennes, zéro jugement.",
+            "Coaching financier comportemental. Budget clair (répartition Besoin/Confort/Plaisir), rituel quotidien et micro-actions, zéro jugement.",
           offers: { "@type": "Offer", price: "0", priceCurrency: "EUR" },
           downloadUrl: APP_STORE_URL,
           inLanguage: LANG,
@@ -64,6 +65,7 @@ const Index = () => {
         <JourneySection />
         <TransformationSection />
         <HowItWorksSection />
+        <BudgetSection />
         <ProfileQuizSection />
         <ForWhoSection />
         <DifferenceSection />

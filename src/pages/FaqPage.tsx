@@ -33,7 +33,7 @@ const faqCategories: FaqCategory[] = [
       {
         question: "C'est quoi Noory exactement ?",
         answer:
-          "Noory est une app de coaching financier comportemental. Elle t'aide à comprendre ton rapport à l'argent grâce à la psychologie, et te propose un parcours de 28 jours personnalisé pour transformer tes habitudes financières. Pas de tableurs, pas de jugement — juste un accompagnement doux et concret.",
+          "Noory est une app de coaching financier comportemental. Elle réunit deux piliers : un budget clair (répartition automatique de ton argent entre Besoin, Confort et Plaisir, enveloppes, suivi des dépenses) et un parcours de 28 jours personnalisé qui t'aide à comprendre ton rapport à l'argent grâce à la psychologie. Pas de tableur compliqué, pas de jugement — juste un accompagnement doux et concret.",
       },
       {
         question: "Est-ce que Noory est gratuite ?",
@@ -48,7 +48,7 @@ const faqCategories: FaqCategory[] = [
       {
         question: "Noory est-elle une app de budget ?",
         answer:
-          "Non. Noory n'est pas une app de budget classique. Elle ne te demande pas de noter chaque dépense ou de catégoriser tes transactions. Noory travaille sur ta psychologie financière : comprendre pourquoi tu dépenses, identifier tes déclencheurs émotionnels, et transformer tes habitudes en profondeur.",
+          "Oui, mais pas un tableur classique. Noory intègre un vrai budget : répartition automatique de ton argent entre Besoin, Confort et Plaisir (cible 70-20-10), enveloppes de charges fixes, suivi de tes dépenses du mois et plan pour tes objectifs d'épargne. La différence : elle ne te demande pas de catégoriser chaque transaction ni de te connecter à ta banque, et ce budget est doublé d'un coach comportemental qui t'aide à comprendre pourquoi tu dépenses et à transformer tes habitudes en profondeur.",
       },
       {
         question: "Est-ce que mes données financières sont en sécurité ?",

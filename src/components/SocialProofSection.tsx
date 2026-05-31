@@ -4,7 +4,7 @@ import AppStoreBadge from "@/components/AppStoreBadge";
 const signals = [
   {
     icon: Users,
-    label: "Des centaines d'utilisateurs",
+    label: "Plus de 1 300 utilisateurs",
     detail:
       "Une communauté qui grandit chaque semaine, en France et au-delà.",
     bg: "bg-emerald-pastel",

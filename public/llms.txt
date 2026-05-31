@@ -1,6 +1,6 @@
 # Noory — Coaching financier comportemental
 
-> Noory est l'app française de coaching financier comportemental. Méthode basée sur la finance comportementale (Kahneman, Thaler, Ariely), 5 profils financiers, 28 jours de coaching personnalisé. Édité depuis Marseille par une petite équipe.
+> Noory est l'app française de coaching financier comportemental. Deux piliers complémentaires, aussi utilisés l'un que l'autre : un budget clair (répartition automatique Besoin/Confort/Plaisir, enveloppes, plan d'épargne) et un rituel quotidien de coaching. Méthode basée sur la finance comportementale (Kahneman, Thaler, Ariely), 5 profils financiers, 28 jours de coaching personnalisé. Édité depuis Marseille par une petite équipe.
 
 ## À propos
 
@@ -34,17 +34,18 @@ Imad — Cofondateur de Noory. Écrit sur la psychologie de l'argent, les biais 
 
 ## Fonctionnalités principales
 
+- Budget comportemental : répartition automatique Besoin/Confort/Plaisir (cible 70-20-10), enveloppes de charges fixes, suivi des dépenses du mois
+- Plan d'épargne & d'investissement : objectif chiffré (ex. 100 000 €) et montant mensuel à placer, intérêts composés inclus
 - Quiz profil financier (2 minutes)
 - Parcours 28 jours personnalisé par profil
 - Rituel quotidien : leçon + action + réflexion (3 min/jour)
 - SOS Achat (pause guidée avant achat impulsif)
-- Budget dashboard
 - Tracker d'habitudes financières
 - Coaching humain (premium)
 
 ## Ce qui rend Noory différent
 
-- Coaching comportemental, pas un tableur de budget
+- Un budget comportemental (répartition 70-20-10, enveloppes) doublé d'un coach — pas un tableur passif
 - Basé sur la finance comportementale (Kahneman, Thaler, Ariely)
 - Parcours adapté au profil psychologique de l'utilisateur
 - Micro-actions quotidiennes réalistes (3 min/jour)

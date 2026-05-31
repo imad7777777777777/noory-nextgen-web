@@ -15,11 +15,11 @@ const DifferenceSection = () => {
         <div className="text-center mb-14">
           <p className="text-sm uppercase tracking-widest text-primary mb-4 font-medium">Ce qui nous rend différents</p>
           <h2 className="text-3xl md:text-4xl font-display font-bold tracking-tight text-foreground">
-            Pas une app de budget.{" "}
-            <span className="text-gradient">Pas un outil de plus.</span>
+            Pas juste une app de budget.{" "}
+            <span className="text-gradient">Un coach, pas un tableur.</span>
           </h2>
           <p className="mt-4 text-muted-foreground leading-relaxed max-w-lg mx-auto">
-            Noory ne te demande pas de tout noter. Il t'aide à mieux décider.
+            Noory te donne un budget clair, sans te noyer dans la saisie — et t'aide surtout à mieux décider.
           </p>
         </div>
 
