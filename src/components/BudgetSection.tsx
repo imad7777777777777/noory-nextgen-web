@@ -1,9 +1,6 @@
 import { PieChart, Wallet, TrendingUp, HeartHandshake } from "lucide-react";
 import IPhoneFrame from "@/components/IPhoneFrame";
 import AppStoreBadge from "@/components/AppStoreBadge";
-// TODO(Imad): screen-budget.webp est un PLACEHOLDER (copie de l'écran d'accueil).
-// Remplacer par une vraie capture du budget (vue ACCUEIL : revenus/charges/dépenses
-// + donut Besoin/Confort/Plaisir) AVANT de déployer en prod.
 import screenBudget from "@/assets/screen-budget.webp";
 
 const points = [
@@ -55,7 +52,7 @@ const BudgetSection = () => {
               <IPhoneFrame className="relative z-10 w-56 md:w-64 lg:w-72">
                 <img
                   src={screenBudget}
-                  alt="Noory — budget comportemental : répartition Besoin, Confort, Plaisir et suivi des dépenses du mois"
+                  alt="Noory — budget du mois dans l'app : revenus, charges fixes, suivi des dépenses et marge restante"
                   className="w-full"
                 />
               </IPhoneFrame>
