@@ -1,9 +1,10 @@
-import { useState } from "react";
+import { useState, type ReactNode } from "react";
 import { ChevronDown } from "lucide-react";
 
 export interface HomepageFaqItem {
   question: string;
   answer: string;
+  answerNode?: ReactNode;
 }
 
 export const homepageFaq: HomepageFaqItem[] = [
@@ -40,7 +41,26 @@ export const homepageFaq: HomepageFaqItem[] = [
   {
     question: "Noory est disponible sur Android ?",
     answer:
-      "Pas encore. Noory est actuellement disponible uniquement sur iPhone (iOS 15 et plus). Une version Android est prévue, mais nous n'avons pas encore communiqué de date. Inscris-toi à notre newsletter ou suis-nous sur Instagram pour être prévenu·e dès la sortie.",
+      "Il n'y a pas encore d'app Android native, mais tu n'as pas besoin d'attendre : Noory s'utilise directement dans ton navigateur, sur Android comme sur ordinateur, à l'adresse https://app.noory.io. Tu y retrouves l'intégralité du programme — ton profil, ton parcours et ton budget. L'app iPhone reste l'expérience la plus fluide (notifications, raccourci sur l'écran d'accueil, sensation native) ; dans le navigateur, c'est un peu moins fluide, mais tout est là.",
+    answerNode: (
+      <>
+        Il n'y a pas encore d'app Android native, mais tu n'as pas besoin
+        d'attendre : Noory s'utilise directement dans ton navigateur, sur Android
+        comme sur ordinateur, à l'adresse{" "}
+        <a
+          href="https://app.noory.io"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-primary underline"
+        >
+          app.noory.io
+        </a>
+        . Tu y retrouves l'intégralité du programme — ton profil, ton parcours et
+        ton budget. L'app iPhone reste l'expérience la plus fluide (notifications,
+        raccourci sur l'écran d'accueil, sensation native) ; dans le navigateur,
+        c'est un peu moins fluide, mais tout est là.
+      </>
+    ),
   },
 ];
 
@@ -96,7 +116,7 @@ const HomepageFaqSection = () => {
                 </button>
                 {isOpen && (
                   <div className="px-6 pb-6 text-foreground/80 leading-relaxed text-sm md:text-base">
-                    {item.answer}
+                    {item.answerNode ?? item.answer}
                   </div>
                 )}
               </div>

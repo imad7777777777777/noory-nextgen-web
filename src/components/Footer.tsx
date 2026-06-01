@@ -24,6 +24,14 @@ const Footer = () => {
             <p className="text-sm text-muted-foreground mt-1">
               Moins subir. Plus choisir.
             </p>
+            <a
+              href="https://app.noory.io"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block text-sm text-muted-foreground hover:text-primary transition-colors mt-4"
+            >
+              Sur Android ou ordinateur ? Ouvre Noory dans ton navigateur →
+            </a>
           </div>
 
           {/* Navigation */}

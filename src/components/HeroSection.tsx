@@ -37,6 +37,19 @@ const HeroSection = () => {
             </Button>
           </div>
 
+          <p className="text-sm text-muted-foreground">
+            Pas d'iPhone ?{" "}
+            <a
+              href="https://app.noory.io"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-primary underline underline-offset-2"
+            >
+              Ouvre Noory dans ton navigateur
+            </a>{" "}
+            — sur Android comme sur ordinateur. L'app iPhone reste l'expérience la plus fluide.
+          </p>
+
           <p className="text-sm text-muted-foreground pt-2">
             Gratuit · Sans engagement · Conçu pour durer
           </p>

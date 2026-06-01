@@ -1,3 +1,4 @@
+import type { ReactNode } from "react";
 import { Link } from "react-router-dom";
 import { useSEO } from "@/hooks/useSEO";
 import { BASE_URL, LANG, ORG_NOORY, WEBSITE_NOORY } from "@/lib/seo";
@@ -17,6 +18,7 @@ const APP_STORE =
 interface FaqItem {
   question: string;
   answer: string;
+  answerNode?: ReactNode;
 }
 
 interface FaqCategory {
@@ -43,7 +45,25 @@ const faqCategories: FaqCategory[] = [
       {
         question: "Sur quels appareils Noory est disponible ?",
         answer:
-          "Noory est actuellement disponible sur iPhone (iOS). Une version Android est en cours de développement.",
+          "Noory est disponible sur iPhone (iOS), et c'est là que l'expérience est la plus fluide (notifications, raccourci sur l'écran d'accueil, sensation native). Il n'y a pas encore d'app Android native, mais Noory s'utilise directement dans ton navigateur — sur Android comme sur ordinateur — à l'adresse https://app.noory.io, avec accès à l'intégralité du programme.",
+        answerNode: (
+          <>
+            Noory est disponible sur iPhone (iOS), et c'est là que l'expérience
+            est la plus fluide (notifications, raccourci sur l'écran d'accueil,
+            sensation native). Il n'y a pas encore d'app Android native, mais
+            Noory s'utilise directement dans ton navigateur — sur Android comme
+            sur ordinateur — à l'adresse{" "}
+            <a
+              href="https://app.noory.io"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-primary underline"
+            >
+              app.noory.io
+            </a>
+            , avec accès à l'intégralité du programme.
+          </>
+        ),
       },
       {
         question: "Noory est-elle une app de budget ?",
@@ -195,7 +215,7 @@ const FaqPage = () => {
                       {item.question}
                     </AccordionTrigger>
                     <AccordionContent className="text-muted-foreground leading-relaxed">
-                      {item.answer}
+                      {item.answerNode ?? item.answer}
                     </AccordionContent>
                   </AccordionItem>
                 ))}
