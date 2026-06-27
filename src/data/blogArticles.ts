@@ -1205,9 +1205,11 @@ La **finance comportementale** est née de ce constat. Deux noms à connaître :
 - **Daniel Kahneman**, prix Nobel d'économie 2002, auteur de *Thinking, Fast and Slow* (en français : *Système 1, Système 2*). Il a montré que nos décisions sont pilotées par deux modes de pensée : un rapide et émotionnel, un lent et rationnel.
 - **Richard Thaler**, prix Nobel d'économie 2017, auteur de *Misbehaving* et co-auteur de *Nudge*. Il a démontré que les gens dévient systématiquement de la "rationalité économique" — et que ces déviations sont **prévisibles**.
 
-La finance comportementale, c'est l'étude de ces déviations prévisibles. Et la bonne nouvelle, c'est que les comprendre te donne un avantage énorme.
+La finance comportementale, c'est l'étude de ces déviations prévisibles — le versant scientifique de [la psychologie de l'argent](/blog/psychologie-de-l-argent-pourquoi-mauvaises-decisions). Et la bonne nouvelle, c'est que les comprendre te donne un avantage énorme.
 
 ## Les 5 biais qui pilotent ton argent au quotidien
+
+En voici cinq, choisis parce qu'ils touchent presque tout le monde. Si tu veux la liste complète, on détaille [sept biais qui sabotent un budget, un par un](/blog/biais-cognitifs-budget) avec la parade pour chacun.
 
 ### 1. Le biais du présent
 
@@ -1252,13 +1254,13 @@ Autre exemple : "l'argent des vacances" est dépensé sans compter, alors que "l
 
 Tu sais que ta banque actuelle a des frais élevés. Tu sais qu'il existe des banques en ligne sans frais. Et pourtant, tu n'as jamais changé. Pourquoi ? Parce que **ne rien changer demande zéro effort**, et que ton cerveau est conçu pour économiser l'effort.
 
-Le statu quo est partout dans tes finances : abonnements oubliés, contrats énergie jamais renégociés, assurances renouvelées sans relecture, livrets bancaires à 0,5 % qu'on garde "parce que".
+Le statu quo est partout dans tes finances : abonnements oubliés, contrats énergie jamais renégociés, assurances renouvelées sans relecture, livrets bancaires à 0,5 % qu'on garde "parce que". Choisir un meilleur outil compte aussi — notre [comparatif des meilleures applications de budget](/comparatif/meilleure-application-budget/) t'aide à voir ce qui te conviendrait vraiment.
 
 **Ce que tu peux faire** : programme une "revue annuelle" — une heure par an, à date fixe, où tu passes en revue tes contrats, tes abonnements, et tes comptes. Une heure dans l'année qui peut te faire économiser des centaines d'euros.
 
 ## Comment Noory utilise la finance comportementale
 
-Le parcours Noory n'est pas conçu sur des "bonnes pratiques" abstraites. Il est conçu directement à partir de ces biais. Concrètement :
+Le parcours Noory n'est pas conçu sur des "bonnes pratiques" abstraites. Il joue le rôle d'[un coach financier comportemental](/blog/coach-financier-comportemental) et part directement de ces biais. Concrètement :
 
 - Le **rituel quotidien de 2 minutes** contourne le biais du présent (l'objectif est aujourd'hui, pas dans 6 mois).
 - Les **5 profils** correspondent à des configurations différentes de biais. Le quiz détecte lequel domine chez toi.
@@ -2349,7 +2351,7 @@ Pose-toi ces questions honnêtement :
 - Est-ce qu'on te cachait des choses sur l'argent (salaire des parents, dettes, difficultés) ?
 - Comment les adultes autour de toi réagissaient face à quelqu'un qui avait "trop" d'argent ?
 
-Tes réponses révèlent ton **héritage financier émotionnel**. Pas ton héritage en euros — ton héritage en croyances et en émotions autour de l'argent. La recherche en finance comportementale parle de "money scripts" — ces croyances apprises dans l'enfance, souvent inconscientes, qui pilotent silencieusement tes décisions financières d'adulte ([Klontz et al., 2011](https://newprairiepress.org/jft/vol2/iss1/1/)).
+Tes réponses révèlent ton **héritage financier émotionnel**. Pas ton héritage en euros — ton héritage en croyances et en émotions autour de l'argent. La recherche en finance comportementale parle de "money scripts" — ces croyances apprises dans l'enfance, souvent inconscientes, qui pilotent silencieusement tes décisions financières d'adulte ([Klontz et al., 2011](https://newprairiepress.org/jft/vol2/iss1/1/)). Si tu veux le cadre complet, [la finance comportementale, expliquée pas à pas](/blog/finance-comportementale-guide-debutant) reprend tout depuis le début.
 
 La bonne nouvelle : ce que tu as appris inconsciemment, tu peux le désapprendre consciemment. Ça prend du temps, mais c'est possible. Le parcours 28 jours de Noory est construit autour de ce travail.
 
@@ -3350,7 +3352,7 @@ Le tabou français par excellence. Si tu n'en parles pas, tu ne peux pas apprend
 
 ## La finance comportementale : ce que dit la science
 
-Le prix Nobel Daniel Kahneman a démontré que nos décisions financières sont gouvernées par des biais cognitifs, pas par la rationalité. Voici les 3 biais les plus importants :
+Le prix Nobel Daniel Kahneman a démontré que nos décisions financières sont gouvernées par des biais cognitifs, pas par la rationalité — c'est tout l'objet de [le guide débutant de la finance comportementale](/blog/finance-comportementale-guide-debutant). Voici les 3 biais les plus importants :
 
 **L'aversion à la perte :** on ressent la douleur d'une perte 2 fois plus intensément que le plaisir d'un gain. C'est pour ça qu'on a du mal à investir (peur de perdre) et qu'on garde des abonnements inutiles (peur de "perdre l'accès").
 
