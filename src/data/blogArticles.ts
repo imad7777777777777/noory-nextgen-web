@@ -74,7 +74,7 @@ Le principe général : **réduire la friction sur les bons comportements, augme
 4. **Externalise ta mémoire.** Une seule liste de tous tes abonnements, des rappels automatiques pour les échéances. Ne demande jamais à ta tête de retenir ce qu'une alarme peut retenir à ta place.
 5. **Gamifie et rends immédiat.** Récompense-toi tout de suite pour un bon comportement (une série de jours, un petit palier atteint). Ramener la récompense dans le présent, c'est parler la langue de ton cerveau.
 
-Ces méthodes ne luttent pas contre ton TDAH : elles s'appuient sur son fonctionnement. C'est exactement la logique d'un [coach financier comportemental](/blog/coach-financier-comportemental) — et ça réduit aussi la [charge mentale financière](/blog/charge-mentale-financiere) qui pèse souvent lourd.
+Ces méthodes ne luttent pas contre ton TDAH : elles s'appuient sur son fonctionnement. C'est exactement la logique d'un [coach financier comportemental](/blog/coach-financier-comportemental) — et ça réduit aussi la [charge mentale financière](/blog/charge-mentale-financiere) ainsi que [l'anxiété financière qu'elle entretient](/blog/anxiete-financiere-calmer), qui pèsent souvent lourd.
 
 ## Une note importante
 
@@ -3829,7 +3829,7 @@ La solution : la **micro-action**. Un geste si petit qu'il est impossible de ne 
 
 - Annuler un seul abonnement que tu n'utilises plus (2 minutes)
 - Mettre un virement automatique de 10 € vers ton épargne (3 minutes)
-- Lire un seul article sur les finances personnelles (celui-ci compte !)
+- Lire un seul article sur les finances personnelles ([celui-ci, ou ce guide pensé pour les cerveaux TDAH](/blog/tdah-argent-gestion-budget), comptent !)
 - Noter 3 dépenses de la semaine dont tu es fier·e
 
 La micro-action casse la paralysie. Elle te prouve que tu **peux** agir. Et cette preuve, c'est le meilleur antidote à l'anxiété.
@@ -3856,7 +3856,7 @@ L'anxiété financière prospère dans l'isolement. Quand tu n'en parles pas, el
 
 Les options d'accompagnement :
 
-- **En parler à un·e proche de confiance.** Pas pour demander de l'argent. Pour briser le silence. Tu seras surpris·e de voir combien de gens partagent les mêmes peurs.
+- **En parler à un·e proche de confiance.** Pas pour demander de l'argent. Pour briser le silence — un silence qui, [en France surtout, pèse plus qu'on ne le croit](/blog/parler-argent-tabou-france). Tu seras surpris·e de voir combien de gens partagent les mêmes peurs.
 - **Consulter un·e professionnel·le.** Un·e thérapeute formé·e aux questions financières peut t'aider à travailler les racines de ton anxiété.
 - **Utiliser un outil de coaching adapté.** C'est ce que Noory propose : un accompagnement quotidien qui ne juge pas, qui ne te fait pas culpabiliser, et qui t'aide à avancer à ton rythme.
 
@@ -3866,7 +3866,7 @@ Découvre aussi [comment gérer son argent sans stress](/blog/gerer-son-argent-s
 
 L'anxiété financière ne définit pas qui tu es. Elle définit ce que tu traverses — maintenant. Et "maintenant" n'est pas "toujours".
 
-Si tu te reconnais dans le profil du [Quêteur de Sérénité](/profil/queteur-de-serenite) — quelqu'un qui aspire à la paix intérieure avec son argent — sache que Noory a été conçu en pensant à toi. Pas pour te transformer en expert comptable. Pour t'aider à respirer. À regarder. À avancer. Un jour à la fois.
+Si tu veux mettre des mots, en douceur, sur ce que l'argent réveille en toi, [un petit quiz, à ton rythme](/quiz/) peut être un premier pas léger. Et si tu te reconnais dans le profil du [Quêteur de Sérénité](/profil/queteur-de-serenite) — quelqu'un qui aspire à la paix intérieure avec son argent — sache que Noory a été conçu en pensant à toi. Pas pour te transformer en expert comptable. Pour t'aider à respirer. À regarder. À avancer. Un jour à la fois.
 
 ---
 
@@ -4056,7 +4056,7 @@ Et dans ce flou, deux réactions : soit tu te juges trop sévèrement ("je suis 
 
 Si tu n'arrives pas à boucler tes fins de mois, à qui tu en parles ? Si tu as des dettes qui te rongent, qui est au courant ? Si tu ne sais pas comment investir, à qui tu poses la question ?
 
-Le tabou crée une bulle de solitude financière. Et dans cette bulle, les problèmes grandissent sans que personne ne puisse t'aider. C'est exactement ce lien entre silence et souffrance financière qu'on explore dans [Argent et émotions : comprendre le lien](/blog/argent-et-emotions-comprendre-le-lien).
+Le tabou crée une bulle de solitude financière. Et dans cette bulle, les problèmes grandissent sans que personne ne puisse t'aider — un isolement qui [nourrit l'anxiété financière](/blog/anxiete-financiere-calmer) et finit par peser sur le sommeil. C'est exactement ce lien entre silence et souffrance financière qu'on explore dans [Argent et émotions : comprendre le lien](/blog/argent-et-emotions-comprendre-le-lien).
 
 ### Ton couple en souffre
 
@@ -4088,7 +4088,7 @@ Si le silence autour de l'argent t'a conduit à te sentir bloqué dans tes proje
 
 ## Le silence a un coût. Briser le tabou est gratuit.
 
-Tu n'as pas besoin de devenir un militant de la transparence financière. Tu as juste besoin de cesser de porter ce poids seul. Commence par ouvrir Noory, fais le quiz, et offre-toi 2 minutes d'honnêteté avec toi-même. C'est le premier pas.
+Tu n'as pas besoin de devenir un militant de la transparence financière. Tu as juste besoin de cesser de porter ce poids seul. Commence par ouvrir Noory, [fais le quiz](/quiz/), et offre-toi 2 minutes d'honnêteté avec toi-même. C'est le premier pas.
 
 ---
 
