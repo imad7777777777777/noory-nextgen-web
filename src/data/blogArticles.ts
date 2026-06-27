@@ -1930,7 +1930,7 @@ Si tu cherches une routine bien-être autour de l'argent, le profil du [Quêteur
 
 ## Ton premier dimanche, c'est ce weekend
 
-Tu n'as pas besoin d'app, pas besoin de tableur, pas besoin d'être expert·e en finance. Tu as besoin d'un téléphone, d'un café, et de 15 minutes.
+Tu n'as pas besoin d'app, pas besoin de tableur, pas besoin d'être expert·e en finance. Et si même le mot "budget" t'intimide encore, commence par [la méthode budget pour les nuls](/blog/budget-pour-les-nuls). Tu as besoin d'un téléphone, d'un café, et de 15 minutes.
 
 Ce dimanche. Pose-toi. Ouvre ton appli bancaire. Fais les 4 étapes. Dans 4 semaines, tu seras surpris·e du contrôle que tu auras retrouvé.
 
@@ -2071,12 +2071,12 @@ Tu télécharges une app de gestion de budget. Au début, tu es motivé·e. Tu c
 
 Rassure-toi : ce n'est pas toi. C'est la méthode.
 
-La majorité des apps de tracking demandent trop :
+La majorité des apps de tracking demandent trop (on les a passées en revue dans notre [comparatif des meilleures applications de budget](/comparatif/meilleure-application-budget/)) :
 - Trop de catégories (alimentation, transport, loisirs, santé, vêtements, abonnements, voyages, éducation, cadeaux...)
 - Trop de saisie (chaque transaction, chaque jour, chaque détail)
 - Trop de précision (tel café à 2,80€, tel métro à 1,90€)
 
-Pour qui ? Pour l'app. Pas pour toi. Toi, tu as besoin d'une information actionnable, pas d'un tableau Excel en 47 dimensions.
+Pour qui ? Pour l'app. Pas pour toi. Toi, tu as besoin d'une information actionnable, pas d'un tableau Excel en 47 dimensions. Si tu repars carrément de zéro, [la méthode budget pour les nuls](/blog/budget-pour-les-nuls) te donne le cadre minimal avant même de tracker quoi que ce soit.
 
 La bonne nouvelle : tracker efficacement ses dépenses ne demande pas de tout noter. Ça demande de noter **ce qui compte**. Et ce qui compte, c'est beaucoup plus simple que tu ne le penses.
 
@@ -2150,7 +2150,7 @@ Avec cette méthode, tu arrêtes plusieurs choses épuisantes :
 - Tu arrêtes de te mentir ("j'ai pas trop dépensé ce mois-ci") parce que les chiffres sont là
 - Tu arrêtes la charge mentale du contrôle permanent
 
-Tu gardes uniquement le focus sur ce qui compte vraiment : les patterns qui te font saigner.
+Tu gardes uniquement le focus sur ce qui compte vraiment : les patterns qui te font saigner. C'est aussi pour ça que beaucoup cherchent [une alternative à Bankin' moins centrée sur les chiffres](/comparatif/alternative-bankin/) et plus sur le comportement.
 
 Pour une vision plus large sur où part ton argent chaque mois, lis [Où passe mon argent chaque mois](/blog/ou-passe-mon-argent-chaque-mois). Et si tes regrets sont surtout émotionnels, le profil du [Dépensier Émotionnel](/profil/depensier-emotionnel) pourrait t'éclairer.
 
@@ -2998,7 +2998,7 @@ Un café à emporter, un snack, une app à 3€, un Uber au lieu du métro. Chaq
 
 ### Les frais bancaires et charges cachées
 
-Frais de tenue de compte, agios, commissions de mouvement, frais de retrait à l'étranger, assurance carte... Beaucoup de gens paient entre 5 et 15€ par mois de frais bancaires sans le savoir, parce que ces montants sont noyés dans les relevés.
+Frais de tenue de compte, agios, commissions de mouvement, frais de retrait à l'étranger, assurance carte... Un agrégateur les repère, mais si tu veux comprendre tes dépenses plutôt que juste les lister, regarde [une alternative à Bankin' qui explique le pourquoi](/comparatif/alternative-bankin/). Beaucoup de gens paient entre 5 et 15€ par mois de frais bancaires sans le savoir, parce que ces montants sont noyés dans les relevés.
 
 ## L'exercice des 5 minutes
 
@@ -3146,7 +3146,7 @@ C'est la méthode la plus connue, et elle mérite sa réputation. Le principe es
 
 Sur un salaire de 2 000€ net, ça donne : 1 000€ besoins, 600€ envies, 400€ futur. Simple, non ?
 
-**Adaptation importante :** si tu gagnes moins et que tes charges fixes dépassent 50%, ajuste. Peut-être 60/25/15 ou même 70/20/10. L'important, c'est d'avoir une répartition consciente — pas les chiffres exacts.
+**Adaptation importante :** si tu gagnes moins et que tes charges fixes dépassent 50%, ajuste — [la règle 50/30/20 expliquée en détail](/blog/regle-50-30-20-explication) te montre comment adapter les pourcentages à ta réalité. Peut-être 60/25/15 ou même 70/20/10. L'important, c'est d'avoir une répartition consciente — pas les chiffres exacts.
 
 ## Le budget Noory : 3 chiffres à connaître
 
@@ -3168,9 +3168,9 @@ Voici tout ce que tu as à faire chaque jour :
 2. Regarde où tu en es par rapport à ton "argent libre" (30 secondes)
 3. Fais ta micro-action du jour (1 minute)
 
-C'est tout. Pas de saisie manuelle de chaque dépense. Pas de catégories à remplir. Juste un coup d'œil rapide pour rester connecté·e à ta réalité financière.
+C'est tout. Pas de saisie manuelle de chaque dépense. Pas de catégories à remplir. Juste un coup d'œil rapide pour rester connecté·e à ta réalité financière. Si tu préfères un rendez-vous hebdo plutôt que quotidien, [la routine financière du dimanche](/blog/routine-financiere-dimanche) condense tout ça en 15 minutes par semaine.
 
-C'est exactement ce que [Noory](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972) t'aide à faire au quotidien — un check-in rapide, une action concrète, et tu passes à ta vie.
+C'est exactement ce que [Noory](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972) t'aide à faire au quotidien — un check-in rapide, une action concrète, et tu passes à ta vie. Si tu hésites encore sur l'outil, notre [comparatif des meilleures applications de budget](/comparatif/meilleure-application-budget/) t'aide à choisir celle qui te correspond.
 
 ## La vraie question : est-ce que mon argent va où je veux ?
 
@@ -3664,7 +3664,7 @@ Soyons réalistes : en 2026, peu de gens utilisent encore du cash au quotidien. 
 
 **Option 1 : Plusieurs comptes bancaires.** Certaines banques en ligne permettent de créer des sous-comptes ou des "espaces" dédiés. Tu crées un espace "courses", un "sorties", un "plaisir". En début de mois, tu répartis. Même logique, version numérique.
 
-**Option 2 : Les apps d'enveloppes.** Plusieurs applications reprennent ce concept. Tu définis tes catégories, tes montants, et l'app suit tes dépenses par enveloppe. Quand une enveloppe approche de zéro, tu reçois une alerte.
+**Option 2 : Les apps d'enveloppes.** Plusieurs applications reprennent ce concept — si tu cherches une [alternative à YNAB en français](/comparatif/alternative-ynab/), c'est souvent par là qu'on commence. Tu définis tes catégories, tes montants, et l'app suit tes dépenses par enveloppe. Quand une enveloppe approche de zéro, tu reçois une alerte.
 
 **Option 3 : La méthode hybride.** Tu gardes le cash pour les catégories où tu dépenses trop (souvent les sorties et le shopping), et tu gères le reste en digital. C'est souvent la version la plus efficace pour commencer.
 
