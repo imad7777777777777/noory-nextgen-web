@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# Internal SEO content drafts — strategy notes, never publish (repo is public)
+content-drafts/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
