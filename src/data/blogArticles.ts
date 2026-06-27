@@ -107,11 +107,11 @@ Pour savoir quels mécanismes te concernent le plus et par quoi commencer, [le q
   {
     slug: "depenses-emotionnelles-pourquoi-acheter-quand-triste",
     title: "Dépenses émotionnelles : pourquoi on achète quand on est triste (ou stressé, ou seul)",
-    metaTitle: "Dépenses émotionnelles : pourquoi on achète selon ses émotions | Noory",
-    metaDescription: "Stress, tristesse, ennui, solitude : les dépenses émotionnelles ne sont pas un manque de volonté. Comprends tes déclencheurs et l'appli qui aide à les désamorcer.",
+    metaTitle: "Dépenses émotionnelles : pourquoi on achète | Noory",
+    metaDescription: "Stress, tristesse, ennui, solitude : pourquoi le cerveau achète pour calmer une émotion. Comprends le mécanisme et les 5 déclencheurs des dépenses émotionnelles.",
     date: "2026-05-24",
     readTime: "9 min",
-    intro: "Tu te retrouves avec un truc dans ton panier sans trop savoir comment il y est arrivé. La vérité, c'est que ce n'est presque jamais l'objet que tu voulais — c'est une émotion que tu cherchais à calmer. Voici comment fonctionnent les dépenses émotionnelles, et comment les désamorcer.",
+    intro: "Tu te retrouves avec un truc dans ton panier sans trop savoir comment il y est arrivé. La vérité, c'est que ce n'est presque jamais l'objet que tu voulais — c'est une émotion que tu cherchais à calmer. Voici comment fonctionnent les dépenses émotionnelles, et les vraies raisons pour lesquelles ton cerveau les déclenche.",
     keywords: [
       "dépenses émotionnelles app",
       "acheter quand triste",
@@ -159,13 +159,11 @@ Quelques signes qui ne trompent pas :
 
 Si ça résonne, [le test du dépensier émotionnel](/blog/test-depensier-emotionnel) te donne un diagnostic en 5 questions, et le [profil du Dépensier Émotionnel](/profil/depensier-emotionnel) décrit en détail ce fonctionnement — avec ses forces, pas seulement ses pièges.
 
-## Comment désamorcer une dépense émotionnelle
+## Et concrètement, on en fait quoi ?
 
-L'objectif n'est pas de ne plus jamais te faire plaisir. C'est de remettre du **choix** là où il y avait de l'automatisme. Trois leviers :
+L'objectif n'est pas de ne plus jamais te faire plaisir. C'est de remettre du **choix** là où il y avait de l'automatisme — et ça commence par une seule chose : **nommer l'émotion avant d'acheter**. "Là, je suis en train d'acheter parce que je suis ___." Mettre un mot dessus réactive la partie réfléchie du cerveau et casse l'automatisme.
 
-1. **Nommer l'émotion avant l'achat.** "Là, je suis en train d'acheter parce que je suis ___." Mettre un mot dessus réactive la partie réfléchie du cerveau et casse l'automatisme.
-2. **Créer une pause.** Quelques minutes entre l'envie et le clic suffisent souvent à faire retomber le pic. C'est tout le principe des techniques détaillées dans [comment arrêter de dépenser impulsivement](/blog/comment-arreter-de-depenser-impulsivement).
-3. **Offrir une autre réponse à l'émotion.** Si tu achètes par ennui, le vrai besoin est la nouveauté, pas l'objet. Une marche, un appel, écrire deux lignes : trouve une réponse qui traite l'émotion au lieu de la masquer.
+Désamorcer le réflexe étape par étape, en revanche, ça mérite son propre mode d'emploi : pour **sortir du cycle** achat-culpabilité de façon concrète, suis le plan d'action de [comment casser le cycle quand j'achète parce que je suis triste](/blog/j-achete-quand-je-suis-triste).
 
 ## Pourquoi une app aide vraiment (et pas juste la volonté)
 
@@ -2791,41 +2789,24 @@ L'investissement n'est pas réservé aux experts. C'est un outil accessible — 
   },
   {
     slug: "j-achete-quand-je-suis-triste",
-    title: "J'achète quand je suis triste : comprendre (et casser) le cycle",
-    metaTitle: "J'achète quand je suis triste : comprendre et casser le cycle | Noory",
-    metaDescription: "Tu achètes quand tu es triste ou stressé·e ? Découvre pourquoi ton cerveau associe achat et réconfort, et comment casser ce cycle sans te priver.",
+    title: "J'achète quand je suis triste : comment casser le cycle",
+    metaTitle: "J'achète quand je suis triste : casser le cycle | Noory",
+    metaDescription: "Tu achètes quand tu es triste ou stressé·e ? 3 méthodes concrètes pour casser le cycle achat-culpabilité et reprendre la main, sans te priver ni culpabiliser.",
     date: "2026-04-08",
     dateModified: "2026-04-27",
     readTime: "7 min",
-    intro: "Tu viens de passer une mauvaise journée. Tu ouvres ton téléphone, tu scrolles, tu cliques, tu achètes. Pendant 10 secondes, tu te sens mieux. Puis la culpabilité arrive. Ça te parle ?",
+    intro: "Tu viens de passer une mauvaise journée. Tu scrolles, tu cliques, tu achètes. Pendant 10 secondes, tu te sens mieux — puis la culpabilité arrive. Si ce cycle te parle, voici comment en sortir, concrètement.",
     keywords: ["j'achète quand je suis triste", "acheter par émotion", "shopping émotionnel", "achat compulsif tristesse"],
-    content: `## Pourquoi ton cerveau associe achat et réconfort
+    relatedSlugs: ["depenses-emotionnelles-pourquoi-acheter-quand-triste", "comment-arreter-de-depenser-impulsivement", "culpabilite-argent-depenser"],
+    content: `## Pourquoi ton cerveau fait ça (en deux mots)
 
-Ce n'est pas un manque de volonté. C'est de la chimie.
+Ce n'est pas un manque de volonté, c'est de la chimie : l'achat libère de la dopamine, ton cerveau apprend que "acheter = soulagement immédiat", et il y revient. Le hic, c'est que le soulagement dure quelques minutes — puis l'émotion de départ revient, souvent avec une couche de culpabilité en plus. Et c'est là que le cycle commence.
 
-Quand tu achètes quelque chose, ton cerveau libère de la dopamine — le neurotransmetteur du plaisir et de la récompense. C'est exactement le même mécanisme que quand tu manges du sucre, scrolles sur les réseaux, ou reçois un like. Ton cerveau a appris que l'achat = soulagement immédiat.
+On reste ici sur l'essentiel, parce que cet article est un mode d'emploi pour **casser le cycle**. Pour comprendre en détail **pourquoi** ton cerveau te pousse à acheter — les déclencheurs, la dopamine, la science derrière le réflexe — lis [pourquoi on achète quand on est triste, stressé ou seul](/blog/depenses-emotionnelles-pourquoi-acheter-quand-triste).
 
-Le problème, c'est que ce soulagement dure entre 30 secondes et quelques minutes. Ensuite, l'émotion de départ revient — souvent accompagnée d'une nouvelle couche de culpabilité. Et c'est là que le cycle commence.
+## Les émotions qui déclenchent l'achat
 
-Quand tu es triste, fatigué·e ou stressé·e, ton cerveau ne cherche pas une solution rationnelle. Il cherche la sortie la plus rapide. Et dans un monde où acheter prend 3 clics, cette sortie est toujours à portée de main.
-
-## Les 4 émotions qui déclenchent l'achat émotionnel
-
-### Le stress
-
-C'est le déclencheur numéro un. Pression au travail, dispute, surcharge mentale — ton cerveau veut reprendre le contrôle. Acheter quelque chose te donne l'illusion de maîtriser quelque chose. "Au moins ça, je l'ai décidé."
-
-### La tristesse
-
-Quand tu te sens vide, l'achat remplit temporairement le trou. Un nouveau vêtement, un objet, une commande Uber Eats — ça occupe l'espace émotionnel. Mais ça ne traite jamais la cause.
-
-### L'ennui
-
-On en parle moins, mais c'est un déclencheur puissant. Les soirées seules, les weekends sans plans, les moments de vide — c'est là que le scroll shopping s'installe. Les achats en ligne explosent entre 20h et 23h en semaine. Ce n'est pas un hasard.
-
-### La comparaison sociale
-
-Tu vois quelqu'un afficher un objet, un voyage, un style de vie sur Instagram. Ton cerveau interprète ça comme un retard. Pour compenser, tu achètes. Pas parce que tu veux l'objet — parce que tu veux le sentiment d'être à la hauteur.
+Stress, tristesse, ennui, comparaison sociale : plusieurs émotions différentes mènent toutes au même réflexe d'achat. Peu importe laquelle te concerne le plus — ce qui compte ici, c'est le piège qui suit, et comment en sortir.
 
 ## Le piège : culpabilité → achat → culpabilité
 
