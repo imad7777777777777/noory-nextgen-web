@@ -30,7 +30,6 @@ const routes = [
   "/blog/tracker-ses-depenses-simplement",
   "/blog/objectif-financier-comment-le-definir",
   "/blog/relation-saine-argent",
-  "/blog/premiere-paie-5-reflexes",
   "/blog/gerer-son-argent-sans-stress",
   "/blog/profil-financier-psychologie-argent",
   "/blog/culpabilite-argent-depenser",
@@ -82,6 +81,10 @@ const redirects = {
   // fonds-urgence combien/comment pillar (same "combien" search intent).
   "/blog/epargne-de-precaution-combien":
     "/blog/fonds-urgence-combien-comment/",
+  // Consolidation (June 2026): première-paie merged into premier-salaire
+  // (same "que faire premier salaire / première paie" intent).
+  "/blog/premiere-paie-5-reflexes":
+    "/blog/premier-salaire-quoi-faire/",
   "/blog/depenses-impulsives-comment-arreter":
     "/blog/comment-arreter-de-depenser-impulsivement/",
   "/blog/epargner-petit-salaire":

@@ -45,6 +45,10 @@ const App = () => (
               path="/blog/epargne-de-precaution-combien"
               element={<Navigate to="/blog/fonds-urgence-combien-comment/" replace />}
             />
+            <Route
+              path="/blog/premiere-paie-5-reflexes"
+              element={<Navigate to="/blog/premier-salaire-quoi-faire/" replace />}
+            />
             <Route path="/blog/:slug" element={<BlogArticle />} />
             <Route path="/profil/:slug" element={<ProfilePage />} />
             <Route path="/quiz" element={<QuizPage />} />

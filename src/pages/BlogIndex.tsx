@@ -32,7 +32,6 @@ const gradientMap: Record<string, string> = {
   "fonds-urgence-combien-comment": "from-emerald-pastel to-sky-pastel",
   "depenses-inutiles-couper-sans-souffrir": "from-emerald-pastel to-rose-pastel",
   "tracker-ses-depenses-simplement": "from-emerald-pastel to-amber-pastel",
-  "premiere-paie-5-reflexes": "from-emerald-pastel to-sky-pastel",
   // Motivation articles (amber)
   "charge-mentale-financiere": "from-amber-pastel to-rose-pastel",
   "epargner-quand-on-a-pas-la-motivation": "from-amber-pastel to-emerald-pastel",
@@ -85,7 +84,6 @@ const iconMap: Record<string, string> = {
   "tracker-ses-depenses-simplement": "📝",
   "objectif-financier-comment-le-definir": "🏔️",
   "relation-saine-argent": "💚",
-  "premiere-paie-5-reflexes": "🎓",
 };
 
 type Category = "all" | "emotions" | "budget" | "couple" | "motivation";
@@ -113,7 +111,6 @@ const categoryMap: Record<string, Category[]> = {
   "fonds-urgence-combien-comment": ["budget"],
   "depenses-inutiles-couper-sans-souffrir": ["budget"],
   "tracker-ses-depenses-simplement": ["budget"],
-  "premiere-paie-5-reflexes": ["budget"],
   "charge-mentale-financiere": ["motivation"],
   "epargner-quand-on-a-pas-la-motivation": ["motivation"],
   "gerer-son-argent-sans-stress": ["motivation"],

@@ -2446,133 +2446,6 @@ C'est ta première minute de travail conscient sur ta relation à l'argent. Et �
 *Noory t'aide à transformer ta relation à l'argent, pas juste à mieux gérer ton budget. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
   },
   {
-    slug: "premiere-paie-5-reflexes",
-    title: "Première paie : les 5 réflexes à prendre dès le premier mois",
-    metaTitle: "Première paie : les 5 réflexes à prendre dès le début | Noory",
-    metaDescription: "Tu viens de recevoir ta première paie ? Voici les 5 réflexes à adopter maintenant pour ne pas galérer dans 6 mois.",
-    date: "2026-04-14",
-    dateModified: "2026-04-27",
-    readTime: "6 min",
-    intro: "Tu viens de recevoir ta première paie. Félicitations. Les 6 prochains mois vont déterminer ta relation à l'argent pour les 10 prochaines années. Voici les 5 réflexes à adopter maintenant.",
-    keywords: ["première paie", "premier salaire", "gérer premier job"],
-    content: `## Pourquoi les premiers mois sont décisifs
-
-Ta première paie, c'est un moment spécial. Tu passes de "l'argent des parents / du stage / de la bourse" à **ton argent**. Et à partir de là, tu commences à construire des habitudes — souvent inconsciemment.
-
-Les études le montrent : **les habitudes financières installées dans les 6 premiers mois de vie active persistent souvent pendant 10 à 20 ans**. Pas parce que tu ne peux pas les changer, mais parce que le cerveau n'a aucune raison de revoir un système qui "marche".
-
-C'est pour ça que ces premiers mois comptent énormément. Les réflexes que tu installes maintenant deviennent tes automatismes futurs. Et ces automatismes décideront si, à 30 ans, tu galères chaque fin de mois ou si tu as un vrai coussin de sécurité.
-
-Voici les 5 réflexes à installer dès **le premier mois**. Pas plus tard. Maintenant.
-
-## Réflexe 1 : Ouvre un deuxième compte (un pour vivre, un pour épargner)
-
-Ne garde pas tout ton argent sur un seul compte courant. C'est la pire configuration possible.
-
-Pourquoi ? Parce que tout ce qui est dans ton compte courant est **mentalement disponible**. Ton cerveau l'interprète comme "de l'argent à dépenser". Si ton épargne est mélangée à ton argent quotidien, elle est systématiquement mangée.
-
-La solution : **deux comptes**.
-
-1. **Compte courant** : ton argent du quotidien (charges, courses, plaisir)
-2. **Compte épargne séparé** : ton argent intouchable (livret A dans une autre banque idéalement, ou au minimum un livret séparé)
-
-L'effort pour transférer depuis le livret A vers le compte courant crée assez de friction pour casser l'impulsion. Ton épargne devient protégée par cette friction.
-
-Temps nécessaire : **10 minutes** dans ton appli bancaire. Fais-le ce soir.
-
-## Réflexe 2 : Mets 10% de côté le jour même (même si c'est 80€)
-
-Dès que ta première paie arrive, vire **immédiatement** 10% vers ton livret A. Pas demain. Pas "quand tu auras regardé ton budget". Le jour même.
-
-Sur 800€ → 80€.
-Sur 1 200€ → 120€.
-Sur 1 800€ → 180€.
-
-Oui, ça fait mal sur la première paie. Tu avais prévu 10 choses à faire avec cet argent. Mais ce premier virement est **symbolique**. Il pose une identité : tu es quelqu'un qui met de côté dès le départ.
-
-Et surtout : tu l'automatises pour les paies suivantes. Un virement automatique, le jour du salaire, vers ton livret. Une fois programmé, tu n'y penses plus. Le système tourne pour toi. Pour aller plus loin, lis [Épargne automatique : la méthode complète](/blog/epargne-automatique-comment-mettre-en-place).
-
-Si tu ne fais qu'UNE seule chose dans cet article, fais ça. C'est de loin le réflexe le plus puissant sur 10 ans.
-
-## Réflexe 3 : Note tes 3 plus grosses charges fixes
-
-Prends 10 minutes et note **tes 3 plus grosses charges fixes mensuelles**. Celles qui ne bougent pas.
-
-En général, pour un·e jeune actif·ve :
-
-1. **Le loyer** (souvent 30 à 50% du salaire)
-2. **Le téléphone / internet** (30 à 50€)
-3. **Le transport** (Navigo, essence, assurance voiture)
-
-Pourquoi noter ces 3 chiffres ? Parce qu'ils définissent ton **seuil de survie mensuelle**. Tu sais exactement combien il te faut, minimum, pour tenir un mois. Et ce chiffre est précieux :
-
-- Il t'aide à calculer ton fonds d'urgence (ces 3 chiffres × 3 mois = ton objectif minimum)
-- Il te donne une base pour évaluer une future augmentation ou un déménagement
-- Il te rassure (tu sais que même dans une mauvaise passe, tu connais le minimum)
-
-Ce simple exercice sort beaucoup de jeunes du flou financier. Fais-le une fois, sans stress, et note le total dans tes notes téléphone.
-
-## Réflexe 4 : Supprime le paiement en 1 clic sur tes apps shopping
-
-Amazon, Shein, Vinted, Zalando, UberEats, Deliveroo — toutes ces apps ont un point commun : elles sont conçues pour que tu puisses acheter en **2 clics**. Parfois en **1 clic**. Sans même avoir à taper ton mot de passe ou à confirmer tes coordonnées bancaires.
-
-Ce design n'est pas pour ton confort. Il est pour leur chiffre d'affaires. Selon le [Baymard Institute](https://baymard.com/lists/cart-abandonment-rate), le taux moyen d'abandon de panier sur les sites e-commerce dépasse 70 % — et chaque friction supprimée du parcours d'achat fait chuter ce taux. Plus c'est fluide, plus tu achètes impulsivement.
-
-La contre-mesure est simple : **retire tes infos bancaires** de ces apps.
-
-Pas toutes. Mais celles où tu sens que tu dépenses par impulsion. Chaque achat deviendra un micro-effort (ressaisir ta carte, confirmer). Et ce micro-effort te donnera les 10 secondes nécessaires à réfléchir.
-
-Tu continueras à acheter quand tu en as vraiment besoin. Mais les achats automatiques, inconscients, vont fondre. Tu peux économiser 50 à 150€/mois avec juste ce réflexe.
-
-## Réflexe 5 : Donne-toi un budget plaisir SANS culpabilité
-
-Voici le réflexe que beaucoup oublient : **prévoir un vrai budget plaisir**.
-
-Pourquoi c'est crucial ? Parce que les budgets "tout austère" finissent toujours par craquer. Tu tiens 2 semaines, puis tu explose sur un achat compensatoire qui dépasse ce que tu aurais dépensé si tu avais eu un budget plaisir officiel.
-
-Alloue-toi un montant précis par mois pour tes envies : sorties, restos, achats plaisir, ce que tu veux. Sur 1 800€, un budget plaisir de 150 à 200€ est réaliste.
-
-Et voilà la clé : **quand tu dépenses dans ce budget, tu ne culpabilises pas**. C'est prévu. C'est choisi. C'est validé à l'avance.
-
-Paradoxalement, un budget plaisir **explicite** réduit les dépenses impulsives. Les travaux de [Richard Thaler sur le mental accounting](https://people.bath.ac.uk/mnsrf/Teaching%202011/Thaler-99.pdf) (1999, prix Nobel d'économie 2017) ont montré que catégoriser explicitement son argent par poste — y compris un poste « plaisir » — aide à mieux résister aux achats hors-budget. Parce que tu as une "soupape" officielle — et parce que tu arrêtes de culpabiliser à chaque petite dépense, ce qui réduit le cycle honte → compensation → honte.
-
-Pour t'aider à te faire plaisir sans culpabiliser, lis [Dépense plaisir sans culpabiliser](/blog/depense-plaisir-sans-culpabiliser).
-
-## L'erreur classique du premier salaire : le lifestyle creep précoce
-
-Voici le piège dans lequel tombent la majorité des jeunes actifs : ils commencent à vivre comme s'ils allaient **toujours gagner plus**.
-
-Premier salaire = nouveau téléphone tout de suite. Premier bonus = vacances plus chères que prévues. Première augmentation = abonnements supplémentaires, resto plus fréquent, app premium partout.
-
-Le problème ? Ton niveau de vie monte **plus vite** que ton salaire. Et une fois installé, il est très difficile de redescendre. Tu t'habitues aux abonnements, aux restos, aux services. Et si ton salaire ne continue pas à monter au même rythme, tu te retrouves coincé·e.
-
-La bonne approche : **laisse ton niveau de vie monter avec 2 à 3 mois de retard** sur ton salaire. Quand tu reçois une augmentation, ne l'absorbe pas immédiatement. Garde ton mode de vie actuel pendant 2-3 mois, et investis/épargne la différence. Ensuite seulement, ajuste si besoin.
-
-Cette seule habitude t'épargne des milliers d'euros sur ta carrière.
-
-## Noory est pensé pour les jeunes actifs qui veulent bien démarrer
-
-Le parcours 28 jours de Noory est particulièrement adapté aux jeunes actif·ves qui viennent de commencer. Il installe les bons réflexes dès la semaine 1 — avant que les mauvais s'installent.
-
-Si tu navigues à vue avec cette nouvelle responsabilité financière, le profil du [Navigateur à Vue](/profil/navigateur-a-vue) est peut-être le tien. Pour approfondir sur ce qu'il faut faire de ton premier salaire, lis [Premier salaire : que faire avec](/blog/premier-salaire-quoi-faire). Et pour la méthode budget la plus simple qui existe, lis [Budget pour les nuls](/blog/budget-pour-les-nuls).
-
-## Tes 5 minutes d'action maintenant
-
-Tu as reçu ta première paie (ou la reçois bientôt). Fais ces 5 choses **cette semaine** :
-
-1. Ouvre un compte épargne séparé (10 min)
-2. Programme un virement automatique de 10% vers ce compte (5 min)
-3. Note tes 3 charges fixes (5 min)
-4. Retire tes infos bancaires de tes apps shopping (10 min)
-5. Définis un budget plaisir mensuel (5 min)
-
-Total : 35 minutes. Ces 35 minutes, c'est l'investissement le plus rentable de ta vie active. Littéralement.
-
----
-
-*Noory t'aide à poser les bons réflexes dès ton premier salaire. [Télécharge gratuitement sur iPhone.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
-  },
-  {
     slug: "gerer-son-argent-sans-stress",
     title: "Gérer son argent sans stress : 5 habitudes douces qui changent tout",
     metaTitle: "Gérer son argent sans stress : 5 habitudes douces | Noory",
@@ -3667,7 +3540,7 @@ Découvre aussi [pourquoi tu achètes quand tu es triste](/blog/j-achete-quand-j
     slug: "premier-salaire-quoi-faire",
     title: "Premier salaire : quoi faire (sans tout claquer en une semaine)",
     metaTitle: "Premier salaire : quoi faire sans tout claquer | Noory",
-    metaDescription: "Tu viens de recevoir ton premier salaire ? Découvre comment en profiter intelligemment sans tout dépenser en une semaine. Guide concret pour jeune actif.",
+    metaDescription: "Tu viens de toucher ton premier salaire (ta première paie) ? Voici comment en profiter sans tout claquer — les bons réflexes dès le premier mois.",
     date: "2026-04-13",
     readTime: "7 min",
     intro: "Ton premier salaire vient de tomber. L'euphorie est là, et c'est normal. Mais avant de tout claquer, voici comment en profiter vraiment — sans regrets.",
@@ -3738,6 +3611,14 @@ Tu veux passer à l'action aujourd'hui ? Voici 3 gestes qui prennent moins de 30
 **2. Mets en place un virement automatique épargne.** Même 30 €. Même 20 €. Le montant n'est pas le sujet. L'habitude, si. Choisis une date juste après ton salaire et programme-le maintenant. Pas demain. Maintenant.
 
 **3. Définis ton budget plaisir mensuel.** Un montant précis. Écris-le quelque part. C'est TON argent pour te faire plaisir, sans culpabilité, sans justification. Quand tu dépenses dans ce cadre, c'est un choix assumé.
+
+## Deux réflexes anti-pilote-automatique
+
+Au-delà de la structure, deux petits gestes cassent les dépenses inconscientes — ceux qui font le plus de différence sur le long terme.
+
+**Sépare ton épargne de ton quotidien.** Tout ce qui dort sur ton compte courant, ton cerveau le lit comme "de l'argent à dépenser". Mets ton épargne sur un livret à part, idéalement dans une autre banque. L'effort pour rapatrier l'argent crée juste assez de friction pour casser l'impulsion. Ton épargne devient protégée — sans volonté de fer.
+
+**Retire tes infos bancaires de tes apps shopping.** Amazon, Shein, Vinted, UberEats… elles sont conçues pour que tu achètes en un clic : moins il y a de friction sur le parcours d'achat, plus l'achat impulsif est facile. Retire ta carte des apps où tu craques le plus. Chaque achat redevient un micro-effort — et ces 10 secondes suffisent souvent à renoncer. Tu peux y gagner 50 à 150 € par mois.
 
 ## Ne te compare pas aux autres
 
