@@ -15,6 +15,7 @@ const ConfidentialitePage = lazy(() => import("./pages/ConfidentialitePage.tsx")
 const CguPage = lazy(() => import("./pages/CguPage.tsx"));
 const AProposPage = lazy(() => import("./pages/AProposPage.tsx"));
 const ContactPage = lazy(() => import("./pages/ContactPage.tsx"));
+const Comparatif = lazy(() => import("./pages/Comparatif.tsx"));
 const NotFound = lazy(() => import("./pages/NotFound.tsx"));
 
 const queryClient = new QueryClient();
@@ -50,6 +51,7 @@ const App = () => (
             <Route path="/plan" element={<Navigate to="/" replace />} />
             <Route path="/a-propos" element={<AProposPage />} />
             <Route path="/nous-contacter" element={<ContactPage />} />
+            <Route path="/comparatif/:slug" element={<Comparatif />} />
             {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
             <Route path="*" element={<NotFound />} />
           </Routes>
