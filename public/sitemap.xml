@@ -247,4 +247,18 @@
     <loc>https://noory.io/quiz/</loc>
     <lastmod>2026-04-01</lastmod>
   </url>
+
+  <!-- Comparatifs (BOFU comparison pages) -->
+  <url>
+    <loc>https://noory.io/comparatif/meilleure-application-budget/</loc>
+    <lastmod>2026-06-27</lastmod>
+  </url>
+  <url>
+    <loc>https://noory.io/comparatif/alternative-ynab/</loc>
+    <lastmod>2026-06-27</lastmod>
+  </url>
+  <url>
+    <loc>https://noory.io/comparatif/alternative-bankin/</loc>
+    <lastmod>2026-06-27</lastmod>
+  </url>
 </urlset>

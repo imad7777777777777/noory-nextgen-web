@@ -66,6 +66,9 @@ const routes = [
   "/profil/queteur-de-serenite",
   "/profil/batisseur-bloque",
   "/profil/investisseur-paralyse",
+  "/comparatif/meilleure-application-budget",
+  "/comparatif/alternative-ynab",
+  "/comparatif/alternative-bankin",
 ];
 
 // Old slug → new slug. Generates a static HTML stub at the old path that
