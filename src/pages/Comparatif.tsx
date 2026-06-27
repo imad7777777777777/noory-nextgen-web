@@ -191,6 +191,17 @@ const ComparatifPage = () => {
                 Découvre ton profil financier en 2 minutes et reçois un accompagnement quotidien adapté. Zéro jugement. Gratuit 7 jours.
               </p>
               <AppStoreBadge className="mx-auto" />
+              <p className="mt-4 text-sm text-muted-foreground">
+                Sur Android ou ordinateur ?{" "}
+                <a
+                  href="https://app.noory.io"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-primary underline hover:text-primary/80"
+                >
+                  Ouvre Noory dans ton navigateur →
+                </a>
+              </p>
             </div>
           </article>
 
