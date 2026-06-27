@@ -717,7 +717,7 @@ L'app est gratuite 7 jours sur iPhone, [disponible sur l'App Store](https://apps
     relatedSlugs: [
       "epargner-petit-salaire-methodes-concretes",
       "regle-50-30-20-explication",
-      "epargne-de-precaution-combien",
+      "fonds-urgence-combien-comment",
     ],
     content: `500 euros par mois, ça paraît être une somme qui demande "un bon salaire". Mais la vraie question n'est pas combien tu gagnes — c'est ce que ton organisation budgétaire te permet de mettre de côté.
 
@@ -895,7 +895,7 @@ Mettre 500 €/mois sur un livret A à 3%, c'est bien — mais après 2-3 ans tu
 
 Les étapes suivantes :
 
-1. **Construire ton fonds d'urgence** : 3 mois de charges sur livret A, intouchable. Pour le bon dosage, lis [Épargne de précaution : combien mettre de côté](/blog/epargne-de-precaution-combien).
+1. **Construire ton fonds d'urgence** : 3 mois de charges sur livret A, intouchable. Pour le bon dosage, lis [Fonds d'urgence : combien mettre de côté](/blog/fonds-urgence-combien-comment).
 2. **Au-delà** : commencer à investir progressivement. PEA pour les actions europe (fiscalité avantageuse), Assurance vie pour la diversification. Si l'investissement te fait peur, [lis notre article sur investir quand on a peur](/blog/investir-debutant-peur).
 
 ---
@@ -905,7 +905,7 @@ Les étapes suivantes :
 Si tu galères à savoir par où commencer dans ton organisation budgétaire :
 
 - [Comment épargner avec un petit salaire : 3 méthodes concrètes →](/blog/epargner-petit-salaire-methodes-concretes)
-- [Fonds d'urgence : combien mettre de côté ? →](/blog/epargne-de-precaution-combien)
+- [Fonds d'urgence : combien mettre de côté ? →](/blog/fonds-urgence-combien-comment)
 - [Quel est ton profil financier ? Le quiz →](/quiz)
 
 L'app Noory te donne aussi 28 jours de coaching personnalisé selon ton profil financier (Quêteur de Sérénité, Navigateur à Vue, Dépensier Émotionnel, Bâtisseur Bloqué, Investisseur Paralysé). [Gratuit 7 jours sur iPhone](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972).
@@ -1304,7 +1304,7 @@ Si tu veux savoir lequel de ces biais domine le plus chez toi, [le quiz Noory te
     readTime: "8 min",
     intro: "Concrètement : tu programmes un virement automatique de 150 € le jour de ta paie, vers un livret séparé, avant même d'avoir vu l'argent. C'est ça, l'épargne automatique. Voici comment la mettre en place en 4 minutes — et combien viser pour que ça tienne.",
     keywords: ["épargne automatique", "virement automatique épargne", "comment épargner sans y penser", "épargne automatique sans virement", "investissement automatique", "conseils épargne"],
-    relatedSlugs: ["epargne-de-precaution-combien", "fonds-urgence-combien-comment", "regle-50-30-20-explication"],
+    relatedSlugs: ["fonds-urgence-combien-comment", "regle-50-30-20-explication", "defi-epargne-52-semaines"],
     content: `## L'épargne automatique en 3 étapes (mise en place en 4 minutes)
 
 Pas besoin de discipline ni de tableur. Le principe tient en trois gestes que tu fais une seule fois :
@@ -1338,7 +1338,7 @@ Pour commencer, ne complique pas. Un **Livret A** fait parfaitement le job :
 - Ouvert en 10 minutes depuis ton appli
 - Séparé de ton compte courant (donc moins tentant)
 
-C'est le support idéal pour ton [fonds d'urgence](/blog/fonds-urgence-combien-comment) — ces 3 à 6 mois de dépenses qui te protègent des coups durs. Pour savoir combien viser précisément, on détaille tout dans [Épargne de précaution : combien mettre de côté](/blog/epargne-de-precaution-combien).
+C'est le support idéal pour ton [fonds d'urgence](/blog/fonds-urgence-combien-comment) — ces 3 à 6 mois de dépenses qui te protègent des coups durs, et on y détaille combien viser précisément.
 
 Une fois ton fonds d'urgence constitué, tu pourras diversifier : LDDS pour compléter, assurance-vie ou PEA pour les projets à 5 ans et plus. Mais chaque chose en son temps — tu n'as pas besoin d'y penser maintenant.
 
@@ -1672,15 +1672,17 @@ N'attends pas le 1er janvier. N'attends pas lundi. Aujourd'hui, c'est ta semaine
     slug: "fonds-urgence-combien-comment",
     title: "Fonds d'urgence : combien mettre de côté et comment le constituer",
     metaTitle: "Fonds d'urgence : combien et comment le constituer (2026)",
-    metaDescription: "Un fonds d'urgence, c'est 3 à 6 mois de dépenses de côté pour absorber les imprévus. Combien viser, où le placer et comment le constituer dès 50 €/mois.",
+    metaDescription: "Fonds d'urgence ou épargne de précaution : 3 à 6 mois de dépenses de côté pour les imprévus. Combien viser, où le placer, comment le constituer dès 30 €.",
     date: "2026-05-29",
     readTime: "9 min",
     intro: "Ta voiture te lâche : 800 € de réparation, tout de suite. Sans fonds d'urgence, c'est un crédit à 18 % ou un découvert. Avec, c'est juste une mauvaise journée. Voici combien mettre de côté (3 à 6 mois de dépenses), où le placer, et comment t'y prendre sans te priver.",
-    keywords: ["fonds d'urgence", "fonds de précaution", "épargne de précaution montant", "combien épargner pour un fonds d'urgence", "mettre 500 euros de côté par mois"],
-    relatedSlugs: ["epargne-automatique-comment-mettre-en-place", "epargne-de-precaution-combien", "regle-50-30-20-explication"],
+    keywords: ["fonds d'urgence", "épargne de précaution", "fonds de précaution", "épargne de précaution montant", "combien épargner", "combien épargner pour un fonds d'urgence", "mettre 500 euros de côté par mois"],
+    relatedSlugs: ["epargne-automatique-comment-mettre-en-place", "quel-salaire-pour-epargner-500-par-mois", "regle-50-30-20-explication"],
     content: `## C'est quoi un fonds d'urgence (et pourquoi c'est ta priorité n°1)
 
 Un fonds d'urgence — aussi appelé épargne de précaution ou fonds de précaution — c'est une somme d'argent que tu gardes de côté, accessible immédiatement, pour une seule mission : **absorber un imprévu sans déstabiliser ta vie**.
+
+Tu verras les deux expressions partout : **« fonds d'urgence » et « épargne de précaution » désignent exactement la même chose**. « Épargne de précaution » est le terme le plus courant chez les banques et les conseillers ; « fonds d'urgence » (de l'anglais emergency fund) est plus parlant. Peu importe le nom — c'est le même filet de sécurité, et la même méthode pour le construire.
 
 Ce n'est pas un compte pour les vacances. Pas pour un achat plaisir. Pas pour investir. C'est un **filet de sécurité**, et il ne sert qu'à ça. Concrètement, il couvre les coups durs classiques :
 
@@ -1756,7 +1758,17 @@ Le jour de ta paie, un virement automatique part vers ton Livret A. **Avant** qu
 
 Si tu peux mettre 500 € sans te priver, fais-le. Sinon, commence à 30 € : un petit système qui tourne bat toujours un grand projet qui n'existe que dans ta tête.
 
-### 4. Accélère avec les "extras"
+### 4. Empile les micro-épargnes
+
+En plus du virement automatique, trois petits systèmes font grossir ton coussin sans que tu y penses :
+
+- **L'arrondi** : certaines banques arrondissent chaque achat à l'euro supérieur et mettent la différence de côté. 30 centimes par-ci, 70 par-là — ça s'accumule plus vite que tu ne crois.
+- **Le défi des 5 €** : chaque billet de 5 € qui passe entre tes mains part sur ton Livret A. Simple, ludique, sans calcul.
+- **L'épargne du non-achat** : tu renonces à un achat impulsif de 25 € ? Vire ces 25 € vers ton fonds. Tu transformes une frustration en victoire concrète.
+
+Si ton salaire est serré et que chaque euro compte, on détaille des méthodes adaptées dans [Épargner avec un petit salaire](/blog/epargner-petit-salaire-methodes-concretes).
+
+### 5. Accélère avec les "extras"
 
 Prime, remboursement d'impôts, cadeau, revente d'un objet : dirige automatiquement la moitié de chaque rentrée exceptionnelle vers ton fonds. Tu accélères sans rien changer à ton quotidien.
 
@@ -1774,7 +1786,7 @@ Pour caler tout ça dans un budget global, la [règle 50/30/20](/blog/regle-50-3
 
 On ne parle pas assez de ça. Le fonds d'urgence n'est pas qu'une affaire de chiffres — c'est une affaire de **santé mentale**. Quand tu sais que tu as quelques mois de charges devant toi, quelque chose se relâche : tu dors mieux, tu prends de meilleures décisions (moins de stress = moins d'achats impulsifs), tu peux dire non à une situation professionnelle toxique, et chaque imprévu cesse d'être un drame.
 
-C'est exactement ce qui fait baisser l'[anxiété financière](/blog/anxiete-financiere-calmer) et allège la [charge mentale](/blog/charge-mentale-financiere) que tant de gens portent en silence. Si tu veux approfondir les montants selon ta situation précise, on complète le sujet dans [Épargne de précaution : combien mettre de côté](/blog/epargne-de-precaution-combien).
+C'est exactement ce qui fait baisser l'[anxiété financière](/blog/anxiete-financiere-calmer) et allège la [charge mentale](/blog/charge-mentale-financiere) que tant de gens portent en silence.
 
 ## Ta première action aujourd'hui
 
@@ -4126,134 +4138,6 @@ Si tu sens que tes achats en ligne sont souvent dictés par l'émotion plutôt q
 ---
 
 *Chaque achat devrait être un choix, pas un réflexe. Noory t'aide à créer cet espace entre l'envie et le clic, pour dépenser en conscience. [Télécharge l'app gratuitement.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
-  },
-  {
-    slug: "epargne-de-precaution-combien",
-    title: "Épargne de précaution : combien mettre de côté (et pourquoi)",
-    metaTitle: "Épargne de précaution : combien mettre de côté | Noory",
-    metaDescription: "Combien faut-il mettre de côté en épargne de précaution ? Découvre le montant idéal, où placer cet argent, et comment construire ton fonds d'urgence pas à pas.",
-    date: "2026-04-11",
-    readTime: "7 min",
-    intro: "On te dit d'épargner, mais combien ? Et pourquoi ? L'épargne de précaution, c'est ton filet de sécurité. Voici comment le construire — même avec un petit budget.",
-    keywords: ["épargne de précaution", "fonds d'urgence", "combien épargner"],
-    content: `## C'est quoi l'épargne de précaution ?
-
-L'épargne de précaution — aussi appelée fonds d'urgence — c'est une somme d'argent que tu mets de côté pour les **imprévus**. Pas pour les vacances. Pas pour un achat plaisir. Pour les moments où la vie te surprend :
-
-- Ta machine à laver tombe en panne
-- Tu dois avancer des frais médicaux
-- Tu perds ton emploi ou ton contrat se termine
-- Ta voiture a besoin d'une réparation urgente
-- Un déménagement imprévu
-
-Sans épargne de précaution, chacune de ces situations devient une **crise**. Avec, c'est juste un imprévu. La nuance est immense.
-
-Ce matelas de sécurité n'est pas un luxe. C'est la **base** de toute vie financière saine. Avant d'investir, avant de rembourser des dettes non urgentes, avant de planifier des projets — tu as besoin de ce filet. Parce que sans lui, chaque imprévu te fait reculer. Et reculer, c'est épuisant.
-
-## Combien mettre de côté ?
-
-C'est LA question. Et la réponse dépend de ta situation. Voici les repères classiques :
-
-### Le minimum vital : 1 mois de dépenses
-
-Si tu pars de zéro, vise d'abord l'équivalent d'un mois de tes dépenses essentielles (loyer, courses, factures, transport). Ce premier palier te protège des petits imprévus — une réparation, un problème de santé, un retard de salaire.
-
-Pour beaucoup de jeunes actifs, ça représente entre 800 € et 1 500 €. Ce n'est pas énorme. Et c'est déjà une protection considérable.
-
-### L'objectif recommandé : 2 à 3 mois de dépenses
-
-C'est le standard recommandé par la plupart des experts en finances personnelles. Avec 2 à 3 mois de dépenses de côté, tu peux :
-
-- Faire face à la plupart des imprévus sans stress
-- Prendre le temps de chercher un nouveau travail si nécessaire
-- Absorber une dépense surprise sans toucher à ton quotidien
-
-Si tes dépenses mensuelles sont de 1 200 €, ça fait entre 2 400 € et 3 600 €. C'est un objectif réaliste qu'on peut atteindre en 6 à 12 mois avec un plan régulier.
-
-### Le confort : 6 mois de dépenses
-
-Pour ceux qui veulent une sérénité maximale — freelances, indépendants, ou personnes à revenus variables — 6 mois de dépenses est l'objectif idéal. C'est un coussin large qui te permet de traverser une période difficile sans panique.
-
-**Le conseil Noory :** ne te focalise pas sur le montant final. Focalise-toi sur le **prochain palier**. Tu es à 0 ? Vise 500 €. Tu es à 500 ? Vise 1 000 €. Chaque palier franchi est une victoire — et ton stress diminue à chaque étape.
-
-Si tu te demandes comment épargner avec un petit salaire, [cet article](/blog/epargner-petit-salaire-methodes-concretes/) est fait pour toi.
-
-## Où placer ton épargne de précaution ?
-
-Le fonds d'urgence a deux caractéristiques essentielles : il doit être **disponible immédiatement** et il ne doit **pas perdre de valeur**. Ça élimine certaines options :
-
-### Le Livret A : le classique
-
-C'est l'option la plus simple et la plus adaptée. Ton argent est disponible à tout moment, il est garanti par l'État, et il génère un petit intérêt (même si ce n'est pas le but premier).
-
-### Le LDDS (Livret de Développement Durable et Solidaire)
-
-Même principe que le Livret A, avec un plafond différent. C'est une bonne option complémentaire si ton Livret A est déjà bien rempli.
-
-### Ce qu'il faut éviter pour l'épargne de précaution
-
-- **L'assurance-vie** — Les fonds sont bloqués ou pénalisés en cas de retrait anticipé
-- **Les actions ou cryptomonnaies** — La valeur peut baisser au pire moment
-- **Le compte courant** — Trop tentant de piocher dedans au quotidien
-
-La règle d'or : ton épargne de précaution doit être sur un **compte séparé**, facile d'accès mais pas trop. Séparé pour ne pas la confondre avec ton argent disponible. Facile d'accès pour pouvoir y accéder en cas de vraie urgence.
-
-## Comment construire ton fonds d'urgence pas à pas
-
-Tu gagnes 1 500 € et tu as l'impression qu'il ne reste rien en fin de mois ? Tu peux quand même construire une épargne de précaution. Voici le plan :
-
-### Étape 1 : Le virement automatique (même petit)
-
-Le jour de ton salaire, un virement automatique part vers ton Livret A. Commence par ce que tu peux. 30 €. 50 €. 80 €. Le montant n'est pas le sujet — l'**automatisme** l'est.
-
-Pourquoi automatique ? Parce que si tu comptes sur toi pour virer l'argent manuellement en fin de mois, il n'en restera pas. L'argent qu'on ne voit pas, on ne le dépense pas. C'est le principe du "paye-toi en premier" — et c'est la technique la plus efficace qui existe.
-
-### Étape 2 : Les micro-épargnes
-
-En plus du virement mensuel, mets en place des micro-épargnes :
-
-- **L'arrondi** : certaines banques proposent d'arrondir chaque achat à l'euro supérieur et de mettre la différence de côté. 30 centimes par-ci, 70 centimes par-là — ça s'accumule vite.
-- **Le défi des 5 €** : chaque fois que tu trouves un billet de 5 € dans ta poche, tu le mets de côté. Simple et ludique.
-- **L'épargne du non-achat** : tu résistes à un achat impulsif de 25 € ? Transfère ces 25 € vers ton épargne. Tu matérialises ta victoire.
-
-### Étape 3 : Les coups de boost
-
-De temps en temps, une entrée d'argent supplémentaire arrive : prime, remboursement, cadeau, revente d'un objet. C'est le moment d'accélérer. Pas tout — mais une bonne partie. 50 % de chaque "extra" vers l'épargne de précaution, c'est une règle qui fonctionne bien.
-
-[Noory](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972) t'accompagne dans cette construction avec des objectifs progressifs et des rappels bienveillants. Pas de pression — juste un suivi qui te montre tes progrès et te motive à continuer.
-
-### Étape 4 : Ne touche pas (sauf vraie urgence)
-
-C'est le plus dur. Ton fonds d'urgence n'est pas un deuxième compte courant. Il est réservé aux **vraies urgences** — pas aux soldes, pas au week-end entre potes, pas à la nouvelle console.
-
-Comment faire la différence ? Pose-toi cette question : "Est-ce que ne pas dépenser cet argent maintenant aurait des conséquences graves sur ma santé, mon logement ou mon travail ?" Si la réponse est non, ce n'est pas une urgence.
-
-## Le lien entre épargne et sérénité
-
-On ne le dit pas assez : l'épargne de précaution n'est pas qu'une question de chiffres. C'est une question de **santé mentale**.
-
-Quand tu sais que tu as un filet de sécurité, ton rapport à l'argent change profondément :
-
-- Tu dors mieux. Littéralement.
-- Tu prends de meilleures décisions au quotidien (moins de stress = moins d'achats impulsifs)
-- Tu peux dire "non" à des situations professionnelles toxiques parce que tu sais que tu peux tenir quelques mois
-- Tu arrêtes de vivre dans la peur du prochain imprévu
-
-L'épargne de précaution, c'est acheter ta **tranquillité d'esprit**. Et il n'y a pas de meilleur investissement.
-
-Si tu as peur de commencer à investir au-delà de l'épargne de précaution, [Investir quand on est débutant](/blog/investir-debutant-peur) démystifie le sujet en douceur. Et si tu ressens une anxiété profonde autour de l'argent, le profil du [Quêteur de Sérénité](/profil/queteur-de-serenite) t'aidera à comprendre ce qui se passe en toi.
-
-## Commence aujourd'hui, pas demain
-
-Tu n'as pas besoin d'attendre une augmentation. Tu n'as pas besoin de rembourser toutes tes dettes d'abord (sauf si elles sont à taux très élevé). Tu as besoin de poser le **premier geste**.
-
-Ouvre ton appli bancaire. Mets en place un virement automatique vers ton Livret A. Même 20 €. Même 10 €. Ce virement, c'est toi qui dis à ton futur moi : "Je te protège."
-
-Et dans 3 mois, quand tu regarderas ce petit matelas qui a grandi sans effort, tu comprendras pourquoi c'était la meilleure décision de l'année.
-
----
-
-*Ta sérénité financière commence par un filet de sécurité. Noory t'aide à le construire, pas à pas, sans pression. [Découvre ton profil financier et commence ton parcours.](https://apps.apple.com/fr/app/noory-finance-objectifs/id6746418972)*`
   },
   {
     slug: "parler-argent-tabou-france",

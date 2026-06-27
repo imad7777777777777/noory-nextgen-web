@@ -49,7 +49,6 @@ const routes = [
   "/blog/methode-enveloppes-budget",
   "/blog/anxiete-financiere-calmer",
   "/blog/acheter-en-ligne-moins-depenser",
-  "/blog/epargne-de-precaution-combien",
   "/blog/parler-argent-tabou-france",
   "/blog/regle-50-30-20-explication",
   "/blog/money-date-couple",
@@ -78,6 +77,10 @@ const redirects = {
   // Consolidation (May 2026): old "pourquoi" fonds-urgence article merged into
   // the new combien/comment pillar to kill keyword cannibalization on "fonds d'urgence".
   "/blog/fond-urgence-pourquoi-indispensable":
+    "/blog/fonds-urgence-combien-comment/",
+  // Consolidation (June 2026): épargne-de-précaution merged into the
+  // fonds-urgence combien/comment pillar (same "combien" search intent).
+  "/blog/epargne-de-precaution-combien":
     "/blog/fonds-urgence-combien-comment/",
   "/blog/depenses-impulsives-comment-arreter":
     "/blog/comment-arreter-de-depenser-impulsivement/",

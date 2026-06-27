@@ -41,6 +41,10 @@ const App = () => (
               path="/blog/epargner-petit-salaire"
               element={<Navigate to="/blog/epargner-petit-salaire-methodes-concretes/" replace />}
             />
+            <Route
+              path="/blog/epargne-de-precaution-combien"
+              element={<Navigate to="/blog/fonds-urgence-combien-comment/" replace />}
+            />
             <Route path="/blog/:slug" element={<BlogArticle />} />
             <Route path="/profil/:slug" element={<ProfilePage />} />
             <Route path="/quiz" element={<QuizPage />} />

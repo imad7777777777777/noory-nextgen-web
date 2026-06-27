@@ -180,8 +180,8 @@ const ProfilePage = () => {
                   <Link to="/blog/anxiete-financiere-calmer/" className="block text-sm text-primary hover:underline">
                     Anxiété financière : 7 techniques pour calmer ton stress d'argent
                   </Link>
-                  <Link to="/blog/epargne-de-precaution-combien/" className="block text-sm text-primary hover:underline">
-                    Épargne de précaution : combien mettre de côté (et pourquoi)
+                  <Link to="/blog/fonds-urgence-combien-comment/" className="block text-sm text-primary hover:underline">
+                    Fonds d'urgence : combien mettre de côté (et comment le constituer)
                   </Link>
                   <Link to="/blog/gerer-son-argent-sans-stress/" className="block text-sm text-primary hover:underline">
                     Gérer son argent sans stress : 5 habitudes douces
@@ -212,8 +212,8 @@ const ProfilePage = () => {
                   <Link to="/blog/investir-debutant-peur/" className="block text-sm text-primary hover:underline">
                     Investir quand on a peur : le guide pour débutants paralysés
                   </Link>
-                  <Link to="/blog/epargne-de-precaution-combien/" className="block text-sm text-primary hover:underline">
-                    Épargne de précaution : combien mettre de côté
+                  <Link to="/blog/fonds-urgence-combien-comment/" className="block text-sm text-primary hover:underline">
+                    Fonds d'urgence : combien mettre de côté
                   </Link>
                   <Link to="/blog/charge-mentale-financiere/" className="block text-sm text-primary hover:underline">
                     Charge mentale financière : comment l'alléger
