@@ -1123,8 +1123,8 @@ Le défi hebdo démarre à 1 € la première semaine, +1 € chaque semaine. Se
 1. **Sépare physiquement l'argent.** Un compte d'épargne distinct du compte courant : ce qui n'est pas visible n'est pas dépensé.
 2. **Automatise tout.** Vire le jour de la paie, pas à la fin du mois. La régularité bat le montant, toujours.
 3. **Commence ridiculement petit.** 10 € tenus 6 mois valent mieux que 80 € abandonnés au 2e mois.
-4. **Donne un but à ton épargne.** "Fonds d'urgence", "matelas" : un objectif nommé motive bien plus qu'un chiffre abstrait.
-5. **Ne vise pas la perfection.** Un mois difficile ? Baisse le virement, ne le supprime pas.
+4. **Donne un but à ton épargne.** "Fonds d'urgence", "matelas" : [un objectif nommé motive bien plus qu'un chiffre abstrait](/blog/objectif-financier-comment-le-definir).
+5. **Ne vise pas la perfection.** [Un mois difficile ?](/blog/epargner-quand-on-a-pas-la-motivation) Baisse le virement, ne le supprime pas.
 
 Le but de ces réflexes : réduire l'effort et la culpabilité. Si l'argent te crée une vraie angoisse, [calmer l'anxiété financière](/blog/anxiete-financiere-calmer) est une étape à part entière — elle compte autant que la méthode.
 
@@ -2216,7 +2216,7 @@ Comment calculer ? Pour un voyage : budget vol + hébergement + sur place + marg
 
 ### A comme Atteignable
 
-Ton objectif doit être **réaliste** au vu de ton revenu.
+Ton objectif doit être [réaliste au vu de ton revenu](/blog/epargner-petit-salaire-methodes-concretes) — même un petit salaire peut viser un but, à condition de le calibrer.
 
 Si tu gagnes 1 800€ et que tu veux 30 000€ dans 6 mois, tu t'installes dans l'échec. Si tu veux 10 000€ en 2 ans, c'est 420€/mois — serré mais possible. Si tu veux 5 000€ en 2 ans, c'est 210€/mois — confortable.
 
