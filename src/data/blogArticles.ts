@@ -140,7 +140,7 @@ On résume souvent les dépenses émotionnelles à "acheter quand on est triste"
 - **La solitude.** Le colis qui arrive, c'est un événement, presque une visite. L'achat remplit un silence.
 - **La récompense.** "Je l'ai bien mérité" après une grosse journée — l'émotion positive déclenche aussi des dépenses, et on l'oublie souvent.
 
-Repérer **quelle** émotion te fait acheter est la première marche. Tant qu'on dit juste "je dépense trop", on ne peut rien faire. Dès qu'on dit "je dépense quand je m'ennuie le dimanche soir", une solution devient possible.
+Repérer **quelle** émotion te fait acheter est la première marche — ensuite, [les 7 techniques qui marchent vraiment pour arrêter de dépenser impulsivement](/blog/comment-arreter-de-depenser-impulsivement) prennent le relais. Tant qu'on dit juste "je dépense trop", on ne peut rien faire. Dès qu'on dit "je dépense quand je m'ennuie le dimanche soir", une solution devient possible.
 
 ## Pourquoi ce n'est pas un manque de volonté
 
@@ -952,7 +952,7 @@ Tu as déjà essayé. Tu t'es dit "ce mois-ci je tiens". Le 5 du mois, tu craque
 
 Tu en conclus que tu manques de discipline. C'est faux. Le problème, c'est que tu te bats contre ton cerveau avec les mauvaises armes.
 
-Daniel Kahneman, prix Nobel d'économie, a montré que ton cerveau fonctionne avec deux systèmes. Le **Système 1** est rapide, automatique, émotionnel — c'est lui qui décide en 0,3 seconde quand tu vois la pub. Le **Système 2** est lent, réfléchi, rationnel — c'est lui qui sait que tu n'as pas besoin de cet objet. Et le Système 1 gagne presque toujours, parce qu'il est plus rapide et qu'il consomme moins d'énergie.
+Avant même de parler technique, il faut savoir une chose : l'achat impulsif est presque toujours piloté par une émotion — on détaille [les 5 émotions qui te font acheter](/blog/depenses-emotionnelles-pourquoi-acheter-quand-triste) dans un autre article. Daniel Kahneman, prix Nobel d'économie, a montré que ton cerveau fonctionne avec deux systèmes. Le **Système 1** est rapide, automatique, émotionnel — c'est lui qui décide en 0,3 seconde quand tu vois la pub. Le **Système 2** est lent, réfléchi, rationnel — c'est lui qui sait que tu n'as pas besoin de cet objet. Et le Système 1 gagne presque toujours, parce qu'il est plus rapide et qu'il consomme moins d'énergie.
 
 La volonté, c'est du Système 2. Et le Système 2 est une ressource limitée qui s'épuise au fil de la journée. C'est pour ça que tu craques le soir, pas le matin.
 
@@ -968,7 +968,7 @@ Pourquoi ça marche : en finance comportementale, on parle de "biais du présent
 
 ## Technique 2 — L'enveloppe cash adaptée à 2025
 
-La méthode des enveloppes papier, c'est pratique en théorie, impossible en vrai (qui paie en liquide aujourd'hui ?). La version moderne tient en deux comptes bancaires :
+La méthode des enveloppes papier, c'est pratique en théorie, impossible en vrai (qui paie en liquide aujourd'hui ?). La version moderne tient en deux comptes bancaires (notre [comparatif des applis qui te donnent ce double compte](/comparatif/meilleure-application-budget/) t'aide à choisir l'outil) :
 
 1. **Compte "essentiel"** : loyer, courses, factures, transports. Avec ta carte habituelle.
 2. **Compte "plaisir"** : tout le reste. Avec une carte différente, idéalement une carte virtuelle ou prépayée.
@@ -1031,9 +1031,9 @@ Pourquoi ça marche : l'argent est une abstraction, le temps ne l'est pas. Cette
 
 ## Ce qu'il faut retenir
 
-Arrêter de dépenser impulsivement n'est pas une question de caractère. C'est une question de **système**. Tu changes les conditions autour de toi — pause forcée, séparation des comptes, journal émotionnel, micro-budget, témoin extérieur, liste des 30 jours, prix en heures de travail — et le comportement suit. Sans douleur, sans privation.
+Arrêter de dépenser impulsivement n'est pas une question de caractère. C'est une question de **système** — au même titre que [couper les automatismes sans te priver](/blog/depenses-inutiles-couper-sans-souffrir). Tu changes les conditions autour de toi — pause forcée, séparation des comptes, journal émotionnel, micro-budget, témoin extérieur, liste des 30 jours, prix en heures de travail — et le comportement suit. Sans douleur, sans privation.
 
-Choisis-en une. Une seule. Tiens-la 7 jours. Puis ajoute la suivante. C'est l'effet cumulé qui change tout.
+Choisis-en une. Une seule. Tiens-la 7 jours. Puis ajoute la suivante. C'est l'effet cumulé qui change tout. Et si tu veux un cadre pour t'entraîner sur un mois entier, teste [le No Buy Challenge version réaliste](/blog/no-buy-challenge-comment-faire).
 
 Si tu veux tester quelle technique correspond le mieux à ton profil financier, [fais le quiz en 2 minutes](/quiz). Tu sauras ce qui te bloque vraiment — et la suite devient évidente.
 
@@ -1952,7 +1952,7 @@ Ce dimanche. Pose-toi. Ouvre ton appli bancaire. Fais les 4 étapes. Dans 4 sema
 
 Tu as sûrement déjà essayé. Un moment de motivation (souvent après une fin de mois difficile), et tu décides : "Plus de restos. Plus d'Uber. Plus d'Amazon. J'arrête tout."
 
-3 jours plus tard, tu craques. Tu te sens coupable. Tu te dis "je suis nul·le avec l'argent". Et tu retombes dans le schéma de départ — parfois en pire, parce que la culpabilité déclenche encore plus d'achats impulsifs.
+3 jours plus tard, tu craques. Tu te sens coupable. Tu te dis "je suis nul·le avec l'argent". Et tu retombes dans le schéma de départ — parfois en pire, parce que la culpabilité déclenche encore plus d'achats impulsifs (pour briser ce réflexe, [des techniques pour arrêter de dépenser impulsivement](/blog/comment-arreter-de-depenser-impulsivement) sont plus efficaces que la volonté seule).
 
 Ce n'est pas ta faute. C'est la méthode qui est mauvaise.
 
@@ -2037,9 +2037,9 @@ Pour structurer cette épargne automatique, lis [Épargne automatique : la méth
 
 Voilà la vérité qu'on ne t'explique pas : couper ses dépenses inutiles, ce n'est pas se priver. C'est le contraire.
 
-Quand tu dépenses par automatisme, tu n'as pas choisi. Tu as subi. Le marketing a choisi pour toi. La publicité a choisi pour toi. Ton habitude a choisi pour toi. Tu n'es pas plus heureux·se pour autant — tu es juste plus pauvre.
+Quand tu dépenses par automatisme, tu n'as pas choisi. Tu as subi. Le marketing a choisi pour toi. La publicité a choisi pour toi. Ton habitude a choisi pour toi. Si ces automatismes sont surtout déclenchés par tes émotions, [le profil du Dépensier Émotionnel](/profil/depensier-emotionnel/) décrit précisément ce fonctionnement. Tu n'es pas plus heureux·se pour autant — tu es juste plus pauvre.
 
-Couper les automatismes, c'est reprendre le volant. C'est dire : "Je décide ce qui compte pour moi, et je mets mon argent là." Et cette reprise de contrôle crée une vraie satisfaction — bien plus profonde que le soulagement éphémère d'un achat impulsif.
+Couper les automatismes, c'est reprendre le volant. C'est dire : "Je décide ce qui compte pour moi, et je mets mon argent là." Pour repérer tes automatismes les plus coûteux, [le quiz de profil financier en 2 minutes](/quiz) te donne un point de départ. Et cette reprise de contrôle crée une vraie satisfaction — bien plus profonde que le soulagement éphémère d'un achat impulsif.
 
 Si tu te sens coupable de te faire plaisir avec ton argent, lis [Dépense plaisir sans culpabiliser](/blog/depense-plaisir-sans-culpabiliser). Et pour comprendre la méthode budget la plus simple, lis [Budget pour les nuls](/blog/budget-pour-les-nuls).
 
@@ -2645,7 +2645,7 @@ Tu achètes un café à 4€ et tu te sens coupable. Tu t'offres un vêtement et
 
 Si tu te reconnais, sache une chose : ce n'est pas un problème d'argent. C'est un problème de **croyance**. Quelque part, tu as appris que dépenser = mal faire. Et cette croyance est devenue automatique.
 
-La culpabilité financière touche des millions de personnes, indépendamment de leurs revenus. Des gens qui gagnent 5 000€ par mois culpabilisent autant que ceux qui en gagnent 1 200€. Parce que le montant n'est pas le sujet. Le sujet, c'est ce que l'argent représente pour toi.
+La culpabilité financière touche des millions de personnes, indépendamment de leurs revenus. Des gens qui gagnent 5 000€ par mois culpabilisent autant que ceux qui en gagnent 1 200€. Parce que le montant n'est pas le sujet. Le sujet, c'est ce que l'argent représente pour toi. Et quand la culpabilité finit par déclencher des achats impulsifs, [des techniques concrètes pour arrêter de dépenser impulsivement](/blog/comment-arreter-de-depenser-impulsivement) aident à casser ce réflexe.
 
 ## L'éducation et les croyances familiales
 
@@ -2692,7 +2692,7 @@ Le travail n'est pas de supprimer les dépenses non-alignées. C'est de les **vo
 
 ## Ton premier pas vers la liberté
 
-La culpabilité financière n'est pas une fatalité. C'est un schéma qu'on peut comprendre, déconstruire, et remplacer par quelque chose de plus doux. Si tu te reconnais dans le profil du [Dépensier Émotionnel](/profil/depensier-emotionnel), tu comprendras encore mieux d'où vient ce mécanisme.
+La culpabilité financière n'est pas une fatalité. C'est un schéma qu'on peut comprendre, déconstruire, et remplacer par quelque chose de plus doux. Et [le quiz Noory te dit en 2 minutes d'où vient ta culpabilité](/quiz) pour savoir par où commencer. Si tu te reconnais dans le profil du [Dépensier Émotionnel](/profil/depensier-emotionnel), tu comprendras encore mieux d'où vient ce mécanisme.
 
 Noory t'accompagne dans ce travail — pas avec des leçons de morale, mais avec des exercices concrets, des prises de conscience guidées, et un ton qui ne juge jamais.
 
@@ -2826,7 +2826,7 @@ Voici le cycle toxique :
 
 C'est un cercle vicieux. Et il est quasiment impossible d'en sortir avec la volonté seule, parce que la volonté est une ressource limitée — surtout quand tu es déjà émotionnellement épuisé·e.
 
-La clé, ce n'est pas de résister plus fort. C'est de **remplacer** le mécanisme.
+La clé, ce n'est pas de résister plus fort. C'est de **remplacer** le mécanisme — c'est tout l'objet des [7 techniques anti-achat impulsif](/blog/comment-arreter-de-depenser-impulsivement).
 
 ## 3 alternatives concrètes quand l'envie monte
 
@@ -2850,7 +2850,7 @@ Le **SOS achat** de Noory est conçu exactement pour ce moment. Quand l'envie mo
 
 Le **rituel quotidien** de 3 minutes remplace le shopping comme mécanisme de réconfort. Chaque matin, tu prends un moment pour poser tes pensées, clarifier ton intention du jour, et faire un micro-geste concret vers tes objectifs.
 
-Si tu te reconnais dans le profil du [Dépensier Émotionnel](/profil/depensier-emotionnel), sache que Noory a un parcours de 28 jours spécialement conçu pour toi. Pas de privation. De la compréhension. Et des alternatives concrètes.
+Pour savoir quelle émotion pilote le plus tes achats, [fais le quiz de profil financier en 2 minutes](/quiz). Si tu te reconnais dans le profil du [Dépensier Émotionnel](/profil/depensier-emotionnel), sache que Noory a un parcours de 28 jours spécialement conçu pour toi. Pas de privation. De la compréhension. Et des alternatives concrètes.
 
 Tu peux aussi lire notre article sur [la culpabilité financière et comment en sortir](/blog/culpabilite-argent-depenser). Et si tu dépenses surtout en ligne, découvre nos [8 astuces pour acheter en ligne sans exploser ton budget](/blog/acheter-en-ligne-moins-depenser). Pour remplacer les réflexes d'achat émotionnel par des gestes plus sains, lis aussi [7 micro-habitudes financières qui changent tout](/blog/habitudes-financieres-qui-changent-tout).
 
@@ -3083,7 +3083,7 @@ Ne change rien à tes habitudes. Note simplement chaque dépense non-essentielle
 
 ### Semaine 2 — Remplacer
 
-Pour chaque dépense non-essentielle identifiée en semaine 1, trouve une alternative gratuite. Shopping par ennui → marche. Commande Uber Eats → cuisine simple. Achat impulsif → SOS achat Noory. Tu ne supprimes pas le besoin — tu changes le mécanisme.
+Pour chaque dépense non-essentielle identifiée en semaine 1, trouve une alternative gratuite. Shopping par ennui → marche. Commande Uber Eats → cuisine simple. Achat impulsif → SOS achat Noory. Tu ne supprimes pas le besoin — tu changes le mécanisme, exactement comme dans [les techniques de fond pour arrêter de dépenser impulsivement](/blog/comment-arreter-de-depenser-impulsivement).
 
 ### Semaine 3 — Le creux
 
@@ -3101,7 +3101,7 @@ Un challenge à 100% de privation est voué à l'échec. C'est comme un régime 
 
 ### Pas d'alternative plaisir
 
-Si tu supprimes les achats plaisir sans les remplacer, ton cerveau va se rebeller. Il a besoin de dopamine. Trouve d'autres sources : sport, cuisine, créativité, nature, connexion sociale.
+Si tu supprimes les achats plaisir sans les remplacer, ton cerveau va se rebeller. Il a besoin de dopamine. Trouve d'autres sources : sport, cuisine, créativité, nature, connexion sociale. C'est encore plus vrai si tu te reconnais dans [le profil du Dépensier Émotionnel](/profil/depensier-emotionnel/).
 
 ### Ne pas tracker ses progrès
 
@@ -3111,7 +3111,7 @@ Sans suivi, tu ne vois pas tes progrès. Et sans progrès visibles, la motivatio
 
 Chez Noory, on ne croit pas aux challenges extrêmes. On croit aux **micro-ajustements quotidiens** qui s'accumulent dans le temps. Pas besoin de "tout couper pendant 30 jours". Tu as besoin de comprendre tes déclencheurs et de créer des alternatives durables.
 
-Le parcours de 28 jours Noory est un No Buy Challenge intelligent : au lieu de te priver, il t'aide à identifier ce qui déclenche tes achats non-alignés et à les remplacer par des choix conscients.
+Le parcours de 28 jours Noory est un No Buy Challenge intelligent : au lieu de te priver, il t'aide à identifier ce qui déclenche tes achats non-alignés et à les remplacer par des choix conscients. Commence par [le quiz de profil en 2 minutes](/quiz) pour savoir quel déclencheur t'est propre.
 
 Découvre aussi [comment se faire plaisir sans culpabiliser](/blog/depense-plaisir-sans-culpabiliser) et [pourquoi tu achètes quand tu es triste](/blog/j-achete-quand-je-suis-triste).
 
@@ -3221,7 +3221,7 @@ Prélèvements, abonnements, habitudes de consommation — une grande partie de 
 
 ### La pression sociale te pousse à dépenser
 
-Les réseaux sociaux, les publicités, les conversations avec les collègues ("tu as vu le nouveau iPhone ?") — tu es bombardé·e en permanence de signaux qui disent "dépense, consomme, achète". Et résister à cette pression 24h/24 est tout simplement épuisant.
+Les réseaux sociaux, les publicités, les conversations avec les collègues ("tu as vu le nouveau iPhone ?") — tu es bombardé·e en permanence de signaux qui disent "dépense, consomme, achète". Et résister à cette pression 24h/24 est tout simplement épuisant — c'est pour ça qu'[apprendre à arrêter de dépenser impulsivement](/blog/comment-arreter-de-depenser-impulsivement) repose sur des systèmes, pas sur la volonté.
 
 Si tu te reconnais dans ce schéma, le profil [Dépensier Émotionnel](/profil/depensier-emotionnel) de Noory a été conçu pour t'aider.
 
@@ -3243,7 +3243,7 @@ C'est exactement ce que [Noory](https://apps.apple.com/fr/app/noory-finance-obje
 
 Tu n'as pas besoin de tout changer ce mois-ci. Tu as besoin d'un seul geste : programme un virement automatique de 5% de ton salaire, le jour de ton salaire, vers un compte séparé. C'est tout. Ce seul geste change la dynamique.
 
-Ensuite, Noory t'accompagne pour comprendre tes mécanismes et construire des habitudes durables. Découvre aussi notre [méthode budget simple](/blog/budget-pour-les-nuls) qui ne demande que 2 minutes par jour. Et pour t'attaquer au superflu sans frustration, lis [Couper ses dépenses inutiles sans souffrir : la méthode douce](/blog/depenses-inutiles-couper-sans-souffrir).
+Ensuite, Noory t'accompagne pour comprendre tes mécanismes et construire des habitudes durables — commence par [le quiz de profil financier en 2 minutes](/quiz) pour savoir ce qui fait fondre ton salaire. Découvre aussi notre [méthode budget simple](/blog/budget-pour-les-nuls) qui ne demande que 2 minutes par jour. Et pour t'attaquer au superflu sans frustration, lis [Couper ses dépenses inutiles sans souffrir : la méthode douce](/blog/depenses-inutiles-couper-sans-souffrir).
 
 ---
 
@@ -3484,7 +3484,7 @@ Un resto avec tes meilleurs amis ? Aligné (connexion sociale). Un cours en lign
 
 Un achat fait par ennui à 23h sur ton canapé ? Pas aligné. Un Uber Eats commandé parce que tu as la flemme alors que tu as un frigo plein ? Pas aligné. Le 5ème abonnement streaming que tu n'utilises jamais ? Pas aligné.
 
-La culpabilité disparaît quand la dépense est **choisie consciemment**. Ce qui te fait culpabiliser, ce n'est pas de dépenser — c'est de dépenser par automatisme, puis de réaliser que ça ne te correspond pas.
+La culpabilité disparaît quand la dépense est **choisie consciemment**. Ce qui te fait culpabiliser, ce n'est pas de dépenser — c'est de dépenser par automatisme, puis de réaliser que ça ne te correspond pas. Pour [désamorcer l'achat impulsif avant qu'il arrive](/blog/comment-arreter-de-depenser-impulsivement), c'est exactement le même travail.
 
 ## Le budget plaisir : s'autoriser AVANT de dépenser
 
@@ -3498,7 +3498,7 @@ C'est exactement ce que [Noory](https://apps.apple.com/fr/app/noory-finance-obje
 
 ## Les 3 questions à se poser avant un achat
 
-Quand tu hésites, pose-toi ces 3 questions :
+Si tu hésites souvent parce que l'achat vient combler une émotion, tu te reconnaîtras peut-être dans [le profil du Dépensier Émotionnel](/profil/depensier-emotionnel/). Quand tu hésites, pose-toi ces 3 questions :
 
 1. **"Est-ce que ça me rendra heureux·se dans une semaine ?"** (Si oui, c'est probablement aligné. Si tu ne sais pas, attends une semaine pour vérifier.)
 
@@ -3506,7 +3506,7 @@ Quand tu hésites, pose-toi ces 3 questions :
 
 3. **"Est-ce que c'est dans mon budget plaisir ?"** (Si oui, pas de culpabilité. Si non, est-ce que tu peux attendre le mois prochain ?)
 
-Ces 3 questions prennent 30 secondes et évitent la grande majorité des regrets d'achat. C'est le même principe que le SOS achat de Noory — un espace entre l'envie et l'acte.
+Ces 3 questions prennent 30 secondes et évitent la grande majorité des regrets d'achat. C'est le même principe que le SOS achat de Noory — un espace entre l'envie et l'acte. Pour savoir lequel s'applique le plus à ton rapport à l'argent, [le quiz Noory en 2 minutes](/quiz) te situe.
 
 ## Noory : un coaching qui t'aide à dépenser MIEUX, pas moins
 
@@ -3962,7 +3962,7 @@ C'est aussi le moment de te désabonner des comptes "lifestyle" sur les réseaux
 
 ## Astuce 5 : Le budget "shopping en ligne" séparé
 
-Crée un compte ou une carte prépayée dédiée à tes achats en ligne. Chaque mois, vire dessus un montant fixe — ton budget shopping. Quand c'est vide, c'est fini.
+Crée un compte ou une carte prépayée dédiée à tes achats en ligne. Chaque mois, vire dessus un montant fixe — ton budget shopping. Quand c'est vide, c'est fini. Et garde en tête que voir ses dépenses ne suffit pas à les changer : c'est pour ça qu'on conseille [une alternative à Bankin' qui agit au moment de l'achat](/comparatif/alternative-bankin/) plutôt qu'un simple agrégateur.
 
 Ça te donne trois choses :
 
@@ -4000,7 +4000,7 @@ C'est simple. C'est gratuit. Et ça marche parce que ça rend ton futur **visibl
 
 Soyons clairs : acheter en ligne n'est pas mal en soi. C'est pratique, c'est rapide, et parfois c'est la meilleure option. Le problème, c'est quand ça devient **automatique**. Quand tu achètes sans réfléchir, sans intention, sans alignement avec ce que tu veux vraiment.
 
-Si tu sens que tes achats en ligne sont souvent dictés par l'émotion plutôt que par le besoin, le profil du [Dépensier Émotionnel](/profil/depensier-emotionnel) te parlera. C'est le premier pas pour comprendre ce qui se cache derrière le clic — et reprendre le pouvoir.
+Si tu sens que tes achats en ligne sont souvent dictés par l'émotion plutôt que par le besoin, [fais le quiz de profil financier](/quiz) : le profil du [Dépensier Émotionnel](/profil/depensier-emotionnel) te parlera peut-être. C'est le premier pas pour comprendre ce qui se cache derrière le clic — et reprendre le pouvoir.
 
 ---
 
@@ -4402,7 +4402,7 @@ Si oui, tu avances. Et c'est tout ce qui compte. Pour aller plus loin sur le lie
 
 Les réseaux te montrent la destination des autres. Noory te montre ton propre chemin. Pas de comparaison, pas de jugement -- juste toi, tes objectifs, et un accompagnement quotidien pour avancer à ton rythme.
 
-Fais le quiz de profil et découvre ton rapport à l'argent. Si la comparaison est ton principal déclencheur de dépenses, tu te retrouveras peut-être dans [le profil du Dépensier Émotionnel](/profil/depensier-emotionnel) -- et Noory saura exactement comment t'accompagner.
+[Fais le quiz de profil](/quiz) et découvre ton rapport à l'argent. Si la comparaison est ton principal déclencheur de dépenses, tu te retrouveras peut-être dans [le profil du Dépensier Émotionnel](/profil/depensier-emotionnel) -- et Noory saura exactement comment t'accompagner.
 
 ---
 
