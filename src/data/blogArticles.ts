@@ -1437,6 +1437,7 @@ C'est fait en 4 minutes. Et ces 4 minutes vont transformer ta relation à l'arge
     readTime: "8 min",
     intro: "Pas besoin de 2h par semaine ni de tableurs compliqués. 7 micro-habitudes, 3 minutes par jour max, et ta relation à l'argent change profondément.",
     keywords: ["micro-habitudes financières", "habitudes argent", "routine finances quotidienne"],
+    relatedSlugs: ["habitudes-financieres-21-jours", "routine-financiere-dimanche", "gerer-son-argent-sans-stress"],
     content: `## Pourquoi les petites habitudes battent les grands plans
 
 On te vend souvent l'idée qu'il faut "se prendre en main" : bloquer 2h le dimanche, monter un tableur, épucher ses comptes, se faire un plan sur 12 mois. Ça marche... 3 semaines. Puis la vie reprend, et le tableur prend la poussière.
@@ -1519,6 +1520,8 @@ Si la charge mentale financière te pèse, on en parle aussi dans [Charge mental
 La tentation sera forte de toutes les essayer demain. Ne fais pas ça. Choisis la plus simple pour toi — souvent le check-in matinal ou la pause 10 minutes — et tiens-la pendant 7 jours. Juste 7 jours.
 
 Ensuite, ajoute la deuxième. Puis la troisième. En 7 semaines, tu auras intégré les 7 sans effort. Et ta relation à l'argent ne sera plus jamais la même.
+
+Et si tu veux une marche à suivre jour par jour plutôt qu'à l'instinct, suis [la méthode pour les installer en 21 jours](/blog/habitudes-financieres-21-jours) : trois semaines, semaine par semaine, pour ancrer ces habitudes pour de bon.
 
 ---
 
@@ -4406,13 +4409,14 @@ Fais le quiz de profil et découvre ton rapport à l'argent. Si la comparaison e
   {
     slug: "habitudes-financieres-21-jours",
     title: "21 jours pour changer tes habitudes financières (méthode complète)",
-    metaTitle: "21 jours pour changer tes habitudes financières : méthode complète | Noory",
+    metaTitle: "21 jours pour changer tes habitudes financières | Noory",
     metaDescription: "Découvre une méthode en 3 semaines pour transformer tes habitudes financières. Semaine par semaine, exercice par exercice. Sans privation.",
     date: "2026-04-09",
     dateModified: "2026-04-26",
     readTime: "8 min",
     intro: "On dit qu'il faut 21 jours pour créer une habitude. La réalité est plus nuancée, mais voici un programme concret pour transformer ta relation à l'argent.",
     keywords: ["habitudes financières", "changer habitudes argent", "21 jours finances"],
+    relatedSlugs: ["habitudes-financieres-qui-changent-tout", "routine-financiere-dimanche", "gerer-son-argent-sans-stress"],
     content: `## Mythe et réalité des 21 jours
 
 Tu as probablement entendu cette phrase : "Il faut 21 jours pour créer une nouvelle habitude." Elle vient du Dr Maxwell Maltz, un chirurgien plasticien des années 1960 qui avait observé que ses patients mettaient environ 21 jours à s'habituer à leur nouveau visage.
@@ -4422,6 +4426,8 @@ La réalité scientifique est plus nuancée. Une [étude de l'University College
 Alors pourquoi 21 jours ? Parce que 21 jours, c'est suffisamment long pour créer un vrai changement, et suffisamment court pour rester motivé. C'est un horizon réaliste. Pas un sprint impossible, pas un marathon décourageant. C'est le sweet spot.
 
 Et surtout : en 21 jours, tu peux poser les fondations d'une nouvelle relation à l'argent. Pas tout transformer -- mais créer le socle sur lequel tout le reste se construira.
+
+Tu te demandes par où commencer concrètement ? Découvre d'abord [quelles micro-habitudes installer](/blog/habitudes-financieres-qui-changent-tout) : 7 gestes de moins de 3 minutes que cette méthode t'aide ensuite à ancrer durablement.
 
 ## Semaine 1 : La conscience (Jours 1 à 7)
 
